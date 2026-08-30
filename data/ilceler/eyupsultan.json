@@ -1,0 +1,25 @@
+{
+  "slug": "eyupsultan",
+  "ad": "Eyüpsultan",
+  "bolge": "Altın Boynuz, tarih ve yeni yerleşim",
+  "accent": "green",
+  "layout": "B",
+  "heroIndex": 14,
+  "vurguluHizmetler": ["ic-cephe-boya-ve-badana", "alcipan-bolme-duvar-ve-kaplamalar", "komple-banyo-tadilati", "kombi-montaji-ve-degisimi", "pencere-degisimi", "elektrik-tesisati-kurulumu"],
+  "komsular": ["gaziosmanpasa", "bayrampasa", "sultangazi", "arnavutkoy", "basaksehir", "kagithane"],
+  "giris": "Eyüpsultan, Altın Boynuz kıyısındaki tarihi merkeziyle ve kuzeydeki yeni yerleşimleriyle iki yüzü olan bir ilçe. Merkez Eyüp'te tarihi eserlerin gölgesinde eski apartmanlar; Göktürk, Kemerburgaz ve Pirinççi hattında ise yeni villalar ve siteler yükseliyor. İlçe nüfusu büyüdükçe tadilat talepleri de çeşitleniyor: tarihi semtlerde izinli yenileme, yeni sitelerde kişiselleştirme, Göktürk tarafında havuzlu villalarda komple tadilat. Ekibimiz Eyüpsultan'ın hem merkezindeki dar sokak lojistiğini hem de kuzeydeki yeni yol ağını iyi biliyor. Metro ve tünel hatlarının uzamasıyla birlikte ilçeye taşınan ailelerin ev yenileme süreçlerini uçtan uca yönetiyoruz. Ramazan ayında tarihi merkezdeki işlerde trafiğe kapalı saatlere uyum sağlıyoruz.",
+  "uzmanlik": "Haliç kıyısındaki eski yapılarda izinli müdahale ve tesisat yenileme; Göktürk-Kemerburgaz hattında villa iç düzenleme, bahçe duvarı ve havuz mekan tesisatları konularında deneyimliyiz. Aksaçlı mescidi ve türbe çevresindeki turistik yapılarda çevre düzeni işlerini mahalle kültürüne saygıyla yürütüyoruz.",
+  "musteriProfili": "Tarihi merkezdeki apartman sahipleri, Göktürk hattında yeni villa alanlar ve ilçeye taşınan genç aileler.",
+  "sorunlar": [
+    "Tarihi bölgede izin ve koruma süreçlerinin yönetimi",
+    "Göktürk villalarında bahçe ve iç mekan tadilatının eşgüdümü",
+    "Kıyı bölgesinde tarihi binalarda tesisat yenileme",
+    "Yeni sitelerde ortak alan izin prosedürleri"
+  ],
+  "sss": [
+    { "s": "Göktürk'te villa tadilatı yapıyor musunuz?", "c": "Evet, villa iç mekan düzenlemesi, havuz mekan tesisatı, bahçe duvarı ve müştemilat tadilatlarını tek proje olarak yönetiyoruz." },
+    { "s": "Tarihi Eyüp binasında tadilat izni gerekir mi?", "c": "Yapının konumuna göre değişir; koruma kurulu sınırındaki işlerde evrak ve proje hazırlığında danışmanlık veriyor, izinli süreçte uyguluyoruz." },
+    { "s": "Kemerburgaz'da doğalgazlı şömine ve teras tadilatı yapıyor musunuz?", "c": "Evet, doğalgaz bağlantılı şömine montajı, teras kaplama ve kış bahçesi (veranda) dönüşümlerini yalıtım dahil uyguluyoruz." },
+    { "s": "Eyüpsultan kıyısındaki binamda kalorifer tesisatını yeniletmek istiyorum.", "c": "Eski binalarda boru hattını koruyucu yöntemlerle değiştiriyor; radyatör elemanlarını ve vanaları yeniliyoruz. Teslim öncesi basınç testi yapıyoruz." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sisli",
+  "ad": "Şişli",
+  "bolge": "Merkez iş aksı, karışık doku",
+  "accent": "slate",
+  "layout": "A",
+  "heroIndex": 23,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "ic-cephe-boya-ve-badana", "alcipan-bolme-duvar-ve-kaplamalar", "elektrik-tesisati-kurulumu", "gomme-dolap-ve-giyinme-odasi", "ses-yalitimi"],
+  "komsular": ["besiktas", "kagithane", "beyoglu", "gaziosmanpasa", "sariyer"],
+  "giris": "Şişli; Nişantaşı'nın vitrini, Mecidiyeköy'ün ofis kuleleri ve eski mahallelerin iç içe geçtiği bir merkez ilçe. Harbiye ve Nişantaşı hattında tarihi apartmanlar ve yüksek standartlı konutlar; Mecidiyeköy-Gülbağ tarafında ise ofis ve karma binalar yer alıyor. Tadilat talepleri de bu çeşitliliği yansıtıyor: prestij konutlarında ince işçilik ve özel projeler, ofislerde kat düzeni ve toplantı mekanı dönüşümleri, eski mahallelerde ise komple yenileme. Yoğun iş hayatı nedeniyle müşterilerimizin çoğu çalışma saatleri dışında randevu istiyor; akşam teslimli ve hafta sonu programlı işleri standart olarak planlıyoruz. Metrobüs ve metro bağlantıları sayesinde acil çağrılara dakik ulaşım sağlıyoruz. Şişli'de iş ahlakı, gizlilik ve temizlik bizim için olmazsa olmaz.",
+  "uzmanlik": "Nişantaşı prestij konutlarında özel ölçü mobilya ve aydınlatma projeleri; Mecidiyeköy ofislerinde akustik bölme ve kat planı dönüşümleri; eski mahallelerde tesisat-elektrik komple yenileme konusunda deneyimliyiz. İş merkezlerindeki çalışmaları mesai dışı saatlere taşıyoruz.",
+  "musteriProfili": "Nişantaşı konut sahipleri, ofis ve klinik yatırımcıları, merkezdeki profesyoneller ve eski bina daire sahipleri.",
+  "sorunlar": [
+    "Prestij konutlarında kusursuz işçilik beklentisi",
+    "Ofis tadilatlarının iş akışını kesmemesi",
+    "Eski mahalle binalarında altyapı yenileme",
+    "Merkezde park ve taşımacılık lojistiği"
+  ],
+  "sss": [
+    { "s": "Nişantaşı'nda dairemde özel tasarım iç mekan yaptırmak istiyorum.", "c": "Tasarım aşamasından üretime kadar özel ölçü mobilya, aydınlatma ve banyo projelerini tek elden yönetiyoruz; önce 3D sunum yapıyoruz." },
+    { "s": "Ofisimi mesai saatlerinde tadilat edebilir misiniz?", "c": "Çalışanların mesaisini kesmeyen şekilde akşam ve hafta sonu programı uyguluyoruz; bölme ve zemin işlerini kademeli tamamlıyoruz." },
+    { "s": "Eski binadaki dairemde tesisat yenileme yaptırmak istiyorum.", "c": "Mevcut bina kanallarını kullanarak kırma payını düşürüyoruz; apartman yönetimiyle ortak alan izinlerini de koordine ediyoruz." },
+    { "s": "Şişli'de malzeme taşıması zor değil mi?", "c": "Park ve yükleme saatlerini deneyimimizle biliyoruz; küçük ekipler, kat taşıma aparatları ve mesai dışı saati lojistik planıyla aşılır." }
+  ]
+}

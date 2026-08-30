@@ -1,0 +1,128 @@
+{
+  "slug": "sihhi-tesisat",
+  "baslik": "Sıhhi Tesisat",
+  "ikon": "wrench",
+  "aciklama": "İstanbul'da sıhhi tesisat kurulumu, su kaçağı tespiti (kırmadan), boru değişimi ve su arıtma montajı. 7/24 acil servis.",
+  "hizmetler": [
+    {
+      "id": 28,
+      "slug": "sihhi-tesisat-kurulumu-ve-yenileme",
+      "baslik": "Sıhhi Tesisat Kurulumu ve Yenileme",
+      "kisaAciklama": "Yeni bina ve tadilatlarda sıhhi tesisat döşeme; PPRC boru, pis su hattı, kolon ve vitrifiye bağlantıları.",
+      "detay": "Sıhhi tesisat kurulumu; temiz su hatlarının (PPRC), pis su ve atık hatlarının (pilsa, pimaş) döşenmesi ve tüm vitrifiye armatürlerin bağlanmasını kapsar. Yeni bina projelerinde kolon hatlarından daire içi dağılıma kadar tesisat, projeye uygun eğim ve ölçülerle döşenir; basınç testi yapılarak kaçak riski daha ilk günden elimine edilir. Eski binalarda yenileme; paslanmış demir boruların değişimi, daralmış hatların genişletilmesi ve kullanım ömrünü tamamlamış vanaların yenilenmesini içerir. Banyo, mutfak ve WC planlamasında armatür çıkışları hassas konumlandırılır; kiremit ve dolap montajına hazır şekilde teslim edilir. Sıcak su tesisatında yalıtımlı boru kullanılarak ısı kaybı azaltılır. Çalışma sonrası hatlar basınçla test edilir ve iş garantisi yazılı verilir.",
+      "faydalar": [
+        "PPRC boru ve orijinal fittings ile uzun ömürlü hatlar",
+        "Projeye uygun eğim ve ölçülerde pis su hattı",
+        "Basınç testi ile kaçak riski olmayan teslim",
+        "Eski boruların değişimi ve vana yenileme dahil"
+      ],
+      "sss": [
+        { "s": "Sıhhi tesisat yenileme ne kadar sürer?", "c": "Tek dairede sıhhi tesisat yenileme 2-4 gün sürer; banyo ve mutfak tadilatlarıyla eşzamanlı yürütüldüğünde program içinde planlanır." },
+        { "s": "Eski demir boruların değişmesi şart mı?", "c": "20 yıl üzeri demir borularda iç çeper tıkanması, pas ve kaçak sık görülür. Yenileme; su basıncını artırır, kaçak ve tad bozukluğunu giderir." },
+        { "s": "Tesisat yenilenirken duvar kırılır mı?", "c": "Mevcut kanallar kullanılabiliyorsa kırma azalır; yeni hatlar için kanal açılması gereken yerlerde kırma yapılır ve ardından duvar aynı gün tamir edilir." },
+        { "s": "Tesisat döşeme fiyatı nasıl hesaplanır?", "c": "Daire metrekaresi, armatür sayısı, mevcut tesisat durumu ve kanal açma ihtiyacına göre hesaplanır; keşif sonrası sabit fiyat teklifi verilir." },
+        { "s": "Basınç testi garantisi veriyor musunuz?", "c": "Evet, hatlar teslimden önce 1-2 saat basınç altında tutulur ve kaçak kontrolü yapılır. İşçilik yazılı garanti kapsamındadır." }
+      ]
+    },
+    {
+      "id": 29,
+      "slug": "su-kacagi-tespiti",
+      "baslik": "Su Kaçağı Tespiti (Cihazla, Kırmadan)",
+      "kisaAciklama": "Thermal kamera ve akustik cihazla su kaçağı tespiti; duvar, zemin ve tavan kaçaklarının kırmadan bulunması.",
+      "detay": "Su kaçağı tespiti; duvar, zemin ve tavan içindeki kaçağın yerini kırma yapmadan bulma işlemidir. Termal kamera ile yüzey ısı farklılıklarından nemli bölgeler haritalanır; akustik dinleme cihazı ile borudaki su sesi takip edilerek kaçak noktası daraltılır. Nem ölçer ile duvar ve zeminin nem dağılımı çıkarılır, böylece kaçağın yayılım alanı değil başlangıç noktası tespit edilir. Bu yöntemler sayesinde karo kırma ve duvar kazıma minimuma iner; tamir sonrası aynı alan küçük bir yüzeyle onarılır. Kaçak tespiti kombi bağlantıları, sıcak-soğuk su hatları, yerden ısıtma boruları ve çatı suyu sızıntılarında da uygulanır. Tespit sonrası onarım önerisi ve fiyatı rapor halinde sunulur; tespit ücreti, onarımın bizde yapılması durumunda ücretten düşülür.",
+      "faydalar": [
+        "Termal kamera + akustik cihaz ile %95 üzeri başarı oranı",
+        "Kırmadan, tahribatsız tespit; gereksiz kırım yok",
+        "Kaçağın kaynağı haritalanarak küçük alanda onarım",
+        "Tespit ücreti onarımda mahsup edilir"
+      ],
+      "sss": [
+        { "s": "Su kaçağı tespiti ne kadar sürer?", "c": "Standart bir dairede kaçak tespiti 1-3 saat sürer; boru hattı karmaşık veya erişim zorsa (yerden ısıtma) yarım güne uzayabilir." },
+        { "s": "Tespit ücreti ne kadar ve onarımda düşülür mü?", "c": "Bölge ve cihaz kullanımına göre değişen bir tespit ücreti alınır. Onarımı bize yaptırırsanız tespit ücreti toplam tutardan düşülür." },
+        { "s": "Kesin nokta tespiti mümkün mü?", "c": "Termal ve akustik yöntemlerle kaçak noktası 30-50 cm hassasiyetle bulunur; karo üzerinde tek nokta açılarak onarım yapılır." },
+        { "s": "Yerden ısıtma borusundaki kaçak nasıl bulunur?", "c": "Yerden ısıtma sistemlerinde termal kamera ile boru hattı görüntülenir ve sıcaklık farkından kaçak bölgesi belirlenir; nadir durumlarda izolasyon testi yapılır." },
+        { "s": "Kaçak bulunamazsa ücret alır mısınız?", "c": "Cihazlı tarama sonucu bulunamayan vakalar çok nadirdir; bu durumda tarama ücreti alınmaz, izleme planı önerilir." }
+      ]
+    },
+    {
+      "id": 30,
+      "slug": "su-kacagi-onarimi",
+      "baslik": "Su Kaçağı Onarımı",
+      "kisaAciklama": "Tespit edilen su kaçağının onarımı; boru değişimi, kaynak/kelepçe tamiri ve duvar-zemin restorasyonu.",
+      "detay": "Su kaçağı onarımı, tespit edilen kaçağın kaynağına göre şekillenir. Borudaki çatlak ve ek yerlerinde; hasarlı bölüm kesilir, PPRC boru ile kaynak yapılır veya sıkıştırmalı (spiralli) parça ile tamir edilir. Eski demir borudaki deliklerde kelepçe ve epoksi esaslı tamir bantları geçici çözüm sunar; kalıcı çözüm için boru bölümü yenilenir. Onarım sonrası hat basınç testi ile doğrulanır ve ancak sızdırmazlık kanıtlanınca kapatılır. Duvar ve zeminde açılan kanallar; sıva, karo ve boya restorasyonu ile eski görünümüne kavuşturulur. Kaçak nedeniyle oluşan küf ve nem, rutubet giderme işlemiyle temizlenir. Onarım süresi kaçağın derinliğine göre 1-3 gündür ve iş sonunda tekrar kaçak riskine karşı garanti verilir.",
+      "faydalar": [
+        "Kaynak veya sıkıştırmalı parça ile kalıcı boru onarımı",
+        "Basınç testi ile kanıtlanmış sızdırmazlık",
+        "Duvar, karo ve boya restorasyonu dahil",
+        "Onarım sonrası garanti"
+      ],
+      "sss": [
+        { "s": "Kaçak onarımı için duvar ne kadar kırılacak?", "c": "Modern tespit yöntemleriyle kırım alanı kaçağın bulunduğu noktayla sınırlı tutulur; ortalama 30x40 cm'lik bir alan açılır." },
+        { "s": "Onarım kaç gün sürer?", "c": "Borunun kendisinin tamiri 1 gün, duvar ve karo restorasyonu dahil toplam süre 2-3 gündür. Restorasyon hızlı kuruyan malzemelerle kısaltılabilir." },
+        { "s": "Kaçak sürekli tekrarlıyor, sorun ne olabilir?", "c": "Tekrarlayan kaçaklar genellikle aynı hattın birden fazla noktasında yıpranma olduğunu gösterir; tek nokta tamiri yerine hat yenilenmesini öneririz." },
+        { "s": "Radyatör/kombi kaçağı da onarıyor musunuz?", "c": "Evet, kombi bağlantıları, radyatör vanaları ve tesisat borularındaki kaçakların tümü onarım kapsamındadır." },
+        { "s": "Onarılan bölümün garantisi var mı?", "c": "Onarım yapılan hat ve restorasyon işçiliği yazılı garanti kapsamındadır; garanti süresi iş tesliminde belgelenir." }
+      ]
+    },
+    {
+      "id": 31,
+      "slug": "musluk-ve-batarya-tamiri",
+      "baslik": "Musluk ve Batarya Tamiri / Değişimi",
+      "kisaAciklama": "Akıtan ve tutukluk yapan musluk tamiri, kartuş değişimi, conta yenileme ve batarya değişimi.",
+      "detay": "Musluk ve batarya tamiri; akıtan, damlatan, dönmeyen ve basıncı düşük armatürlerin yerinde onarımıdır. Akıntının kaynağı genellikle kartuş, conta veya puldur; bu parçalar değiştirilerek batarya değişimi maliyeti olmadan sorun çözülür. Dönmeyen bataryalarda kireçlenmiş gövde sökülür, iç temizlik yapılır ve sızdırmazlık sağlanır. Perlatör (filtre) tıkanıklığından kaynaklanan basınç düşüklüğü, perlatör temizliği veya değişimiyle giderilir. Onarılamaz durumdaki armatürlerde marka/model önerisiyle değişim yapılır. Mutfak bataryalarındaki çekme hortumu, duş başlığı ve el duşu hortumu değişimleri de aynı kapsamdadır. Tüm işlemlerde orijinal yedek parça kullanılır; sıcak-soğuk bağlantılar ve sızıntı testi iş sonunda kontrol edilir.",
+      "faydalar": [
+        "Kartuş ve conta değişimi ile düşük maliyetli tamir",
+        "Kireç çözme ve iç temizlik ile orijinal performans",
+        "Basınç düşüklüğünde perlatör değişimi",
+        "Orijinal yedek parça ve sızıntı testi"
+      ],
+      "sss": [
+        { "s": "Musluk tamiri mi değişimi mi daha mantıklı?", "c": "Akıntı ve damlama çoğunlukla kartuş değişimiyle çözülür ve değişimden çok daha ekonomiktir. Gövde korozyonu veya kırık parça varsa değişim önerilir." },
+        { "s": "Batarya tamiri ne kadar sürer?", "c": "Kartuş, conta ve perlatör işlemleri 30-60 dakikada tamamlanır; komple batarya değişimi 1-2 saat sürer." },
+        { "s": "Yedek parçayı siz mi buluyorsunuz?", "c": "Evet, marka ve modele uygun orijinal kartuş ve contaları temin edip takıyoruz; parça temini genellikle aynı gün sonuçlanır." },
+        { "s": "Musluk neden vıcık vıcık ses çıkarıyor?", "c": "Bu genellikle kartuş içindeki conta gevşekliğinden kaynaklanır; kartuş değişimi sesi ve damlamayı birlikte çözer." },
+        { "s": "Garanti kapsamına tamir dahil mi?", "c": "Yaptığımız tamir ve kullandığımız parçalar işçilik garantisi kapsamındadır; aynı arızanın tekrarlaması halinde ücretsiz müdahale edilir." }
+      ]
+    },
+    {
+      "id": 32,
+      "slug": "su-aritma-cihazi-montaji",
+      "baslik": "Su Arıtma Cihazı Montajı",
+      "kisaAciklama": "Tezgah altı ve üstü su arıtma montajı; musluk deliği açma, tesisat bağlantısı, filtre değişimi ve periyodik bakım.",
+      "detay": "Su arıtma cihazı montajında; cihazın kurulacağı tezgah altı alan, su giriş hattı ve musluk deliği kontrol edilir. Tezgah üstü modelde musluk bağlantısı doğrudan yapılır; tezgah altı modellerde ise ana hattan T bağlantı ile soğuk su alınır, atık su hattı gidere verilir ve ayrı arıtma musluğu için tezgahta delik açılır (granit/mermer tezgahta özel matkap kullanılır). Cihaz kurulumu sonrasında filtre yıkama ve sistem testi yapılır; ilk suyun TDS (mineral) değeri ölçülerek çalışma doğrulanır. Filtre değişim periyodu (6 ay sediman, 12 ay karbon ve membran) için hatırlatma notu bırakılır; periyodik bakım anlaşması isteğe bağlıdır. Eski cihazın sökümü ve yenisiyle değişimi de aynı hizmet kapsamındadır.",
+      "faydalar": [
+        "Tezgah altı ve üstü tüm modellerde uyumlu kurulum",
+        "Mermer/granit tezgahta özel matkapla musluk deliği",
+        "Kurulum sonrası TDS ölçümü ile doğrulanmış su",
+        "Filtre değişim ve periyodik bakım desteği"
+      ],
+      "sss": [
+        { "s": "Su arıtma montajı ne kadar sürer?", "c": "Standart kurulum 1-2 saat sürer; musluk deliği açılması gereken tezgahlarda yarım güne uzayabilir." },
+        { "s": "Tezgah delmeden kurulum mümkün mü?", "c": "Musluk için mevcut delik yoksa tezgah üstü arıtma modelleri veya lavabo bölgesindeki sabunluk deliği kullanılabilir. En uygun çözümü keşifte belirliyoruz." },
+        { "s": "Filtreler ne sıklıkla değişmeli?", "c": "Sediman filtresi 6 ayda, karbon filtre 6-12 ayda, membran 2-3 yılda değişir. Kullanım suyu kalitesine göre öneriyle birlikte servis veriyoruz." },
+        { "s": "Atık su ne kadar, fatura etkisi olur mu?", "c": "Membranlı sistemlerde arıtma başına %20-30 atık su oluşur; modern cihazlarda bu oran düşüktür. Ölçümle birlikte bilgilendiriyoruz." },
+        { "s": "Mevcut arıtma cihazımı kontrol eder misiniz?", "c": "Evet, cihaz sağlık kontrolü, TDS ölçümü, filtre değişimi ve gerekli parça yenileme hizmeti veriyoruz." }
+      ]
+    },
+    {
+      "id": 33,
+      "slug": "kirik-ve-patlak-boru-degisimi",
+      "baslik": "Kırık ve Patlak Boru Değişimi",
+      "kisaAciklama": "Donma, basınç ve korozyon kaynaklı patlak boru değişimi; acil müdahale, su kesme ve hat yenileme.",
+      "detay": "Kırık ve patlak boru değişimi, acil müdahale gerektiren durumlarda öncelikli hizmetimizdir. Ekip olay yerine ulaştığında önce su vanası kapatılır ve su baskını kontrol altına alınır; ardından hasarlı bölüm kesilerek yenisiyle değiştirilir. Donma sonucu çatlayan borularda, hasarlı hattın tamamı kontrol edilir; basınç dalgalanmasından kaynaklı patlaklarda hat yenilenirken basınç regülatörü önerilir. Eski demir borulardaki korozyon delikleri için kalıcı çözüm hat değişimidir. Onarım sonrası hat basınç testi yapılır, su tekrar açılır ve sızıntı kontrolü yapılır. Su baskını nedeniyle ıslanan zeminde kurutma ve gerekiyorsa rutubet giderme işlemi uygulanır. 7/24 acil hat ile gece dahil her saat müdahale edilir.",
+      "faydalar": [
+        "7/24 acil müdahale hattı ile hızlı su kesme",
+        "Donma, basınç ve korozyon kaynaklı tüm patlaklarda kalıcı çözüm",
+        "Basınç testi ile doğrulanmış hat teslimi",
+        "Su baskını sonrası kurutma ve nem giderme desteği"
+      ],
+      "sss": [
+        { "s": "Patlak boru durumunda ne yapmalıyım?", "c": "Önce ana su vanasını kapatın, elektriği su alan noktalarda kesin ve bizi arayın. Ekip ortalama 60-90 dakika içinde müdahale eder." },
+        { "s": "Gece ve hafta sonu servis var mı?", "c": "Evet, 7/24 acil hattımız vardır; gece ve resmi tatil dahil tüm saatlerde patlak boru ve su baskını müdahalesi yapılır." },
+        { "s": "Boru neden patlar?", "c": "Donma, yüksek basınç, eski boru korozyonu ve döşeme sırasındaki gerilimler en sık sebeplerdir. Değişimde neden analiz edilip önlem alınır." },
+        { "s": "Duvar içindeki boru patladı, duvar kırılacak mı?", "c": "Patlak nokta önce cihazla tespit edilir; yalnızca o bölgede kontrollü kırım yapılır, onarım sonrası duvar restorasyonu işin içindedir." },
+        { "s": "Sigorta su baskınını karşılıyor, belge veriyor musunuz?", "c": "Evet, sigorta işlemleri için hasar tespit raporu ve fatura düzenliyoruz; gerekli evrakı teslim ediyoruz." }
+      ]
+    }
+  ]
+}

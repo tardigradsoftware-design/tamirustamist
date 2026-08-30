@@ -1,0 +1,382 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-jakarta: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-barlow: 'Barlow Condensed', 'Plus Jakarta Sans', sans-serif;
+  --accent: #ea580c;
+  --accent-strong: #c2410c;
+  --accent-soft: #fff7ed;
+  --accent-mid: #f97316;
+  --accent-ring: 234, 88, 12;
+  --gradient-hero: linear-gradient(135deg, rgba(2,6,23,0.92), rgba(2,6,23,0.62));
+  --card-shadow: 0 8px 30px rgba(15,23,42,0.08), 0 1px 3px rgba(15,23,42,0.04);
+  --card-shadow-hover: 0 20px 44px rgba(15,23,42,0.14), 0 4px 12px rgba(15,23,42,0.06);
+  --text-ratio: 0.92;
+  --section-gap: clamp(3.5rem, 6vw, 5.5rem);
+}
+
+/* İlçe bazlı accent varyantları (data-ilce varyantları) */
+[data-ilce='amber'] {
+  --accent: #d97706;
+  --accent-strong: #b45309;
+  --accent-soft: #fffbeb;
+  --accent-mid: #f59e0b;
+  --accent-ring: 217, 119, 6;
+}
+[data-ilce='orange'] {
+  --accent: #ea580c;
+  --accent-strong: #c2410c;
+  --accent-soft: #fff7ed;
+  --accent-mid: #f97316;
+  --accent-ring: 234, 88, 12;
+}
+[data-ilce='red'] {
+  --accent: #dc2626;
+  --accent-strong: #b91c1c;
+  --accent-soft: #fef2f2;
+  --accent-mid: #ef4444;
+  --accent-ring: 220, 38, 38;
+}
+[data-ilce='teal'] {
+  --accent: #0f766e;
+  --accent-strong: #115e59;
+  --accent-soft: #f0fdfa;
+  --accent-mid: #14b8a6;
+  --accent-ring: 15, 118, 110;
+}
+[data-ilce='navy'] {
+  --accent: #1d4ed8;
+  --accent-strong: #1e3a8a;
+  --accent-soft: #eff6ff;
+  --accent-mid: #3b82f6;
+  --accent-ring: 29, 78, 216;
+}
+[data-ilce='slate'] {
+  --accent: #475569;
+  --accent-strong: #334155;
+  --accent-soft: #f8fafc;
+  --accent-mid: #64748b;
+  --accent-ring: 71, 85, 105;
+}
+[data-ilce='green'] {
+  --accent: #16a34a;
+  --accent-strong: #15803d;
+  --accent-soft: #f0fdf4;
+  --accent-mid: #22c55e;
+  --accent-ring: 22, 163, 74;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-white font-sans text-ink-800 antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  h1, h2, h3, h4 {
+    @apply font-display font-bold uppercase tracking-tight text-ink-900;
+  }
+  ::selection {
+    background: rgb(var(--accent-ring) / 0.2);
+  }
+}
+
+@layer components {
+  /* ── CTA buton standardı ── */
+  .btn {
+    @apply inline-flex items-center gap-2 rounded-lg px-7 py-3.5 text-sm font-bold uppercase tracking-wider transition-all duration-300;
+    letter-spacing: 0.6px;
+    position: relative;
+    overflow: hidden;
+  }
+  .btn::before {
+    content: '';
+    @apply absolute inset-0 bg-white/15 opacity-0 transition-opacity duration-300;
+  }
+  .btn:hover::before {
+    opacity: 1;
+  }
+  .btn:hover {
+    transform: translateY(-2px) scale(1.01);
+  }
+  .btn:active {
+    transform: translateY(0) scale(0.98);
+  }
+
+  .btn-cta {
+    @apply btn text-white;
+    background: linear-gradient(135deg, var(--accent-mid), var(--accent-strong));
+    box-shadow: 0 4px 20px rgba(var(--accent-ring), 0.4), 0 1px 3px rgba(var(--accent-ring), 0.3);
+  }
+  .btn-cta:hover {
+    background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+    box-shadow: 0 8px 28px rgba(var(--accent-ring), 0.55), 0 2px 6px rgba(var(--accent-ring), 0.3);
+  }
+
+  .btn-outline {
+    @apply btn border-2;
+    border-color: var(--accent);
+    color: var(--accent);
+    background: rgba(255,255,255,0.6);
+    backdrop-filter: blur(4px);
+  }
+  .btn-outline:hover {
+    background: var(--accent-soft);
+    border-color: var(--accent-strong);
+    color: var(--accent-strong);
+    box-shadow: 0 6px 20px rgba(var(--accent-ring), 0.2);
+  }
+
+  .btn-wa {
+    @apply btn text-white;
+    background: linear-gradient(135deg, #25D366, #128C7E);
+    box-shadow: 0 4px 20px rgba(37, 211, 102, 0.4), 0 1px 3px rgba(37, 211, 102, 0.3);
+  }
+  .btn-wa:hover {
+    background: linear-gradient(135deg, #20bd5a, #0f766e);
+    box-shadow: 0 8px 28px rgba(37, 211, 102, 0.55), 0 2px 6px rgba(37, 211, 102, 0.3);
+  }
+
+  .btn-cta-pulse {
+    @apply btn-cta;
+    animation: btnPulse 2.4s infinite;
+  }
+
+  /* ── Etiket ── */
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3.5 py-1 text-xs font-bold uppercase tracking-wide;
+    background: var(--accent-soft);
+    color: var(--accent-strong);
+    border: 1px solid rgba(var(--accent-ring), 0.15);
+  }
+
+  /* ── Kart ── */
+  .card {
+    @apply rounded-2xl border border-ink-100/70 bg-white;
+    box-shadow: var(--card-shadow);
+    transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+                box-shadow 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+                border-color 0.35s ease;
+  }
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--card-shadow-hover);
+    border-color: rgba(var(--accent-ring), 0.2);
+  }
+
+  /* ── Bölüm ── */
+  .section {
+    padding-top: var(--section-gap);
+    padding-bottom: var(--section-gap);
+  }
+  .container-x {
+    @apply mx-auto w-full max-w-7xl px-5 sm:px-6 lg:px-8;
+  }
+
+  /* ── Eyebrow etiket ── */
+  .eyebrow {
+    @apply inline-flex items-center gap-2 text-xs font-bold uppercase tracking-[0.22em];
+    color: var(--accent-strong);
+    position: relative;
+  }
+  .eyebrow::after {
+    content: '';
+    @apply h-0.5 w-8 rounded-full;
+    background: var(--accent);
+    opacity: 0.4;
+  }
+
+  /* ── Baslik çizgisi ── */
+  h1, h2, h3, h4 {
+    text-rendering: optimizeLegibility;
+  }
+  h1 {
+    @apply text-3xl sm:text-4xl lg:text-5xl xl:text-[3.3rem];
+    letter-spacing: -0.02em;
+    line-height: 1.08;
+  }
+  h2 {
+    @apply text-2xl sm:text-3xl lg:text-[2rem];
+    letter-spacing: -0.015em;
+    line-height: 1.15;
+  }
+  h3 {
+    @apply text-lg sm:text-xl;
+    line-height: 1.2;
+  }
+}
+
+@keyframes btnPulse {
+  0%, 100% {
+    box-shadow: 0 4px 20px rgba(var(--accent-ring), 0.45);
+  }
+  50% {
+    box-shadow: 0 4px 26px rgba(var(--accent-ring), 0.75);
+  }
+}
+
+/* --- Lite scroll reveal (JS ile className eklenir) --- */
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),
+              transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: opacity, transform;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal { opacity: 1; transform: none; transition: none; }
+}
+
+/* --- Hero parallax --- */
+.hero-parallax {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+@media (max-width: 768px) {
+  .hero-parallax { background-attachment: scroll; }
+}
+
+/* --- İlçe layout varyantları --- */
+.ilce-layout-B .flip-bolge { flex-direction: row-reverse; }
+.ilce-layout-A .flip-bolge { flex-direction: row; }
+@media (max-width: 1023px) {
+  .ilce-layout-A .flip-bolge,
+  .ilce-layout-B .flip-bolge { flex-direction: column; }
+}
+
+/* --- İlçe haritası --- */
+.ilce-harita path.ilce {
+  fill: #e2e8f0;
+  stroke: #fff;
+  stroke-width: 1.8;
+  transition: fill 0.3s ease, transform 0.3s ease, filter 0.3s ease;
+  cursor: pointer;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.08));
+}
+.ilce-harita path.ilce:hover,
+.ilce-harita path.ilce:focus {
+  fill: var(--accent);
+  filter: drop-shadow(0 4px 12px rgba(var(--accent-ring), 0.4));
+  outline: none;
+}
+.ilce-harita text.ilce-label {
+  font-size: 9px;
+  font-weight: 700;
+  fill: #334155;
+  pointer-events: none;
+  text-anchor: middle;
+  font-family: var(--font-jakarta), sans-serif;
+}
+.ilce-harita a:hover text.ilce-label { fill: #fff; }
+
+/* --- FAQ accordion --- */
+.faq-item[open] .faq-chevron { transform: rotate(180deg); }
+.faq-chevron { transition: transform 0.3s ease; }
+details summary::-webkit-details-marker { display: none; }
+
+/* --- Scrollbar --- */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 8px;
+  border: 2px solid #fff;
+}
+::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+/* --- WhatsApp float pulse --- */
+.wa-float { animation: waPulse 2.2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+@keyframes waPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(37,211,102,0.55); }
+  50% { box-shadow: 0 0 0 16px rgba(37,211,102,0); }
+}
+
+/* --- Marquee band (güven rozetleri) --- */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.marquee-track {
+  animation: marquee 35s linear infinite;
+}
+.marquee-track:hover { animation-play-state: paused; }
+
+/* --- Prose-like metin stili --- */
+.prose-nouvelle p { @apply text-ink-600 leading-relaxed; }
+.prose-nouvelle strong { @apply text-ink-800; }
+.prose-nouvelle h2 + p { @apply mt-4; }
+.prose-nouvelle h2 { @apply mt-12; }
+.prose-nouvelle h2:first-child { @apply mt-0; }
+
+/* --- Gradient section divider --- */
+.section-divider {
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--accent-soft), var(--accent-mid), var(--accent-soft), transparent);
+}
+
+/* --- Trust badge pulse ring --- */
+.trust-badge {
+  position: relative;
+}
+.trust-badge::before {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: inherit;
+  border: 2px solid var(--accent);
+  opacity: 0;
+  animation: trustPulse 3s infinite;
+}
+@keyframes trustPulse {
+  0%, 80%, 100% { opacity: 0; transform: scale(0.98); }
+  40% { opacity: 0.3; transform: scale(1.02); }
+}
+
+/* --- Refined section backgrounds --- */
+.bg-mesh {
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(var(--accent-ring), 0.03) 0, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(var(--accent-ring), 0.02) 0, transparent 50%);
+}
+
+/* --- Focus visible --- */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* --- Selection --- */
+::selection {
+  background: rgb(var(--accent-ring) / 0.2);
+}
+
+/* --- Smooth scroll --- */
+html { scroll-behavior: smooth; }
+
+/* --- Image hover zoom --- */
+.img-zoom {
+  overflow: hidden;
+}
+.img-zoom img {
+  transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.img-zoom:hover img {
+  transform: scale(1.04);
+}
+
+/* --- Gradient text --- */
+.text-gradient {
+  background: linear-gradient(135deg, var(--accent-mid), var(--accent-strong));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

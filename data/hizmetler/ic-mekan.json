@@ -1,0 +1,268 @@
+{
+  "slug": "ic-mekan-dekorasyon",
+  "baslik": "İç Mekan & Dekorasyon",
+  "ikon": "paint",
+  "aciklama": "İstanbul'da iç cephe boya, alçı sıva, alçıpan, asma tavan, parke, duvar kağıdı ve dekoratif panel uygulamaları.",
+  "hizmetler": [
+    {
+      "id": 15,
+      "slug": "ic-cephe-boya-ve-badana",
+      "baslik": "İç Cephe Boya ve Badana",
+      "kisaAciklama": "Ev ve ofis iç cephe boya, badana, dolgu ve macun işleri; silinebilir boyalarla sağlıklı ve dayanıklı duvar.",
+      "detay": "İç cephe boya işinde son kat boyanın kalitesi kadar alt yüzey hazırlığı da belirleyicidir. Mevcut duvarın durumu kontrol edilir; çatlak tamir dolgusu, sıva soyulması varsa kazıma ve macun çekme işlemleri yapılır. Macundan sonra zımpara ile yüzey düzleştirilir ve astar uygulanır; astar, boyanın yüzeye eşit tutunmasını ve kat sayısının azalmasını sağlar. Son kat olarak silinebilir ve yıkanabilir boya seçenekleri sunarız; böylece çocuklu evlerde ve geçiş alanlarında duvarlar uzun süre temiz kalır. Renk seçiminde örnek boyama yapılır, istenen tonda karar verilir. Tavan, duvar ve kapı-pencere kasa detayları maskelenerek boyanır; çalışma sonrası koruma bantları ve örtüler kaldırılıp alan temiz teslim edilir. Kiralık ve satılık konutların hızlı boya-badana işleri için 1 günlük ekiplerimiz vardır.",
+      "faydalar": [
+        "Macun, astar ve son kat dahil komple yüzey hazırlığı",
+        "Silinebilir boya seçenekleri ile uzun ömürlü temiz duvarlar",
+        "Renk danışmanlığı ve örnek boyama",
+        "İş sonu koruma bandı sökümü dahil komple temizlik"
+      ],
+      "sss": [
+        { "s": "Boya işi ne kadar sürer?", "c": "Ortalama 100 m² bir daire için macun ve boya dahil 3-5 gün sürer. Sadece badana (üst kat) yapılacaksa 2 gün yeterlidir." },
+        { "s": "Boya mı badana mı, farkı nedir?", "c": "Badana, mevcut boyalı yüzeye tek kat boya geçişidir; macun ve tamirat gerektirmeyen, yüzeyi sağlam duvarlarda yeterlidir. Boya ise hazırlık, macun ve astar dahil komple yenilemeyi kapsar." },
+        { "s": "Hangi boyayı kullanıyorsunuz?", "c": "Marshall, Filli Boya ve Dyo gibi markaların silinebilir iç cephe boyalarını kullanıyoruz; isteğe göre yarım mat, ipek mat ve mat seçenekleri sunuyoruz." },
+        { "s": "Mobilyaları taşımam gerekiyor mu?", "c": "İsterseniz eşyalarınızı örtü ve brandalarla koruyup yerinde çalışırız; büyük tadilat işlerinde eşya toplama/yerleştirme desteği de verebiliriz." },
+        { "s": "Boya kokusu ne kadar sürede geçer?", "c": "Silinebilir su bazlı boyalar birkaç saatte yüzey kurur, koku 1-3 gün içinde tamamen dağılır. Havalandırma önerimizle aynı hafta içinde kullanıma hazır olur." }
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "alci-siva-ve-saten-alci",
+      "baslik": "Alçı Sıva ve Saten Alçı",
+      "kisaAciklama": "Kaba ve ince alçı sıva, saten alçı uygulaması; düzgün duvar ve tavan yüzeyleri için profesyonel hazırlık.",
+      "detay": "Alçı sıva ve saten alçı, duvarların boyaya hazır, kusursuz düz yüzeylere kavuşmasını sağlayan işlemdir. Kaba sıva sonrası ince alçı sıva ile yüzey tesviye edilir; saten alçı ise ince sıvanın üzerine çekilerek boyadan önceki son düzeltme katmanıdır. Ekibimiz mastar ve terazi kullanarak duvarların düzlüğünü kontrol eder, derin oyuklarda gerekirse çift kat uygulama yapar. Saten alçı sonrası zımpara ile yüzey pürüzsüz hale getirilir; böylece ışık vurduğunda dalgalanma görünmez. Şapel, salon ve koridor gibi geniş yüzeylerde alçı sıva ile tavan ve duvar geometrisi düzeltilir; duvar kağıdı ve dekoratif panel uygulaması öncesi saten alçı zorunlu hale gelir. İşlem sonrası alanın temizliği yapılır, boya aşamasına hazır teslim edilir.",
+      "faydalar": [
+        "Mastarlı düzgün yüzey: ışık vurduğunda dalgalanma olmaz",
+        "Kaba, ince ve saten alçı dahil komple sıva işleri",
+        "Duvar kağıdı ve panel uygulamalarına uygun yüzey",
+        "Tavan ve duvar düzlük kontrollü teslim"
+      ],
+      "sss": [
+        { "s": "Saten alçı ne zaman gerekir?", "c": "Yeni sıvalı duvarlarda boya öncesi saten alçı uygulanır; ayrıca eski duvarlarda düzeltme ve duvar kağıdı öncesi yüzey hazırlığında gereklidir." },
+        { "s": "Alçı sıva ne kadar sürede kurur?", "c": "İnce alçı sıva 24-48 saatte, saten alçı 12-24 saatte kurur. Kuruma süresi nem ve havalandırmaya bağlıdır; boya öncesi nem kontrolü yaparız." },
+        { "s": "Nemli duvara alçı sıva yapılır mı?", "c": "Önce nem kaynağı (rutubet, tesisat kaçağı) tespit edilip çözülmeden sıva yapılmaz. Rutubet giderme hizmetimizle birlikte planlanır." },
+        { "s": "Saten alçı mı, alçıpan mı tercih edilmeli?", "c": "Düz mevcut duvarlarda saten alçı ekonomiktir; eğri duvar ve tavanlarda, tesisat saklama gerektiğinde alçıpan bölme sistemleri daha pratiktir. Keşifte karar verilir." },
+        { "s": "Alçı sıva fiyatı metrekare mi baz alınır?", "c": "Evet, uygulama metrekare üzerinden ve yüzey durumuna göre (tek kat/çift kat, tamir kapsamı) fiyatlandırılır; keşif sonrası net teklif verilir." }
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "alcipan-bolme-duvar-ve-kaplamalar",
+      "baslik": "Alçıpan Bölme Duvar ve Kaplamalar",
+      "kisaAciklama": "Oda bölme, giydirme duvar, ses yalıtımlı alçıpan sistemleri; elektrik ve tesisat geçişleri dahil komple imalat.",
+      "detay": "Alçıpan bölme duvar; ofislerde, evlerde ve ticari mekanlarda hızlı, temiz ve ekonomik bölümleme sağlar. Metal iskelet (profil) sistemine alçıpan plaka kaplanarak oluşturulan duvarlar; ısı ve ses yalıtımı için aralarına taş yünü yerleştirilir. Uygulamada duvar tavan ve zemine dübel ve vida ile sabitlenir; kapı kasası için ahşap yalancı kasa montajı yapılır. Elektrik buatları, priz kutuları ve tesisat geçişleri imalat sırasında plakalara açılır, böylece görünüm temiz kalır. Bölme duvar yüzeyi derz bandı ve alçı ile düzeltilerek boyaya hazır hale getirilir. Wasserdicht (nemli) alanlar için yeşil (nemli ortam) plaka kullanılır. Ortalama bir oda bölme işlemi 1-3 günde tamamlanır ve moloz üretmez.",
+      "faydalar": [
+        "1-3 günde, molozsuz ve temiz oda bölme",
+        "İçi taş yünü dolgulu ses ve ısı yalıtımı",
+        "Elektrik ve tesisat geçişleri imalatla birlikte planlanır",
+        "Boyaya hazır düz yüzey teslimi"
+      ],
+      "sss": [
+        { "s": "Alçıpan duvar sağlam mı, asılı dolap taşır mı?", "c": "Taşıyıcı profili güçlendirilmiş alçıpan duvarlara uygun dübel ile dolap, televizyon ve raf asılabilir. Ağır yükler için profillere takviye ve ahşap gömme yapılır." },
+        { "s": "Bölme duvar ses yalıtımı sağlar mı?", "c": "İçine taş yünü yerleştirilen çift plakalı sistemler önemli ölçüde ses yalıtımı sağlar. Tam yalıtım için özel ses bantları ve çift iskelet sistemi kullanılabilir." },
+        { "s": "Nemli banyolarda alçıpan kullanılır mı?", "c": "Banyo ve WC gibi nemli alanlarda yeşil (nemli ortam) plaka kullanılır ve karo döşemeye uygun hale getirilir." },
+        { "s": "Alçıpan bölme duvarın üzerine kiremit döşenir mi?", "c": "Evet, nemli ortam plakası üzerine uygun yapıştırıcı ile karo döşenebilir; su yalıtımı öncesi yüzey hazırlığı yapılır." },
+        { "s": "Alçıpan işi izinsiz yapılabilir mi?", "c": "Bölme duvarlar taşıyıcı olmayan duvarlar olduğundan çoğu durumda ruhsat gerektirmez; site ve apartman yönetiminin izni ile uygulama yapılır." }
+      ]
+    },
+    {
+      "id": 18,
+      "slug": "asma-tavan-ve-kartonpiyer",
+      "baslik": "Asma Tavan ve Kartonpiyer",
+      "kisaAciklama": "Alçıpan asma tavan, spotlu gizli tavan, kartonpiyer ve korniş uygulaması; LED aydınlatma detayları ile.",
+      "detay": "Alçıpan asma tavan; mevcut tavanı kapatan, ısı ve ses yalıtımını artıran ve spot LED aydınlatma ile modern bir görünüm sağlayan uygulamadır. Önce tavan ölçülür, istenen tavan yüksekliği ayarlanır; metal iskelet asılır, taş yünü serilir ve alçıpan plakalar vidalanır. Spot lamba delikleri, LED şerit gizli boşlukları ve avize bağlantı noktaları bu aşamada hazırlanır. Kartonpiyer ve korniş uygulaması; tavan-duvar birleşiminde klasik veya modern profil oluşturur, LED şerit için çift kademeli korniş modelleri yapılır. Yüzey derz ve alçı ile düzeltilerek boyaya hazır teslim edilir. Eski kartonpiyerlerin sökümü ve yerine yenilerinin uygulanması da yapılır. Salon, mutfak ve banyo tavanlarında ızgaralı-metal veya su bazlı plaka sistemlerine göre en uygun çözüm önerilir.",
+      "faydalar": [
+        "LED spot ve gizli ışık bandı ile modern aydınlatma",
+        "Taş yünü ile ısı ve ses yalıtımı kazanımı",
+        "Kartonpiyer ve korniş profillerinde geniş model seçeneği",
+        "Eski tavan kusurlarını tamamen kapatan düz yüzey"
+      ],
+      "sss": [
+        { "s": "Asma tavan tavan yüksekliğini ne kadar düşürür?", "c": "Standart uygulamada 8-12 cm kayıp olur; spot derinliğine göre bu değer 15 cm'ye çıkabilir. Yüksek tavanlarda ek kazanç sağlanır." },
+        { "s": "Asma tavana avize asılabilir mi?", "c": "Evet, avizenin asılacağı noktaya mevcut tavana sabitleme yapılarak askı uzatılır; böylece ağırlık asma tavana değil betona biner." },
+        { "s": "Kartonpiyer mi asma tavan mı?", "c": "Kartonpiyer sadece dekoratif profil; asma tavan ise komple yeni tavan sistemidir. Bütçenize ve ihtiyacınıza göre ikisi ayrı ayrı ya da birlikte uygulanabilir." },
+        { "s": "Asma tavan su sızıntısında nasıl davranır?", "c": "Alçıpan nemden etkilenir; sızıntı durumunda hasarlı plaka değiştirilir. Nemli alanlarda yeşil plaka tercih ederek riski düşürüyoruz." },
+        { "s": "LED şerit montajı işin içinde mi?", "c": "Evet, LED şerit boşluğu hazırlama ve şerit montajı dahildir; trafo yerleşimi ve erişim kapağı ile servis kolaylığı sağlanır." }
+      ]
+    },
+    {
+      "id": 19,
+      "slug": "parke-ve-laminat-doseme",
+      "baslik": "Parke ve Laminat Döşeme",
+      "kisaAciklama": "Laminat, lamine ve masif parke döşeme; şap tesviyesi, süpürgelik, geçiş profili ve kenet ayarları.",
+      "detay": "Parke ve laminat döşeme işinde kritik nokta zeminin düzlüğüdür. Şap yüzeyi lazer ile kontrol edilir, gerekiyorsa tesviye şapı atılır; böylece parkede kilit oynaması ve gıcırtı oluşmaz. Döşeme öncesi altına buhar kesici ve ses yalıtım föyü serilir; süpürgelik kenetleri duvara sabitlenir. Laminat parke kenet sistemiyle birleştirilir, lamine ve masif parkede ise yapıştırma veya çivi tekniği uygulanır. Kapı altı, geçiş eşiği ve mevcut zemine bağlantılarda ince kesim ve geçiş profili kullanılır; böylece eşiklerde takılma olmaz. Süpürgelik seçimi zemin rengine ve duvar boyasına uygun yapılır. İş sonunda parke yüzeyi silinir, alan temiz teslim edilir. Nemli zeminlerde (banyo yakını) suya dayanıklı laminat veya vinil ürünler önerilir.",
+      "faydalar": [
+        "Lazer kontrol ve tesviye şapı ile gıcırtısız zemin",
+        "Buhar kesici ve ses yalıtım föyü dahil altyapı",
+        "Geçiş profili ve süpürgelik ile kusursuz bitiş",
+        "Laminat, lamine, masif parke ve vinil seçenekleri"
+      ],
+      "sss": [
+        { "s": "Parke mi laminat mı daha iyi?", "c": "Gerçek ahşap parke sıcaklık ve değer katar; laminat bütçe dostu ve çizilmeye dayanıklıdır. Kullanım alanına ve bütçeye göre en uygununu öneririz." },
+        { "s": "Eski parkenin üzerine yenisi döşenir mi?", "c": "Yüzey düz ve sağlamsa üzerine döşenebilir; kapı yüksekliği yeterli değilse önce söküm yapılır. Yerinde kontrol edip karar veriyoruz." },
+        { "s": "Parke döşeme ne kadar sürer?", "c": "Ortalama 80-100 m² alan 2-3 günde komple parke, süpürgelik ve geçiş profilleriyle teslim edilir." },
+        { "s": "Yerden ısıtma üzerine parke döşenir mi?", "c": "Evet, yerden ısıtmaya uygun (ısı iletkenliği yüksek) laminat ve lamine ürünler tercih edilir; seçimde bu bilgiyi göz önünde bulundururuz." },
+        { "s": "Parke gıcırdıyor, düzeltilebilir mi?", "c": "Gıcırtı genellikle zemin tesviyesizliğinden kaynaklanır. Söküp tesviye şapı atarak yeniden döşer ya da sorunlu bölgeleri lokal onarırız." }
+      ]
+    },
+    {
+      "id": 20,
+      "slug": "duvar-kagidi-uygulama",
+      "baslik": "Duvar Kağıdı Uygulama",
+      "kisaAciklama": "Vinil, dokuma ve tekstil duvar kağıdı uygulaması; desen eşleştirme, köşe dönüşü ve saten alçı yüzey hazırlığı.",
+      "detay": "Duvar kağıdı uygulamasında başarı, yüzey hazırlığına bağlıdır. Duvar önce saten alçı ile düzeltilir, zımpara yapılır ve astarlanır; böylece kağıt kabarma yapmadan düz yapışır. Uygulamada duvar kağıdı türüne göre (vinil, dokuma, tekstil, nonwoven) uygun yapıştırıcı kullanılır; desenli kağıtlarda desen eşleştirmesi yapılarak paftalar birleştirilir. Köşe dönüşlerinde dar bir pay bırakılarak çift kesim tekniği uygulanır; böylece köşelerde boşluk ve yırtılma olmaz. Priz, anahtar ve kapı kenarlarında ince uçlu kesimle temiz bitiş sağlanır. Kağıt uygulaması sonrası 24 saat kuruma beklenir; bu sürede havalandırma önerilir. Eski duvar kağıdının sökümü de hizmet kapsamındadır; söküm sonrası duvar yüzeyi yeniden hazırlanır.",
+      "faydalar": [
+        "Saten alçı ve astarlı yüzeyde kabarık olmayan uygulama",
+        "Desen eşleştirme ve köşe çift kesim tekniği",
+        "Vinil, dokuma, tekstil ve nonwoven türlerinde uzmanlık",
+        "Eski kağıt sökümü ve yüzey yenileme dahil"
+      ],
+      "sss": [
+        { "s": "Duvar kağıdı ne kadar dayanır?", "c": "Kaliteli vinil ve dokuma kağıtlar, doğru yüzey hazırlığıyla 7-10 yıl dayanır. Güneş gören odalarda UV dayanımlı ürünler önerilir." },
+        { "s": "Boyalı duvarın üzerine kağıt yapıştırılır mı?", "c": "Yüzey sağlam, düz ve astarlı ise evet; kabarma yapan boyalı yüzeylerde önce kazıma ve saten alçı yapılır." },
+        { "s": "Desenli kağıtta fazla kağıt çıkar mı?", "c": "Desen eşleştirme nedeniyle %10-15 fire normaldir. Ölçü alımında desen raporuna göre net metraj çıkarıyoruz." },
+        { "s": "Mutfak ve banyoda duvar kağıdı kullanılır mı?", "c": "Buhar ve nem kağıdı olumsuz etkiler; bu alanlarda yıkanabilir vinil kağıtlar kısa vadeli seçenek olsa da fayans ve cam paneli öneriyoruz." },
+        { "s": "Duvar kağıdı sökümü zor mu?", "c": "Profesyonel sökümde buhar ve kazıyıcı ile kağıt zarar vermeden çıkarılır; ardından yüzey yeniden boyaya veya kağıda hazırlanır." }
+      ]
+    },
+    {
+      "id": 21,
+      "slug": "dekoratif-duvar-paneli",
+      "baslik": "Dekoratif Duvar Paneli (Taş / Ahşap / Lambri)",
+      "kisaAciklama": "3D taş panel, ahşap lambri ve dekoratif duvar kaplaması; ölçü, kesim ve montaj dahil anahtar teslim.",
+      "detay": "Dekoratif duvar paneli; salon, TV arkası, yatak başı ve koridor duvarlarında mekana karakter kazandıran bir uygulamadır. 3D taş panel, ahşap çıta/panel ve lambri seçenekleri ölçü alındıktan sonra duvara uygun yapıştırıcı ve dübel ile monte edilir. Uygulamada düz veya desenli (balıksırtı, şevron) dizilim planlanır; görsel açıdan en dengeli başlangıç noktası seçilir. Priz ve anahtar konumları için hassas kesim yapılır, köşe ve kenar bitişlerinde profilli detaylar kullanılır. Panel arkasında kalan elektrik tesisatı, TV kablo kanalları bu sayede gizlenir; ayrıca ses ve ısı yalıtımına küçük katkı sağlar. Ahşap panellerde yüzey vernik veya lake ile korunur, taş panellerde derz görünümlü bitiş seçilebilir. Uygulama 1-3 gün sürer ve iş sonu temizlikle teslim edilir.",
+      "faydalar": [
+        "3D taş, ahşap ve lambri modellerinde geniş ürün yelpazesi",
+        "TV arkası ve tesisat gizleme ile kusursuz görünüm",
+        "Şevron, balıksırtı gibi desenli dizilim seçenekleri",
+        "Ölçü, kesim, montaj ve bitiş dahil tek elden hizmet"
+      ],
+      "sss": [
+        { "s": "Dekoratif panel duvara nasıl tutunur?", "c": "Yüzey yapıştırıcısı ve mekanik sabitleme birlikte kullanılır; büyük panellerde dübel ile duvara sabitlenir. Uygulama öncesi duvar düzlüğü kontrol edilir." },
+        { "s": "TV'yi panel üzerine asabilir miyim?", "c": "Evet, panel arkasındaki duvara özel ankrajla TV aparatı sabitlenir; böylece ağırlık panelle değil duvarla taşınır." },
+        { "s": "Taş panel mi ahşap panel mi?", "c": "Taş panel endüstriyel ve şık, ahşap panel sıcak ve doğal görünüm verir. Dekorasyon tarzınıza göre keşifte birlikte karar veriyoruz." },
+        { "s": "Panel uygulaması odayı küçültür mü?", "c": "Panel kalınlığı 1-3 cm arasındadır; çok az yer kaplar. Açık renk ve ince profilli paneller odayı küçültmeden derinlik hissi katar." },
+        { "s": "Panel temizliği nasıl olmalı?", "c": "Ahşap paneller nemli bezle silinir, taş paneller hafif deterjanla temizlenebilir. Kullanım öncesi yüzey koruması (vernik/lak) uyguluyoruz." }
+      ]
+    },
+    {
+      "id": 22,
+      "slug": "ic-kapi-montaji-ve-degisimi",
+      "baslik": "İç Kapı Montajı ve Değişimi",
+      "kisaAciklama": "Amerikan, panel ve lake kapı montajı; kasa montajı, kilit ve kulp takılması, kapı ayarı tamiri.",
+      "detay": "İç kapı montajı ve değişimi; kapı kasasının duvar boşluğuna anahtar teslim kurulması, kanadın asılması, kilit ve kulp takılmasını kapsar. Amerikan panel, lake, camlı ve klasik panel kapı modellerinin montajında; kasa önce su terazisi ile dikey ve yatay ayarlanır, ardından köpük ve vidalarla duvara sabitlenir. Kapı kanadı menteşelerle kasaya asılır; kapı boşluğu (2-3 mm) ve çarpma ayarları yapılır. Kilit göbeği, kapı kolu ve stoplar standart olarak takılır; istenen kilit güvenlik seviyesine göre ek modeller önerilir. Mevcut kapının sökümünde kasa ile duvar arasındaki dolgular temizlenir, yeni kasa montajına duvar hazır hale getirilir. Kapı altı hava sızdırmazlık fırçası ve eşik uygulamaları da ek hizmet olarak yapılır. Sürme (raylı) kapı montajında ray sistemi tavan ve duvara sağlam monte edilir.",
+      "faydalar": [
+        "Amerikan, panel, lake ve sürme kapıda uzman montaj",
+        "Kasa köpük dolgusu ve menteşe ayarı ile ses geçirmez kapı",
+        "Kilit, kulp ve stoplar dahil komple kapı donanımı",
+        "Eski kapı sökümü ve duvar hazırlığı dahil"
+      ],
+      "sss": [
+        { "s": "İç kapı değişimi ne kadar sürer?", "c": "Tek kapı değişimi ortalama 1-2 saat sürer; duvar hazırlığı gerekiyorsa yarım gün. Çoklu kapı işlerinde günlük planlama yapılır." },
+        { "s": "Kapıyı kendim alabilir miyim?", "c": "Evet, kendi aldığınız kapının montajı yapılır. Kasa ölçüleri ve duvar boşluğu uyumunu baştan kontrol eder, yanlış ölçüyü önleriz." },
+        { "s": "Kapı kasası da değişiyor mu?", "c": "Çoğu durumda kasa ile birlikte değişim önerilir; tek kanat değişimi ancak kasa ölçüsü aynıysa mümkündür. Keşifte karar veriyoruz." },
+        { "s": "Kapım kapanmıyor, tamir edilebilir mi?", "c": "Kapanma sorunları genellikle menteşe gevşemesi veya kasa çarpılmasındandır; menteşe ayarı ve gerekirse kasa pervazı düzeltmesiyle çözülür." },
+        { "s": "Sürme kapı montajı normal kapıdan pahalı mı?", "c": "Sürme kapı ray ve mekanizma maliyeti nedeniyle biraz daha yüksektir; yer kazancı önemliyse avantajlıdır. Detaylı fiyat keşifte netleşir." }
+      ]
+    },
+    {
+      "id": 23,
+      "slug": "pencere-degisimi",
+      "baslik": "Pencere Değişimi (PVC / Alüminyum)",
+      "kisaAciklama": "PVC ve alüminyum pencere değişimi; söküm, kasa montajı, izolasyon dolgusu, fitil ve aksesuar ayarları.",
+      "detay": "Pencere değişimi, ısı yalıtımında ve gürültü kontrolünde en etkili yatırımlardan biridir. Eski pencerenin sökümünde kasa ve doğrama duvar boşluğundan çıkarılır; duvar yüzeyi temizlenir ve yeni kasa su terazisiyle yerleştirilir. Kasa-duvar arasındaki boşluklar poliüretan köpük ile doldurulur, ardından sıva ve boya bitişi yapılır. Isıcam (çift cam) üniteler ve isteğe göre üçlü cam kullanılır; Low-E kaplama ile kışın ısı kaybı, yazın güneş ısısı azaltılır. PVC profillerde çok odacıklı sistemler, alüminyumda ise ısı kırıcılı profiller önerilir. Menteşe, fitil, açılım mekanizması (kollu/kanatlı) ve sineklik aksesuarları montajla birlikte ayarlanır. İş sonunda pencere açılım-kapanış testi yapılır; cam ve doğrama temiz teslim edilir.",
+      "faydalar": [
+        "Kasa-duvar köpük izolasyonu ile hava ve ses sızdırmazlığı",
+        "Low-E ısıcam ile enerji tasarrufu",
+        "Çok odacıklı PVC ve ısı kırıcılı alüminyum profiller",
+        "Sineklik, panjur ve denizlik aksesuarları dahil"
+      ],
+      "sss": [
+        { "s": "Pencere değişimi ne kadar sürer?", "c": "Standart bir pencere değişimi 3-5 saat sürer; komple daire değişimi 1-2 günde tamamlanır." },
+        { "s": "PVC mi alüminyum mu?", "c": "PVC ısı yalıtımında ve ekonomiklikte öne çıkar; alüminyum estetik ve ince profillerle geniş cam alanı sağlar. İhtiyaca göre yönlendiriyoruz." },
+        { "s": "Camı tek mi çift mi olmalı?", "c": "İstanbul iklimi için çift cam (ısıcam) standarttır; ana yol ve gürültülü cephelerde üçlü cam veya akustik cam öneriyoruz." },
+        { "s": "Pencere değişiminde sıva-boya işi dahil mi?", "c": "Evet, kasa çevresi köpük, sıva ve boya bitişleri pakette yer alır; böylece duvarınız tertemiz teslim edilir." },
+        { "s": "Pencere garantisi nasıl?", "c": "Profil, cam ve aksesuarlar üretici garantisi kapsamındadır; montaj işçiliği ise yazılı garantimiz altındadır." }
+      ]
+    },
+    {
+      "id": 24,
+      "slug": "gomme-dolap-ve-giyinme-odasi",
+      "baslik": "Gömme Dolap ve Giyinme Odası Yapımı",
+      "kisaAciklama": "Ölçüye özel gömme dolap, sürme kapaklı dolap ve komple giyinme odası imalatı; iç düzen aksesuarlarıyla.",
+      "detay": "Gömme dolap ve giyinme odası yapımı; duvar boşluklarının ölçü alınması, atölyede imalat ve yerinde montaj sürecini kapsar. Menteşeli veya sürme kapaklı modellerde kapak sistemi alana göre seçilir; sürme kapaklar dar koridorlarda yer kazandırır. Dolap içi düzen; elbise askı borusu, raflar, çekmeceler, ayakkabılık ve pantolon askılığı gibi modüllerle kullanıcının ihtiyacına göre planlanır. İmalatta neme dayanıklı MDF/HPL malzeme ve sessiz kapanan (yumuşak kapanış) mekanizmalar kullanılır. Giyinme odasında ada, U ve L tipi yerleşim planları çizilir; ayna, led aydınlatma ve kravat/aksesuar çekmeceleri eklenebilir. Kapak yüzeylerinde lak, folyo, akrilik ve aynalı seçenekler sunulur. Montaj sonrası kapak ve çekmece ayarları yapılır, yerinde kusursuz teslim edilir.",
+      "faydalar": [
+        "Ölçüye özel imalat ile boşlukları verimli kullanan dolap",
+        "Yumuşak kapanış mekanizmalı kaliteli aksesuarlar",
+        "Sürme ve menteşeli kapak sistemlerinde her iki seçenek",
+        "Led aydınlatma ve ayna detaylı giyinme odası planlaması"
+      ],
+      "sss": [
+        { "s": "Gömme dolap yapımı ne kadar sürer?", "c": "Ölçü sonrası imalat 7-12 gün, montaj 1-3 gün sürer. Proje büyüklüğüne göre süre netleşir." },
+        { "s": "Sürme kapak mı menteşeli mi?", "c": "Sürme kapak yer kazandırır, menteşeli kapak ise içeriye tam erişim sağlar. Koridor genişliği ve kullanım alışkanlığına göre öneriyoruz." },
+        { "s": "Mevcut gömme dolabımı yeniliyor musunuz?", "c": "Evet, eski dolabın sökümü ve yerine yenisi imalat ve montaj dahil komple yenileme yapıyoruz; duvar yüzeyindeki hasarlar da giderilir." },
+        { "s": "Dolap içine led aydınlatma koyulabilir mi?", "c": "Evet, hareket sensörlü ve kapı anahtarlı LED sistemler standart aksesuar olarak eklenebilir; elektrik bağlantıları bizim tarafımızdan yapılır." },
+        { "s": "Giyinme odası için alan nasıl olmalı?", "c": "Minimum 2,5x2 m bir oda veya 3-4 m uzunlukta bir duvar yeterlidir. Keşifte alanı ölçüp U, L veya tek hat plan öneririz." }
+      ]
+    },
+    {
+      "id": 25,
+      "slug": "perde-kornis-ve-stor-montaji",
+      "baslik": "Perde Kornişi ve Stor Montajı",
+      "kisaAciklama": "Perde kornişi, stor perde, zebra ve jaluzi montajı; tavan-duvar montaj seçenekleri ve ölçü alımı.",
+      "detay": "Perde kornişi ve stor montajı, küçük ama ölçü ve yer seçimi hassasiyeti gerektiren bir iştir. Korniş montajında duvara veya tavana montaj seçeneği mekana göre değerlendirilir; alçıpan tavanlarda uygun dübel ile güvenli sabitleme yapılır. Stor, zebra, güneşlik ve jaluzi perdelerde ölçü, kasa içi (revele) veya kasa dışı (mastra) olarak alınır; perde tipine göre mekanizma duvara, tavana veya kasaya sabitlenir. Perde kordonları ve zincirleri çocuk güvenliği açısından ayarlanır; motorlu perde sistemlerinde elektrik bağlantısı ve uzaktan kumanda eşleştirmesi yapılır. Büyük cephelerde birden fazla perdenin hizalı montajı için lazer kullanılır. Montaj sonrası perde açılıp kapanarak mekanizma test edilir, temiz teslim edilir.",
+      "faydalar": [
+        "Tavan ve duvar montaj seçenekleri ile mekana uygun çözüm",
+        "Stor, zebra, jaluzi ve motorlu perde sistemleri",
+        "Lazer ile hizalı, güvenli ve dengeli montaj",
+        "Çocuk güvenlikli kordon ayarları"
+      ],
+      "sss": [
+        { "s": "Perde ölçüsünü nasıl alıyorsunuz?", "c": "Kasa içi perdede kasa ölçüleri, kasa dışında ise genişlik ve düşüş ölçüleri lazer metreyle alınır. Yanlış ölçü kaynaklı uyumsuzluk yaşanmaz." },
+        { "s": "Stor mu zebra mı daha kullanışlı?", "c": "Zebra, gölgelendirme ve görüş açısını aynı anda kontrol eder; stor daha ekonomik ve sade görünüm sunar. İhtiyaca göre öneriyoruz." },
+        { "s": "Alçıpan tavana korniş asılır mı?", "c": "Evet, alçıpan tavana uygun kanatlı dübeller ve kasa takviyesi ile güvenli montaj yapılır; ağır perdeliklerde profilli korniş önerilir." },
+        { "s": "Motorlu perde sonradan elektrik ister mi?", "c": "Motorlu perdeler pil veya şarjlı motorla kablosuz çalışabilir; elektrik hattı çekilecekse montaj öncesi planlama yaparız." },
+        { "s": "Mevcut kornişin üzerine stor takılır mı?", "c": "Korniş mevcut ve sağlamsa stor, kornişe adaptör ile asılabilir; ancak her iki sistem birlikte karmaşık görünebilir. Yerinde değerlendirip öneriyoruz." }
+      ]
+    },
+    {
+      "id": 26,
+      "slug": "ses-yalitimi",
+      "baslik": "Ses Yalıtımı (Oda / Duvar / Tavan)",
+      "kisaAciklama": "Duvar, tavan ve zemin ses yalıtımı; taş yünü, ses paneli, çift alçıpan sistem ve kapı fitil uygulamaları.",
+      "detay": "Ses yalıtımı; komşu gürültüsü, trafik sesi ve ev içi yankıya karşı uygulanan çok katmanlı bir iyileştirmedir. Duvar ses yalıtımında mevcut duvara metal iskelet kurulur, arası taş yünü ile doldurulur ve çift kat alçıpan kaplanır; bu sistem komşu sesini belirgin şekilde azaltır. Tavanda aynı sistem astar tavan olarak uygulanır; zeminde ise ses yalıtım şiltesi üzerine şap ve kaplama yapılır. Yankı problemi yaşanan salon ve stüdyolarda akustik paneller (pet akustik, ahşap yünü panel) dekoratif çözüm sunar. Kapılardan ve pencerelerden gelen ses için fitil ve eşik uygulamaları yapılır; priz ve anahtar buatlarından sızan ses kapatılır. Uygulama öncesi sesin hangi yoldan geldiği analiz edilir; çözüm buna göre planlanır.",
+      "faydalar": [
+        "Taş yünü + çift alçıpan sistem ile yüksek ses azaltımı",
+        "Komşu, trafik ve yankı kaynaklı gürültüde ölçümle planlama",
+        "Kapı, pencere ve priz kaçağı kapatma detayları",
+        "Dekoratif akustik paneller ile estetik çözüm"
+      ],
+      "sss": [
+        { "s": "Hangi ses yalıtımı ne kadar etkili?", "c": "Çift alçıpan + taş yünü sistem duvardan gelen seste %70-90 azalma sağlar; kapı ve pencere kaçakları kapatılmadan tam sonuç alınamaz, onları da işe dahil ederiz." },
+        { "s": "Ses yalıtımı oda küçültür mü?", "c": "Duvar sistemleri 8-12 cm, tavan sistemleri 10-15 cm yer kaplar. Alandan taviz vermek istemeyenler için ses paneli alternatifleri sunuyoruz." },
+        { "s": "Üst kattan gelen ayak sesleri nasıl kesilir?", "c": "Tavan izolasyonu ile üst kattan gelen darbe sesi azaltılır; tam çözüm için üst katta zemin şiltesi gerekebilir. Her iki seçeneği de değerlendiriyoruz." },
+        { "s": "Ses yalıtımı ne kadar sürer?", "c": "Bir oda için duvar ve tavan uygulaması ortalama 2-4 gün sürer; keşifte alan büyüklüğüne göre netleştirilir." },
+        { "s": "Müzik stüdyosu için yeterli mi?", "c": "Stüdyo için darbe ve hava sesinde üst seviye sistemler (çift iskelet, yaylı klips) gerekir. Bu kapsamdaki projelerde proje bazlı çözüm sunarız." }
+      ]
+    },
+    {
+      "id": 27,
+      "slug": "rutubet-ve-kuf-giderme",
+      "baslik": "Rutubet ve Küf Giderme, Duvar Onarımı",
+      "kisaAciklama": "Duvar rutubeti ve küf tespiti, kaynak giderme, küf önleyici işlem ve duvar yenileme; garanti destekli.",
+      "detay": "Rutubet ve küf sorunu; duvar yüzeyinde görünen lekelerin ötesinde tesisat kaçağı, dış cephe çatlağı, yoğuşma ve kılcal nem gibi kökenlere sahiptir. Önce kaynak tespiti yapılır: nem ölçer ile duvar nemi haritalandırılır, tesisat kaçağı varsa cihazla yeri bulunur. Kaynak giderildikten sonra duvar yüzeyi küf önleyici solüsyonla temizlenir, kazınır ve kurutulur; ardından nem bariyer özellikli sıva ve boya uygulanır. Yoğuşma kaynaklı sorunlarda ısı köprüsü bölgelerine izolasyon yapılır; kılcal nemde duvar alt kısmına su yalıtım enjeksiyonu veya membran uygulanır. İşlem sonrası duvar yeniden boyanır ve belirli bir süre duvarda nem gözlemlenmesine karşı bakım garantisi verilir. Böylece küf ve boya kabarması tekrarlamaz.",
+      "faydalar": [
+        "Nem ölçümü ile doğru kaynak tespiti, hızlı çözüm",
+        "Küf önleyici solüsyon ve nem bariyer malzemeler",
+        "Tesisat kaçağı, yoğuşma ve kılcal nem kaynaklarının giderilmesi",
+        "Bakım garantili işlem"
+      ],
+      "sss": [
+        { "s": "Duvar rutubeti neden oluşur?", "c": "En sık sebepler; tesisat kaçağı, dış cephe veya çatı suyu, yoğuşma ve zeminden gelen kılcal nemdir. Kalıcı çözüm ancak köken tespitiyle mümkündür." },
+        { "s": "Küfü boyayla kapatmak yeterli mi?", "c": "Hayır, boya küfün üzerini kapatınca sorun kısa sürede geri döner. Önce yüzey küf önleyici ile işlenmeli, nem kaynağı giderilmelidir." },
+        { "s": "Rutubet tespiti ne kadar sürer?", "c": "Nem ölçerle yapılan yüzey tespiti aynı gün sonuçlanır; tesisat kaçağı şüphesinde kamera/akustik cihazla tespit 1 gün içinde tamamlanır." },
+        { "s": "Dış cephe kaynaklı nemi siz mi çözüyorsunuz?", "c": "Dış cephe yalıtımı ve çatı onarımı için de hizmet veriyoruz; dış cephe tadilatı ayrı bir iş kapsamı olsa da keşifte yönlendiriyoruz." },
+        { "s": "İşlem sonrası ne kadar garanti veriyorsunuz?", "c": "Kaynak giderme ve uygulama sonrası duvar yüzeyinde yeniden nem/küf oluşmasına karşı işçilik garantisi veriyoruz; süre keşifte belirlenir." }
+      ]
+    }
+  ]
+}

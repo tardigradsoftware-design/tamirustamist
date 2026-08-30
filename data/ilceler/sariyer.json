@@ -1,0 +1,25 @@
+{
+  "slug": "sariyer",
+  "ad": "Sarıyer",
+  "bolge": "Boğaz'ın kuzeyi, orman ve sahil",
+  "accent": "navy",
+  "layout": "B",
+  "heroIndex": 20,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "gomme-dolap-ve-giyinme-odasi", "pencere-degisimi", "ses-yalitimi", "rutubet-ve-kuf-giderme", "mutfak-dolabi-yapimi-ve-montaji"],
+  "komsular": ["besiktas", "sisli", "eyupsultan", "arnavutkoy"],
+  "giris": "Sarıyer; boğaz köyleri, ormanın içinde yükselen konutları ve yalı kültürüyle İstanbul'un en yeşil ilçelerinden. Yeniköy, Tarabya, Emirgan ve İstinye hattındaki prestijli yapılarda; tarihi yalılarda izinli restorasyon, yeni villalarda ise yüksek standartlı iç mekan projeleri talep ediliyor. Orman köylerindeki (Zekeriyaköy, Uskumruköy, Bahçeköy) müstakil evlerde ise ısıtma, şömine ve tesisat dönüşümleri öne çıkıyor. İlçenin kuzey enleminde nemli ve yağışlı mikro iklim; rutubet, küf ve doğrama eskimesi sorunlarını tetikliyor. Ekibimiz Sarıyer'de; tarihi dokuyu koruyan restorasyon yöntemleri, villa iç düzenleme ve orman evlerinin enerji verimli hale getirilmesi konularında uzmanlaşmış durumda. Vadi trafiğini bilen lojistik planımızla randevulara dakik geliyoruz.",
+  "uzmanlik": "Yalı ve tarihi köşklerde koruma kurulu onaylı iç yenileme; Zekeriyaköy-Uskumru bölgesinde şömine, teras ve kış bahçesi dönüşümleri; orman evlerinde dizel/LPG dönüşüm ve ısı yalıtımı konularında deneyimliyiz. Nemli mikro iklim için özel ölçüm ve izolasyon çözümleri sunuyoruz.",
+  "musteriProfili": "Boğaz köylerinde prestij konut sahipleri, orman bölgesinde villa alan profesyoneller ve tarihi yapı yatırımcıları.",
+  "sorunlar": [
+    "Tarihi yapılarda izinli restorasyon süreçleri",
+    "Nemli mikro iklim kaynaklı küf ve doğrama eskimesi",
+    "Villa projelerinde yüksek standart beklentisi",
+    "Orman köylerinde ısıtma dönüşümü ihtiyacı"
+  ],
+  "sss": [
+    { "s": "Yalı ve köşklerde hangi işleri izinli yapıyorsunuz?", "c": "Koruma kurulu onaylı iç yenileme, tesisat ve restorasyon işlerini projelendirme dosyasıyla birlikte yürütüyoruz; kurul uyumsuzluğu yaşatmıyoruz." },
+    { "s": "Zekeriyaköy'de villam için şömine ve kış bahçesi yapılabilir mi?", "c": "Evet, doğalgazlı şömine montajı, cam kış bahçesi ve teras kaplama işlerini ısı yalıtımı ve izin süreçleriyle birlikte üstleniyoruz." },
+    { "s": "Orman evimde rutubet ve küf var, nasıl çözülür?", "c": "Mikro iklimi ölçüyor, havalandırma-yalıtım dengesini kuruyoruz; kök neden (yağış, yoğuşma) giderilmeden boya yapmıyoruz." },
+    { "s": "Sarıyer'de trafik yoğun, ekipler nasıl yetişiyor?", "c": "Vadi hatlarını bilen lojistik planı, sabah erken randevu ve vadi dışı depo-köprü stratejisi ile teslimatlarda gecikme yaşatmıyoruz." }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "tikaniklik-acma",
+  "baslik": "Tıkanıklık Açma",
+  "ikon": "plunger",
+  "aciklama": "İstanbul'da robotla, kırmadan tıkanıklık açma; tuvalet, lavabo, mutfak gideri, pimaş ve kanalizasyon hizmetleri.",
+  "hizmetler": [
+    {
+      "id": 34,
+      "slug": "tikali-gider-acma",
+      "baslik": "Tıkalı Gider Açma (Robotla, Kırmadan)",
+      "kisaAciklama": "Robot ve spiral makineyle kırmadan gider açma; bina kolonları ve apartman giderlerinde köklü çözüm.",
+      "detay": "Tıkalı gider açma; mutfak, banyo, WC ve bina kolon giderlerinde birikmiş atıkların robot, spiral ve hidrolik (jet) makinelerle kırmadan temizlenmesidir. İşleme önce tıkanıklığın derinlik ve türünün belirlenmesiyle başlanır: eviye, sifon veya rögar girişinden boru içine kamera veya ölçülen spiral gönderilir. Spiral ucu (uc biçimine göre kesici veya burgu) tıkanıklığı parçalar, yüksek basınçlı su jeti ise boru cidarını temizleyerek yağ ve birikintiyi süpürür. Bina giriş hatları ve apartman kolonlarında tıkanıklık derinse rögar ve temizlik kapağından müdahale edilir. İş sonunda gider suyu test edilir, boru içi kontrol için kamera kaydı isteğe bağlı sunulur. Kırmadan açma sayesinde karo, döşeme ve bina duvarına hiçbir zarar verilmez.",
+      "faydalar": [
+        "Robot, spiral ve jet makineyle %100'e yakın açma başarısı",
+        "Kırmadan, molozsuz ve hijyenik müdahale",
+        "Bina kolonu ve rögardan derin tıkanıklık müdahalesi",
+        "İş sonu su testi ve isteğe bağlı kamera kontrolü"
+      ],
+      "sss": [
+        { "s": "Gider açma ne kadar sürer?", "c": "Daire içi gider tıkanıklıkları genellikle 30-60 dakikada açılır; bina kolonu ve derin tıkanıklıklarda 1-3 saat gerekebilir." },
+        { "s": "Robotla açma duvara/karo zarar verir mi?", "c": "Hayır. Spiral ve robot boru içinden çalışır; karo, duvar ve döşeme hiçbir şekilde kırılmaz. Bu yöntemin en büyük avantajı budur." },
+        { "s": "Kendi tıkanıklık açıcı kimyasallarımı kullandım ama olmadı?", "c": "Kimyasallar bazen tıkanıklığı katılaştırıp boruyu daha çok doldurabilir. Mekanik makine ile kimyasal kalıntısı ve birikinti birlikte temizlenir." },
+        { "s": "Apartman kolonu kimin sorumluluğunda?", "c": "Daire gideri daire, kolon hattı yönetime aittir. Bina içi kolon tıkanıklığında yönetimle koordineli çalışır, işlem sonrası faturalandırmada yardımcı oluruz." },
+        { "s": "Tıkanıklık sürekli tekrarlıyorsa?", "c": "Tekrarlayan tıkanıklık genellikle eğim hatası, boru çapı yetersizliği veya kök girişinden kaynaklanır. Kamera ile kök neden analiz edilip kalıcı çözüm önerilir." }
+      ]
+    },
+    {
+      "id": 35,
+      "slug": "tuvalet-tikanikligi-acma",
+      "baslik": "Tuvalet (Klozet) Tıkanıklığı Açma",
+      "kisaAciklama": "Klozet tıkanıklığı açma; kağıt, ıslak mendil ve yabancı cisim çıkarma. Klozete zarar vermeyen yöntemler.",
+      "detay": "Tuvalet (klozet) tıkanıklığı; kağıt birikimi, ıslak mendil, hijyenik ped ve düşen yabancı cisimler gibi sebeplerle oluşur. Müdahalede önce tıkanıklığın türüne karar verilir: yumuşak atıklarda vakumlu aparat veya spiral yeterliyken, sert cisimlerde klozetin zarar görmemesini sağlayan özel uç kullanılır. Tek parça ve asılı (gömme rezervuar) klozetlerin yapısına uygun ekipman seçilir; klozetin sökülmesi yalnızca son çare olarak gerekirse yapılır ve yeniden montajı dahildir. İş sonunda klozet tamamen açılır, sifon çekilerek su akışı test edilir ve alan dezenfekte edilir. Islak mendillerin boruda çözünmediği ve eve maliyet çıkardığı konusunda kullanıcı bilgilendirilir. Aynı gün içinde müdahale edilen işler arasındadır.",
+      "faydalar": [
+        "Klozete zarar vermeyen özel uç ve vakum aparatları",
+        "Tek parça, asılı ve klasik klozetlerde uyumlu ekipman",
+        "Yabancı cisim çıkarma ve klozet sökme-takma dahil",
+        "İş sonu dezenfeksiyon ve sifon testi"
+      ],
+      "sss": [
+        { "s": "Tuvalet tıkanıklığı ne kadar sürede açılır?", "c": "Standart tıkanıklıklar 20-40 dakikada açılır; yabancı cisim ve gömme rezervuar sistemlerinde süre uzayabilir." },
+        { "s": "Klozetin içine düşen nesne çıkarılabilir mi?", "c": "Evet, manyetik veya kavrayıcı özel cihazlarla yüzük, fırça, oyuncak gibi cisimler boruya itilmeden çıkarılmaya çalışılır; olmazsa güvenli şekilde parçalanır." },
+        { "s": "Islak mendil tuvalete atılırsa ne olur?", "c": "Islak mendil sudan çözünmez, boru cidarına yapışır ve zamanla komple tıkanıklığa dönüşür. Kullanıcıları bu konuda bilgilendiriyoruz." },
+        { "s": "Klozet tıkanıklığı komşu daireyi etkiler mi?", "c": "Daire giderinde tıkanıklık genellikle yalnızca o daireyi etkiler; ancak kolon hattında ise üst katlardan taşma yaşanabilir. Kolon kontrolü de yapılır." },
+        { "s": "Klozetin sökülmesi gereken durumda ne olur?", "c": "Nadiren, cisim geçiş noktasında sıkışırsa klozet sökülür, cisim çıkarılır ve klozet yeniden montaj edilir; bu durumda flanş ve conta değişimi de yapılır." }
+      ]
+    },
+    {
+      "id": 36,
+      "slug": "lavabo-tikanikligi-acma",
+      "baslik": "Lavabo Tıkanıklığı Açma",
+      "kisaAciklama": "Lavabo ve banyo gideri tıkanıklığı açma; saç ve sabun kalıntısı temizliği, sifon ve pimaş müdahalesi.",
+      "detay": "Lavabo tıkanıklığı çoğunlukla saç, sabun kalıntısı ve kireç birikiminden kaynaklanır. İlk müdahalede sifon çözülerek biriken saç ve atıklar temizlenir; tıkanıklık sifonun ötesindeyse spiral ile lavabo giderine inilir ve boru içi temizlenir. Çift lavabo (banyo) sistemlerinde birbirine bağlı hatlar kontrol edilerek hangi kolun tıkalı olduğu belirlenir. Spiralin ulaşamadığı dar borularda yüksek basınçlı mini jet makinesi veya kireç çözücü mekanik yöntemler uygulanır. İş sonunda lavabo taşma ve ana giderden çekilerek su akışı test edilir; sifon ve bağlantılar yeniden kurulurken sızdırmazlık kontrolü yapılır. Dekoratif sifon sistemlerinde parça değişimi gerektiğinde orijinal yedek kullanılır.",
+      "faydalar": [
+        "Sifon temizliği ve spiralle derin lavabo açma",
+        "Çift lavabo hatlarında doğru kol tespiti",
+        "Saç, sabun ve kireç birikiminde köklü temizlik",
+        "Sızdırmazlık kontrolü ve su akışı testi"
+      ],
+      "sss": [
+        { "s": "Lavabo neden yavaş akıyor?", "c": "Yavaş akma, boru cidarında biriken saç ve sabun kalıntısının daralmasıdır; tam tıkanmadan önce spiralli temizlikle çözülmelidir." },
+        { "s": "Lavabo açma ne kadar sürer?", "c": "Sifon tıkanıklığı 15-30 dakikada, hat içi tıkanıklık 30-60 dakikada açılır." },
+        { "s": "Kimyasal dökücüleri kullanmalı mıyım?", "c": "Kimyasallar saç ve kireci tam çözemez, PVC borulara zamanla zarar verir. Mekanik temizlik her zaman daha güvenli ve kalıcıdır." },
+        { "s": "Çift lavabo birbirine bağlı mı?", "c": "Evet, duplex lavabolar ortak bir pimaşa bağlanır; bir taraf tıkanınca diğeri de etkilenebilir. Her iki kol da kontrol edilir." },
+        { "s": "Banyo giderinden koku geliyorsa?", "c": "Koku, sifon suyunun buharlaşması veya conta eskimesinden kaynaklanır. Sifon yenileme ve gider temizliğiyle koku giderilir." }
+      ]
+    },
+    {
+      "id": 37,
+      "slug": "mutfak-gideri-acma",
+      "baslik": "Mutfak Gideri Açma (Yağ Sökücü Makineyle)",
+      "kisaAciklama": "Mutfak eviye gideri tıkanıklığı açma; yağ birikintisi ve yemek atıklarını sıcak su jetiyle temizleme.",
+      "detay": "Mutfak gideri tıkanıklığı; yemek atıkları, yağ birikimi ve zamanla oluşan yağ taşlaşmasından kaynaklanır. Eviye tıkanıklığında önce kaynar su ve spatula ile gevşetme denenir; kalıcı çözüm için yağ sökücü jet makinesi ile 60-90°C sıcak su ve yüksek basınç boru içine enjekte edilerek yağ birikintisi eritilir ve süpürülür. Tıkanıklık eviye sifonunun ötesinde veya bina giderinde ise spiral ve kamera ile müdahale edilir; yağ tutucu önerisi yapılır. İş sonunda eviye doldurulup boşaltılarak akış hızı test edilir; gerekirse boru içi kamera ile kontrol edilir. Mutfak giderinin düzenli bakımı ile yağ taşlaşması önlenir; senede bir kez yağ sökücü bakım önerisi verilir.",
+      "faydalar": [
+        "Sıcak su jeti ile yağ birikintisinin kökten eritilmesi",
+        "Eviye sifonundan bina giderine kadar komple temizlik",
+        "Yağ tutucu ve düzenli bakım önerisi",
+        "Akış hızı testi ile doğrulanmış teslim"
+      ],
+      "sss": [
+        { "s": "Mutfak gideri neden sık tıkanır?", "c": "Kızartma yağları ve yemek artıkları boruya dökülünce soğuyup taşlaşır. En etkili önlem, yağların boruya dökülmemesi ve periyodik bakımdır." },
+        { "s": "Yağ sökücü makinede kimyasal mı kullanılıyor?", "c": "Hayır, yüksek basınçlı sıcak su fiziksel olarak yağı eritir; kimyasal kullanılmaz, böylece boru ve doğa korunur." },
+        { "s": "Mutfak gideri açma ne kadar sürer?", "c": "Eviye tıkanıklığı 30-60 dakikada açılır; bina gideri müdahalesi 1-2 saat sürebilir." },
+        { "s": "Gider açıldıktan sonra ne zaman kullanabilirim?", "c": "İşlem sonrası hemen kullanılabilir; sıcak su jeti sonrası boru cidarı temiz ve kaygan olduğu için gıda akışı hızlanır." },
+        { "s": "Restoran mutfağı için yağ tutucu kuruyor musunuz?", "c": "Evet, ticari mutfaklar için yağ tutucu (seperatör) tesisatı ve periyodik bakım hizmeti veriyoruz; yönetmelik uyumu konusunda yönlendiriyoruz." }
+      ]
+    },
+    {
+      "id": 38,
+      "slug": "pimas-borusu-acma-ve-degisimi",
+      "baslik": "Pimaş Borusu Açma ve Değişimi",
+      "kisaAciklama": "Pimaş borusu tıkanıklığı açma ve eski pimaş hattı değişimi; eğim kontrolü ve uygun çapta döşeme.",
+      "detay": "Pimaş borusu, lavabo ve eviyelerden gelen atık suları kolon hattına taşıyan borudur; çapının dar olması ve eğim hataları tıkanıklığın başlıca nedenidir. Tıkanan pimaş hattı; spiral, jet veya kamera ile açılır; tekrarlayan tıkanmalarda boru değişimi önerilir. Değişimde mevcut pimaş ölçülür, kolon hattına ulaşan en kısa ve eğimli hat planlanır; Ø40-Ø50 çapında boru kullanılır ve birleşimler silikonlu contalarla sızdırmaz yapılır. Boru gizlenmesi gereken yerlerde duvar içi veya kaide altı geçişler yapılır, kiremit ve döşeme restorasyonu işin içindedir. Eski PVC boruların daralmış iç yüzeyi nedeniyle açma sık tekrarlıyorsa, iç kaplama veya hat yenileme seçenekleri sunulur. İş sonunda tüm armatürlerden su akıtılarak hat test edilir.",
+      "faydalar": [
+        "Tıkanan pimaşın robot/kamera ile tespiti ve açılması",
+        "Eğimli ve uygun çapta yeniden döşenen pimaş hattı",
+        "Duvar içi ve kaide altı gizli geçiş seçenekleri",
+        "Restorasyon ve sızdırmazlık testi dahil"
+      ],
+      "sss": [
+        { "s": "Pimaş borusu ne zaman değişmeli?", "c": "Sık tıkanan, dar çapı nedeniyle yavaş akıtan ve kokan hatlar değiştirilmelidir. Kamera görüntüsü ile karar verilir." },
+        { "s": "Pimaş değişimi duvar kırma gerektirir mi?", "c": "Pimaş genellikle döşeme kaidesi veya duvar içinden geçer; değişimde minimum kırım yapılır ve ardından yüzey eski haline getirilir." },
+        { "s": "Pimaş çapı neden önemli?", "c": "Dar pimaş (Ø32) yağ ve atıkla çabuk dolar; Ø40-50 standart çaplarda akış sağlıklıdır. Değişimde uygun çap seçimi tıkanıklığı azaltır." },
+        { "s": "Pimaş hattında koku neden olur?", "c": "Conta eskimesi veya sifonsuz bağlantı kokuya yol açar. Hat yenilenirken sifon ve contalar standart olarak yenilenir." },
+        { "s": "Pimaş değişimi ne kadar sürer?", "c": "Tek armatür hattı 2-4 saatte, komple banyo/mutfak pimaş yenilemesi 1-2 günde tamamlanır." }
+      ]
+    },
+    {
+      "id": 39,
+      "slug": "kanalizasyon-tikanikligi-acma",
+      "baslik": "Kanalizasyon Tıkanıklığı Açma",
+      "kisaAciklama": "Apartman ve bina kanalizasyon hattı açma; rögar müdahalesi, jet makine ile temizlik ve kamera kontrolü.",
+      "detay": "Kanalizasyon tıkanıklığı; bina giriş hattı, bahçe hattı ve ana kolonlarda biriken atıklarla oluşur. Müdahale çoğunlukla rögar (muayene bacası) kapağından yapılır; yüksek basınçlı jet makinesi ile hat geriye doğru (kaçış yönünde) temizlenir ve atık parçacıklar ana hatta süpürülür. Tıkanıklığın kök nedenini belirlemek için hat içi kamera çekimi yapılır; görüntüde çökmüş boru, kök girişi, eğim hatası ve kırık bölge tespit edilir. Kırık ve çökmüş borularda açma öncesi onarım planı çıkarılır (gömülü hat değişimi veya relining). Apartman genel gideri, site şebekesi ve cadde bağlantısı arasındaki sorumluluk sınırları keşifte netleştirilir. İş sonunda hat suyu basınçla test edilir ve kamera kaydı teslim edilir.",
+      "faydalar": [
+        "Rögar ve muayene bacasından kırmadan müdahale",
+        "Jet makine ile hat boyu köklü temizlik",
+        "Kamera çekimi ile kök neden analizi ve kalıcı çözüm",
+        "Sorumluluk sınırlarının netleştirilmesiyle yönetim desteği"
+      ],
+      "sss": [
+        { "s": "Kanalizasyon tıkanıklığında önce ne yapılmalı?", "c": "Su basmasını önlemek için ilgili dairelerde suyu kesin ve bizi arayın. Ekip jet makine ve kamera ile müdahale için hazır gelir." },
+        { "s": "Site/bina hattı mı cadde hattı mı tıkalı nasıl anlaşılır?", "c": "Rögar kontrolü ve kamera ile tıkanıklığın konumu belirlenir. Bina hattı malikin, cadde bağlantısı belediye sorumluluğundadır; biz yönlendiririz." },
+        { "s": "Kök girişi olan boruya ne yapılır?", "c": "Kamera ile kök tespiti yapılır; kök kesilir ve hattın içi jet ile temizlenir. Kök tekrarlıyorsa hat değişimi veya kimyasal kök engelleyici önerilir." },
+        { "s": "Kanalizasyon açma fiyatı nasıl belirlenir?", "c": "Hat uzunluğu, tıkanıklık derinliği, rögar erişimi ve jet/kamera kullanımına göre fiyatlandırılır; yerinde keşif sonrası net fiyat verilir." },
+        { "s": "Kamera kaydı istemem halinde ek ücret olur mu?", "c": "Standart pakette hat açma bulunur; kamera çekimi ayrı bir hizmet kalemidir ancak tekrarlayan tıkanmalarda önerilir ve rapor halinde verilir." }
+      ]
+    },
+    {
+      "id": 40,
+      "slug": "kanal-goruntuleme",
+      "baslik": "Kanal Görüntüleme (Kamerayla Tespit)",
+      "kisaAciklama": "Boruların içini görüntüleyen kamera ile tıkanıklık, çatlak ve kök tespiti; raporlu ve kayıtlı inceleme.",
+      "detay": "Kanal görüntüleme; boru içine ilerletilen endüstriyel kamera ile hattın içinin canlı izlenmesi ve kayıt altına alınmasıdır. Kamera, rögar veya daire içi gider girişinden sürülerek boru boyunca ilerler; tıkanıklık, çatlak, kırık, eğim hatası, kök girişi ve kaçak noktaları ekranda net görüntülenir. Metre sayacı ile sorunun borudaki derinliği belirlenir; böylece onarımda gereksiz kırım yapılmaz. Çekim sırasında video kaydı alınır ve rapor hazırlanır; raporda hat durumu, tespit edilen sorunlar ve önerilen çözümler yer alır. Bu rapor; kiralık iade süreçlerinde, satın alma öncesi kontrol ve sigorta hasar dosyalarında resmi belge olarak kullanılabilir. Görüntüleme sonrası tıkanıklık varsa aynı randevuda açma yapılabilir.",
+      "faydalar": [
+        "Canlı ekran ve video kayıtlı boru içi inceleme",
+        "Metre sayaçlı konum tespiti ile kırımsız onarım",
+        "Kira iadesi, satın alma ve sigorta için resmi rapor",
+        "Tıkanıklık tespitinde aynı ziyarette açma imkânı"
+      ],
+      "sss": [
+        { "s": "Kanal görüntüleme ne kadar sürer?", "c": "Tipik bir apartman dairesi hattı 30-60 dakikada incelenir; site şebekesi ve uzun hatlarda süre uzar." },
+        { "s": "Kamera boruya zarar verir mi?", "c": "Endüstriyel kanal kameraları borunun içinde ilerleyecek şekilde tasarlanmıştır; operatör deneyimi ile boruya temas bile ettirilmez." },
+        { "s": "Rapor ne amaçla kullanılabilir?", "c": "Kira iadesinde giderin temiz devredildiğinin ispatı, gayrimenkul alımında hattın durum kontrolü ve sigorta hasar dosyalarında delil olarak kullanılabilir." },
+        { "s": "Kamera ile şu an tıkanıklık görürse ne yapılır?", "c": "Aynı randevuda jet/spiral ile açma yapılır; öncesinde tıkanıklığın türüne göre uygun ekipman seçilir." },
+        { "s": "Kanal görüntüleme fiyatı hangi etkenlere bağlı?", "c": "İncelenecek hat uzunluğu, rögar sayısı ve rapor talebine göre değişir; keşifte net fiyat verilir." }
+      ]
+    },
+    {
+      "id": 41,
+      "slug": "kotu-koku-tespiti-ve-giderme",
+      "baslik": "Kötü Koku Tespiti ve Giderme",
+      "kisaAciklama": "Banyo, mutfak ve WC kötü koku kaynağının tespiti; sifon, conta, gider ve havalandırma çözümleri.",
+      "detay": "Kötü koku tespiti; banyo, mutfak ve WC'lerde gider, sifon ve havalandırma hatlarından sızan kokunun kaynağının belirlenmesidir. En sık kaynaklar; suyu buharlaşmış sifonlar, eskimiş conta ve manşonlar, yanlış bağlanmış pimaş hattı ve tıkanmış havalandırma borularıdır. Tespitte duman testi veya sprey işaretleyici ile gider birleşimleri tek tek kontrol edilir; koku gelen nokta netleştirilir. Çözümde sifon yenilenir, conta/manşon değiştirilir, gider temizlenir veya havalandırma borusu açılır. Lavabo taşma delikleri ve paspas yeri ızgaraları da koku kaynağı olabileceğinden kontrol edilir. İşlem sonrası koku testi yapılarak temiz teslim edilir; önleyici olarak gider suyu tutucu (sifon suyu) korunması hatırlatılır.",
+      "faydalar": [
+        "Duman testi ile koku kaynağının nokta tespiti",
+        "Sifon, conta ve manşon yenileme dahil çözüm",
+        "Havalandırma hattı ve taşma deliği kontrolü",
+        "İş sonu koku testi ile doğrulama"
+      ],
+      "sss": [
+        { "s": "Banyodan gelen koku neden kaynaklanır?", "c": "En sık sebep, kullanılmayan giderdeki sifon suyunun buharlaşması veya eskimiş contadır. Tespit sonrası bu iki kaynak hızla çözülür." },
+        { "s": "Mutfaktan koku geliyor, kaynağı ne olabilir?", "c": "Eviye sifonundaki yağ birikintisi, çamaşır makinesi gider bağlantısındaki açık nokta ve taşma deliği en olası kaynaklardır; duman testi ile netleştirilir." },
+        { "s": "Koku tespiti ne kadar sürer?", "c": "Daire içi koku tespiti 1-2 saat sürer; kaynak bina havalandırma hattındaysa süre uzar ve yönetimle koordinasyon gerekebilir." },
+        { "s": "Kokan gideri kimyasalla temizleyeyim mi?", "c": "Kimyasal geçici çözüm sunar ve boruya zarar verebilir. Kök neden tespiti ve mekanik temizlik kalıcı sonuç verir." },
+        { "s": "Koku bazen gelip bazen gidiyor, sebebi ne?", "c": "Süreksiz kokular havalandırma basıncı, komşu kullanımı ve rüzgâr yönüne bağlı hava akışı değişikliklerinden kaynaklanır; sistemsel havalandırma kontrolü yapılır." }
+      ]
+    }
+  ]
+}

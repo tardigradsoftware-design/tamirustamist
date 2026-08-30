@@ -1,0 +1,25 @@
+{
+  "slug": "bayrampasa",
+  "ad": "Bayrampaşa",
+  "bolge": "Merkez aks, sanayi ve yerleşim iç içe",
+  "accent": "slate",
+  "layout": "A",
+  "heroIndex": 6,
+  "vurguluHizmetler": ["komple-mutfak-tadilati", "banyo-fayans-ve-seramik-doseme", "elektrik-tesisati-kurulumu", "tikali-gider-acma", "kombi-bakimi-ve-ariza-onarimi"],
+  "komsular": ["eyupsultan", "gaziosmanpasa", "esenler", "bagcilar", "bahcelievler"],
+  "giris": "Bayrampaşa, merkezi konumu nedeniyle ticaret ve sanayinin konutla iç içe olduğu bir ilçe. Eski yapı stoku ve yoğun kullanım, hem ev hem işyeri tadilatını bir arada talep eden müşteri profili yaratıyor. Terazidere, Yenidoğan ve Kocatepe mahallelerinde eski binaların tesisat ve banyo-mutfak yenileme işleri yoğun; İstanbul Forum ve otogar çevresindeki işletmeler ise kısa sürede biten ofis ve mağaza tadilatları istiyor. İlçe merkezi bizim için ulaşım açısından avantajlı; acil su kaçağı, gider tıkanıklığı ve elektrik arızalarında ekibimiz ortalama 40 dakika içinde yerinde oluyor. Gece çalışma yapılan işyeri tadilatlarında da vardiyalı program uyguluyoruz.",
+  "uzmanlik": "İşyeri açılış-periyot tadilatlarında dükkan kepenk, zemin, elektrik ve vitrin işlerini tek kalemde topluyoruz. Eski bina dairelerinde ise gaz ve su hatlarının projesiz geçmişini biliyor; güvenli yenileme için hattı komple elden geçiriyoruz. İlçedeki apartman yönetimleriyle ortak alan tadilatı (merdiven, hol, tavan) çalışmaları da yürütüyoruz.",
+  "musteriProfili": "Esnaf ve işyeri sahipleri, kiraya veren mülk sahipleri, apartman yöneticileri ve merkezi yaşamı tercih eden aileler.",
+  "sorunlar": [
+    "Eski binalarda projesiz ve yıpranmış gaz-su hatları",
+    "Yoğun işyeri trafiği kaynaklı ortak alan aşınması",
+    "Otogar çevresinde kısa sürede açılış tadilatı baskısı",
+    "Yoğun kullanılan banyo/mutfaklarda hızlı deformasyon"
+  ],
+  "sss": [
+    { "s": "Dükkanımın açılışına 10 gün var, yetişir misiniz?", "c": "Keşif ve malzeme temini hızlı tutulan standart işlerde (zemin, boya, elektrik, vitrin) 7-10 günde teslim ediyoruz; acil programla süre daha da kısalır." },
+    { "s": "Apartman merdiven ve hol tadilatı yapıyor musunuz?", "c": "Evet, yönetici ve kat malikleriyle toplantı yapıp örnek iş sunuyor; ortak alan tadilatını mesai saatlerinde, daireleri rahatsız etmeden tamamlıyoruz." },
+    { "s": "Eski binada gaz hattı tadilatı güvenli mi?", "c": "Gaz hattına müdahale yetkili ekip ve vize süreciyle yapılır; mevcut hattı test edip gerekli yenilemeyi belgeli şekilde tamamlıyoruz." },
+    { "s": "Bayrampaşa'da gece yapılan iş var mı?", "c": "İşyeri tadilatlarında hafta içi gündüz, ticari yoğunluğu yüksek bölgelerde akşam-gece vardiyası uyguluyoruz." }
+  ]
+}

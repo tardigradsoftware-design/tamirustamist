@@ -1,0 +1,25 @@
+{
+  "slug": "bahcelievler",
+  "ad": "Bahçelievler",
+  "bolge": "Güney orta kuşak, yerleşik bölge",
+  "accent": "orange",
+  "layout": "B",
+  "heroIndex": 3,
+  "vurguluHizmetler": ["ic-cephe-boya-ve-badana", "parke-ve-laminat-doseme", "komple-banyo-tadilati", "mutfak-tezgahi-degisimi", "gomme-dolap-ve-giyinme-odasi"],
+  "komsular": ["bakirkoy", "bagcilar", "gungoren", "bayrampasa", "zeytinburnu"],
+  "giris": "Bahçelievler, planlı yapılaşması ve yerleşik komşuluk ilişkileriyle İstanbul'un orta gelir üstü konut bölgelerinden. İlçedeki apartmanların çoğu 1990'larda inşa edildiği için bugün banyo ve mutfak yenileme, kombi değişimi ve iç mekan modernizasyonu talebi olgunlaşmış durumda. Özellikle Hürriyet, Şirinevler ve Bahçelievler mahallelerinde; çocuklu aileler banyoda kaymaz zemin, güvenli priz ve çocuk dostu düzenlemeler; büyüyen aileler ise oda düzeni değişikliği ve gömme dolap istiyor. Dairelerin yeniden satış/kiralık değerini artırmak isteyen ev sahipleri için de keşif sonrası yatırım değeri analizi sunuyoruz. Metro ve metrobüs erişimi sayesinde ekibimiz acil çağrılara gün içinde yetişiyor.",
+  "uzmanlik": "Şirinevler bölgesindeki eski binalarda sıkça görülen dış cephe kaynaklı nemi içeriden çözüyor; balkon kapatma ve camekan düzenlemelerinde komşuluk hukukuna uygun uygulamalar yapıyoruz. Bahçelievler'deki site içi dairelerde ise ortak alan izin süreçlerini yönetiyor, gürültüsüz çalışma taahhüdü veriyoruz. Satılık dairelerin alıcı bulması için yapılan 'satışa hazırlık tadilatı' bizim en çok tercih edilen hizmetlerimizden.",
+  "musteriProfili": "Daire değerini artırmak isteyen ev sahipleri, banyosunu yenileyen çocuklu aileler ve büyüyen aileler için oda düzeni değiştiren kullanıcılar.",
+  "sorunlar": [
+    "1990'lar binalarında kombi ve tesisat ömrünün dolması",
+    "Balkon kapatmalarda izin ve yalıtım hataları",
+    "Banyo altı sızdırmazlık kaynaklı komşu dairesi nemi",
+    "Satış öncesi dairede eski görünüm"
+  ],
+  "sss": [
+    { "s": "Dairemi satmadan önce hangi tadilatlar değer katar?", "c": "Banyo zemin düzeni, mutfak tezgahı, boya ve parke en çok geri dönüşü olan kalemlerdir; keşifte bütçenize göre öncelik listesi çıkarıyoruz." },
+    { "s": "Balkon kapatmada komşuluk hakkında sorun yaşar mıyım?", "c": "Balkon kapatma apartman yönetim kararına tabidir. Biz gereken izin sürecini ve ısı/ses yalıtımlı camekan uygulamasını birlikte yönetiyoruz." },
+    { "s": "Banyo altından alt kata nem sızıyor, ne yapmalıyım?", "c": "Önce kaçağın tesisattan mı yalıtımdan mı geldiğini tespit ediyoruz; kaçak ise onarıp yalıtımı yeniliyor, alt kat sorununu kökten çözüyoruz." },
+    { "s": "Site dairemde çalışma saatleri kısıtlı, tadilat yapılabilir mi?", "c": "Yönetim kurallarına uygun gürültüsüz saatlerde ve vardiya planıyla çalışıyor; moloz çıkışını yönetim onayına uygun yapıyoruz." }
+  ]
+}

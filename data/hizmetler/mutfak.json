@@ -1,0 +1,148 @@
+{
+  "slug": "mutfak-tadilati",
+  "baslik": "Mutfak Tadilatı",
+  "ikon": "kitchen",
+  "aciklama": "İstanbul'da komple mutfak tadilatı, mutfak dolabı yapımı, tezgah değişimi, ankastre montajı ve karo döşeme hizmetleri.",
+  "hizmetler": [
+    {
+      "id": 8,
+      "slug": "komple-mutfak-tadilati",
+      "baslik": "Komple Mutfak Tadilatı (Anahtar Teslim)",
+      "kisaAciklama": "Sökümden dolaba, tezgahtan tesisata anahtar teslim komple mutfak tadilatı. Sabit fiyat, yazılı garanti ve ücretsiz keşif.",
+      "detay": "Komple mutfak tadilatı; eski dolap ve tezgahın sökümü, mutfak tesisatının yeniden düzenlenmesi, karo döşemesi, yeni dolap ve tezgahın montajı ile ankastre cihazların bağlanmasını içeren anahtar teslim bir hizmettir. Süreç yerinde ölçü ve keşifle başlar; mutfağınızın kullanım alışkanlıklarına göre dolap yerleşimi planlanır, çalışma üçgeni (ocak-evye-buzdolabı) dikkate alınır. Dolap montajında üst ve alt dolaplar duvar ve zemine sağlam monte edilir, kapaklar ve çekmeceler ayarlanır. Tezgah seçiminde mermer, granit, çimstone veya laminant alternatifleri sunulur; kesimler CNC veya sulu kesim ile yapılır, birleşimler minimum görünür derzle tamamlanır. Su ve atık bağlantıları PPRC ve silikon mastik ile sızdırmaz kurulur; ankastre setin elektrik ve gaz bağlantısı yetkili ekip tarafından yapılır. İş sonunda komplet temizlik ve yazılı garanti belgesi teslim edilir.",
+      "faydalar": [
+        "Tek sözleşme: söküm, tesisat, karo, dolap, tezgah ve ankastre tek pakette",
+        "Kullanım alışkanlığınıza göre planlanan çalışma üçgeni",
+        "Mermer, granit, çimstone ve laminant seçenekleri",
+        "Yazılı işçilik garantisi ve iş sonu temizlik"
+      ],
+      "sss": [
+        { "s": "Komple mutfak tadilatı ne kadar sürer?", "c": "Ortalama 12-18 iş günü sürer; söküm, tesisat, karo, dolap ve tezgah aşamaları sırayla ilerler. Küçük mutfaklar 10 güne inebilir." },
+        { "s": "Mutfak tadilatında dolap malzemesi ne seçilmeli?", "c": "MDF laklı kapaklar bütçe dostu, folyo kapaklar dayanıklı, akrilik kapaklar modern görünüm sunar. Nem dayanımına göre en uygun kombinasyonu keşifte öneriyoruz." },
+        { "s": "Tezgah olarak hangisini seçmeliyim: çimstone mu, granit mi?", "c": "Çimstone darbeye ve lekeye dayanıklıdır, renk seçeneği fazladır; granit doğal taş dokusu isteyenler için idealdir. Bütçe ve kullanım beklentinize göre yönlendiriyoruz." },
+        { "s": "Mutfak tadilatı sırasında mutfağı kullanabilir miyim?", "c": "Söküm ve tesisat aşamasında mutfak kullanıma kapatılır. Geçici olarak mini fırın ve kızılötesi ocak planıyla günlük ihtiyaçlarınızı karşılayabilirsiniz; keşifte planı birlikte kurarız." },
+        { "s": "Ankastre cihazlarım eski, değişecek mi?", "c": "Mevcut ankastreleriniz uyumluysa koruyup yerinde tutarız; yenileyeceksek elektrik ve gaz bağlantıları dahil montajı biz yaparız." }
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "mutfak-dolabi-yapimi-ve-montaji",
+      "baslik": "Mutfak Dolabı Yapımı ve Montajı",
+      "kisaAciklama": "Ölçüye özel mutfak dolabı imalatı, karkas montajı, kapak ve çekmece ayarı; tezgah ve cihaz uyumu garantili.",
+      "detay": "Mutfak dolabı yapımı ve montajı, ölçü alımından başlayarak dolabın atölyede üretimi ve yerinde kurulumunu kapsar. Standart ölçülere sıkışmayan, duvar ve kolon gibi çıkıntıları olan mutfaklarda özel imalat tek çözümdür. Üretimde neme dayanıklı MDF/HPL malzeme, menteşe ve şönellerde kaliteli markalar kullanılır. Montajda alt dolaplar önce hizalama ayaklarıyla tesviye edilir, tezgah üzerine yerleştirilir; üst dolaplar yatay ve düşey mastarla asılır. Kapak ayarları, çekmece ray ayarları ve dolap kapaklarının çarpma önleyici ayarları işin detaylarıdır. Dolap içi raf düzeni, ayakkabılık, çekmece iç düzeni ve adanız varsa ada dolabı montajı da eklenebilir. Tezgah ve ankastre cihaz ölçüleri dolap imalatına göre yapıldığından montaj sonrası uyumsuzluk yaşanmaz.",
+      "faydalar": [
+        "Ölçüye özel üretim ile her mutfakta kusursuz uyum",
+        "Neme dayanıklı malzeme ve sağlam menteşe-şönel kullanımı",
+        "Tesviye ayakları ile çarpık zeminde bile düz dolap kurulumu",
+        "Kapak, çekmece ve ray ayarları dahil kusursuz bitiş"
+      ],
+      "sss": [
+        { "s": "Özel imalat dolap ne kadar sürer?", "c": "Ölçü ve tasarım onayından sonra üretim 7-12 gün, montaj 2-4 gün sürer. Toplam süre mutfağınızın büyüklüğüne göre değişir." },
+        { "s": "Dolap yapımı mı yoksa hazır dolap mı daha ekonomik?", "c": "Hazır modüler dolaplar başlangıçta ekonomik olabilir ama ölçü uyumsuzluklarında ek maliyet çıkar. Özel imalatta israf yoktur ve ömrü daha uzundur; uzun vadede dengeyi keşifte hesaplıyoruz." },
+        { "s": "Dolap kapaklarının renk seçeneği var mı?", "c": "Yüzlerce renk ve kaplama seçeneğimiz var: lak, folyo, akrilik, ahşap desen ve mat-beyaz kombinasyonları. Numune kataloguyla seçiminizi yaparsınız." },
+        { "s": "Mevcut dolabın sadece kapaklarını değiştirebilir miyim?", "c": "Karkas sağlamsa kapak ve tezgah yenilemesi ile mutfak tamamen yenilenmiş görünüme kavuşur. Bu, tam tadilattan daha ekonomik bir alternatiftir." },
+        { "s": "Ankastre cihazları dolaba uyduruyor musunuz?", "c": "Evet, dolap imalatı sırasında ankastre ölçüleri birebir işlenir. Cihazlarınızı daha sonra alsanız bile standart ebatlara uygun yuva hazırlanır." }
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "mutfak-tezgahi-degisimi",
+      "baslik": "Mutfak Tezgahı Değişimi (Mermer / Granit / Çimstone)",
+      "kisaAciklama": "Mutfak tezgahı değişimi; mermer, granit ve çimstone kesim, şaşırtma birleşim, montaj ve silikon bitiş.",
+      "detay": "Mutfak tezgahı değişimi; eski tezgahın sökümü, yeninin ölçüye göre kesimi ve montajını kapsar. Mermer, granit ve çimstone (kuvars) tezgahlar için önce mutfak tezgah altı dolap ölçüleri alınır, evye ve ocak delikleri işlenmek üzere işaretlenir. Kesim işlemleri su ile soğutmalı makinalarda yapılır; böylece kenarlarda kırılma ve ısı çatlaması oluşmaz. Parça birleşimlerinde şaşırtma (miter) yöntemi ile birleşim hattı neredeyse görünmez kılınır. Montajda tezgah dolap üzerine oturtulur, duvar arkası silikon ile kapatılır; evye altı bağlantılar ve musluk delikleri kontrol edilir. Tezgah seçiminde bilmeniz gereken: mermer doğal ve ferah, granit sert ve dayanıklı, çimstone ise leke ve çizilmeye en dirençli yüzeydir. Standart ve island (ada) tezgahlar için aynı hizmet verilir.",
+      "faydalar": [
+        "Su soğutmalı kesim ile pürüzsüz ve kırıksız kenar",
+        "Şaşırtma birleşim ile görünmez tezgah derzi",
+        "Evye/ocak delikleri CNC hassasiyetinde işlenir",
+        "Mermer, granit, çimstone ve laminant seçenekleri"
+      ],
+      "sss": [
+        { "s": "Tezgah değişimi ne kadar sürer?", "c": "Ölçü alındıktan sonra üretim 3-7 gün, montaj 1-2 gün sürer. Eski tezgahın sökümü montaj günü yapılır." },
+        { "s": "Tezgah ölçüsü nasıl alınıyor?", "c": "Uzman ekibimiz lazer metre ile tezgah altı dolap ölçülerini, duvar eğriliklerini ve evye/ocak konumlarını kaydeder; ardından atölyede birebir kesim planı çıkarılır." },
+        { "s": "Eski tezgahın sökülmesi dolaba zarar verir mi?", "c": "Eski tezgahın dikkatli sökümü ile dolap karkası korunur. Gerekirse tezgah altı kontrplak takviye edilir." },
+        { "s": "Çimstone tezgah çizilir mi, sararır mı?", "c": "Çimstone yüzeyi gözeneksizdir; çay, kahve ve yağ lekelerine dayanıklıdır. Sert cisimlerle kesme çizikleri oluşabilir; kesme tahtası kullanımı yeterli korumadır." },
+        { "s": "Tezgah değişirken eviye ve musluk da değişmek zorunda mı?", "c": "Hayır, mevcut eviye ve musluk korunabilir; delikler yeniden işlenir ya da mevcut delikler büyütülür. İsterseniz yeni eviye montajını da yaparız." }
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "tezgah-arasi-cam-ve-fayans-kaplama",
+      "baslik": "Tezgah Arası Cam / Fayans Kaplama",
+      "kisaAciklama": "Mutfak tezgah arası cam panel veya fayans kaplama; ocak arkası yağ koruması, ölçüye özel kesim ve montaj.",
+      "detay": "Tezgah arası (duvar) kaplama; ocağın arkasını yağ sıçramasından ve duvarı nemden koruyan hem fonksiyonel hem de görsel bir uygulamadır. Fayans uygulamasında duvar yüzeyi hazırlanır, karo yapıştırıcı ile döşenir ve derz dolgusu yapılır. Cam panel seçeneğinde ise mutfak ölçeriz, özel olarak temperlenmiş ve arkası boyanmış camı priz ve duş bağlantı noktaları delikleri açılmış şekilde üretiriz; montajda alüminyum klemens veya özel yapıştırma sistemi kullanılır. Cam panel, derzsiz olduğu için hijyen açısından avantajlıdır; lekeler nemli bezle silinir. Renk seçeneği uygulamanın mutfağınıza uyum sağlamasını kolaylaştırır. Kapalı bordür, led aydınlatmalı panel modelleri de isteğe bağlı sunulur. Hem yeni mutfak tadilatı hem de mevcut mutfak yenilemelerinde uygulanabilir.",
+      "faydalar": [
+        "Derzsiz cam panel ile hijyenik ve kolay temizlenen yüzey",
+        "Ölçüye özel üretim: priz ve aparat delikleri fabrikada açılır",
+        "Fayans seçeneği ile bütçe dostu klasik çözüm",
+        "Yağ ve buharla mücadelede yüzey koruması"
+      ],
+      "sss": [
+        { "s": "Cam panel mi fayans mı daha iyi?", "c": "Cam panel derzsiz ve hijyenik, fayans ise bütçe dostu ve desenli seçenek sunar. Mutfakta ocak arkası gibi yoğun kirlenen bölgelerde cam paneli öneriyoruz." },
+        { "s": "Cam panel ne kadar sürede gelir?", "c": "Ölçü alındıktan sonra temperli panel üretimi 5-10 gün sürer; montaj kısadır ve yarım gün içinde tamamlanır." },
+        { "s": "Priz ve ocak delikleri camda açılıyor mu?", "c": "Evet, ölçü kaydında priz, gaz vanası ve ankastre konumları alınır; delikler üretim aşamasında hassas kesilir." },
+        { "s": "Mevcut derz ve fayansın üzerine cam kaplama yapılır mı?", "c": "Yüzey düz ve sağlamsa mevcut fayans üzerine cam panel uygulaması mümkündür; böylece söküm maliyeti ortadan kalkar." },
+        { "s": "Cam panel temizliği nasıl olmalı?", "c": "Yüzey temperli cam olduğu için standart cam temizleyici ve yumuşak bez yeterlidir; yağ lekeleri için sıcak su ve yumuşak deterjan öneriyoruz." }
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "mutfak-evye-ve-batarya-montaji",
+      "baslik": "Mutfak Evyesi ve Bataryası Montajı",
+      "kisaAciklama": "Krom, granit ve gömme mutfak evyesi montajı; çekmeli batarya değişimi, sifon ve pisuar bağlantıları.",
+      "detay": "Mutfak evyesi ve batarya montajı, tezgah değişimlerinden bağımsız olarak da yapılan, kısa sürede tamamlanan bir iştir. Gömme (undermount) evyede tezgah altından delik açılır ve eviye özel bağlantı aparatlarıyla asılır; krom eviyeler tezgah üstüne oturtulup silikon mastik ile sızdırmaz hale getirilir. Granit ve kompozit eviyelerde aynı şekilde ölçü ve montaj yapılır. Batarya bağlantısında çekmeli (pull-out) modellerde hortum yönlendirmesi ve ağırlık ayarı yapılır; sifon ve pisuar bağlantıları sabit ve eğimli kurulur. Montaj sonrası sıcak-soğuk su bağlantıları, sızıntı testi ve eviye altı hortum kontrolü yapılır. Eski eviye ve bataryanın sökümü, gerekirse eski sifonun değişimi işin içindedir. Tezgah deliklerinde crossover/kelepçe kullanılarak sızdırmazlık artırılır.",
+      "faydalar": [
+        "Gömme ve krom eviye montajında uzman kadro",
+        "Çekmeli bataryalarda doğru hortum ve ağırlık ayarı",
+        "Eski sifon dahil tüm bağlantı elemanlarının yenilenmesi",
+        "İş sonu sızdırmazlık ve basınç testi"
+      ],
+      "sss": [
+        { "s": "Eviye değişimi ne kadar sürer?", "c": "Standart bir eviye ve batarya değişimi 1-2 saat sürer. Tezgah deliği işlemi gerekiyorsa yarım güne uzar." },
+        { "s": "Gömme eviye her tezgaha takılır mı?", "c": "Gömme eviye; granit, çimstone ve kuvars tezgahlarda uygulanır, laminant tezgahlarda ise destekli bölgelere takılabilir. Yerinde kontrol edip öneriyoruz." },
+        { "s": "Evyenin altından su sızıyor, ne yapmalıyım?", "c": "Birçok sızıntı, sifon birleşimlerindeki contaların eskimesinden kaynaklanır. Gider conta ve sifon komple değişimi ile sorunu aynı gün çözüyoruz." },
+        { "s": "Çekmeli batarya hortumu geri çekilmiyor, sebebi nedir?", "c": "Hortum ağırlığının yanlış ayarlanması ya da hortumun kıvrılması buna yol açar. Düzeltme için hortum yönlendirmesi ve ağırlık ayarı yapıyoruz." },
+        { "s": "Eviye ve bataryayı beraber değiştirebilir misiniz?", "c": "Evet, eviye ve batarya seti halinde değişimde işçilik avantajı sağlanır; keşifte birlikte planlanır." }
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "ankastre-cihaz-montaji",
+      "baslik": "Ankastre Cihaz Montajı (Ocak / Fırın / Davlumbaz)",
+      "kisaAciklama": "Ankastre ocak, fırın, davlumbaz ve bulaşık makinesi montajı; elektrik, gaz ve havalandırma bağlantıları.",
+      "detay": "Ankastre cihaz montajında ocak, fırın, davlumbaz, bulaşık makinesi ve kombi tipi ürünlerin yerleşimi ile bağlantıları yapılır. Gazlı ocaklar için gaz vanası ve hortumu kontrol edilir, sızıntı testi uygulanır; elektrikli cihazlarda uygun hat (en az 2.5mm²) ve topraklama kontrol edilir. Davlumbaz montajında havalandırma kanalı, duvar tipi veya ada tipi modellerin sabitlemesi ve motor bağlantısı yapılır; geri tepme (çekvalf) kontrolü ile hava geri akışı önlenir. Bulaşık makinesi montajında su giriş hortumu, atık bağlantısı ve ayak tesviyesi yapılır. Montaj sonrasında tüm cihazların çalışma testi yapılır, kullanıcıya kullanım bilgisi kısaca hatırlatılır. Gaz bağlantısı işlemlerinde yetkili sertifikamız bulunur; bu işlemler yasal prosedürlere uygun belgelenir.",
+      "faydalar": [
+        "Gaz ve elektrik bağlantılarında yetkili ve belgeli ekip",
+        "Davlumbaz çekvalf ayarı ile mutfağa geri hava akışı sonu",
+        "Bulaşık makinesi ve tüm ankastrelerin komple montajı",
+        "Montaj sonrası cihaz çalışma testi"
+      ],
+      "sss": [
+        { "s": "Ankastre montajı için mutlaka usta mı gerekir?", "c": "Özellikle gazlı ocaklarda ve elektrikli fırınlarda yetkili usta gereklidir; yanlış bağlantı yangın ve gaz kaçağı riski oluşturur. Montajımız belgeli ve garantilidir." },
+        { "s": "Davlumbaz havalandırması yoksa ne yapılır?", "c": "Çıkış kanalı yoksa karbon filtreli (davlumbazsız) devridaim modu kullanılır ya da duvardan kanal açılır. Keşifte mutfağınızın durumuna göre doğru çözümü planlarız." },
+        { "s": "Eski ankastre cihazları söküyor musunuz?", "c": "Evet, eski ocak, fırın ve davlumbazın sökümünde yeni cihazın montajına kadar tüm süreci yönetiriz." },
+        { "s": "Bulaşık makinesi montajında mevcut su bağlantısı yoksa?", "c": "Mevcut eviye altı tesisattan pense ve T bağlantı ile su hattı çıkarılır; atık hattı da eviye sifonuna bağlanır. Ek tesisat işi içindedir." },
+        { "s": "Garanti için cihaz kurulumunu kim yapmalı?", "c": "Cihaz garantisi bağlantıların yetkili/teknik servis tarafından yapılmasını şart koşar. Kurulum sonrası garanti belgesine montaj damgamızı işliyoruz." }
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "mutfak-fayans-ve-zemin-doseme",
+      "baslik": "Mutfak Fayans ve Zemin Döşeme",
+      "kisaAciklama": "Mutfak zemini ve tezgah arası fayans döşeme; kaymaz karo, epoksi derz ve lazer tesviyeli uygulama.",
+      "detay": "Mutfak zemin ve duvar fayansı döşemede mutfağın yoğun trafiği ve nemi göz önünde bulundurulur. Zemin için kayma direnci yüksek (R9-R11) karo önerilir; döşeme öncesi zemine şap tesviye edilir, lazer terazi ile kot alınır. Duvar bölgelerinde tezgah arası ve davlumbaz arkası fayans uygulaması yapılır. Yapıştırma işlemi tam yüzey tekniğiyle yapılır, böylece karo altında boşluk kalmaz ve kırılma riski sıfırlanır. Derz dolgusunda epoksi derz öneririz; mutfakta yağ ve nem epoksi derzin sararmamasını sağlar. Süpürgelik ve köşe detaylarında düzgün kesim yapılır, geçiş profilleri zemin-yüzey birleşimlerinde estetik ve koruma sağlar. İş sonunda derzler temizlenir ve mutfak kullanıma hazır teslim edilir. Fayans seçiminizde renk ve ebat danışmanlığı da veriyoruz.",
+      "faydalar": [
+        "Kaymaz karo önerisi ve lazer terazi ile düz zemin",
+        "Epoksi derz ile mutfakta sararma ve küf sorunu sonu",
+        "Tam yüzey yapıştırma ile uzun ömürlü döşeme",
+        "Süpürgelik, geçiş profili ve köşe detayları dahil"
+      ],
+      "sss": [
+        { "s": "Mutfak zemini için hangi karo uygun?", "c": "Mat yüzeyli, R9 ve üzeri kayma direncine sahip, 60x60 veya 60x120 ebatlı granit karo mutfak için idealdir; hem temizlik kolay hem kayma riski düşüktür." },
+        { "s": "Fayans döşeme mevcut zemine yapılır mı?", "c": "Mevcut zemin üzerine döşeme, kapı yüksekliği ve kat platformu sorunları yaratır. Genellikle eski karolar sökülür, şap atılır ve yeni döşeme yapılır." },
+        { "s": "Derz neden koyu renk tercih edilmeli?", "c": "Mutfakta açık renk derz çabuk kirlenir ve sararır. Koyu veya orta ton epoksi derz hem estetik hem uzun süre temiz görünüm sağlar." },
+        { "s": "Döşeme altı ısıtma yapılabilir mi?", "c": "Evet, şap içine elektrikli ısıtma kablosu döşenebilir. Bu durumda karo yapıştırıcı ve derz ısıya uygun ürünler seçilir." },
+        { "s": "Mutfak fayans işiyle dolap kurulumu aynı anda mı yapılıyor?", "c": "Kural olarak önce zemin ve tezgah arası fayans döşenir, ardından dolaplar kurulur. Komple mutfak tadilatı paketimizde bu sıralama profesyonelce yönetilir." }
+      ]
+    }
+  ]
+}

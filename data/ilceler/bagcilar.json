@@ -1,0 +1,25 @@
+{
+  "slug": "bagcilar",
+  "ad": "Bağcılar",
+  "bolge": "Orta aks yoğun yerleşim",
+  "accent": "red",
+  "layout": "A",
+  "heroIndex": 2,
+  "vurguluHizmetler": ["komple-mutfak-tadilati", "banyo-fayans-ve-seramik-doseme", "sihhi-tesisat-kurulumu-ve-yenileme", "elektrik-ariza-tespiti", "tikali-gider-acma"],
+  "komsular": ["bahcelievler", "bayrampasa", "basaksehir", "esenler", "gungoren", "kucukcekmece"],
+  "giris": "Bağcılar, İstanbul'un en yoğun nüfuslu ilçelerinden biri; 1990'lar ve 2000'lerde yükselen apartmanlar, tekstil atölyeleri ve ticaret alanlarıyla iç içe bir yerleşim. Yoğunluk, tadilat işlerine de yansıyor: apartmanların ortak gider tıkanıklıkları, dükkan ve atölye tadilatları, hamam banyo yenileme talepleri günlük akışımızın parçası. Ev sahipleri genellikle kiracı değişimlerinde hızlı boya ve küçük tadilat, kendi konutlarında ise pay ölçekli komple yenileme istiyor. E-5 ve TEM bağlantıları sayesinde ekiplerimiz Bağcılar'a 30 dakika içinde ulaşabiliyor; acil su kaçağı ve gider tıkanıklıklarında aynı gün müdahale ediyoruz. Çarşı esnafına özel gece çalışma programımız da mevcut.",
+  "uzmanlik": "Tekstil atölyeleri ve dükkan tadilatlarında; zemin kaplama, elektrik hattı güçlendirme ve tabela montajı gibi ticari işleri yürütüyoruz. Eski binalardaki ortak kolon tıkanıklıklarında yönetimlerle dirsek teması kurarak tüm daireleri mağdur etmeden çözüm üretiyoruz. Yoğun kullanılan binalarda banyo ve mutfak tadilatlarını hafta içi tamamlayıp hafta sonu teslim eden hızlı programlar uyguluyoruz.",
+  "musteriProfili": "Kiraya veren mülk sahipleri, atölye ve dükkan işletmecileri, apartman yöneticileri ve yenilemeye hazır genç aileler.",
+  "sorunlar": [
+    "Ortak kolon giderlerinde sık sık tekrarlayan tıkanmalar",
+    "Kiracı geçişlerinde hızlı boya ve tamirat ihtiyacı",
+    "Atölye elektrik hattında aşırı yüklenme ve kontak atması",
+    "Eski mutfak dolaplarında deformasyon ve koku"
+  ],
+  "sss": [
+    { "s": "Bağcılar'da dükkan tadilatı yapıyor musunuz?", "c": "Evet, mağaza, atölye ve ofis tadilatlarında zemin, tavan, elektrik ve vitrin düzenlemelerini işyeri açılışına yetişecek şekilde planlıyoruz." },
+    { "s": "Apartman kolonu sürekli tıkanıyor, kalıcı çözüm var mı?", "c": "Kamera ile hattı inceleyip kök nedeni buluyoruz: eğim hatası, dar boru ya da çökme. Gerekirse hat yenileme projesi çıkarıyoruz." },
+    { "s": "Kiracım çıkıyor, daireyi kaç günde hazırlarsınız?", "c": "Standart bir daireyi 2-3 günde boya, küçük tamirat ve derin temizlikle yeni kiracıya hazır hale getiriyoruz." },
+    { "s": "Atölyemin elektrik hattını güçlendirmek istiyorum.", "c": "Mevcut yükü hesaplayıp pano ve hat yenileme yapıyoruz; makine eklemelerine uygun yedek devreler bırakıyoruz." }
+  ]
+}

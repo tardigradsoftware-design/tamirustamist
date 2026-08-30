@@ -1,0 +1,25 @@
+{
+  "slug": "basaksehir",
+  "ad": "Başakşehir",
+  "bolge": "Kuzeybatı planlı kent",
+  "accent": "teal",
+  "layout": "B",
+  "heroIndex": 5,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "gomme-dolap-ve-giyinme-odasi", "ic-cephe-boya-ve-badana", "ses-yalitimi", "klima-elektrik-baglantisi", "parke-ve-laminat-doseme"],
+  "komsular": ["arnavutkoy", "sultangazi", "bagcilar", "esenler", "kucukcekmece", "esenyurt"],
+  "giris": "Başakşehir, 2000 sonrasının planlı konut kenti; millet bahçeleri, modern siteleri ve geniş caddeleriyle ailelerin tercihi. İlçedeki daireler nispeten yeni olduğu için talepler daha çok kişiselleştirme odaklı: teslim edilen dairede banyo düzen değişikliği, giyinme odası imalatı, çocuk odası ses yalıtımı ve modern aydınlatma. İkitelli OSB'nin komşuluğu nedeniyle çalışanların çoğu burada oturuyor; akşam saatlerinde iş teslimine uygun esnek programlarımız var. Yeni sitelerde ortak alan kullanımı ve yönetim kuralları bizim için tanıdık: asansör planlaması, moloz kaldırma ve gürültü saatlerine tam uyum sağlıyoruz. Bahçeşehir tarafına da aynı ekip servisiyle hizmet verdiğimiz için bölgedeki lojistiği kısa tutabiliyoruz.",
+  "uzmanlik": "Sitede yeni teslim daire düzenlemelerinde uzmanız: bembeyaz boya yerine renkli ve dokulu yüzeyler, akustik panelli TV duvarı ve gizli kablolama gibi uygulamaları sık yapıyoruz. Site yönetimlerinin iş takip uygulamalarına uyum sağlıyor, işçi kimlik ve giriş çıkış süreçlerini eksiksiz yönetiyoruz. Geniş dairelerde yerden ısıtma kurulumu ve akıllı ev altyapısı (data hattı) projelerinde deneyimimiz yüksek.",
+  "musteriProfili": "İkitelli-Atatürk Havalimanı hattında çalışan genç profesyoneller, yeni daire sahibi aileler ve site içi yatırımcılar.",
+  "sorunlar": [
+    "Yeni dairelerde ince işçilik ve boya kusurları",
+    "Site ortamında gürültü ve moloz yönetimi hassasiyeti",
+    "Oda bazlı ses yalıtımı ihtiyacı",
+    "Akıllı ev ve data altyapısının eksik planlanması"
+  ],
+  "sss": [
+    { "s": "Başakşehir'de yeni teslim dairemde banyoyu büyütmek istiyorum, mümkün mü?", "c": "Banyo ölçüleri ve komşu planı elveriyorsa duvar kaydırma yapabiliyoruz; izin gerektiren işlerde projelendirmeyi de biz üstleniyoruz." },
+    { "s": "Site yönetimi tadilat için izin istiyor, süreci biliyor musunuz?", "c": "Evet, sitelerin tadilat yönergelerine göre evrak, asansör ve moloz planı hazırlıyor; yönetimle koordinasyonu biz yürütüyoruz." },
+    { "s": "Çocuk odası için ses yalıtımı ne kadar etkili?", "c": "Taş yünlü çift alçıpan ve akustik panel kombinasyonuyla komşu sesini büyük oranda kesiyor; ölçümle öncesi-sonrası farkını raporluyoruz." },
+    { "s": "Yerden ısıtmayı mevcut daireme kurmak mümkün mü?", "c": "Şap yenilemesi gerektirdiği için kapsamlı bir tadilattır; kapı ve kat yüksekliği kontrolü sonrası projelendirip uyguluyoruz." }
+  ]
+}

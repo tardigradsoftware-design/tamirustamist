@@ -1,0 +1,25 @@
+{
+  "slug": "catalca",
+  "ad": "Çatalca",
+  "bolge": "Kuzeybatı kırsal ilçe, köy kültürü",
+  "accent": "green",
+  "layout": "A",
+  "heroIndex": 11,
+  "vurguluHizmetler": ["kombi-bakimi-ve-ariza-onarimi", "sihhi-tesisat-kurulumu-ve-yenileme", "ic-cephe-boya-ve-badana", "pencere-degisimi", "su-kacagi-onarimi", "elektrik-ariza-tespiti"],
+  "komsular": ["arnavutkoy", "buyukcekmece", "silivri"],
+  "giris": "Çatalca, İstanbul'un en geniş ve en kırsal ilçesi; köyler, çiftlikler, ormanlar ve göletler arasında yayılan müstakil yapılar hakim. Burada apartman mantığı değil, tek katlı köy evi ve iki katlı müstakil konut kültürü var. Kaçak göçmen yapılaşmasının olduğu dönemlerden kalma eski evler ile yeni yapılan çiftlik evleri bir arada. Müşterilerimiz; kışın şehirde yaşayıp yazın köyünde zaman geçiren aileler, küçük çiftlik yatırımcıları ve yerleşik köylüler. Doğalgazın ilçe merkezine gelmesiyle kombi dönüşümü, köy evlerinde ise odun-soba sistemlerinden izolasyonlu modern ısıtmaya geçiş talepleri artıyor. Ekiplerimiz ilçenin dört bir yanındaki köylere gidiyor; yol ve ekipman planlamasını önceden yapıyoruz.",
+  "uzmanlik": "Müstakil yapılarda su deposu bağlantısı, kuyu/pompa tesisatı, septik ve fosseptik hat düzenlemeleri, çatı onarımı ve oluk değişimi konularında deneyimliyiz. Şebeke dışı yapılarda basınç pompası ve hidrofor ayarı işlerini de üstleniyoruz. Köy evlerinin ahşap tavan ve duvar dokusunu koruyarak elektrik ve tesisat yenileme yapıyoruz.",
+  "musteriProfili": "Köyünde yaşayan aileler, çiftlik ve gölet çevresi yatırımcıları, yazlık köy evi sahipleri.",
+  "sorunlar": [
+    "Şebeke dışı yapılarda su basıncı ve pompa sorunları",
+    "Eski köy evlerinde elektrik tesisatının yetersizliği",
+    "Doğalgazı olmayan bölgelerde ısınma dönüşümü",
+    "Çatı ve oluk kaynaklı su hasarları"
+  ],
+  "sss": [
+    { "s": "Köy evimde şebeke yok, hidrofor sistemi kuruyor musunuz?", "c": "Evet, kuyu/depodan beslenen hidrofor, basınç tankı ve otomatik kontrol ünitesi kurulumu yapıyoruz; mevcut sistemlerin bakımını da üstleniyoruz." },
+    { "s": "Doğalgaz gelmeyen evde hangi ısıtma daha avantajlı?", "c": "Pelet/kömür kazanlı kalorifer, elektrikli yerden ısıtma veya LPG dönüşümü gibi seçenekleri yapı ve bütçenize göre değerlendirip tek elden kuruyoruz." },
+    { "s": "Çiftlik evimde fosseptik taşıyor, ne yapmalıyım?", "c": "Hat eğimini ve depoları kontrol edip gerekirse yeni hat döşüyoruz; izin gerektiren sistemler için belediye sürecinde yönlendirme yapıyoruz." },
+    { "s": "Ahşap tavanlı eve elektrik tesisatı döşenir mi?", "c": "Evet, yangın güvenliği için alevgeciktirici kablolarla kanal içinde döşüyor; ahşap dokuyu koruyoruz. İş sonunda tesisat raporu veriyoruz." }
+  ]
+}

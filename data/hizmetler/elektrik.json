@@ -1,0 +1,148 @@
+{
+  "slug": "elektrik-tesisati",
+  "baslik": "Elektrik",
+  "ikon": "bolt",
+  "aciklama": "İstanbul'da elektrik tesisatı kurulumu, pano değişimi, priz anahtar montajı, avize ve arıza tespit hizmetleri.",
+  "hizmetler": [
+    {
+      "id": 48,
+      "slug": "elektrik-tesisati-kurulumu",
+      "baslik": "Elektrik Tesisatı Kurulumu ve Yenileme",
+      "kisaAciklama": "Yeni daire ve tadilatlarda elektrik tesisatı döşeme; projeye uygun hatlar, topraklama ve otomatlar.",
+      "detay": "Elektrik tesisatı kurulumu ve yenileme; dairenin tüm elektrik hatlarının projeye uygun şekilde döşenmesidir. Yenileme işlerinde eski, yalıtımı bozulmuş ve yetersiz kesitli kablolar sökülür; yeni tesisatta her oda için ayrı aydınlatma, priz ve kombi hattı çekilir. Yatak odası, salon ve mutfak prizleri; buzdolabı, çamaşır makinesi ve ankastre hatları gibi yüksek güç tüketen bölgeler için uygun kablo kesiti (2.5mm² priz, 1.5mm² aydınlatma) kullanılır. Tüm priz ve aydınlatma hatları topraklanır; yeni nesil otomat (MCB) ve kaçak akım koruma (RCD) şartı yerine getirilir. Kablo kanalları duvar içine çekilir, buatlar ve pimaş geçişleri projelendirilir. İş sonunda hatlar devre bazında test edilir, topraklama ölçümü yapılır ve devre şeması teslim edilir.",
+      "faydalar": [
+        "Projeye uygun yeni nesil tesisat ve topraklama",
+        "Devre bazlı ayrı hatlar ile arıza avı kolaylığı",
+        "Kaçak akım koruması (RCD) ile güvenlik",
+        "İş sonu ölçüm testi ve devre şeması teslimi"
+      ],
+      "sss": [
+        { "s": "Elektrik tesisatı yenileme ne kadar sürer?", "c": "Ortalama bir dairede 3-5 gün sürer; duvar kanal açma, kablo çekme, pano yenileme ve sıva-boya restorasyonu dahildir." },
+        { "s": "Eski tesisatta hangi kablolar değişmeli?", "c": "Yalıtımı sertleşmiş, damarı kopma riski olan ve yetersiz kesitli (0.75-1 mm²) kablolar mutlaka yenilenmelidir; priz hatları 2.5mm² olmalıdır." },
+        { "s": "Topraklama şart mı?", "c": "Evet, güvenlik ve yeni mevzuat gereği priz ve aydınlatma hatları topraklanmalıdır; eski binalarda topraklama yenilenmesi yapılır." },
+        { "s": "Tesisat yenilenirken duvar kırılır mı?", "c": "Mevcut kanallar uygunsa kablolar kanal içinden çekilir; yeni hatlar için sıva içine kanal açılır ve iş sonunda sıva kapatılır." },
+        { "s": "Yeni tesisata neden kaçak akım koruması gerekli?", "c": "RCD, kaçak durumunda devreyi milisaniyeler içinde keserek elektrik çarpması ve yangın riskini engeller; yeni binalarda zorunludur." }
+      ]
+    },
+    {
+      "id": 49,
+      "slug": "sigorta-kutusu-degisimi",
+      "baslik": "Sigorta Kutusu (Pano) Değişimi ve Tamiri",
+      "kisaAciklama": "Eski sigorta kutusu yenileme; otomat, kaçak akım rölesi ve pano tadilatı. Dağıtım panosu modernizasyonu.",
+      "detay": "Sigorta kutusu (pano) değişimi; eski tip sigortaların ve dağıtım panosunun modern otomatlarla yenilenmesidir. Eski atımlı sigortalar, aşınmış porselen sistemler ve yetersiz kutu kapasiteleri; günümüz elektrik ihtiyacına (kombi, klima, elektrikli ocak) cevap veremez. Değişimde pano kapağı ve tüm elemanlar yenilenir; her daire hattı için ayrı otomat (MCB) ve genel kaçak akım koruması (RCD) tesis edilir. Pano etiketlemesi yapılarak her otomatın hangi hattı beslediği belgelenir; böylece arıza anında uğraş kaybolur. Tamir işlerinde atan sigorta, gıcırdayan otomat ve gevşeyen bağlantı plakaları yenilenir; termal kontrol yapılır. İş sonunda tüm devreler açma-kapama testi ve termal görüntüleme ile kontrol edilir.",
+      "faydalar": [
+        "Modern MCB/RCD otomatlarla güvenli ve düzenli pano",
+        "Devre etiketleme ile arıza anında kolay müdahale",
+        "Isınan ve atan sigorta sorunlarında kesin çözüm",
+        "Termal kontrol ile mevcut risklerin tespiti"
+      ],
+      "sss": [
+        { "s": "Sigorta kutusu değişimi ne kadar sürer?", "c": "Standart daire panosu değişimi 2-4 saat sürer; pano yeri ulaşımı zor veya hat çekimi gerekiyorsa yarım gün." },
+        { "s": "Eski sigortam atıyor, kutuyu değiştirmek şart mı?", "c": "Sık atan sigorta, aşırı yüklü devre veya otomat ömrünü doldurmuş sigorta anlamına gelir. Pano yenileme, hem güvenlik hem kapasite artışı sağlar." },
+        { "s": "Otomat mı sigorta mı tercih edilmeli?", "c": "Otomat (MCB) tekrar kullanılabilir, daha hassas korur ve devre bazlı ayrım sağlar; yeni panolarda standart olarak otomat kullanılır." },
+        { "s": "Kaçak akım rölesi neden takılmalı?", "c": "Daire genelini kaçaklardan korur; çamaşır makinesi, kombi ve ankastre kaynaklı sızıntılarda devreyi keserek kazaları önler. Yeni mevzuatta zorunludur." },
+        { "s": "Pano değişimi sırasında elektrik kesilir mi?", "c": "Evet, ana şalter kapatılarak çalışılır; işlem genellikle yarım gün içinde biter ve yeniden enerji verilir." }
+      ]
+    },
+    {
+      "id": 50,
+      "slug": "priz-ve-anahtar-montaji",
+      "baslik": "Priz ve Anahtar Montajı / Değişimi",
+      "kisaAciklama": "Priz, anahtar, topraklı priz, USB'li priz ve mekanizma değişimi; hızlı ve güvenli montaj.",
+      "detay": "Priz ve anahtar montajı; ev, ofis ve işyeri iç mekanlarında tüm elektrik mekanizmalarının kurulum ve değişimini kapsar. Değişimde devre öncelikle kapatılır, eski mekanizma sökülür ve bağlantı uçları kontrol edilir; gevşek, yanık ve okside uçlar yeniden hazırlanır. Topraklı priz, anahtar, dimmer, USB şarjlı priz ve akıllı priz modellerinin montajı yapılır; kutu içi kablolama net ve gergin olacak şekilde düzenlenir. Nemli alanlar için kapaklı (IP44) prizler önerilir; çocuk korumalı modeller aileler için standarttır. Aynı odada birden fazla mekanizma yenileniyorsa görsel uyum için tek marka/seri seçimi önerilir. İş sonunda her mekanizmanın çalışması test edilir ve faz-nötr yönü doğrulanır.",
+      "faydalar": [
+        "Topraklı ve çocuk korumalı priz seçenekleri",
+        "USB şarj ve akıllı priz kurulumu",
+        "Gevşek ve yanık bağlantı uçlarının yenilenmesi",
+        "İş sonu faz-nötr kontrolü ve test"
+      ],
+      "sss": [
+        { "s": "Priz değişimi ne kadar sürer?", "c": "Tek priz/anahtar değişimi 15-30 dakika sürer; kutu tadilatı gerektiren durumlarda süre uzar." },
+        { "s": "Prizlerin topraklı model seçilmeli mi?", "c": "Topraklı priz şarttır; özellikle mutfak, banyo ve yüksek güçlü cihazların bulunduğu alanlarda güvenlik gereğidir." },
+        { "s": "Eski mekanizmada kutu derin değil, ne yapılır?", "c": "Duvar tipi ara kutu veya yükseltme elemanlarıyla kutu derinliği artırılır; gerekirse buat yenilenir." },
+        { "s": "USB'li priz güvenli mi, şarj hızı nasıl?", "c": "Sertifikalı USB prizler güvenlidir ve 2.4A/3A hızlı şarj destekler. Bağlantı yaparken devre kapasitesi kontrol edilir." },
+        { "s": "Priz ısınıyor, ne yapmalıyım?", "c": "Isınan priz, gevşek bağlantı veya aşırı yük işaretidir; yangın riski taşır. Devre kapatılarak bağlantı kontrolü ve gerekirse priz değişimi yapılır." }
+      ]
+    },
+    {
+      "id": 51,
+      "slug": "avize-ve-aplik-montaji",
+      "baslik": "Avize ve Aplik Montajı",
+      "kisaAciklama": "Avize, sarkıt, spot, aplik ve LED panel montajı; duvar ve tavan yükü hesabı, montaj aparatları ile.",
+      "detay": "Avize ve aplik montajı; aydınlatma armatürlerinin tavan ve duvarlara güvenli şekilde monte edilmesidir. Montaj öncesi armatürün ağırlığı ve tavan tipi (beton, asma/alçıpan) değerlendirilir; ağır avizeler için tavan içindeki ankraj kirişine veya yaylı dübellerle betona sabitleme yapılır. Alçıpan tavanlara aydınlatma; özel kancalı dübel veya kirişe bağlantı aparatı ile monte edilir. Sarkıtların yüksekliği oda kullanımına göre ayarlanır, elektrik bağlantısı buat içinde yapılır ve faz-nötr-toprak bağlantıları doğrulanır. Spot ve LED şerit montajında transformers yerleştirilir, dimmer eşleştirmesi yapılır. Aplikler için duvar yapısına uygun dübel seçilir; bağlantı noktaları çıkan kablo geçişleri gizlenir. Montaj sonrası tüm armatürlerin çalışması test edilir.",
+      "faydalar": [
+        "Tavan ve duvar tipine uygun güvenli sabitleme",
+        "Ağır avizelerde ankrajlı montaj tekniği",
+        "LED şerit, spot ve dimmer bağlantıları",
+        "Faz-nötr doğrulamalı test"
+      ],
+      "sss": [
+        { "s": "Avize montajı ne kadar sürer?", "c": "Tek avize montajı 30-60 dakika sürer; bağlantı noktası hazır değilse kablo çekimiyle süre uzayabilir." },
+        { "s": "Alçıpan tavana avize asılabilir mi?", "c": "Evet, ancak ağır avizeler alçıpan tavanın içindeki kirişe veya yaylı (kelebek) dübel ile sabitlenmelidir; biz güvenli montajı sağlarız." },
+        { "s": "Mevcut avize kancası yoksa ne yapılır?", "c": "Tavan içine ankraj veya kirişe bağlantı aparatı eklenir; bu sayede avize düşme riski olmadan monte edilir." },
+        { "s": "LED şerit montajında elektrik hattı gerekir mi?", "c": "LED şerit için 12/24V adaptör ve bağlantı hattı gerekir; mevcut hattan besleme alınır ve adaptör gizli bir yere yerleştirilir." },
+        { "s": "Aplik duvara nasıl tutunur, düşer mi?", "c": "Duvar yapısına uygun dübel (beton/alçıpan) ile sabitlenir; ağır apliklerde çift dübel kullanılır. Doğru montaj ile düşme riski olmaz." }
+      ]
+    },
+    {
+      "id": 52,
+      "slug": "elektrik-ariza-tespiti",
+      "baslik": "Elektrik Arıza Tespiti ve Onarımı",
+      "kisaAciklama": "Kontak atması, kaçak, kısa devre ve gerilim düşüklüğü arızalarının cihazla tespiti ve onarımı.",
+      "detay": "Elektrik arıza tespiti; kontak atması, priz çalışmaması, ışık sönüp yanması, kaçak ve kısa devre gibi sorunların cihazlarla kaynağının bulunmasıdır. Tespitte multimetre ile hat gerilimi, süreklilik ve kaçak ölçümleri yapılır; termal kamera ile ısınan bağlantı noktaları taranır. Devre bazlı izolasyon testi ile kaçağın hangi hatta olduğu belirlenir; buat, bağlantı ve kablo kopuklukları adım adım izlenir. Onarımda hasarlı kablo bölümü değiştirilir veya yeniden bağlanır, gevşek bağlantı sıkılır, okside uçlar yenilenir. Gerilim düşüklüğü ve dalgalanma sorunlarında hat kesiti ve nötr bağlantıları kontrol edilir; gerekirse ana dağıtım noktaları yenilenir. Onarım sonrası arızalı devre yeniden test edilir ve diğer devrelerle uyum doğrulanır.",
+      "faydalar": [
+        "Multimetre, izolasyon testi ve termal kamerayla hassas tespit",
+        "Kontak, kaçak ve kısa devrede kökten onarım",
+        "Gerilim düşüklüğü ve dalgalanma analizi",
+        "Onarım sonrası devre testi ve rapor"
+      ],
+      "sss": [
+        { "s": "Elektrik arıza tespiti ne kadar sürer?", "c": "Tek devredeki basit arızalar 1-2 saatte bulunur; karmaşık kaçak ve kopukluk tespitleri yarım gün sürebilir." },
+        { "s": "Kontak atıyor, sürekli sigorta da atıyor, sorun ne?", "c": "Sık kontak atması genellikle aşırı yüklenmiş devre veya kaçak işaretidir. Devre bazlı ölçümle kaynak belirlenir ve devre güçlendirilir." },
+        { "s": "Prizler çalışmıyor, nereden başlıyorsunuz?", "c": "Önce pano ve devre dağılımı kontrol edilir; ardından ilgili hattın buat ve bağlantıları ölçülür. Kopukluk noktası en hızlı şekilde bulunur." },
+        { "s": "Işıklar yanıp sönüyor, sebebi ne olabilir?", "c": "Gevşek bağlantı, anahtar kontağı aşınması veya gerilim dalgalanması olabilir; termal kontrol ile ısınan nokta tespit edilir." },
+        { "s": "Arıza onarımı sonrası garanti var mı?", "c": "Onarım yapılan devre ve bağlantılar işçilik garantisi kapsamındadır; aynı arızanın tekrarlamasında ücretsiz müdahale edilir." }
+      ]
+    },
+    {
+      "id": 53,
+      "slug": "tv-uydu-internet-kablolamasi",
+      "baslik": "TV / Uydu ve İnternet (Data) Kablolaması",
+      "kisaAciklama": "TV, uydu ve data (internet) kablolama; priz çıkışları, cat6 ethernet hattı ve sunucu/rooter yerleşimi.",
+      "detay": "TV, uydu ve internet kablolama; ev ve ofislerde görüntü ve veri altyapısının planlı kurulumudur. Uydu sisteminde anten/çanak kablosu (koaksiyel) ve LNB bağlantısı yapılır, sinyal ölçer ile doğru açı ayarlanır; daire içine TV prizi (buat) çıkışları planlanır. Data hattı için Cat6 kablo ile odalara ethernet prizi döşenir; modem/rooter konumu, kablo dağıtım noktası ve gerekirse duvar içi patch paneli birlikte planlanır. Duvar içi kablo çekimi, süpürgelik kanalı ve asma tavan geçişleri; görünümden bağımsız temiz çözümler sunar. Kablosuz sinyal zayıflığı yaşanan noktalarda access point (AP) kurulumu ve mesh sistem önerisi yapılır. İş sonunda tüm uydu, TV ve internet çıkışları cihazla test edilir ve güç seviyeleri raporlanır.",
+      "faydalar": [
+        "Sinyal ölçerle ayarlanmış uydu/çanak kurulumu",
+        "Cat6 data hattı ile yüksek hızlı internet altyapısı",
+        "Duvar içi veya süpürgelik kanalıyla temiz kablolama",
+        "Mesh/AP önerisi ile kapsama sorununun çözümü"
+      ],
+      "sss": [
+        { "s": "Uydu kurulumu ne kadar sürer?", "c": "Standart daire uydu kurulumu 1-3 saat sürer; çok katlı bina ve ortak kullanımda süre uzar." },
+        { "s": "Modem yeri önemli mi?", "c": "Evet, modem merkezi konumda olursa kablosuz sinyal tüm eve eşit dağılır. Kablolama planında modem yeri buna göre seçilir." },
+        { "s": "Kablosuz internet zayıf, ne önerirsiniz?", "c": "Önce data kablosu ile çekilen hatlara AP kurulumu; büyük alanlarda mesh sistem öneriyoruz. Kanal ve frekans optimizasyonu da yapılır." },
+        { "s": "TV kablosu mu, internet kablosu mu çekilmeli?", "c": "Günümüzde TV'ler internetten yayın aldığı için her iki hattın da çekilmesi önerilir; TV prizi ve Cat6 priz birlikte planlanır." },
+        { "s": "Kablo duvar içinden mi geçer?", "c": "Hem duvar içi hem süpürgelik kanalı seçenekleri vardır; mevcut tesisat durumuna göre en temiz ve ekonomik yol belirlenir." }
+      ]
+    },
+    {
+      "id": 54,
+      "slug": "klima-elektrik-baglantisi",
+      "baslik": "Klima Elektrik Bağlantısı ve Montajı",
+      "kisaAciklama": "Klima montajı ve elektrik bağlantısı; ayrı hat, otomat, sigorta ve topraklama ile güvenli kurulum.",
+      "detay": "Klima montajı ve elektrik bağlantısı; iç ünite, dış ünite ve ikisi arasındaki bakır tesisat ile elektrik hattının komple kurulumudur. Klima için ayrı hat çekilir; prizden besleme yerine pano içinden ayrı otomat ile beslenen hat önerilir, böylece klimanın yüksek ani akımı diğer cihazları etkilemez. Montajda iç ünite duvara uygun yükseklikte, dış ünite ise hava akışına uygun (montaj braketi veya balkon) konuma kurulur; bakır boru ekstrüzyonu, izolasyon ve tesisat çekimi yapılır. Rota ünitesi açılır, sistem vakumlanır ve gaz basıncı ayarlanır. Elektrik bağlantısında fabrika gri kablo uyumu, sigorta ve topraklama kontrol edilir. Montaj sonrası soğutma/ısıtma modunda çalışma testi yapılır; klima periyodik bakımı da üstlenilir.",
+      "faydalar": [
+        "Ayrı otomat ve hat ile güvenli elektrik bağlantısı",
+        "Vakumlu ve gaz basınçlı doğru kurulum",
+        "İç-dış ünite montajında ölçüm ve denge",
+        "Montaj sonrası soğutma/ısıtma testi"
+      ],
+      "sss": [
+        { "s": "Klima kurulumu ne kadar sürer?", "c": "Standart oda tipi klima kurulumu 2-4 saat sürer; boru hattı uzun ve erişim zorsa yarım gün." },
+        { "s": "Klima elektriği prizden mi alınmalı?", "c": "Klima için önerilen, pano içinden ayrı otomatla beslenen özel hattır. Prizden besleme yalnızca düşük kapasiteli modellerde ve uygun kesitte mümkün olabilir." },
+        { "s": "Dış ünite nereye kurulmalı?", "c": "Dış ünite; hava akışı engellenmeyen, servis erişimi olan ve komşu rahatsız edilmeyen bir konuma kurulur; braket veya zemine sabitlenir." },
+        { "s": "Klima bakımı da yapıyor musunuz?", "c": "Evet, filtre temizliği, gaz basıncı kontrolü ve iç ünite dezenfeksiyonu dahil periyodik bakım hizmeti veriyoruz." },
+        { "s": "Mevcut klimayı taşıyor musunuz?", "c": "Evet, mevcut klimanın sökülmesi, gazının alınması ve yeni adrese kurulumu (nakliye dahil) hizmet kapsamındadır." }
+      ]
+    }
+  ]
+}

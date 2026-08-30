@@ -1,0 +1,25 @@
+{
+  "slug": "besiktas",
+  "ad": "Beşiktaş",
+  "bolge": "Boğaz hattı, yüksek yaşam standardı",
+  "accent": "navy",
+  "layout": "B",
+  "heroIndex": 7,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "dusakabin-montaji-ve-degisimi", "gomme-dolap-ve-giyinme-odasi", "ses-yalitimi", "ic-cephe-boya-ve-badana", "mutfak-dolabi-yapimi-ve-montaji"],
+  "komsular": ["sisli", "kagithane", "beyoglu", "sariyer"],
+  "giris": "Beşiktaş; boğaz manzarası, tarihi yalılar ve modern ofis kulelerinin yan yana durduğu, İstanbul'un en prestijli ilçelerinden. Levent ve Zincirlikuyu hattındaki rezidanslarda; çalışan profesyoneller evlerinde hafta sonu çalışma programına uygun tadilatlar istiyor. Ortaköy, Bebek ve Arnavutköy sahili (Bosphorus village) taraflarındaki dairelerde ise ince işçilik, seçkin malzeme ve Boğaz siluetini bozmayan dış müdahaleler aranıyor. Biz Beşiktaş'ta işe önce 'komşuya rahatsızlık vermeme' planıyla başlıyoruz: gürültüsüz saatler, sundurma taşıma izinleri ve site süreçleri bizim rutinimiz. Lüks banyo, özel ölçü giyinme odası ve akustik çözümler konusunda referans projelerimiz bu bölgede yoğunlaşıyor.",
+  "uzmanlik": "Levent rezidanslarında yüksek katlı bina prosedürleri, Bebek-Ortaköy'de çıkma ve cephe koruma kuralları, tarihi yapılarda izinli iç yenileme... Bu üç dünyanın gereksinimlerini ayrı ayrı yönetiyoruz. Yüksek katlı dairelerde asansör moloz planı, malzeme taşıma saatleri ve kat güvenliği prosedürlerine uygun çalışıyoruz. Müşterilerimize gizlilik ve dakiklik taahhüdü veriyoruz.",
+  "musteriProfili": "Rezidansta yaşayan üst düzey profesyoneller, sahildeki tarihi daire sahipleri ve butik ofis dönüşümü yapan girişimciler.",
+  "sorunlar": [
+    "Yüksek katta asansör ve taşıma prosedürlerinin yönetimi",
+    "Tarihi yapılarda izinli iç yenileme sınırları",
+    "Boğaz manzaralı cam balkon ve sundurma düzenlemeleri",
+    "Ses yalıtımı ile mahremiyet beklentisinin yüksekliği"
+  ],
+  "sss": [
+    { "s": "Rezidansta çalışma saatleri kısıtlı, banyonu yenileyebilir misiniz?", "c": "Evet, rezidansların çalışma saatlerine uygun program, onaylı malzeme yolu ve asansör planıyla anahtar teslim banyo yenileme yapıyoruz." },
+    { "s": "Tarihi binadaki dairemde tadilat izni nasıl alınır?", "c": "Koruma kurulu gerektiren işlerde proje ve evrak hazırlığında danışmanlık veriyor; onaysız müdahale yapmıyoruz." },
+    { "s": "Boğaz manzarasını koruyarak pencere değişimi mümkün mü?", "c": "Cephe silüetini koruyan kasa-kasaya (onarım-doğrama) yöntemi veya izinli profil değişimiyle pencere yenileme yapabiliyoruz." },
+    { "s": "Levent'te ofisimi butik toplantı alanına çevirmek istiyorum.", "c": "Bölme, akustik panel, ses yalıtımı ve zemin işlerini mesai dışı saatlerde yaparak ofisin çalışmasını kesintisiz sürdürüyoruz." }
+  ]
+}

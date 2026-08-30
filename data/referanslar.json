@@ -1,0 +1,72 @@
+[
+  {
+    "ad": "Ahmet K.",
+    "ilce": "Başakşehir",
+    "hizmet": "Komple Banyo Tadilatı",
+    "puan": 5,
+    "yorum": "Söz verilen 12 günde bitti, her akşam WhatsApp'tan fotoğraf paylaştılar. Banyomuz küçük ama yerleşim şahane oldu. Kesinlikle tavsiye ederim."
+  },
+  {
+    "ad": "Hatice D.",
+    "ilce": "Bakırköy",
+    "hizmet": "Komple Mutfak Tadilatı",
+    "puan": 5,
+    "yorum": "Tezgahtan dolaba her şeyi tek ekip yaptı. Fiyat teklifinde ne yazdıysa onu ödedim, sürpriz çıkmadı. Mutfakta çalışmak artık keyif."
+  },
+  {
+    "ad": "Mehmet Y.",
+    "ilce": "Avcılar",
+    "hizmet": "Su Kaçağı Tespiti",
+    "puan": 5,
+    "yorum": "İki saatte kamerayla kaçağın yerini buldular, karo kırmadan tamir ettiler. Başka firma duvarı komple kıracaktı. Çok memnun kaldım."
+  },
+  {
+    "ad": "Zeynep S.",
+    "ilce": "Şişli",
+    "hizmet": "Parke ve Laminat Döşeme",
+    "puan": 4,
+    "yorum": "Gıcırtısız, pürüzsüz bir zemin teslim edildi. Işık vurduğunda dahi kusur görünmüyor. Tarihe bir gün gecikme oldu ama sonuç çok iyi."
+  },
+  {
+    "ad": "Serkan A.",
+    "ilce": "Esenyurt",
+    "hizmet": "Kombi Bakımı",
+    "puan": 5,
+    "yorum": "Kombi f/p veriyordu, saatinde geldiler, kartı değiştirip test ettiler. Faturalar belirgin düştü. Teşekkürler."
+  },
+  {
+    "ad": "Emine T.",
+    "ilce": "Beylikdüzü",
+    "hizmet": "Alçıpan Bölme Duvar",
+    "puan": 5,
+    "yorum": "Evde ofis yapmak için bölme istedik. İki günde, molozsuz bir iş çıkardılar. Ses yalıtımı da ekledik, uzaktan çalışmak çok keyifli."
+  },
+  {
+    "ad": "İbrahim Ç.",
+    "ilce": "Sarıyer",
+    "hizmet": "Pencere Değişimi",
+    "puan": 5,
+    "yorum": "Boğaz tarafındaki dairemizde rüzgar sesi kesildi, kışın ısı farkını hissettik. İskele işini de kendileri çözdü. Profesyonel ekip."
+  },
+  {
+    "ad": "Nuran B.",
+    "ilce": "Küçükçekmece",
+    "hizmet": "Gider Tıkanıklığı Açma",
+    "puan": 4,
+    "yorum": "Akşam 21.00'de aradım, 22.00'de geldiler robotla açtılar. Fiyat makuldü, iş temizdi. Gece servisi iyi düşünülmüş."
+  },
+  {
+    "ad": "Burak E.",
+    "ilce": "Beyoğlu",
+    "hizmet": "Tarihi Bina Tadilatı",
+    "puan": 5,
+    "yorum": "Cihangir'deki tarihi dairemizde izinli tadilat yaptılar; tavan rozetleri korundu. Koruma kurulu sürecini de onlar yürüttü. Çok nadir bulunan bir ekip."
+  },
+  {
+    "ad": "Sabri V.",
+    "ilce": "Büyükçekmece",
+    "hizmet": "Yazlık Kışlık Dönüşümü",
+    "puan": 5,
+    "yorum": "Yazlığımıza kombi ve doğrama yenileme yaptılar. Artık kışın da kullanabiliyoruz. Hafta sonu gelmesine rağmen programları vardı."
+  }
+]

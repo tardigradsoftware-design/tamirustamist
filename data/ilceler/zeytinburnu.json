@@ -1,0 +1,25 @@
+{
+  "slug": "zeytinburnu",
+  "ad": "Zeytinburnu",
+  "bolge": "Sahil-merkez kuşak, çeşitli doku",
+  "accent": "orange",
+  "layout": "B",
+  "heroIndex": 24,
+  "vurguluHizmetler": ["ic-cephe-boya-ve-badana", "komple-mutfak-tadilati", "sihhi-tesisat-kurulumu-ve-yenileme", "su-kacagi-tespiti", "elektrik-ariza-tespiti", "tikali-gider-acma"],
+  "komsular": ["fatih", "bakirkoy", "bayrampasa", "bahcelievler", "gungoren"],
+  "giris": "Zeytinburnu; surlarla Fatih'e, sahil şeridiyle Bakırköy'e komşu, merkezi ve yoğun bir ilçe. Maltepe ve Sümer mahallelerinde eski yapı stoku, Kazlıçeşme ile sahil kesiminde dönüşüm projeleri bir arada. İlçenin çarşı kültürü güçlü; çelebi çarşısı ve sanayi bölgelerindeki işletmeler, ticari tadilat taleplerini besliyor. Yeni konut projeleri (Cevizlibağ hattı) ise modern daire sahiplerini getiriyor. Biz Zeytinburnu'nda; eski binalarda komple yenileme, çarşı ve sanayide işyeri tadilatları, sahil tarafında ise yalıtım ve nem çözümleri üzerinde yoğunlaşıyoruz. Kazlıçeşme kültür merkezi ve sahil yolu sayesinde ilçeye ulaşım kolay; acil çağrılarda 30-40 dakika içinde sahadayız. Mahalle dokusuna saygılı, gürültüsüz çalışmayı standart kabul ediyoruz.",
+  "uzmanlik": "Eski apartmanlarda tesisat-elektrik yenileme ve komple tadilat; çarşı ve sanayi işletmelerinde dükkan tadilatı; dönüşüm projelerindeki yeni dairelerde ince işçilik düzeltmeleri konusunda deneyimliyiz. Sahil tarafındaki binalarda deniz kaynaklı nemi ölçüm esaslı çözüyoruz.",
+  "musteriProfili": "Eski bina daire sahipleri, çarşı esnafı, dönüşüm projesinden daire alanlar ve apartman yöneticileri.",
+  "sorunlar": [
+    "Eski yapılarda altyapı ve tesisat yenileme",
+    "Çarşı ve sanayi işyerlerinde hızlı dönüşüm",
+    "Sahil kesiminde nem ve deniz etkisi",
+    "Dönüşüm dairelerinde ince işçilik kusurları"
+  ],
+  "sss": [
+    { "s": "Çelebi çarşısında dükkan tadilatı yapıyor musunuz?", "c": "Evet, çarşının trafiğini aksatmadan gece ve bayram dönemlerinde çalışıyor; kepenk, zemin ve vitrin işlerini planlı tamamlıyoruz." },
+    { "s": "Yeni aldığım dairede ince işçilik kusurları var, kontrol eder misiniz?", "c": "Daireyi oda oda inceliyor, teslim-eksik listesi çıkarıp tek kalemde gideriyoruz; tutanaklı teslim yapıyoruz." },
+    { "s": "Sahil tarafındaki evimde nem ve kum etkisiyle küf var.", "c": "Deniz etkisini ölçüyor, dış cephe temas noktalarını ve havalandırmayı düzeltip küf önleyici uygulama yapıyoruz." },
+    { "s": "Apartman genel giderleri eski, ortak yenileme yapıyor musunuz?", "c": "Evet, yönetimle birlikte kolon temizliği, çatı kontrolü ve merdiven yenileme paketleri hazırlıyoruz; maliyet paylaşım raporu sunuyoruz." }
+  ]
+}

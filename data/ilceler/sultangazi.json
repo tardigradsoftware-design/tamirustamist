@@ -1,0 +1,25 @@
+{
+  "slug": "sultangazi",
+  "ad": "Sultangazi",
+  "bolge": "Kuzey hat, dönüşen yerleşim",
+  "accent": "amber",
+  "layout": "B",
+  "heroIndex": 22,
+  "vurguluHizmetler": ["ic-cephe-boya-ve-badana", "parke-ve-laminat-doseme", "komple-mutfak-tadilati", "su-kacagi-onarimi", "elektrik-tesisati-kurulumu", "tikali-gider-acma"],
+  "komsular": ["arnavutkoy", "basaksehir", "eyupsultan", "gaziosmanpasa"],
+  "giris": "Sultangazi, İstanbul'un kuzey hattında hızla gelişen bir ilçe; Cebeci, Uğur Mumcu ve Esentepe mahallelerinde apartmanlaşma sürüyor. Bölgeye yeni taşınan aile sayısı fazla; bu yüzden boya-badana, zemin döşeme ve banyo-mutfak tadilatı talepleri sürekli. İlçenin kuzeyindeki sanayi ve depolama bölgelerinde ise atölye ve depo tadilatları, zemin kaplama ve elektrik hattı işleri yürütüyoruz. Toplu ulaşımın gelişmesi (Cebeci-Cemre hattı) ile birlikte konut değerleri artıyor; ev sahipleri kiracı geçişlerinde hızlı yenilemeye önem veriyor. Ekip depomuz E-80 hattına yakın olduğu için Sultangazi'ye ulaşımımız hızlı; acil su basması ve tıkanıklık olaylarına aynı gün müdahale ediyoruz. Mahalle kültürünün güçlü olduğu bölgede komşu memnuniyetine özen gösteriyoruz.",
+  "uzmanlik": "Yeni taşınan aileler için hazır ev paketleri ve kiracı geçiş düzenlemelerinde uzmanız. Kuzeydeki depo ve atölyelerde zemin, raf alanı aydınlatması ve güvenlikli elektrik uygulamaları yapıyoruz. Eğitim kurumları civarındaki öğrenci evlerinde ekonomik ve dayanıklı düzenlemeler planlıyoruz.",
+  "musteriProfili": "Yeni taşınan genç aileler, kiraya veren ev sahipleri, depo-atölye işletmecileri.",
+  "sorunlar": [
+    "Yeni taşınmalarda evin tadilat ihtiyacını karşılama",
+    "Kiracı geçişlerinde zaman baskısı",
+    "Depo ve atölyelerde aydınlatma ve elektrik yetersizliği",
+    "Yoğun apartmanlarda ortak gider sorunları"
+  ],
+  "sss": [
+    { "s": "Taşınmadan önce daireyi komple hazırlamak istiyorum.", "c": "Boya, zemin, banyo rötuş ve mutfak düzenlemesini içeren hazır ev paketimizi taşınma tarihinize göre programlıyor ve teslim ediyoruz." },
+    { "s": "Depomda aydınlatma yetersiz, çözüm öneriniz?", "c": "Alanın boyuna göre led armatür yerleşimi ve ayrı devre planı çıkarıyor; elektrik beslemesini depo güvenliğine uygun kuruyoruz." },
+    { "s": "Öğrenci evi için ekonomik tadilat yapıyor musunuz?", "c": "Evet, dayanıklı ve ekonomik malzemeyle boya, zemin ve banyo düzenlemesi yapıyoruz; kira dönemi başlamadan teslim ediyoruz." },
+    { "s": "Apartman gideri sık tıkanıyor, ne yapılmalı?", "c": "Kamera ile hat analizi yapıyor, gerekirse jet temizlik ve hat yenileme öneriyoruz; yönetim kuruluyla toplantıya katılıp rapor sunuyoruz." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "bakirkoy",
+  "ad": "Bakırköy",
+  "bolge": "Güney sahil, merkez ve Ataköy hattı",
+  "accent": "orange",
+  "layout": "A",
+  "heroIndex": 4,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "mutfak-dolabi-yapimi-ve-montaji", "ic-cephe-boya-ve-badana", "kombi-montaji-ve-degisimi", "gomme-dolap-ve-giyinme-odasi", "parke-ve-laminat-doseme"],
+  "komsular": ["bahcelievler", "zeytinburnu", "gungoren", "kucukcekmece"],
+  "giris": "Bakırköy, sahil bandı, Ataköy toplu konutları ve merkezdeki eski apartmanlarıyla İstanbul'un en bilinen yaşam alanlarından biri. İlçede iki farklı müşteri profili öne çıkıyor: Ataköy, Atakent ve sahil kesimindeki geniş dairelerde üst segmente hizmet veren modern banyo, özel yapım mutfak dolabı ve giyinme odası projeleri; merkez ve İncirli taraflarındaki eski binalarda ise komple tadilat ve tesisat yenileme. Hekim ve iş insanı yoğunluklu bu bölgede; minimalist, kusursuz bitiş ve malzeme kalitesi beklentisi yüksek. Bu yüzden ekibimiz Bakırköy'de işi üstün kalite profiller, orijinal parça ve ölçüye sadakatle teslim eder. Sahil yürüyüş yolu ve meydanıyla ünlü ilçede akşam ve hafta sonu sessiz çalışma programları da uyguluyoruz.",
+  "uzmanlik": "Ataköy'deki büyük dairelerde salon düzeni, giyinme odası imalatı ve komple mutfak paketleri; merkezde ise tarihi apartmanların orijinal kartonpiyer ve ahşap doğramalarını koruyarak teknik yenileme yapıyoruz. Bakırköy'deki klinik ve ofis tadilatlarında da sessiz, hijyenik ve hızlı çalışma programı sunuyoruz. Sahil dairelerinde deniz havasına dayanıklı malzeme seçimi bizim uzmanlık alanımız.",
+  "musteriProfili": "Ataköy'de üst segment yenileme yapan profesyoneller, merkezde eski bina dairesini yenileyen aileler ve muayenehane-stüdyo açan girişimciler.",
+  "sorunlar": [
+    "Ataköy dairelerinde kapalı balkon düzenlemelerinin estetik uyumu",
+    "Merkez apartmanlarında orijinal detayların korunması",
+    "Deniz havasından etkilenen pencere ve balkon demirleri",
+    "Klinik/ofis açılışlarında kısa sürede bitirme baskısı"
+  ],
+  "sss": [
+    { "s": "Bakırköy merkezdeki tarihi apartman dairesinde tadilat nasıl yapılır?", "c": "Kartonpiyer, tavan rozeti ve ahşap detayları koruyarak çalışıyor; yalnızca teknik yenileme (tesisat, kablolama) gereken kısımları geri dönüşümlü yöntemlerle yapıyoruz." },
+    { "s": "Ataköy'de büyük dairem için özel mutfak projesi çizebiliyor musunuz?", "c": "Evet, 3D tasarım ve malzeme örnekleriyle sunum yapıyor; ada, kiler ve gizli depolama çözümlerini birlikte planlıyoruz." },
+    { "s": "Sahil cepheli dairede malzeme seçiminde nelere dikkat edilmeli?", "c": "Tuzlu havaya dayanıklı aksesuar, paslanmaz vida ve dış cephe boyaları kullanıyor; denizlik ve kasa detaylarında korozyon önleyici uygulama yapıyoruz." },
+    { "s": "Klinik/ofis açılışı için işi kaç günde bitirirsiniz?", "c": "Ölçüye göre 5-10 günde komple açılış hazırlığı (bölme, zemin, boya, elektrik) yapıyor; mesai saatleri dışında sessiz çalışma seçeneği sunuyoruz." }
+  ]
+}

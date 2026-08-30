@@ -1,0 +1,25 @@
+{
+  "slug": "kagithane",
+  "ad": "Kâğıthane",
+  "bolge": "Vadi hattı, yoğun dönüşüm bölgesi",
+  "accent": "orange",
+  "layout": "B",
+  "heroIndex": 18,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "mutfak-dolabi-yapimi-ve-montaji", "alcipan-bolme-duvar-ve-kaplamalar", "ic-cephe-boya-ve-badana", "elektrik-tesisati-kurulumu", "su-kacagi-tespiti"],
+  "komsular": ["sisli", "besiktas", "beyoglu", "eyupsultan", "gaziosmanpasa"],
+  "giris": "Kâğıthane, İstanbul'un dönüşen yüzlerinden biri. Vadideki sanayi atölyeleri yavaş yavaş yerini konut projelerine bırakırken, Çağlayan ve Merkez mahallelerinde eski apartman dokusu devam ediyor. Bu ikilik; tadilat taleplerini de ikiye bölüyor: yeni konutlarda ince işçilik düzeltme ve kişiselleştirme, eski binalarda ise komple yenileme ve dönüşüm öncesi düzenleme. İlçedeki genç nüfus ve çalışan profesyoneller sayesinde akşam teslimli, hafta sonu programlı çalışma talebi yüksek. Metro hatlarının uzamasıyla birlikte bölgeye taşınan aileler için 'taşınmadan önce hazır ev' konsepti popüler. Ekiplerimiz Kâğıthane'nin vadi sokaklarını iyi tanıyor; malzeme taşıma ve asansör planını önden kuruyoruz.",
+  "uzmanlik": "Cendere Vadisi'ndeki yeni konutlarda akıllı ev altyapısı, data hattı ve ses yalıtımı projelerinde deneyimliyiz. Eski apartmanlarda ise kentsel dönüşüm beklentisini gözeterek değer katan, gereksiz yatırım yaptırmayan çözümler sunuyoruz. Sanayi atölyelerinin ofis-rezidans dönüşümlerinde zemin, cephe içi ve kat düzeni işlerini üstleniyoruz.",
+  "musteriProfili": "Yeni konut sahibi genç profesyoneller, dönüşüm bekleyen bina sakinleri ve atölye dönüşümü yapan yatırımcılar.",
+  "sorunlar": [
+    "Yeni konutlarda ince işçilik ve ses geçiş sorunları",
+    "Eski binalarda dönüşüm öncesi dengeli yatırım kararı",
+    "Yoğun trafikte malzeme ve ekibin planlı sevki",
+    "Atölye dönüşümlerinde süre baskısı"
+  ],
+  "sss": [
+    { "s": "Cendere tarafındaki dairemde ses geçiriyor, çözüm var mı?", "c": "Kompşu duvarı ve tavan arası için taş yünlü alçıpan ve akustik panel uyguluyoruz; pencere-kapı kaçaklarını da kapatıyoruz." },
+    { "s": "Dönüşüm bekleyen binamda tadilat yaptırmalı mıyım?", "c": "Güvenlik ve yaşam konforuna dönük küçük işleri öneriyoruz; büyük yatırımı ertelemenizi tavsiye ediyoruz. Karar sürecinde dürüst analiz sunuyoruz." },
+    { "s": "İşyerim taşınmadan önce atölyeyi ofise çevirebilir misiniz?", "c": "Evet, zemin, bölme, elektrik ve aydınlatma dönüşümünü kiracı giriş tarihine göre programlıyoruz; belediyeye ibraz için iş bitirme evrakı veriyoruz." },
+    { "s": "Hafta sonu tadilat yapıyor musunuz?", "c": "Evet, hafta sonu programı talebin yüzde 30'unu oluşturuyor; gürültü saatleri dışında boya, döşeme ve montaj işlerini yürütüyoruz." }
+  ]
+}

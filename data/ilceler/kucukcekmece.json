@@ -1,0 +1,25 @@
+{
+  "slug": "kucukcekmece",
+  "ad": "Küçükçekmece",
+  "bolge": "Göl hattı, yoğun ve çeşitli",
+  "accent": "teal",
+  "layout": "A",
+  "heroIndex": 19,
+  "vurguluHizmetler": ["sihhi-tesisat-kurulumu-ve-yenileme", "komple-banyo-tadilati", "su-kacagi-tespiti", "ic-cephe-boya-ve-badana", "elektrik-tesisati-kurulumu", "pencere-degisimi"],
+  "komsular": ["avcilar", "bakirkoy", "bahcelievler", "bagcilar", "basaksehir", "esenyurt"],
+  "giris": "Küçükçekmece, göl kıyısından İkitelli sanayi hattına uzanan geniş bir ilçe. Metrokent, Sefaköy, Halkalı ve Atakent gibi mahallelerde yapı yaşı ve tipi çok çeşitli: eski toplu konutlarından, yeni rezidanslarına kadar geniş bir yelpaze. Göl ve kanal çevresinde kentsel dönüşüm hareketliliği, ilçeyi hem yatırımcı hem yaşayan için cazip kılıyor. Tadilat taleplerinde; eski toplu konutlarda tesisat ve doğrama yenileme, İkitelli tarafında işyeri ve atölye düzenlemeleri, yeni rezidanslarda ise kişiselleştirme öne çıkıyor. Ekibimiz ilçenin her köşesine aynı gün ulaşabiliyor; göl kıyısındaki binalarda nem sorunları, sanayi tarafında ise elektrik yükü hesapları bizim günlük işlerimiz. Metro hattı ile merkez lojistiğimiz kolay.",
+  "uzmanlik": "Eski toplu konutlarda komple yenileme; İkitelli OSB tarafında işyeri tadilatı ve elektrik güçlendirme; yeni rezidanslarda banyo-mutfak kişiselleştirme konusunda üç ayrı uzmanlığı tek çatıda topluyoruz. Göl çevresindeki binalarda yüksek nem ve yoğuşma kaynaklı küflenmeyi ölçümlü tespit edip çözüyoruz. Site yönetimleri için ortak alan tadilatı ve genel gider bakım paketleri sunuyoruz.",
+  "musteriProfili": "Toplu konut sakinleri, İkitelli işletmecileri, rezidans sahipleri ve apartman yöneticileri.",
+  "sorunlar": [
+    "Eski toplu konutlarda tesisat ve doğrama eskimesi",
+    "Göl çevresinde yüksek nem ve küf",
+    "Sanayi ve atölyelerde yetersiz elektrik altyapısı",
+    "Yoğun nüfuslu binalarda ortak gider tıkanıklıkları"
+  ],
+  "sss": [
+    { "s": "Metrokent'teki eski dairemin tesisatını yenilemek ne kadar sürer?", "c": "Kanal kullanımına bağlı olarak 2-4 gün; işlem boyunca su kesintisi programını size önceden bildiriyor ve aşamalı tamamlıyoruz." },
+    { "s": "Göl tarafında nem var, çözümünüz ne?", "c": "Nem ölçümü ile kaynağı buluyoruz; yalıtım, havalandırma ve nefes alan boyalarla küf tekrarını önlüyoruz. Garanti kapsamında izleme yapıyoruz." },
+    { "s": "İkitelli'de atölyemin elektrik hattı yetersiz, destek olur musunuz?", "c": "Evet, makine gücü analizi yapıp pano ve hat yenileme projesi çıkarıyoruz; iş durmadan etap etap devreye alıyoruz." },
+    { "s": "Apartman kolonu sık tıkanıyor, yönetimle nasıl çalışıyorsunuz?", "c": "Yönetim onayıyla kamera çekip hat durum raporu hazırlıyor, jet temizlik ve gerekirse hat yenileme önerisini sunuyoruz." }
+  ]
+}

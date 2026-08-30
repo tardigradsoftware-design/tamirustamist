@@ -1,0 +1,25 @@
+{
+  "slug": "fatih",
+  "ad": "Fatih",
+  "bolge": "Tarihi yarımada, suriçi dokusu",
+  "accent": "slate",
+  "layout": "A",
+  "heroIndex": 15,
+  "vurguluHizmetler": ["rutubet-ve-kuf-giderme", "pencere-degisimi", "sihhi-tesisat-kurulumu-ve-yenileme", "elektrik-tesisati-kurulumu", "alci-siva-ve-saten-alci", "komple-banyo-tadilati"],
+  "komsular": ["zeytinburnu", "eyupsultan", "bayrampasa", "beyoglu"],
+  "giris": "Fatih, suriçi İstanbul'un kalbi; Bizans ve Osmanlı dokusu, ticaret meydanları ve yüzyıllık apartmanlarıyla eşsiz bir yapı stokuna sahip. Burada tadilat demek, tarihi dokuyla modern yaşamı buluşturmak demek. Eminönü ve taş han bölgesindeki ticari yapılar, Ayvansaray-Sulukule hattındaki eski evler, Kumkapı'daki restoran çarşısı ve son dönemde dönüşen konut projeleri bir arada duruyor. Ekibimiz Fatih'te; koruma altındaki yapılarda izinli müdahale, eski binalarda rutubet-küf giderme, tesisat ve elektrik yenileme, ticari mekanlarda ise hızlı tadilat işlerini yürütüyor. Turizm hareketliliği nedeniyle otel ve pansiyon dönüşümlerinde deneyimimiz yüksek. Dar sokaklar ve yoğun trafik için malzeme lojistiği planımız hazır.",
+  "uzmanlik": "Suriçi'nde; koruma kurulu mevzuatına uygun müdahaleler, tarihi han ve dükkanların ticari kullanıma dönüşümü, kubbeli ve tonozlu yapılarda tesisat uygulamaları konularında deneyimliyiz. Kumkapı ve Eminönü'ndeki restauranları mesai dışı saatlerde tadil ediyoruz. Tarihi yapılarda orijinal malzeme benzeri onarım (horosan sıva, kireç esaslı boyalar) için anlaşmalı iş ortaklarımız var.",
+  "musteriProfili": "Tarihi yapı sahipleri, turizm yatırımcıları, eski apartman dairesini yenileyen aileler ve ticari işletmeler.",
+  "sorunlar": [
+    "Koruma kurulu ve izin süreçlerinin karmaşıklığı",
+    "Tarihi yapılarda rutubet ve tuzlanma (nem tuz) sorunları",
+    "Dar sokak ve trafikte lojistik yönetimi",
+    "Turistik ticari alanlarda hızlı yenileme ihtiyacı"
+  ],
+  "sss": [
+    { "s": "Fatih'teki tarihi binamda tadilat için hangi izinler gerekir?", "c": "Yapının koruma statüsüne göre ön izin, proje ve kurul onayı gerekebilir; biz evrak hazırlığından uygulamaya kadar süreci yönetiyoruz." },
+    { "s": "Tarihi binada rutubet sorunu nasıl çözülür?", "c": "Önce kılcal nem mi, tesisat kaçağı mı, çatıdan mı geldiğini tespit ediyoruz; sıvasız kireç esaslı, nefes alan sistemlerle onarım yapıyoruz." },
+    { "s": "Kumkapı'daki restoranımın tadilatı için kaç gün gerekir?", "c": "Konsept değişikliğine göre 7-15 gün; mesai dışı çalışmayı planlayarak işletmenin kapanmasını engelliyoruz." },
+    { "s": "Pansiyon/butik otele dönüşüm yapıyor musunuz?", "c": "Evet, oda düzeni, banyo sayısı artırma, yangın kapısı ve elektrik güvenliği gibi turizm işletmesi gereksinimlerine uygun dönüşüm yapıyoruz." }
+  ]
+}

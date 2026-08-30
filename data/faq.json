@@ -1,0 +1,50 @@
+{
+  "genel": [
+    {
+      "s": "İstanbul'da tadilat için ücretsiz keşif nasıl alınır?",
+      "c": "0532 789 45 67 numarasından bizi arayın ya da web sitemizden keşif formu doldurun. Keşif ekibimiz aynı gün içinde evinize gelir, ölçü alır ve sabit fiyat teklifi sunar. Keşif tamamen ücretsiz ve zorunlu değildir."
+    },
+    {
+      "s": "Tadilat işçilik garantisini nasıl veriyorsunuz?",
+      "c": "Tüm işlerimiz yazılı işçilik garanti belgesi kapsamındadır. İş bitiminde garanti belgesi imzalayarak teslim ediyoruz. Aynı konuda tekrarlayan sorunlarda ücretsiz müdahale ediyoruz."
+    },
+    {
+      "s": "Hangi ilçelere tadilat ve tesisat hizmeti veriyorsunuz?",
+      "c": "İstanbul Avrupa Yakası'nda 25 ilçeye hizmet veriyoruz: Arnavutköy, Avcılar, Bağcılar, Bahçelievler, Bakırköy, Başakşehir, Bayrampaşa, Beşiktaş, Beylikdüzü, Beyoğlu, Büyükçekmece, Çatalca, Esenler, Esenyurt, Eyüpsultan, Fatih, Gaziosmanpaşa, Güngören, Kâğıthane, Küçükçekmece, Sarıyer, Silivri, Sultangazi, Şişli ve Zeytinburnu."
+    },
+    {
+      "s": "Tadilat fiyatı nasıl belirleniyor, sabit fiyat var mı?",
+      "c": "Keşif sonrası metrekare, malzeme seçimi, işçilik kapsamı ve süreye göre sabit fiyat teklifi veriyoruz. Sözleşmede belirlenen fiyat iş sürecinde değişmez; sürpriz fiyat artışı yapmayız."
+    },
+    {
+      "s": "Sözleşme yapılıyor mu, hangi detaylar yazılıyor?",
+      "c": "Evet, tüm işlerde yazılı sözleşme imzalanır. Sözleşmede iş kapsamı, malzeme listesi, başlangıç-bitiş tarihi, garanti süresi ve fiyat net olarak yer alır."
+    },
+    {
+      "s": "7/24 acil su kaçağı ve tıkanıklık servisi var mı?",
+      "c": "Evet, su baskını, su kaçağı, tıkanıklık ve elektrik arızası gibi acil durumlar için 7/24 telefona ulaşabilirsiniz. Gece, hafta sonu ve resmi tatil dahil ekip yönlendiriyoruz."
+    },
+    {
+      "s": "Tadilat sırasında evde olmam gerekiyor mu?",
+      "c": "Hayır, anahtar teslim çalışabiliriz. Günlük iş raporu ve fotoğraf paylaşımı ile süreci uzaktan takip edebilirsiniz. Kritik noktalarda sizi bilgilendiririz."
+    },
+    {
+      "s": "Malzemeleri siz mi alıyorsunuz?",
+      "c": "İki seçeneğiniz var: malzeme dahil anahtar teslim paket veya sizin seçtiğiniz malzemenin bizim uygulamamız. Tedarikçilerimizden kaliteli ve garantili malzeme sağlıyoruz."
+    }
+  ],
+  "surec": [
+    {
+      "s": "İş kaç aşamada yapılıyor?",
+      "c": "Süreç dört adımdan oluşur: (1) Ücretsiz keşif, (2) Sabit fiyat sözleşmesi, (3) Usta kadro ile planlı uygulama, (4) Kontrol ve garanti belgeli teslim. Her adımda bilgilendirilirsiniz."
+    },
+    {
+      "s": "Tadilat ne kadar sürüyor?",
+      "c": "İşin kapsamına göre değişir: banyo tadilatı 10-15 gün, mutfak tadilatı 12-18 gün, komple daire yenileme 20-30 gün. Keşifte net süre verilir ve sözleşmeye yazılır."
+    },
+    {
+      "s": "Malzemeleri siz mi temin ediyorsunuz?",
+      "c": "Talebinize göre malzeme dahil anahtar teslim veya yalnızca işçilik yapabiliriz. Tedarikte kaliteli markalar kullanır, faturalarını size sunarız."
+    }
+  ]
+}

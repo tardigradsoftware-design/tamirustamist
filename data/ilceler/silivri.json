@@ -1,0 +1,25 @@
+{
+  "slug": "silivri",
+  "ad": "Silivri",
+  "bolge": "Batı uç sahil, yerleşim ve tarım",
+  "accent": "green",
+  "layout": "A",
+  "heroIndex": 21,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "ic-cephe-boya-ve-badana", "kombi-montaji-ve-degisimi", "sihhi-tesisat-kurulumu-ve-yenileme", "pencere-degisimi", "komple-banyo-tadilati"],
+  "komsular": ["catalca", "buyukcekmece", "esenyurt"],
+  "giris": "Silivri, İstanbul'un batı sınırındaki sahil ilçesi; deniz, tarım arazileri ve yeni konut projeleri bir arada. Uzun sahil bandı ve merkezdeki eski sokak dokusu, doğuda ise site tarzı yeni yerleşimler yer alıyor. Yaz aylarında nüfusu artan ilçede; yazlık evlerin bakım-tadilatı, sezon öncesi boya ve tesisat işleri yoğunlaşıyor. Kışın ise şehirde yaşayıp hafta sonu gelen mülk sahipleri için hızlı dönüşlü hizmet önemli. Sahil kesimindeki bungalov ve müstakil evlerde; su deposu, bahçe tesisatı, güneş enerjisi bağlantıları gibi kendine özgü ihtiyaçlar öne çıkıyor. Biz Silivri'ye şehir merkezinden çıkan ekiple, hafta sonu dahil servis veriyoruz. Deniz havasına dayanıklı malzeme seçiminde uzmanız.",
+  "uzmanlik": "Yazlık ev bakım-tadilat paketleri (sezon öncesi boya, tesisat kontrolü, doğrama); müstakil evlerde su deposu-hidrofor bağlantıları ve güneş enerjisi tesisat desteği; bungalov/dağ evlerinde padok ve müştemilat düzenlemeleri konularında deneyimliyiz. E-5 ve TEM üzerinden ekip sevkiyatı hızlı.",
+  "musteriProfili": "Yazlık ev sahipleri, hafta sonu evine gelen şehirde yaşayan mülk sahipleri ve müstakil konut yatırımcıları.",
+  "sorunlar": [
+    "Kışın kullanılmayan yazlıklarda donma ve boru patlaması",
+    "Sahil bölgesinde tuzlu hava ve nem etkisi",
+    "Sezon öncesi toplu bakım ihtiyacı",
+    "Müstakil evlerde şebeke dışı su bağlantıları"
+  ],
+  "sss": [
+    { "s": "Yazlığımda kış koruması yapıyor musunuz?", "c": "Evet, suyu boşaltma, vana yerleşimi, antifriz uygulaması ve kombinizin kış moduna alınmasından oluşan kışa hazırlık paketimiz var." },
+    { "s": "Silivri'de hafta sonu servisi var mı?", "c": "Evet, cumartesi ve pazar günleri de ekibimiz çıkıyor; özellikle yazlık sahiplerinin ziyaret günlerine göre randevu planlıyoruz." },
+    { "s": "Bungalov evimde ikinci bir banyo yaptırabilir miyim?", "c": "Tesisat hattı ve yerleşime uygunsa ek banyo imalatı yapıyoruz; septik ve gider bağlantısını keşifte değerlendiriyoruz." },
+    { "s": "Deniz havası doğramaları bozuyor, ne önerirsiniz?", "c": "Tuzlu havaya dayanıklı PVC armatürler ve paslanmaz menteşe/kollu sistemler öneriyoruz; cephe boyalarında tuz dirençli ürünleri kullanıyoruz." }
+  ]
+}

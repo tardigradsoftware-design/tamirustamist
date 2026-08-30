@@ -1,0 +1,25 @@
+{
+  "slug": "avcilar",
+  "ad": "Avcılar",
+  "bolge": "Batı sahil hattı",
+  "accent": "orange",
+  "layout": "B",
+  "heroIndex": 1,
+  "vurguluHizmetler": ["sihhi-tesisat-kurulumu-ve-yenileme", "su-kacagi-tespiti", "komple-banyo-tadilati", "pencere-degisimi", "elektrik-tesisati-kurulumu"],
+  "komsular": ["beylikduzu", "kucukcekmece", "buyukcekmece"],
+  "giris": "Avcılar'da yapı stokunun önemli kısmı 1980-1995 arası inşa edilen yüksek katlı apartmanlardan oluşuyor. Eski tesisat, ömrünü tamamlayan pvc doğramalar ve yetersiz elektrik hatları bu binalarda en çok karşılaştığımız konular. Marmara kıyısındaki yoğun nüfus ve öğrenci hareketliliği, hem kiraya verilen dairelerde hızlı boya-badana işlerini hem de aile konutlarında komple tadilatları beraberinde getiriyor. Üniversite bölgesindeki öğrenci evleri için ekonomik ama dayanıklı çözümler; sahil kesiminde ise su kaçağı tespiti ve tesisat yenileme talepleri öne çıkıyor. Fibabanka, kavşak ve metrobüs hatları sayesinde hızlı ulaşım; bizim için ise merkez konumumuz sayesinde 7/24 acil müdahale demek. Keşif, teklif ve tadilat sürecinin tamamında tek irtibat kişisiyle ilerleriz.",
+  "uzmanlik": "Avcılar'daki eski bina tesisatlarındaki çelik boru korozyonunu ve yetersiz elektrik kesitlerini iyi biliyoruz; yenileme işlerinde kırma-tamir döngüsünü planlıyoruz. Marmara sahilindeki dairelerde tuzlu hava etkisiyle bozulan balkon demiri ve pencere aksesuarlarını da yeniliyoruz. Depremle ilgili endişeleri ciddiye alıyor: müşterilerimize tesisat ve kaplama işlerinin yanında, yapısal olmayan güçlendirme önerileri de sunuyoruz.",
+  "musteriProfili": "Kiraya veren ev sahipleri, öğrenci evi yöneten aileler, sahil kesiminde yaşayan emekliler ve eski binada yenileme yapan genç aileler.",
+  "sorunlar": [
+    "1980'ler binalarında çelik boru ve kireçli tesisat tedariki",
+    "Sahil dairelerinde nem, rutubet ve küf tekrarı",
+    "Yetersiz elektrik hattıyla artan beyaz eşya yükü",
+    "Eski doğrama kaynaklı ısı kaybı ve rüzgar sesi"
+  ],
+  "sss": [
+    { "s": "Avcılar'daki eski binamın tesisatını kırmadan yenileyebilir misiniz?", "c": "Mevcut kanalları ve kaide geçişlerini kullanarak çoğu hattı kırmadan yeniliyoruz; gerekli kırım alanını da aynı gün tamir ediyoruz." },
+    { "s": "Deniz kenarı dairede paslanan pencere aksesuarlarını değiştiriyor musunuz?", "c": "Evet, menteşe, kollu mekanizma ve fitilleri tuzlu hava dayanıklı malzemeyle değiştiriyor; gerekirse pencere komple yenileniyor." },
+    { "s": "Öğrenci evi için hızlı boya-badana yapıyor musunuz?", "c": "Evet, okul sezonu öncesi evler için 1-2 günde komple badana ve küçük tamirat paketimiz var; kiracı taşınırken rezervasyon yapabilirsiniz." },
+    { "s": "Avcılar'da deprem için yapısal olmayan ne yapılabilir?", "c": "Dökülme riski olan sıva, baca ve cephe kaplamalarının kontrolü, mobilya sabitleme ve tesisat bağlantı esnekliği en çok önerdiğimiz uygulamalardır." }
+  ]
+}

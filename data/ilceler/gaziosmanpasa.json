@@ -1,0 +1,25 @@
+{
+  "slug": "gaziosmanpasa",
+  "ad": "Gaziosmanpaşa",
+  "bolge": "Kuzey merkez, yoğun yerleşim",
+  "accent": "amber",
+  "layout": "B",
+  "heroIndex": 16,
+  "vurguluHizmetler": ["ic-cephe-boya-ve-badana", "parke-ve-laminat-doseme", "komple-mutfak-tadilati", "kombi-montaji-ve-degisimi", "elektrik-ariza-tespiti", "tikali-gider-acma"],
+  "komsular": ["eyupsultan", "sultangazi", "bayrampasa", "kagithane", "sisli"],
+  "giris": "Gaziosmanpaşa, İstanbul'un kuzey-merkez hattında yoğun ve hareketli bir ilçe. Yıldırım, Karayolları ve Pazariçi mahallelerindeki apartmanlar 1990'ların büyüme döneminden kalma; bugün banyo, mutfak ve tesisat yenileme talebi bu yapı stokunda doğal olarak yoğun. Emekli nüfusun ağırlıkta olduğu mahallelerde evlerini son kez yenilemek isteyen yaşlı çiftler; genç kiracıların yoğun olduğu bölgelerde ise hızlı boya ve döşeme işleri öne çıkıyor. Eskiköy tarafındaki işyerleri ve Pazar günü tezgah kurulan meydanlar hayatı döngüsel; biz de ticaret yoğunluğuna göre vardiya planı yapıyoruz. Metro ve tramvay bağlantılarına yakın konumumuz ile ekiplerimiz ilçede gün içinde birden çok randevuyu dakik şekilde tamamlıyor.",
+  "uzmanlik": "GOP'ta üç kuşaklı aileler için yapılan 'tek elden ev yenileme' paketlerinde uzmanız: boya, zemin, banyo, mutfak ve tesisatı koordineli bitirip teslim ediyoruz. Emekli müşterilerimiz için taksitli ödeme ve günlük plan bilgilendirmesi uyguluyoruz. Apartman yöneticilerine bina genel bakım paketi (çatı, oluk, merdiven) sunuyoruz.",
+  "musteriProfili": "Evini son kez yenileyen emekliler, kiracı geçişleri yöneten ev sahipleri ve işyeri sahipleri.",
+  "sorunlar": [
+    "1990'lar yapılarında ömrünü dolduran kombi ve tesisat",
+    "Yoğun aile kullanımında banyo-mutfak aşınması",
+    "Emekli kesimde erişilebilirlik ve güvenlik düzenlemeleri",
+    "Kiracı geçişlerinde hızlı boya-döşeme ihtiyacı"
+  ],
+  "sss": [
+    { "s": "Evimi komple yenilemek istiyorum, tek firma yeterli mi?", "c": "Evet, boya-zemin-banyo-mutfak-tesisat işlerini tek sözleşmeyle alıyor; tek irtibat kişisiyle süreci yönetiyoruz. Teslim tarihi yazılıdır." },
+    { "s": "Emekliyim, tadilat ödemesini bölerek yapabilir miyim?", "c": "Evet, işin %40'ı ile başlayıp aşama aşama ödeme planı uyguluyoruz; her aşamanın kontrolünü sizinle birlikte yapıyoruz." },
+    { "s": "Yaşlı annem için banyoda tutamak ve düzenleme yapıyor musunuz?", "c": "Evet, tutamak montajı, kaymaz zemin, yükseltilmiş klozet ve duş oturma sistemi gibi erişilebilirlik düzenlemelerini uygun fiyatla yapıyoruz." },
+    { "s": "Pazar günü işyeri tadilatı yapabilir misiniz?", "c": "Ticari meydanların kapalı olduğu saatlerde sessiz işleri planlıyor; kepenk ve vitrin işlerini işletme kapalıyken tamamlıyoruz." }
+  ]
+}

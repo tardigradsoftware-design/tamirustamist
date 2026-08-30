@@ -1,0 +1,25 @@
+{
+  "slug": "beyoglu",
+  "ad": "Beyoğlu",
+  "bolge": "Tarihi yarımada karşısı, kültür-sanat aksı",
+  "accent": "slate",
+  "layout": "B",
+  "heroIndex": 9,
+  "vurguluHizmetler": ["ic-cephe-boya-ve-badana", "alci-siva-ve-saten-alci", "pencere-degisimi", "sihhi-tesisat-kurulumu-ve-yenileme", "elektrik-tesisati-kurulumu", "rutubet-ve-kuf-giderme"],
+  "komsular": ["besiktas", "sisli", "kagithane", "eyupsultan", "fatih"],
+  "giris": "Beyoğlu; Galata, Cihangir, Taksim ve Karaköy'ü içine alan, tarihi apartmanların ve kültür-sanat mekanlarının kalbi. Buradaki binaların çoğu 19. yüzyıl sonu ile 20. yüzyıl başı yapımı; taşıyıcı duvarlı, yüksek tavanlı, orijinal kartonpiyerli yapılar. Tadilat talepleri genellikle iki yönde ilerliyor: tarihi dokuyu koruyarak yaşanabilir kılma ve kiralık/turistik dairelerde hızlı dönüşüm. Cihangir'in taş binalarında kalorifer dönüşümü, tesisat yenileme ve rutubet giderme; Galata-Karaköy hattında ise ofis ve konsept cafe mekan dönüşümleri yapıyoruz. Koruma kurulu bölgelerinde izinli müdahale kurallarına tam uyum bizim için standarttır. Attık yönetimi, geçit dar sokakları ve asansörsüz binalar için lojistik planımız hazır.",
+  "uzmanlik": "Tarihi binalarda; izinli iç yenileme, orijinal tavan rozetlerinin kopyalanarak korunması, iskele gerektiren cephe müdahaleleri ve bina içi yeni tesisatın dekoratif dokuya zarar vermeden döşenmesi konularında deneyimliyiz. Turistik kiralık dairelerde ise dayanıklı, bakımı kolay ve fotojenik iç mekanlar üretiyoruz. Dar sokak ve merdiven lojistiğini önden planlıyoruz.",
+  "musteriProfili": "Tarihi binada yaşayan kültür severler, butik otel ve konsept mekan yatırımcıları, kısa dönem kiralama yapan ev sahipleri.",
+  "sorunlar": [
+    "Tarihi binalarda izinsiz ve yanlış müdahale riski",
+    "Yüksek tavanlı eski dairelerde ısı kaybı ve rutubet",
+    "Dar sokaklarda malzeme ve moloz lojistiği",
+    "Turistik amaçlı dairelerde hızlı dönüşüm ihtiyacı"
+  ],
+  "sss": [
+    { "s": "Cihangir'deki tarihi dairemde kalorifer döşenebilir mi?", "c": "Evet, kartonpiyer ve tavan rozetlerini koruyarak döşeme altı veya kaide hattından boru döşeyebiliyoruz; tarihi dokuya zarar vermeyen yöntemler kullanıyoruz." },
+    { "s": "Koruma kuruluna tabi binada tadilat nasıl yapılır?", "c": "Müdahale türüne göre ön izin ve proje belgeleri hazırlıyoruz; onaysız hiçbir uygulama yapmıyoruz. Süreç yönetimini biz üstleniyoruz." },
+    { "s": "Kısa dönem kiralamaya açacağım daireyi hızlı hazırlamak istiyorum.", "c": "Turistik kiralama standartlarına uygun dayanıklı malzemeli, fotojenik bir iç mekanı 1-2 haftada teslim ediyoruz; eksiksiz cihaz montajı dahildir." },
+    { "s": "Asansörsüz binada tadilat eşyası nasıl taşınıyor?", "c": "Merdiven koruma brandaları ve vinç imkanını değerlendiriyoruz; mobilya ve malzeme taşıma planını iş sözleşmesine dahil ediyoruz." }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "banyo-tadilati",
+  "baslik": "Banyo Tadilatı",
+  "ikon": "bathtub",
+  "aciklama": "İstanbul'da banyo tadilatı, duşakabin montajı, fayans döşeme ve anahtar teslim komple banyo yenileme hizmetleri. 7/24 keşif, garantili işçilik.",
+  "hizmetler": [
+    {
+      "id": 1,
+      "slug": "komple-banyo-tadilati",
+      "baslik": "Komple Banyo Tadilatı (Anahtar Teslim)",
+      "kisaAciklama": "Sökümden karo döşemeye, tesisattan armatüre kadar komple banyo tadilatı. Anahtar teslim, garantili işçilik ve şeffaf fiyat.",
+      "detay": "Komple banyo tadilatı; eski seramiklerin sökümü, su ve atık tesisatının yenilenmesi, karo döşeme, derz dolgusu, asma tavan, armatür ve vitrifiye montajını tek sözleşme altında toplayan anahtar teslim bir hizmettir. Ekibimiz önce sahada güncel yerinde ölçü alır, keşif raporu çıkarır ve size sabit fiyat teklifi sunar. Banyo tadilatı sırasında su yalıtımı ihmal edilemez; bu yüzden söküm sonrası duvarlara ve zemine membran esaslı su yalıtımı uygular, ardından karo döşemesine geçeriz. Tesisat, kiremit altı bağlantılardan batarya bağlantılarına kadar PPRC boru ve orijinal fittings ile yenilenir. İşin süresi ortalama 10-15 iş günüdür ve bitişte alan temizliği ile teslim edilir. İstanbul Avrupa Yakası'nın tüm ilçelerinde ücretsiz keşif yapıyor; işçiliğimizi yazılı garanti altına alıyoruz.",
+      "faydalar": [
+        "Tek fiyat, tek sorumlu: sökümden teslime tüm işler içinde",
+        "Membran esaslı su yalıtımı ile kiremit altı neme karşı kesin çözüm",
+        "PPRC boru ve orijinal malzeme ile yenilenen tesisat",
+        "Yazılı işçilik garantisi ve iş sonu temizlik teslimi"
+      ],
+      "sss": [
+        { "s": "Komple banyo tadilatı ne kadar sürer?", "c": "Standart bir banyonun tadilatı ortalama 10-15 iş günü sürer. Söküm, tesisat, su yalıtımı ve karo döşemesi aşamaları toplam süreyi belirler; küçük banyolar 7 güne kadar inebilir." },
+        { "s": "Banyo tadilatı fiyatı nasıl belirlenir?", "c": "Fiyat; banyonun metrekaresi, seçilen karo ve armatür sınıfı, tesisatın yenilenme kapsamı ve işçilik gün sayısına göre belirlenir. Ücretsiz yerinde keşif sonrası sabit fiyat teklifi veriyoruz." },
+        { "s": "Tadilat sırasında banyoyu kullanabilir miyim?", "c": "Söküm ve tesisat aşamalarında banyo kullanıma kapalı olur. Çoğu müşterimiz tadilat planını düzenlerken evde ikinci bir tuvalet kalmasına dikkat eder; bunu keşifte birlikte planlıyoruz." },
+        { "s": "Su yalıtımı işin içinde mi?", "c": "Evet. Komple banyo tadilatı paketimizde duvar ve zemin su yalıtımı (membran esaslı) standart olarak uygulanır. Yalıtımsız karo döşemesi yapmıyoruz." },
+        { "s": "Banyo tadilatında garanti veriyor musunuz?", "c": "Evet, işçiliğimiz yazılı garanti kapsamındadır; kullanılan karo, armatür ve vitrifiyeler üretici garantisi ile gelir. Garanti belgesi teslimde verilir." }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "banyo-fayans-ve-seramik-doseme",
+      "baslik": "Banyo Fayans ve Seramik Döşeme",
+      "kisaAciklama": "Banyo fayans ve seramik döşeme işçiliği; lazer tesviyeli zemin, profesyonel derz ve granit/açık karo uygulamaları.",
+      "detay": "Banyo fayans ve seramik döşeme işlerinde yüzey hazırlığı, döşeme tekniği kadar önemlidir. Söküm sonrası zemin şap ile tesviye edilir, duvarlar mastar ile düzeltilir; böylece karo döşemesi lazer terazi ile milimetrik kotta ilerler. Ekibimiz 60x60, 60x120 granit, açık (patlatma) karo, metro fayans ve çıta desenli döşemelerde deneyimlidir. Derz işlemi için su itici epoksi derz veya klasik beyaz derz tercihinize göre uygulanır; derz genişliği karo boyutuna göre ayarlanır. Döşeme öncesinde karo yüzeyinde hava boşluğu kalmaması için tam yüzey yapıştırma tekniği kullanır, köşe ve pencere kenarlarında silikon mastik ile bitiş yaparız. Uygulama sonrası derzlerin kuruması beklenir ve alan temiz teslim edilir. Aynı gün içinde keşif, hafta içinde döşeme planı çıkarabiliyoruz.",
+      "faydalar": [
+        "Lazer terazi ile milimetrik kot kontrolü, eğim sorunu olmaz",
+        "Tam yüzey yapıştırma tekniği ile karo oynaması ve kırılması önlenir",
+        "Epoksi derz seçeneği ile sararma ve küf sorunu bitiyor",
+        "Granit, açık karo, metro ve çıta desen dahil tüm döşeme türleri"
+      ],
+      "sss": [
+        { "s": "Fayans döşeme işçilik fiyatı nasıl hesaplanır?", "c": "İşçilik fiyatı; metrekare, karo ebadı (büyük ebat işçilik gerektirir) ve desen karmaşıklığına göre hesaplanır. Yerinde ölçü sonrası metrekare bazında net fiyat verilir." },
+        { "s": "Eski fayansın üzerine yeni fayans döşenir mi?", "c": "Teknik olarak mümkün olsa da önermeyiz; mevcut yüzey yapışma sağlamazsa karo oynar. Biz önce söküm yapar, yüzeyi şap/tesviye ile hazırlar, sonra döşeriz." },
+        { "s": "Açık karo (patlatma) döşemek zor mudur?", "c": "Açık karo, desenli ve farklı ölçülere sahip olduğundan ustalık ister. Ekibimiz açık karo döşemesinde deneyimlidir ve kesimleri desen bütünlüğünü bozmayacak şekilde planlar." },
+        { "s": "Derz çatlaması neden olur ve nasıl önlenir?", "c": "Derz çatlaması genellikle yüzey hareketi ve yanlış derz oranından kaynaklanır. Uygun esnek derz seçimi ve doğru uygulama ile çatlamanın önüne geçiyor; epoksi derz ile uzun ömür sağlıyoruz." },
+        { "s": "Döşeme işi ne kadar sürer?", "c": "Ortalama bir banyoda 3-5 gün; yüzey hazırlığı, döşeme ve derz aşamaları dahildir. Büyük alanlarda (wc alanları dahil) süre metrekaре ile orantılıdır." }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "dusakabin-montaji-ve-degisimi",
+      "baslik": "Duşakabin Montajı ve Değişimi",
+      "kisaAciklama": "Duvara vidalı, köşe, kare ve oval duşakabin montajı; eski kabin sökümü ve izolasyonlu profil uygulaması.",
+      "detay": "Duşakabin montajında en sık karşılaşılan sorun, ölçüsü yanlış alınmış kabinin kapısının kapanmaması ve suyun dışarı sızmasıdır. Bu yüzden montaj öncesinde banyoyu lazer metre ile ölçer, köşe açısını kontrol eder ve kabin tipini (kare, köşe, yarım daire, duvara vidalı) banyonuza göre öneririz. Montajda alüminyum profil ve temperli güvenlik camı kullanır; kapı gidiş-gelişlerini ayarlar, silikon izolasyonu hem cam ile zemin arasında hem de profilde eksiksiz uygularız. Eski duşakabin sökümünde kireç birikmiş rayları ve camları dikkatli biçimde söker, karo yüzeyine zarar vermeden yenisini takarız. Montaj sonrası kapı ayarı ve silikon dolgu kontrol edilir, kullanıma hazır teslim edilir. Aksesuar olarak sabunluk rafı ve havlu askısı montajı da ek hizmet olarak yapılır.",
+      "faydalar": [
+        "Lazer metre ile ölçü, köşe açısı kontrolü ve doğru kabin önerisi",
+        "Temperli güvenlik camı ve kireç tutmayan alüminyum profil",
+        "Eksiksiz silikon izolasyon ile su sızdırmazlığı",
+        "Eski kabin sökümü dahil, aynı gün montaj imkânı"
+      ],
+      "sss": [
+        { "s": "Duşakabin montajı ne kadar sürer?", "c": "Kabin tipine bağlı olarak 2-4 saat sürer. Mevcut kabinin sökülmesi gerekiyorsa toplam süre yarım günü geçmez." },
+        { "s": "Duşakabini kendim mi almalıyım, siz mi temin ediyorsunuz?", "c": "İki seçenek de var. Modeli siz seçer biz montajını yaparız ya da marka/model önerimizle tedarik ve montajı birlikte sunarız. Tedarikte firma garantisi geçerlidir." },
+        { "s": "Eski duşakabin sökümünde fayanslara zarar gelir mi?", "c": "Söküm işlemini dikkatli yöntemlerle yaparız; ray ve profil vidaları çıkarılırken karo yüzeyi korunur. Genellikle yalnızca küçük silikon izlerinin temizlenmesi gerekir." },
+        { "s": "Dar banyoya hangi duşakabin uyar?", "c": "Dar banyolarda duvara vidalı tek cam kanat veya köşe kabinler yer tasarrufu sağlar. Keşifte banyonuzu ölçüp en uygun modeli öneriyoruz." },
+        { "s": "Duşakabin garantisi var mı?", "c": "Montaj işçiliğimiz garanti kapsamındadır. Kabin üreticisinin cam ve profil garantisi ayrıca geçerlidir; garanti belgelerini teslimde birlikte veriyoruz." }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "kuvet-sokumu-ve-dus-alanina-cevirme",
+      "baslik": "Küvet Sökümü ve Duş Alanına Çevirme",
+      "kisaAciklama": "Eski küvet sökümü, duş alanına dönüşüm; zemin eğimi, su yalıtımı ve duşakabin ile tamamlanan dönüşüm.",
+      "detay": "Eski küvetler özellikle 60-70 yaş üstü kullanıcılar için giriş-çıkış zorluğu yaratır ve sıkça tercih edilmez hale gelir. Küvet sökümü ve duş alanına çevirme işlemi; küvetin ölçülerinin alınması, su ve atık bağlantılarının kapatılması, küvetin parçalanarak çıkarılması ve yerinin duş alanına dönüştürülmesini kapsar. Dönüşümde zemine gider yönünde uygun eğim verilir, su yalıtımı uygulanır ve banyonuzun geri kalanıyla uyumlu karo döşenir. Ardından isteğe bağlı çelik duş teknesi döşenir veya karo zemin üzerinde doğrudan duş alanı oluşturulur; duşakabin ile sıçrama kontrolü sağlanır. Yaşlı ve engelli bireyler için tutamak ve kaymaz zemin çözümlerini de aynı iş kapsamında sunuyoruz. İş 2-4 gün içinde tamamlanır, kullanılmayan küvet artığı ve moloz alandan uzaklaştırılır.",
+      "faydalar": [
+        "Giriş-çıkışı kolay, güvenli ve modern bir duş alanı",
+        "Gidere doğru eğimli zemin ve profesyonel su yalıtımı",
+        "Küvet molozu dahil komple temizlik ve alan teslimi",
+        "Tutamak, kaymaz karo ve oturmalık gibi güvenlik seçenekleri"
+      ],
+      "sss": [
+        { "s": "Küveti duşa çevirmek ne kadar tutar?", "c": "Maliyet; alan büyüklüğü, yalıtım ve karo seçimine göre değişir. Yerinde keşif sonrası söküm, yalıtım, karo ve işçilik dahil net fiyat verilir." },
+        { "s": "Küvetin yerine duş alanı yapmak ne kadar sürer?", "c": "Ortalama 2-4 iş günü sürer. Küvetin sökümü 1 gün, yalıtım ve karo döşemesi 1-2 gün, duşakabin ve bitiş işleri 1 gün alır." },
+        { "s": "Zemini karo mu, duş teknesi mi tercih etmeliyim?", "c": "Karo zemin görsel bütünlük sağlar, duş teknesi daha hızlı ve ekonomik kurulur. Banyonuzun durumuna ve bütçenize göre keşifte en uygun seçeneği öneririz." },
+        { "s": "Duş alanı için su yalıtımı şart mı?", "c": "Evet, şarttır. Küvetin alt bölgesi zamanla nem tutar; dönüşümde zemin ve duvar altlarına membran esaslı su yalıtımı uygulayarak alt kata su sızması riskini sıfırlıyoruz." },
+        { "s": "Duşakabin şart mı, perde yeterli mi?", "c": "Duşakabin su sıçramasını ve zeminde kaymayı büyük ölçüde azaltır. Bütçe dostu alternatif olarak cam panel de kullanılabilir; her iki seçeneği de uyguluyoruz." }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "klozet-montaji-ve-degisimi",
+      "baslik": "Klozet Montajı ve Değişimi",
+      "kisaAciklama": "Klozet sökümü, montajı, rezervuar ayarı, gömme rezervuar sistemleri ve flanş contası değişimi.",
+      "detay": "Klozet montajı ve değişimi, su tesisatı ile doğrudan bağlantılı olduğu için dikkatli bir iştir. Eski klozetin sökümünde gider flanşı kontrol edilir, gerekirse değiştirilir ve klozet yeni contasıyla yerine oturtulur. Montajda klozetin zemine sabitlenmesi, rezervuar su ayarı, duvar tipi ve gömme rezervuar sistemleri dahil her türlü montaj yapılır. Rezervuar kaçağı, sürekli çalışan su ve kötü koku şikayetlerinde iç mekanizma (flapper, şamandıra) değişimi de aynı hizmet kapsamındadır. Montaj sonrası klozetin altındaki silikon mastik uygulaması ile zemine ve duvara geçişler kapatılır; sızıntı kontrolü için iş sonunda su testi yapılır. Yoğun dönemlerde aynı gün içinde müdahale edebildiğimiz işler arasındadır. Eski klozetin taşınması ve imhası da tarafımızdan yapılır.",
+      "faydalar": [
+        "Flanş ve conta kontrolü ile kaçak riski olmayan montaj",
+        "Gömme rezervuar ve duvar tipi klozetler dahil tüm sistemler",
+        "İş sonu su testi ve silikon bitiş detayları",
+        "Eski klozetin sökümü, taşınması ve imhası dahil"
+      ],
+      "sss": [
+        { "s": "Klozet değişimi ne kadar sürer?", "c": "Standart bir klozet değişimi 1-2 saat sürer. Gömme rezervuar veya duvar tipi sistemlerde süre 3-4 saate çıkabilir." },
+        { "s": "Klozet kendim mi alayım?", "c": "İsterseniz siz satın alırsınız, biz montajı yaparız; isterseniz biz tedarik ederiz. Tedarikte tercih ettiğiniz fiyat/özellik dengesine göre model öneriyoruz." },
+        { "s": "Klozetin suyu sürekli akıyor, tamir edilir mi?", "c": "Genellikle evet. Rezervuar iç mekanizmasındaki şamandıra veya flapper değişimiyle sorun bir saat içinde çözülür; mekanizma komple değişecekse bunu da üstleniriz." },
+        { "s": "Gömme rezervuar klozet montajı zor mu?", "c": "Gömme rezervuar, duvar içi tesisat gerektirdiğinden uzmanlık ister. Ekibimiz gömme rezervuar sistemlerinin montajında ve onarımında deneyimlidir." },
+        { "s": "Klozet takıldıktan sonra koku geliyor, sebebi ne olabilir?", "c": "Koku genellikle flanş contasının eskimesinden kaynaklanır. Sökümde contayı değiştirir ve gider bağlantısının sızdırmazlığını kontrol ederiz; bu sayede koku sorunu çözülür." }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "lavabo-ve-banyo-dolabi-montaji",
+      "baslik": "Lavabo ve Banyo Dolabı Montajı",
+      "kisaAciklama": "Duş tekneli ve tezgahlı lavabo, banyo dolabı, ayna ve aksesuar montajı; sifon ve gider bağlantıları dahil.",
+      "detay": "Lavabo ve banyo dolabı montajında dikkat edilmesi gereken, hem duvar sağlamlığı hem de tesisat hizasının doğruluğudur. Tezgahlı banyo dolabı için önce ölçü alınır, gider ve su bağlantı noktaları hizalanır; dolap sağlam dübellerle duvara sabitlenir. Duş tekneli (ayaklı) lavabolarda sifon bağlantısı, gider eğimi ve duvar sabitlemesi kontrol edilir. Ayna, raf, havlu askısı ve sabunluk gibi aksesuarların montajı da aynı ziyarette tamamlanabilir. Montaj sonrası tüm bağlantılarda sızdırmazlık testi yapılır, silikon bitişleri uygulanır. Dolap kapılarının ayarı, çekmecelerin ray ayarı ve tezgah arkası silikonu işin detaylarını oluşturur. Mevcut dolap değişiminde eski ürünün sökülmesi ve duvarın montaja hazırlanması da hizmet kapsamındadır.",
+      "faydalar": [
+        "Ön ölçü ve tesisat hizalama ile sorunsuz montaj",
+        "Duvar tipi, tezgahlı ve ayaklı tüm dolap/lavabo sistemleri",
+        "Ayna ve aksesuar dahil komple banyo donanımı",
+        "Sızdırmazlık testi ve dakik silikon bitişleri"
+      ],
+      "sss": [
+        { "s": "Banyo dolabı montajı ne kadar sürer?", "c": "Tezgahlı dolap ve lavabo montajı ortalama 2-3 saat sürer; ayna ve aksesuarlarla birlikte yarım günü geçmez." },
+        { "s": "Mevcut dolabımı söküp yenisini mi takacaksınız?", "c": "Evet, eski dolabın sökümü, duvarın temizlenmesi ve yeninin montajı dahil komple hizmet veriyoruz. Söküm sonrası gerekirse duvar tamiri de yapılır." },
+        { "s": "Dolap üstü tezgah ile lavabo arasındaki silikonu siz mi yapıyorsunuz?", "c": "Evet, tezgah ile lavabo ve duvar arasındaki tüm silikon bitişleri montaj sırasında biz uyguluyoruz; böylece su sızması ve küf riski kapanmış oluyor." },
+        { "s": "Duvar tipi lavabo duvara tutunur mu?", "c": "Duvar tipi lavabo; duvarın içinde sağlam ankraj (konsol) ile sabitlenirse uzun yıllar sorunsuz kullanılır. Montaj öncesi duvar yapısını kontrol ediyoruz." },
+        { "s": "Gider bağlantılarında koku olur mu?", "c": "Sifon ve gider bağlantılarını doğru eğimle kurarak koku problemini önlüyoruz. Montaj sonrası sızıntı testi yapıp alanı kullanıma hazır teslim ediyoruz." }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "batarya-ve-musluk-degisimi",
+      "baslik": "Batarya ve Musluk Değişimi",
+      "kisaAciklama": "Mutfak ve banyo batarya değişimi, musluk tamiri, kartuş yenileme ve gizli batarya montajı.",
+      "detay": "Batarya ve musluk değişiminde eski bataryanın sökümü, bağlantı hortumlarının kontrolü ve yeninin montajı birkaç saat içinde tamamlanır. Mutfak bataryalarında çekmeli (sprey uçlu) sistemlerin montajı, banyoda ise lavabo, duş ve küvet bataryalarının montajı yapılır. Akıtan musluklarda çoğu zaman kartuş değişimi yeterlidir; kartuşu değiştirerek batarya değişimi maliyetinden kurtulmanızı sağlar, dönmeyen ve kireçlenmiş başlıkları yenileriz. Gizli (duvara gömme) batarya sistemlerinde, duvar içindeki vana gövdesinin değişimi ve trim parçalarının montajı özel uzmanlık gerektirir; bu işi de deneyimli ekibimizle yapıyoruz. Montaj sonrasında su basıncı ve sıcak-soğuk bağlantılar kontrol edilir, sızıntı olup olmadığı test edilir. Eski bataryaların atığı bizim tarafımızdan alınır.",
+      "faydalar": [
+        "Kartuş değişimi ile düşük maliyetli musluk tamiri",
+        "Çekmeli mutfak bataryası ve gizli batarya dahil tüm sistemler",
+        "Montaj sonrası basınç ve sızıntı testi",
+        "Aynı gün randevu imkânı ile hızlı çözüm"
+      ],
+      "sss": [
+        { "s": "Musluk değişimi ne kadar sürer?", "c": "Standart bir lavabo veya mutfak bataryası değişimi 1-2 saat sürer. Gizli batarya ve duvar tipi sistemlerde süre uzayabilir." },
+        { "s": "Akıtan musluğu tamir mi edersiniz, değiştirmek mi gerekir?", "c": "Önce tamir ederiz; çoğu akıntı kartuş veya conta değişimi ile çözülür. Gövdesi kırık veya paslanmış ise batarya değişimini öneririz." },
+        { "s": "Bataryayı kendim alırsam montaj ücreti ne kadar?", "c": "Kendi aldığınız bataryanın montajını da yapıyoruz; işçilik ücreti model ve montaj türüne göre değişir. Keşifte net fiyat verilir." },
+        { "s": "Gizli bataryam bozuldu, değişir mi?", "c": "Evet. Duvara gömme vana gövdesi ve trim parçalarını marka modeline uygun olarak değiştiriyoruz; karo kırmadan önce kontrol panelinden müdahale yapabiliyoruz." },
+        { "s": "Düşük su basıncı musluktan mı kaynaklanır?", "c": "Basınç düşüklüğü çoğunlukla eski batarya içindeki kireç birikiminden kaynaklanır. Kartuş ve perlatör temizliği/değişimi ile basınç sorununu çözeriz." }
+      ]
+    }
+  ]
+}

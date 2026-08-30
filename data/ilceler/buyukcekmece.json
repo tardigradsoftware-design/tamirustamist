@@ -1,0 +1,25 @@
+{
+  "slug": "buyukcekmece",
+  "ad": "Büyükçekmece",
+  "bolge": "Batı sahil, marina ve site yaşamı",
+  "accent": "teal",
+  "layout": "A",
+  "heroIndex": 10,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "ic-cephe-boya-ve-badana", "kombi-montaji-ve-degisimi", "pencere-degisimi", "gomme-dolap-ve-giyinme-odasi", "parke-ve-laminat-doseme"],
+  "komsular": ["beylikduzu", "catalca", "silivri", "esenyurt"],
+  "giris": "Büyükçekmece; kumsalları, marinası ve tarihi köprüsüyle İstanbul'un batı kapısı görünümünde. İlçede iki farklı yapı kültürü var: sahil boyundaki yazlık siteler ve yıl boyu yaşayan ailelerin tercih ettiği geniş konutlar. Yazlık evlerin kışlığa çevrilmesi; kombi tesisatı, ısı yalıtımı, pencere yenileme ve mütemadiyen boya-badana isteklerini doğuruyor. Kıyı şeridindeki dairelerde ise deniz havasından kaynaklanan nem ve küf sorunlarını çözüyoruz. Eski köy dokusundaki müstakil evlerde çatı ve cephe tadilatı yapan ekibimiz; yeni site projelerinde ise ortak alan ve daire içi düzenlemeleri yürütüyor. Hafta sonu servisimiz sayesinde şehirde yaşayıp hafta sonları evine gelen mülk sahiplerine de randevu verebiliyoruz.",
+  "uzmanlik": "Yazlık-kışlık dönüşümlerde komple paket (kombi, ısı yalıtımı, doğrama, boya) uyguluyoruz. Marina ve kıyı sitelerinde tuzlu hava dayanımlı malzeme seçimi, yüzme havuzu teknik bağlantıları (arıtma odası tesisatı) ve bahçe duşu-arıtma hatları konusunda da destek veriyoruz. Mimar Sinan Köprüsü tarafındaki tarihi köy evlerinde ise geleneksel dokuya uygun onarım teknikleri kullanıyoruz.",
+  "musteriProfili": "Yazlığını kışlığa çeviren mülk sahipleri, marina çevresinde yıl boyu yaşayan aileler ve köy evi tadilatı yapan kültür meraklıları.",
+  "sorunlar": [
+    "Yazlık evlerde kış aylarında donma ve boru patlaması",
+    "Sahil bölgesinde nem ve tuz kaynaklı korozyon",
+    "Yıl boyu kullanımda ısı yalıtımı yetersizliği",
+    "Köy evlerinde modern tesisatın eski dokuyla uyumu"
+  ],
+  "sss": [
+    { "s": "Yazlığımda kışın borular donuyor, kalıcı çözüm nedir?", "c": "Suyu boşaltan vana sistemi, donma korumalı musluk ve izolasyonlu hat döşemesiyle sorunu kökten çözüyoruz; acil durumlar için 7/24 hattımıza başvurabilirsiniz." },
+    { "s": "Kışın gelmediğim yazlık evde kombi-patlak vidası riski olur mu?", "c": "Evinizde kalıcı kombi kurulumu, antifrizli sistem doldurma veya suyu boşaltma prosedürünü birlikte planlıyoruz; eve girdiğinizde doğalgaz açma-bakım işini de yapıyoruz." },
+    { "s": "Sahil evinde demir aksamlardaki pası nasıl önlüyorsunuz?", "c": "Galvanizli ve paslanmaz bağlantı elemanları, dış cephe ve balkonlarda deniz iklimine uygun boyalar kullanıyoruz; mevcut korozyonu zımpara ve astarlama ile temizliyoruz." },
+    { "s": "Hafta sonları sadece orada oluyorum, iş programı yapabilir misiniz?", "c": "Evet, hafta sonu ekibi ve önceden onayladığınız malzeme listesiyle cuma akşamından pazara kadar program yapabiliyoruz." }
+  ]
+}

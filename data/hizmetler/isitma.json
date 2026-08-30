@@ -1,0 +1,128 @@
+{
+  "slug": "isitma-sistemleri",
+  "baslik": "Isıtma Sistemleri",
+  "ikon": "flame",
+  "aciklama": "İstanbul'da kombi montajı ve bakımı, petek montajı, kalorifer tesisatı ve yerden ısıtma sistemleri.",
+  "hizmetler": [
+    {
+      "id": 42,
+      "slug": "kombi-montaji-ve-degisimi",
+      "baslik": "Kombi Montajı ve Değişimi",
+      "kisaAciklama": "Kombi sökme-takma, montaj, gaz bağlantısı ve baca sistemi; yetkili ekip, garanti belgeli kurulum.",
+      "detay": "Kombi montajı ve değişimi; eski kombinin sökülmesi, gaz hattı kontrolü, yeni kombinin montajı ve devreye alınması işlemlerini kapsar. Değişimde önce kombi kapasitesi hesaplanır: dairenin ısınma alanı, pencere yönü ve yalıtım durumuna göre kW seçimi yapılır; böylece kombi ne yetersiz ne de gereksiz büyük seçilir. Montajda gaz hattı kaçak testi (köpük ve manometre) yapılır, bacalı ve yoğuşmalı sistemlere uygun baca bağlantısı kurulur. Hered ve oda termostatı montajı, istenen sıcaklık konforunu ve enerji tasarrufunu artırır. Devreye alma işleminde kombi çalıştırılır, brülör ayarı kontrol edilir ve kullanıcıya kullanım eğitimi verilir. Kurulum sonrası garanti belgesi yetkili servis damgasıyla teslim edilir.",
+      "faydalar": [
+        "Alan ve yalıtım analiziyle doğru kapasite seçimi",
+        "Gaz kaçak testi ve manifold ayarlı güvenli montaj",
+        "Baca sistemi ve oda termostatı uyumluluğu",
+        "Yetkili servis belgeli, garanti geçerli kurulum"
+      ],
+      "sss": [
+        { "s": "Kombi değişimi ne kadar sürer?", "c": "Standart bir kombi değişimi 3-5 saat sürer; baca yenileme veya gaz hattı uzatma gerekirse 1 güne uzar." },
+        { "s": "Kombimi kendim mi almalıyım?", "c": "İsterseniz kendi aldığınız kombi takılır; isterseniz kapasite analizine göre model önerip biz tedarik ederiz. Tedarikte üretici garantisi geçerlidir." },
+        { "s": "Yoğuşmalı kombi mi konvansiyonel mi?", "c": "Doğalgaz faturalarını düşürmek ve yeni mevzuata uyum için yoğuşmalı kombi öneriyoruz; baca tipi ve tesisat durumuna göre keşifte netleştirilir." },
+        { "s": "Kombi montajı için ruhsat/vize gerekir mi?", "c": "Gaz şirketinin (İGDAŞ gibi) vize işlemi gerekebilir; biz süreci yönetir, gerekli evrakları hazırlarız." },
+        { "s": "Eski kombiyi benden alır mısınız?", "c": "Eski kombiyi söküp taşıyoruz; çalışır durumdaysa anlaşmalı firmalara değerlendirme yönlendirmesi yapıyoruz." }
+      ]
+    },
+    {
+      "id": 43,
+      "slug": "kombi-bakimi-ve-ariza-onarimi",
+      "baslik": "Kombi Bakımı ve Arıza Onarımı",
+      "kisaAciklama": "Kombi periyodik bakımı: baca kontrolü, brülör temizliği, basınç ayarı; arıza tespiti ve onarım.",
+      "detay": "Kombi bakımı; ısıtma sezonu öncesi yapılan periyodik kontrol ile kombinizin verimini ve ömrünü korur. Bakımda brülör temizlenir, elektrotlar değiştirilir, gaz basıncı ve ayar değerleri ölçülür; baca ve hava girişi kontrol edilerek atık gaz geri tepmesi önlenir. Tesisat basıncı kontrol edilir, genleşme tankı ve doldurma vanası test edilir. Arıza durumunda hata kodları okunur, arızanın kaynağı (ana kart, sensör, fan, üç yollu vana, hidrolik blok) tespit edilir ve orijinal yedek parça ile onarılır. Onarım sonrası kombi tekrar test edilir ve radyatörlerde dengeli ısınma kontrolü yapılır. Kombi durumuna göre bakım önerisi ve yakıt tüketim analizi raporda sunulur. Bakım, üretici garanti koşullarını da korur.",
+      "faydalar": [
+        "Sezon öncesi bakım ile kombi arızası riskini azaltma",
+        "Brülör ve baca temizliği ile verim ve tasarruf",
+        "Orijinal yedek parça ile garantili arıza onarımı",
+        "Bakım raporu ve tüketim analizi"
+      ],
+      "sss": [
+        { "s": "Kombi bakımı ne sıklıkla yapılmalı?", "c": "Yılda bir kez, ısıtma sezonu başlamadan önce yapılması önerilir; yoğun kullanılan ticari alanlarda yılda iki kez bakım yapılır." },
+        { "s": "Kombi bakımı ne kadar sürer?", "c": "Standart kombi bakımı 45-90 dakika sürer; parça değişimi gereken durumlarda süre uzar ve onarım genellikle aynı gün tamamlanır." },
+        { "s": "Kombi f/p veriyor, ne yapmalıyım?", "c": "F/ø hata kodları çoğunlukla sensör veya kart arızasındandır. Sertifikalı ekibimiz hata kodunu okuyup kaynağı tespit eder ve onarır." },
+        { "s": "Kombi çok yakıyor, bakım tasarruf sağlar mı?", "c": "Kirli brülör ve tıkalı eşanjör yakıt tüketimini %10-20 artırır. Bakım sonrası verim testi yapılır ve iyileşme oranı raporda belirtilir." },
+        { "s": "Kombi garantisi devam ederken bakım gerekli mi?", "c": "Çoğu üretici, garanti koşulu olarak yetkili servis bakımını şart koşar. Bizim düzenlediğimiz bakım fişi garanti dosyanızı korur." }
+      ]
+    },
+    {
+      "id": 44,
+      "slug": "petek-montaji-ve-degisimi",
+      "baslik": "Petek (Radyatör) Montajı ve Değişimi",
+      "kisaAciklama": "Panel radyatör montajı, eskisiyle değişimi; vana, termostatik radyatör vanası ve köşe bağlantıları.",
+      "detay": "Petek montajı ve değişimi; mevcut radyatörün sökülmesi, hattın kontrolü ve yeninin kurulmasını içerir. Değişim öncesi radyatör boyu ve kapasitesi odanın ısı ihtiyacına göre hesaplanır; yetersiz petek, kombinin sürekli çalışmasına ve yüksek faturaya yol açar. Montajda radyatörler duvara sağlam askılarla asılır, alt ve üst bağlantılar kombi tesisatına uygun yapılır; köşe bağlantılarında vana ve hava alma tertibatı kontrol edilir. Termostatik radyatör vanası (TRV) takılarak oda bazında ısı kontrolü sağlanır ve enerji tasarrufu elde edilir. Montaj sonrası sistem su ile doldurulur, hava alınır ve tüm peteklerin dengeli ısınması kontrol edilir. Döküm radyatörlerin panel radyatörle değişiminde gerekli bağlantı adaptörleri de kullanılır.",
+      "faydalar": [
+        "Oda bazında doğru kapasite hesaplı radyatör seçimi",
+        "Termostatik vana ile oda kontrolü ve tasarruf",
+        "Dengeli ısınma kontrolü ve hava alma dahil",
+        "Dökümden panale geçiş adaptörleri dahil"
+      ],
+      "sss": [
+        { "s": "Petek değişimi ne kadar sürer?", "c": "Tek petek değişimi 2-4 saat; komple daire petek yenileme 1-2 gün sürer. Sistem doldurma ve hava alma işlemi buna dahildir." },
+        { "s": "Hangi petek boyu odama uygun?", "c": "Oda metrekare, tavan yüksekliği, yalıtım ve pencere durumuna göre ısı ihtiyacı hesabı yapılır; buna göre panel boyu belirlenir." },
+        { "s": "Termostatik vana taktırmak tasarruf sağlar mı?", "c": "Evet, TRV ile kullanılmayan odaların ısısı düşürülür; %10-20 yakıt tasarrufu elde edilir. Vanalar montaj dahil temin edilir." },
+        { "s": "Döküm peteği panel petekle değiştirmeli miyim?", "c": "Döküm petekler ısı depolama avantajına sahiptir ancak ağırdır ve dar alan kaplar. Panel petek estetik ve yer kazandırır; ısı kapasitesi hesabıyla değişim yapılır." },
+        { "s": "Petek üstü ısınmıyor, sorun ne?", "c": "Kombi basıncı düşükse veya sistemde hava varsa petekler üstten ısınmaz. Hava alma ve basınç ayarıyla sorun genellikle aynı gün çözülür." }
+      ]
+    },
+    {
+      "id": 45,
+      "slug": "petek-temizligi",
+      "baslik": "Petek Temizliği (Makineli)",
+      "kisaAciklama": "Radyatör içi çamur ve tortu temizliği; makineli yıkama ile ısınma verimini artırma ve tıkanıklığı giderme.",
+      "detay": "Petek temizliği; kombi tesisatında biriken çamur, kireç ve tortunun makineli yıkama ile radyatörlerden dışarı atılmasıdır. Yıllarca doldurulan su ve tesisat aşınmaları peteklerin alt kısmında çamur birikmesine yol açar; petek altı soğuk kalır, kombi gereksiz çalışır ve fatura artar. İşlemde kombi bağlantısı sökülür, profesyonel yıkama makinesi radyatöre bağlanır ve su basıncı döngüleri ile çamur torsiyonel süpürme tekniğiyle atılır. Tüm petekler tek tek yıkanır, ardından sistem yeniden doldurulur ve denge ayarı yapılır. Yıkama öncesi ve sonrası petek ısınma kontrolü yapılarak iyileşme belgelenir. Kombi eşanjörünün çamurdan korunması için manyetik kir tutucu takılması da önerilir.",
+      "faydalar": [
+        "Petek altı soğukluğunu ve tıkanıklığı kökten giderir",
+        "Makineli yıkama ile kombi ömrünü koruyan temizlik",
+        "Isınma perfomansında ölçülebilir iyileşme",
+        "Manyetik kir tutucu önerisi ile önleyici bakım"
+      ],
+      "sss": [
+        { "s": "Petek temizliği ne sıklıkla yapılmalı?", "c": "Genellikle 3-5 yılda bir; eski tesisatlı ve çok tortu biriken binalarda daha sık yapılması önerilir. Isınma yavaşlığı durumunda hemen planlanır." },
+        { "s": "Petek temizliği ne kadar sürer?", "c": "Ortalama 10 petekli bir daire 2-4 saatte yıkanır; sistem büyüklüğüne göre süre değişir." },
+        { "s": "Temizlik kombiye zarar verir mi?", "c": "Hayır, aksine kombi eşanjörünü çamurdan korur. Yıkama sırasında kombi kapalı tutulur ve işlem sonrası sistem düzgün doldurulur." },
+        { "s": "Petekler çok ısınıp oda ısınmıyorsa ne olur?", "c": "Bu tablo genellikle petek içi çamur birikimini gösterir; yıkama sonrası ısı transferi normale döner." },
+        { "s": "Manyetik kir tutucu nedir?", "c": "Tesisata takılan ve metal tortuları toplayan filtre elemanıdır; kombi ve eşanjörü çamurdan korur, temizlik periyodunu uzatır." }
+      ]
+    },
+    {
+      "id": 46,
+      "slug": "kalorifer-tesisati-doseme",
+      "baslik": "Kalorifer Tesisatı Döşeme ve Yenileme",
+      "kisaAciklama": "Yeni kalorifer tesisatı döşeme, eski boru ve tesisat yenileme; boru ölçüsü hesabı ve dengeli ısıtma.",
+      "detay": "Kalorifer tesisatı döşeme; kombiden radyatörlere giden boru hattının proje esaslarına göre kurulmasıdır. Tesisatta boru çapı, oda ısı ihtiyacı ve kat yüksekliğine göre hesaplanır; yanlış çap, uzak odalara suyun ulaşmamasına ve dengesiz ısınmaya neden olur. Yenileme işlerinde eski, paslanmış borular sökülür; duvar ve döşeme içinden yeni hatlar çekilir. Galvaniz veya PPRC boru tercihi; tesisat tipine (açık kapalı devre) ve bütçeye göre belirlenir. Her radyatöre iklimlendirme vanası ve hava alma tertibatı konur; sistem dengeleme (balans) ayarı yapılarak tüm odalarda eşit ısınma sağlanır. Yerden ısıtma ile kombine edilen sistemlerde karışım kolu (termostatik) montajı da yapılır. Teslim öncesi sistem basınçla test edilir ve kaçak kontrolü yapılır.",
+      "faydalar": [
+        "Doğru çap hesabı ile tüm odalarda dengeli ısınma",
+        "Yeni boru hattı ile kaçak ve pas sorununa son",
+        "Balans vanası ile sistem dengeleme",
+        "Basınç testi ile sızdırmazlık garantisi"
+      ],
+      "sss": [
+        { "s": "Kalorifer tesisatı yenileme ne kadar sürer?", "c": "Daire genelinde tesisat yenileme 3-6 gün sürer; duvar kırma, boru döşeme ve sıva-restorasyon aşamaları dahildir." },
+        { "s": "Boru çapı neden önemli?", "c": "Dar boru baştan sona yüksek direnç oluşturur; uzak radyatörler yetersiz ısınır. Hesap doğru yapılmazsa ısınma sorunu içten çözülemez." },
+        { "s": "Döşeme altından boru geçerken kırma mı yapılıyor?", "c": "Mevcut şap içine kanal açılarak boru döşenir; taşıyıcı yapıya dokunulmaz. Yerden ısıtma sistemlerinde şap komple yenilenir." },
+        { "s": "Uzak odalar neden ısınmıyor?", "c": "Dengesiz tesisat, dar boru veya hava birikimi buna yol açar. Tesisat kontrolü ve balans ayarı ile sorun giderilir." },
+        { "s": "Eski tesisatta antikor mu yoksa komple yenileme mi?", "c": "Boru sağlamsa yıkama ve kir tutucu yeterli olur; paslanma ve sık kaçak varsa yenileme önerilir. Keşifte en ekonomik kalıcı çözüm belirlenir." }
+      ]
+    },
+    {
+      "id": 47,
+      "slug": "yerden-isitma-sistemi",
+      "baslik": "Yerden Isıtma Sistemi Kurulumu",
+      "kisaAciklama": "Su bazlı ve elektrikli yerden ısıtma kurulumu; boru serim, manifold, şap, termostat ve izolasyon dahil.",
+      "detay": "Yerden ısıtma sistemi; zeminden yayılan eşit ısıyla konforlu ve ekonomik bir ısınma sağlar. Kurulumda önce zemin iklimlendirme şapı ve izolasyon (XPS) hazırlanır; ardından su bazlı sistemde PE-Xa borular helezon deseninde serilir, elektrikli sistemde ısıtma kablosu döşenir. Boru aralıkları oda ısı ihtiyacına göre (10-30 cm) belirlenir; manifold bağlantıları her oda için ayrı devre olacak şekilde kurulur ve termostat odalar bazında kontrol sağlar. Sistemin üzerine şap dökülür; karo, parke veya laminant kaplama şapın kürlenmesinin ardından yapılır. Su bazlı sistemler kombiye karışım kolu ile bağlanır. Kurulum öncesi zemin ısı kaybı analizi yapılır; işletme ve bakım maliyeti raporu sunulur. Teslimde ısıtma devreye alınır ve tüm odalarda yüzey sıcaklığı ölçülür.",
+      "faydalar": [
+        "Eşit ısı dağılımı ile yüksek konfor",
+        "Düşük su sıcaklığı ile kombide %15-25 tasarruf",
+        "Oda bazlı termostat ve manifold kontrolü",
+        "Su bazlı ve elektrikli sistem seçenekleri"
+      ],
+      "sss": [
+        { "s": "Yerden ısıtma her zemin tipine uygulanır mı?", "c": "Karo, doğal taş, laminat ve parke üzerine uygulanabilir; halı altı yalıtımı düşürür. Kaplama seçimi sistem verimini etkiler, keşifte yönlendirilir." },
+        { "s": "Yerden ısıtma kurulumu ne kadar sürer?", "c": "Ortalama bir dairede boru/serim ve şap 3-5 gün, şapın kürlenmesi ve kaplama 15-30 gün sürer; toplam süre projeye göre planlanır." },
+        { "s": "Yerden ısıtma kombiyle mi çalışır?", "c": "Evet, mevcut kombiye karışım kolu ve manifold ile bağlanır; düşük sıcaklıkta çalıştığı için yoğuşmalı kombiler en idealdir." },
+        { "s": "Arıza durumunda zemin kırılır mı?", "c": "Su bazlı sistemlerde boru kaçağı termal kamera ile nokta olarak bulunur ve küçük bir bölge açılarak onarılır; elektrikli sistemlerde hatlar zonlara ayrılır." },
+        { "s": "Eski binaya yerden ısıtma yapılır mı?", "c": "Şap yenilemesi gerektiği için tadilat kapsamında uygundur; kapı yükseklikleri ve kat platformu kontrol edilir. Keşifte uygunluk belirlenir." }
+      ]
+    }
+  ]
+}

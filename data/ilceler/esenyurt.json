@@ -1,0 +1,25 @@
+{
+  "slug": "esenyurt",
+  "ad": "Esenyurt",
+  "bolge": "En batı uç, genç nüfusun kenti",
+  "accent": "orange",
+  "layout": "A",
+  "heroIndex": 13,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "ic-cephe-boya-ve-badana", "komple-mutfak-tadilati", "su-kacagi-tespiti", "elektrik-tesisati-kurulumu", "pencere-degisimi"],
+  "komsular": ["beylikduzu", "avcilar", "kucukcekmece", "basaksehir", "buyukcekmece"],
+  "giris": "Esenyurt, Türkiye'nin en genç ve en kalabalık nüfuslu ilçelerinden biri. Yoğun apartman dokusu ve hızlı kentleşme; devamlı yeni taşınan aileleri, dolayısıyla boya, tadilat ve döşeme talebinin sürekliliğini getiriyor. İlçede hem 2000'li yılların toplu konut siteleri hem de son dönem büyük ölçekli projeler var. Biz Esenyurt'ta; yeni taşınan ailelerin evini kişiselleştirmesinden, ince işçilik kusurlarının giderilmesine, site dairelerinde banyo-mutfak yenilemesine kadar çok yönlü hizmet veriyoruz. Geniş caddeler ve site içi ulaşım sayesinde ekiplerimiz bölgeyi çok iyi tanıyor; randevular dakik. Acil su kaçağı ve tıkanıklık çağrılarına 7/24 cevap veriyoruz.",
+  "uzmanlik": "Site dairelerinde banyo-mutfak paket tadilatları ve ince işçilik kusur düzeltmelerinde uzmanız. Yoğun genç aile nüfusu nedeniyle çocuk odası düzenlemeleri, kaymaz zemin ve güvenli elektrik uygulamalarına talebi iyi biliyoruz. İkitelli ve Beylikdüzü hattındaki lojistiğimiz ile malzeme ve ekip teminini hızlı yapıyoruz.",
+  "musteriProfili": "Siteye yeni taşınan genç aileler, kiraya veren yatırımcılar ve ilçeye yeni açılan işletmeler.",
+  "sorunlar": [
+    "Yeni dairelerde ince işçilik ve teslim kusurları",
+    "Site yaşamında gürültü ve moloz yönetimi hassasiyeti",
+    "Yoğun aile kullanımında banyo-mutfak alanlarının aşınması",
+    "Acelesi olan taşınma dönemi tadilatları"
+  ],
+  "sss": [
+    { "s": "Yeni taşındım, ince işçilik kusurlarını kontrol ettirebilir miyim?", "c": "Evet, teslim/oturum kusur tespiti hizmetimizle daireyi oda oda inceliyor, eksik listesini çıkarıp tek kalemde gideriyoruz." },
+    { "s": "Sitede çalışma saati kısıtı var, tadilat mümkün mü?", "c": "Yönetim kurallarına uygun saatlerde vardiyalı çalışıyor, gürültüsüz işleri (boya, döşeme hazırlığı) bu saate planlıyoruz." },
+    { "s": "Esenyurt'ta banyo-mutfak ikilisini birlikte yenilemek avantajlı mı?", "c": "Evet, iki alan aynı anda yenilenince keşif, malzeme taşıma ve işçilik paylaşımı açısından %10-15 avantaj sağlıyor; paket teklif veriyoruz." },
+    { "s": "Taşınmadan önce tadilat yaptırmak istiyorum.", "c": "Anahtar teslim paketlerimizle taşınmadan önce eviniz hazır olur; keşif, koltuk ve mobilya koruması dahil planlıyoruz." }
+  ]
+}

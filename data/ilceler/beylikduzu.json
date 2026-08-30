@@ -1,0 +1,25 @@
+{
+  "slug": "beylikduzu",
+  "ad": "Beylikdüzü",
+  "bolge": "Batı sahil, yeni konut kenti",
+  "accent": "orange",
+  "layout": "A",
+  "heroIndex": 8,
+  "vurguluHizmetler": ["ic-cephe-boya-ve-badana", "komple-banyo-tadilati", "parke-ve-laminat-doseme", "gomme-dolap-ve-giyinme-odasi", "klima-elektrik-baglantisi", "su-kacagi-tespiti"],
+  "komsular": ["esenyurt", "avcilar", "buyukcekmece"],
+  "giris": "Beylikdüzü, 2000'lerden itibaren hızla büyüyen, geniş caddeleri ve site yaşamıyla tanınan bir ilçe. Büyükşehir belediyesinin merkez taşımasıyla birlikte nüfus ve hizmet kalitesi arttı; bugün Marmara sahilindeki yürüyüş yolu, pazar alanları ve yeni alışveriş merkezleriyle ailelerin gözdesi. Konut stoku çoğunlukla 2005-2015 arası yapılmış site daireleri; bu yüzden işlerimiz daha çok kişiselleştirme, enerji verimliliği ve mevcut alanın yeniden düzenlenmesi üzerine. Geniş mutfakların adaya çevrilmesi, misafir sayısına göre banyo düzenlemesi, çocuklu ailelerde zeminde kaymaz parke tercihi en sık yaptığımız uygulamalar. Site içi çalışma kurallarını biliyoruz; metrobüs ve sahil yoluna lojistiğimiz kısa.",
+  "uzmanlik": "Geniş site dairelerinde mutfak ada dönüşümü, giyinme odası imalatı ve yüksek tavan değerlendirme projelerinde uzmanız. Sahil cepheli binalarda rüzgar ve tuzlu hava etkisiyle yıpranan cephe, balkon ve doğrama işlerinde malzeme seçimini buna göre yapıyoruz. Metrobüs hatlarına yakın bölgelerde mesai saatleri dışında çalışma imkanı sunuyoruz.",
+  "musteriProfili": "Site daire sahibi genç aileler, sahil kesiminde yaşayan emekliler ve büyüyen aileler için alan genişleten kullanıcılar.",
+  "sorunlar": [
+    "Yeni site dairelerinde ince işçilik kusurlarının giderilmesi",
+    "Geniş mutfakların ada dönüşüm ihtiyacı",
+    "Sahil rüzgarından etkilenen balkon ve cephe yüzeyleri",
+    "Klima ve yüksek tüketim cihazları için yeni hat ihtiyacı"
+  ],
+  "sss": [
+    { "s": "Beylikdüzü'nde mutfağı ada hale getirmek mümkün mü?", "c": "Zemin ve tesisat kontrolü sonrası ada dolapları, tezgah ve ankastreyle komple dönüşüm yapıyoruz; 3D plan ile öncesinde gösteriyoruz." },
+    { "s": "Site dairesinde balkonu odaya katmak istiyorum, kuralları neler?", "c": "Balkon kapatma yönetim kararı gerektirir; izin sürecini ve ısı yalıtımlı camekanı birlikte yönetiyoruz." },
+    { "s": "Klima için elektrik hattı yetmiyor, ne yapmalıyım?", "c": "Pano içinden klimaya özel hat ve otomat çekiyoruz; böylece mevcut priz devresi aşırı yüklenmiyor." },
+    { "s": "Sahil dairesinde nem var, kışın küflenme oluyor.", "c": "Nem kaynağını ölçüyor; havalandırma, yalıtım ve gerekirse mekanik nem alma çözümleriyle küflenmeyi kökten engelliyoruz." }
+  ]
+}

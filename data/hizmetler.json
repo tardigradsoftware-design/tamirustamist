@@ -1,0 +1,1950 @@
+{
+  "kategoriler": [
+    {
+      "slug": "banyo-tadilati",
+      "baslik": "Banyo Tadilatı",
+      "ikon": "bathtub",
+      "aciklama": "İstanbul'da banyo tadilatı, duşakabin montajı, fayans döşeme ve anahtar teslim komple banyo yenileme hizmetleri. 7/24 keşif, garantili işçilik.",
+      "hizmetler": [
+        {
+          "id": 1,
+          "slug": "komple-banyo-tadilati",
+          "baslik": "Komple Banyo Tadilatı (Anahtar Teslim)",
+          "kisaAciklama": "Sökümden karo döşemeye, tesisattan armatüre kadar komple banyo tadilatı. Anahtar teslim, garantili işçilik ve şeffaf fiyat.",
+          "detay": "Komple banyo tadilatı; eski seramiklerin sökümü, su ve atık tesisatının yenilenmesi, karo döşeme, derz dolgusu, asma tavan, armatür ve vitrifiye montajını tek sözleşme altında toplayan anahtar teslim bir hizmettir. Ekibimiz önce sahada güncel yerinde ölçü alır, keşif raporu çıkarır ve size sabit fiyat teklifi sunar. Banyo tadilatı sırasında su yalıtımı ihmal edilemez; bu yüzden söküm sonrası duvarlara ve zemine membran esaslı su yalıtımı uygular, ardından karo döşemesine geçeriz. Tesisat, kiremit altı bağlantılardan batarya bağlantılarına kadar PPRC boru ve orijinal fittings ile yenilenir. İşin süresi ortalama 10-15 iş günüdür ve bitişte alan temizliği ile teslim edilir. İstanbul Avrupa Yakası'nın tüm ilçelerinde ücretsiz keşif yapıyor; işçiliğimizi yazılı garanti altına alıyoruz.",
+          "faydalar": [
+            "Tek fiyat, tek sorumlu: sökümden teslime tüm işler içinde",
+            "Membran esaslı su yalıtımı ile kiremit altı neme karşı kesin çözüm",
+            "PPRC boru ve orijinal malzeme ile yenilenen tesisat",
+            "Yazılı işçilik garantisi ve iş sonu temizlik teslimi"
+          ],
+          "sss": [
+            {
+              "s": "Komple banyo tadilatı ne kadar sürer?",
+              "c": "Standart bir banyonun tadilatı ortalama 10-15 iş günü sürer. Söküm, tesisat, su yalıtımı ve karo döşemesi aşamaları toplam süreyi belirler; küçük banyolar 7 güne kadar inebilir."
+            },
+            {
+              "s": "Banyo tadilatı fiyatı nasıl belirlenir?",
+              "c": "Fiyat; banyonun metrekaresi, seçilen karo ve armatür sınıfı, tesisatın yenilenme kapsamı ve işçilik gün sayısına göre belirlenir. Ücretsiz yerinde keşif sonrası sabit fiyat teklifi veriyoruz."
+            },
+            {
+              "s": "Tadilat sırasında banyoyu kullanabilir miyim?",
+              "c": "Söküm ve tesisat aşamalarında banyo kullanıma kapalı olur. Çoğu müşterimiz tadilat planını düzenlerken evde ikinci bir tuvalet kalmasına dikkat eder; bunu keşifte birlikte planlıyoruz."
+            },
+            {
+              "s": "Su yalıtımı işin içinde mi?",
+              "c": "Evet. Komple banyo tadilatı paketimizde duvar ve zemin su yalıtımı (membran esaslı) standart olarak uygulanır. Yalıtımsız karo döşemesi yapmıyoruz."
+            },
+            {
+              "s": "Banyo tadilatında garanti veriyor musunuz?",
+              "c": "Evet, işçiliğimiz yazılı garanti kapsamındadır; kullanılan karo, armatür ve vitrifiyeler üretici garantisi ile gelir. Garanti belgesi teslimde verilir."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "slug": "banyo-fayans-ve-seramik-doseme",
+          "baslik": "Banyo Fayans ve Seramik Döşeme",
+          "kisaAciklama": "Banyo fayans ve seramik döşeme işçiliği; lazer tesviyeli zemin, profesyonel derz ve granit/açık karo uygulamaları.",
+          "detay": "Banyo fayans ve seramik döşeme işlerinde yüzey hazırlığı, döşeme tekniği kadar önemlidir. Söküm sonrası zemin şap ile tesviye edilir, duvarlar mastar ile düzeltilir; böylece karo döşemesi lazer terazi ile milimetrik kotta ilerler. Ekibimiz 60x60, 60x120 granit, açık (patlatma) karo, metro fayans ve çıta desenli döşemelerde deneyimlidir. Derz işlemi için su itici epoksi derz veya klasik beyaz derz tercihinize göre uygulanır; derz genişliği karo boyutuna göre ayarlanır. Döşeme öncesinde karo yüzeyinde hava boşluğu kalmaması için tam yüzey yapıştırma tekniği kullanır, köşe ve pencere kenarlarında silikon mastik ile bitiş yaparız. Uygulama sonrası derzlerin kuruması beklenir ve alan temiz teslim edilir. Aynı gün içinde keşif, hafta içinde döşeme planı çıkarabiliyoruz.",
+          "faydalar": [
+            "Lazer terazi ile milimetrik kot kontrolü, eğim sorunu olmaz",
+            "Tam yüzey yapıştırma tekniği ile karo oynaması ve kırılması önlenir",
+            "Epoksi derz seçeneği ile sararma ve küf sorunu bitiyor",
+            "Granit, açık karo, metro ve çıta desen dahil tüm döşeme türleri"
+          ],
+          "sss": [
+            {
+              "s": "Fayans döşeme işçilik fiyatı nasıl hesaplanır?",
+              "c": "İşçilik fiyatı; metrekare, karo ebadı (büyük ebat işçilik gerektirir) ve desen karmaşıklığına göre hesaplanır. Yerinde ölçü sonrası metrekare bazında net fiyat verilir."
+            },
+            {
+              "s": "Eski fayansın üzerine yeni fayans döşenir mi?",
+              "c": "Teknik olarak mümkün olsa da önermeyiz; mevcut yüzey yapışma sağlamazsa karo oynar. Biz önce söküm yapar, yüzeyi şap/tesviye ile hazırlar, sonra döşeriz."
+            },
+            {
+              "s": "Açık karo (patlatma) döşemek zor mudur?",
+              "c": "Açık karo, desenli ve farklı ölçülere sahip olduğundan ustalık ister. Ekibimiz açık karo döşemesinde deneyimlidir ve kesimleri desen bütünlüğünü bozmayacak şekilde planlar."
+            },
+            {
+              "s": "Derz çatlaması neden olur ve nasıl önlenir?",
+              "c": "Derz çatlaması genellikle yüzey hareketi ve yanlış derz oranından kaynaklanır. Uygun esnek derz seçimi ve doğru uygulama ile çatlamanın önüne geçiyor; epoksi derz ile uzun ömür sağlıyoruz."
+            },
+            {
+              "s": "Döşeme işi ne kadar sürer?",
+              "c": "Ortalama bir banyoda 3-5 gün; yüzey hazırlığı, döşeme ve derz aşamaları dahildir. Büyük alanlarda (wc alanları dahil) süre metrekaре ile orantılıdır."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "slug": "dusakabin-montaji-ve-degisimi",
+          "baslik": "Duşakabin Montajı ve Değişimi",
+          "kisaAciklama": "Duvara vidalı, köşe, kare ve oval duşakabin montajı; eski kabin sökümü ve izolasyonlu profil uygulaması.",
+          "detay": "Duşakabin montajında en sık karşılaşılan sorun, ölçüsü yanlış alınmış kabinin kapısının kapanmaması ve suyun dışarı sızmasıdır. Bu yüzden montaj öncesinde banyoyu lazer metre ile ölçer, köşe açısını kontrol eder ve kabin tipini (kare, köşe, yarım daire, duvara vidalı) banyonuza göre öneririz. Montajda alüminyum profil ve temperli güvenlik camı kullanır; kapı gidiş-gelişlerini ayarlar, silikon izolasyonu hem cam ile zemin arasında hem de profilde eksiksiz uygularız. Eski duşakabin sökümünde kireç birikmiş rayları ve camları dikkatli biçimde söker, karo yüzeyine zarar vermeden yenisini takarız. Montaj sonrası kapı ayarı ve silikon dolgu kontrol edilir, kullanıma hazır teslim edilir. Aksesuar olarak sabunluk rafı ve havlu askısı montajı da ek hizmet olarak yapılır.",
+          "faydalar": [
+            "Lazer metre ile ölçü, köşe açısı kontrolü ve doğru kabin önerisi",
+            "Temperli güvenlik camı ve kireç tutmayan alüminyum profil",
+            "Eksiksiz silikon izolasyon ile su sızdırmazlığı",
+            "Eski kabin sökümü dahil, aynı gün montaj imkânı"
+          ],
+          "sss": [
+            {
+              "s": "Duşakabin montajı ne kadar sürer?",
+              "c": "Kabin tipine bağlı olarak 2-4 saat sürer. Mevcut kabinin sökülmesi gerekiyorsa toplam süre yarım günü geçmez."
+            },
+            {
+              "s": "Duşakabini kendim mi almalıyım, siz mi temin ediyorsunuz?",
+              "c": "İki seçenek de var. Modeli siz seçer biz montajını yaparız ya da marka/model önerimizle tedarik ve montajı birlikte sunarız. Tedarikte firma garantisi geçerlidir."
+            },
+            {
+              "s": "Eski duşakabin sökümünde fayanslara zarar gelir mi?",
+              "c": "Söküm işlemini dikkatli yöntemlerle yaparız; ray ve profil vidaları çıkarılırken karo yüzeyi korunur. Genellikle yalnızca küçük silikon izlerinin temizlenmesi gerekir."
+            },
+            {
+              "s": "Dar banyoya hangi duşakabin uyar?",
+              "c": "Dar banyolarda duvara vidalı tek cam kanat veya köşe kabinler yer tasarrufu sağlar. Keşifte banyonuzu ölçüp en uygun modeli öneriyoruz."
+            },
+            {
+              "s": "Duşakabin garantisi var mı?",
+              "c": "Montaj işçiliğimiz garanti kapsamındadır. Kabin üreticisinin cam ve profil garantisi ayrıca geçerlidir; garanti belgelerini teslimde birlikte veriyoruz."
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "slug": "kuvet-sokumu-ve-dus-alanina-cevirme",
+          "baslik": "Küvet Sökümü ve Duş Alanına Çevirme",
+          "kisaAciklama": "Eski küvet sökümü, duş alanına dönüşüm; zemin eğimi, su yalıtımı ve duşakabin ile tamamlanan dönüşüm.",
+          "detay": "Eski küvetler özellikle 60-70 yaş üstü kullanıcılar için giriş-çıkış zorluğu yaratır ve sıkça tercih edilmez hale gelir. Küvet sökümü ve duş alanına çevirme işlemi; küvetin ölçülerinin alınması, su ve atık bağlantılarının kapatılması, küvetin parçalanarak çıkarılması ve yerinin duş alanına dönüştürülmesini kapsar. Dönüşümde zemine gider yönünde uygun eğim verilir, su yalıtımı uygulanır ve banyonuzun geri kalanıyla uyumlu karo döşenir. Ardından isteğe bağlı çelik duş teknesi döşenir veya karo zemin üzerinde doğrudan duş alanı oluşturulur; duşakabin ile sıçrama kontrolü sağlanır. Yaşlı ve engelli bireyler için tutamak ve kaymaz zemin çözümlerini de aynı iş kapsamında sunuyoruz. İş 2-4 gün içinde tamamlanır, kullanılmayan küvet artığı ve moloz alandan uzaklaştırılır.",
+          "faydalar": [
+            "Giriş-çıkışı kolay, güvenli ve modern bir duş alanı",
+            "Gidere doğru eğimli zemin ve profesyonel su yalıtımı",
+            "Küvet molozu dahil komple temizlik ve alan teslimi",
+            "Tutamak, kaymaz karo ve oturmalık gibi güvenlik seçenekleri"
+          ],
+          "sss": [
+            {
+              "s": "Küveti duşa çevirmek ne kadar tutar?",
+              "c": "Maliyet; alan büyüklüğü, yalıtım ve karo seçimine göre değişir. Yerinde keşif sonrası söküm, yalıtım, karo ve işçilik dahil net fiyat verilir."
+            },
+            {
+              "s": "Küvetin yerine duş alanı yapmak ne kadar sürer?",
+              "c": "Ortalama 2-4 iş günü sürer. Küvetin sökümü 1 gün, yalıtım ve karo döşemesi 1-2 gün, duşakabin ve bitiş işleri 1 gün alır."
+            },
+            {
+              "s": "Zemini karo mu, duş teknesi mi tercih etmeliyim?",
+              "c": "Karo zemin görsel bütünlük sağlar, duş teknesi daha hızlı ve ekonomik kurulur. Banyonuzun durumuna ve bütçenize göre keşifte en uygun seçeneği öneririz."
+            },
+            {
+              "s": "Duş alanı için su yalıtımı şart mı?",
+              "c": "Evet, şarttır. Küvetin alt bölgesi zamanla nem tutar; dönüşümde zemin ve duvar altlarına membran esaslı su yalıtımı uygulayarak alt kata su sızması riskini sıfırlıyoruz."
+            },
+            {
+              "s": "Duşakabin şart mı, perde yeterli mi?",
+              "c": "Duşakabin su sıçramasını ve zeminde kaymayı büyük ölçüde azaltır. Bütçe dostu alternatif olarak cam panel de kullanılabilir; her iki seçeneği de uyguluyoruz."
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "slug": "klozet-montaji-ve-degisimi",
+          "baslik": "Klozet Montajı ve Değişimi",
+          "kisaAciklama": "Klozet sökümü, montajı, rezervuar ayarı, gömme rezervuar sistemleri ve flanş contası değişimi.",
+          "detay": "Klozet montajı ve değişimi, su tesisatı ile doğrudan bağlantılı olduğu için dikkatli bir iştir. Eski klozetin sökümünde gider flanşı kontrol edilir, gerekirse değiştirilir ve klozet yeni contasıyla yerine oturtulur. Montajda klozetin zemine sabitlenmesi, rezervuar su ayarı, duvar tipi ve gömme rezervuar sistemleri dahil her türlü montaj yapılır. Rezervuar kaçağı, sürekli çalışan su ve kötü koku şikayetlerinde iç mekanizma (flapper, şamandıra) değişimi de aynı hizmet kapsamındadır. Montaj sonrası klozetin altındaki silikon mastik uygulaması ile zemine ve duvara geçişler kapatılır; sızıntı kontrolü için iş sonunda su testi yapılır. Yoğun dönemlerde aynı gün içinde müdahale edebildiğimiz işler arasındadır. Eski klozetin taşınması ve imhası da tarafımızdan yapılır.",
+          "faydalar": [
+            "Flanş ve conta kontrolü ile kaçak riski olmayan montaj",
+            "Gömme rezervuar ve duvar tipi klozetler dahil tüm sistemler",
+            "İş sonu su testi ve silikon bitiş detayları",
+            "Eski klozetin sökümü, taşınması ve imhası dahil"
+          ],
+          "sss": [
+            {
+              "s": "Klozet değişimi ne kadar sürer?",
+              "c": "Standart bir klozet değişimi 1-2 saat sürer. Gömme rezervuar veya duvar tipi sistemlerde süre 3-4 saate çıkabilir."
+            },
+            {
+              "s": "Klozet kendim mi alayım?",
+              "c": "İsterseniz siz satın alırsınız, biz montajı yaparız; isterseniz biz tedarik ederiz. Tedarikte tercih ettiğiniz fiyat/özellik dengesine göre model öneriyoruz."
+            },
+            {
+              "s": "Klozetin suyu sürekli akıyor, tamir edilir mi?",
+              "c": "Genellikle evet. Rezervuar iç mekanizmasındaki şamandıra veya flapper değişimiyle sorun bir saat içinde çözülür; mekanizma komple değişecekse bunu da üstleniriz."
+            },
+            {
+              "s": "Gömme rezervuar klozet montajı zor mu?",
+              "c": "Gömme rezervuar, duvar içi tesisat gerektirdiğinden uzmanlık ister. Ekibimiz gömme rezervuar sistemlerinin montajında ve onarımında deneyimlidir."
+            },
+            {
+              "s": "Klozet takıldıktan sonra koku geliyor, sebebi ne olabilir?",
+              "c": "Koku genellikle flanş contasının eskimesinden kaynaklanır. Sökümde contayı değiştirir ve gider bağlantısının sızdırmazlığını kontrol ederiz; bu sayede koku sorunu çözülür."
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "slug": "lavabo-ve-banyo-dolabi-montaji",
+          "baslik": "Lavabo ve Banyo Dolabı Montajı",
+          "kisaAciklama": "Duş tekneli ve tezgahlı lavabo, banyo dolabı, ayna ve aksesuar montajı; sifon ve gider bağlantıları dahil.",
+          "detay": "Lavabo ve banyo dolabı montajında dikkat edilmesi gereken, hem duvar sağlamlığı hem de tesisat hizasının doğruluğudur. Tezgahlı banyo dolabı için önce ölçü alınır, gider ve su bağlantı noktaları hizalanır; dolap sağlam dübellerle duvara sabitlenir. Duş tekneli (ayaklı) lavabolarda sifon bağlantısı, gider eğimi ve duvar sabitlemesi kontrol edilir. Ayna, raf, havlu askısı ve sabunluk gibi aksesuarların montajı da aynı ziyarette tamamlanabilir. Montaj sonrası tüm bağlantılarda sızdırmazlık testi yapılır, silikon bitişleri uygulanır. Dolap kapılarının ayarı, çekmecelerin ray ayarı ve tezgah arkası silikonu işin detaylarını oluşturur. Mevcut dolap değişiminde eski ürünün sökülmesi ve duvarın montaja hazırlanması da hizmet kapsamındadır.",
+          "faydalar": [
+            "Ön ölçü ve tesisat hizalama ile sorunsuz montaj",
+            "Duvar tipi, tezgahlı ve ayaklı tüm dolap/lavabo sistemleri",
+            "Ayna ve aksesuar dahil komple banyo donanımı",
+            "Sızdırmazlık testi ve dakik silikon bitişleri"
+          ],
+          "sss": [
+            {
+              "s": "Banyo dolabı montajı ne kadar sürer?",
+              "c": "Tezgahlı dolap ve lavabo montajı ortalama 2-3 saat sürer; ayna ve aksesuarlarla birlikte yarım günü geçmez."
+            },
+            {
+              "s": "Mevcut dolabımı söküp yenisini mi takacaksınız?",
+              "c": "Evet, eski dolabın sökümü, duvarın temizlenmesi ve yeninin montajı dahil komple hizmet veriyoruz. Söküm sonrası gerekirse duvar tamiri de yapılır."
+            },
+            {
+              "s": "Dolap üstü tezgah ile lavabo arasındaki silikonu siz mi yapıyorsunuz?",
+              "c": "Evet, tezgah ile lavabo ve duvar arasındaki tüm silikon bitişleri montaj sırasında biz uyguluyoruz; böylece su sızması ve küf riski kapanmış oluyor."
+            },
+            {
+              "s": "Duvar tipi lavabo duvara tutunur mu?",
+              "c": "Duvar tipi lavabo; duvarın içinde sağlam ankraj (konsol) ile sabitlenirse uzun yıllar sorunsuz kullanılır. Montaj öncesi duvar yapısını kontrol ediyoruz."
+            },
+            {
+              "s": "Gider bağlantılarında koku olur mu?",
+              "c": "Sifon ve gider bağlantılarını doğru eğimle kurarak koku problemini önlüyoruz. Montaj sonrası sızıntı testi yapıp alanı kullanıma hazır teslim ediyoruz."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "slug": "batarya-ve-musluk-degisimi",
+          "baslik": "Batarya ve Musluk Değişimi",
+          "kisaAciklama": "Mutfak ve banyo batarya değişimi, musluk tamiri, kartuş yenileme ve gizli batarya montajı.",
+          "detay": "Batarya ve musluk değişiminde eski bataryanın sökümü, bağlantı hortumlarının kontrolü ve yeninin montajı birkaç saat içinde tamamlanır. Mutfak bataryalarında çekmeli (sprey uçlu) sistemlerin montajı, banyoda ise lavabo, duş ve küvet bataryalarının montajı yapılır. Akıtan musluklarda çoğu zaman kartuş değişimi yeterlidir; kartuşu değiştirerek batarya değişimi maliyetinden kurtulmanızı sağlar, dönmeyen ve kireçlenmiş başlıkları yenileriz. Gizli (duvara gömme) batarya sistemlerinde, duvar içindeki vana gövdesinin değişimi ve trim parçalarının montajı özel uzmanlık gerektirir; bu işi de deneyimli ekibimizle yapıyoruz. Montaj sonrasında su basıncı ve sıcak-soğuk bağlantılar kontrol edilir, sızıntı olup olmadığı test edilir. Eski bataryaların atığı bizim tarafımızdan alınır.",
+          "faydalar": [
+            "Kartuş değişimi ile düşük maliyetli musluk tamiri",
+            "Çekmeli mutfak bataryası ve gizli batarya dahil tüm sistemler",
+            "Montaj sonrası basınç ve sızıntı testi",
+            "Aynı gün randevu imkânı ile hızlı çözüm"
+          ],
+          "sss": [
+            {
+              "s": "Musluk değişimi ne kadar sürer?",
+              "c": "Standart bir lavabo veya mutfak bataryası değişimi 1-2 saat sürer. Gizli batarya ve duvar tipi sistemlerde süre uzayabilir."
+            },
+            {
+              "s": "Akıtan musluğu tamir mi edersiniz, değiştirmek mi gerekir?",
+              "c": "Önce tamir ederiz; çoğu akıntı kartuş veya conta değişimi ile çözülür. Gövdesi kırık veya paslanmış ise batarya değişimini öneririz."
+            },
+            {
+              "s": "Bataryayı kendim alırsam montaj ücreti ne kadar?",
+              "c": "Kendi aldığınız bataryanın montajını da yapıyoruz; işçilik ücreti model ve montaj türüne göre değişir. Keşifte net fiyat verilir."
+            },
+            {
+              "s": "Gizli bataryam bozuldu, değişir mi?",
+              "c": "Evet. Duvara gömme vana gövdesi ve trim parçalarını marka modeline uygun olarak değiştiriyoruz; karo kırmadan önce kontrol panelinden müdahale yapabiliyoruz."
+            },
+            {
+              "s": "Düşük su basıncı musluktan mı kaynaklanır?",
+              "c": "Basınç düşüklüğü çoğunlukla eski batarya içindeki kireç birikiminden kaynaklanır. Kartuş ve perlatör temizliği/değişimi ile basınç sorununu çözeriz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "elektrik-tesisati",
+      "baslik": "Elektrik",
+      "ikon": "bolt",
+      "aciklama": "İstanbul'da elektrik tesisatı kurulumu, pano değişimi, priz anahtar montajı, avize ve arıza tespit hizmetleri.",
+      "hizmetler": [
+        {
+          "id": 48,
+          "slug": "elektrik-tesisati-kurulumu",
+          "baslik": "Elektrik Tesisatı Kurulumu ve Yenileme",
+          "kisaAciklama": "Yeni daire ve tadilatlarda elektrik tesisatı döşeme; projeye uygun hatlar, topraklama ve otomatlar.",
+          "detay": "Elektrik tesisatı kurulumu ve yenileme; dairenin tüm elektrik hatlarının projeye uygun şekilde döşenmesidir. Yenileme işlerinde eski, yalıtımı bozulmuş ve yetersiz kesitli kablolar sökülür; yeni tesisatta her oda için ayrı aydınlatma, priz ve kombi hattı çekilir. Yatak odası, salon ve mutfak prizleri; buzdolabı, çamaşır makinesi ve ankastre hatları gibi yüksek güç tüketen bölgeler için uygun kablo kesiti (2.5mm² priz, 1.5mm² aydınlatma) kullanılır. Tüm priz ve aydınlatma hatları topraklanır; yeni nesil otomat (MCB) ve kaçak akım koruma (RCD) şartı yerine getirilir. Kablo kanalları duvar içine çekilir, buatlar ve pimaş geçişleri projelendirilir. İş sonunda hatlar devre bazında test edilir, topraklama ölçümü yapılır ve devre şeması teslim edilir.",
+          "faydalar": [
+            "Projeye uygun yeni nesil tesisat ve topraklama",
+            "Devre bazlı ayrı hatlar ile arıza avı kolaylığı",
+            "Kaçak akım koruması (RCD) ile güvenlik",
+            "İş sonu ölçüm testi ve devre şeması teslimi"
+          ],
+          "sss": [
+            {
+              "s": "Elektrik tesisatı yenileme ne kadar sürer?",
+              "c": "Ortalama bir dairede 3-5 gün sürer; duvar kanal açma, kablo çekme, pano yenileme ve sıva-boya restorasyonu dahildir."
+            },
+            {
+              "s": "Eski tesisatta hangi kablolar değişmeli?",
+              "c": "Yalıtımı sertleşmiş, damarı kopma riski olan ve yetersiz kesitli (0.75-1 mm²) kablolar mutlaka yenilenmelidir; priz hatları 2.5mm² olmalıdır."
+            },
+            {
+              "s": "Topraklama şart mı?",
+              "c": "Evet, güvenlik ve yeni mevzuat gereği priz ve aydınlatma hatları topraklanmalıdır; eski binalarda topraklama yenilenmesi yapılır."
+            },
+            {
+              "s": "Tesisat yenilenirken duvar kırılır mı?",
+              "c": "Mevcut kanallar uygunsa kablolar kanal içinden çekilir; yeni hatlar için sıva içine kanal açılır ve iş sonunda sıva kapatılır."
+            },
+            {
+              "s": "Yeni tesisata neden kaçak akım koruması gerekli?",
+              "c": "RCD, kaçak durumunda devreyi milisaniyeler içinde keserek elektrik çarpması ve yangın riskini engeller; yeni binalarda zorunludur."
+            }
+          ]
+        },
+        {
+          "id": 49,
+          "slug": "sigorta-kutusu-degisimi",
+          "baslik": "Sigorta Kutusu (Pano) Değişimi ve Tamiri",
+          "kisaAciklama": "Eski sigorta kutusu yenileme; otomat, kaçak akım rölesi ve pano tadilatı. Dağıtım panosu modernizasyonu.",
+          "detay": "Sigorta kutusu (pano) değişimi; eski tip sigortaların ve dağıtım panosunun modern otomatlarla yenilenmesidir. Eski atımlı sigortalar, aşınmış porselen sistemler ve yetersiz kutu kapasiteleri; günümüz elektrik ihtiyacına (kombi, klima, elektrikli ocak) cevap veremez. Değişimde pano kapağı ve tüm elemanlar yenilenir; her daire hattı için ayrı otomat (MCB) ve genel kaçak akım koruması (RCD) tesis edilir. Pano etiketlemesi yapılarak her otomatın hangi hattı beslediği belgelenir; böylece arıza anında uğraş kaybolur. Tamir işlerinde atan sigorta, gıcırdayan otomat ve gevşeyen bağlantı plakaları yenilenir; termal kontrol yapılır. İş sonunda tüm devreler açma-kapama testi ve termal görüntüleme ile kontrol edilir.",
+          "faydalar": [
+            "Modern MCB/RCD otomatlarla güvenli ve düzenli pano",
+            "Devre etiketleme ile arıza anında kolay müdahale",
+            "Isınan ve atan sigorta sorunlarında kesin çözüm",
+            "Termal kontrol ile mevcut risklerin tespiti"
+          ],
+          "sss": [
+            {
+              "s": "Sigorta kutusu değişimi ne kadar sürer?",
+              "c": "Standart daire panosu değişimi 2-4 saat sürer; pano yeri ulaşımı zor veya hat çekimi gerekiyorsa yarım gün."
+            },
+            {
+              "s": "Eski sigortam atıyor, kutuyu değiştirmek şart mı?",
+              "c": "Sık atan sigorta, aşırı yüklü devre veya otomat ömrünü doldurmuş sigorta anlamına gelir. Pano yenileme, hem güvenlik hem kapasite artışı sağlar."
+            },
+            {
+              "s": "Otomat mı sigorta mı tercih edilmeli?",
+              "c": "Otomat (MCB) tekrar kullanılabilir, daha hassas korur ve devre bazlı ayrım sağlar; yeni panolarda standart olarak otomat kullanılır."
+            },
+            {
+              "s": "Kaçak akım rölesi neden takılmalı?",
+              "c": "Daire genelini kaçaklardan korur; çamaşır makinesi, kombi ve ankastre kaynaklı sızıntılarda devreyi keserek kazaları önler. Yeni mevzuatta zorunludur."
+            },
+            {
+              "s": "Pano değişimi sırasında elektrik kesilir mi?",
+              "c": "Evet, ana şalter kapatılarak çalışılır; işlem genellikle yarım gün içinde biter ve yeniden enerji verilir."
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "slug": "priz-ve-anahtar-montaji",
+          "baslik": "Priz ve Anahtar Montajı / Değişimi",
+          "kisaAciklama": "Priz, anahtar, topraklı priz, USB'li priz ve mekanizma değişimi; hızlı ve güvenli montaj.",
+          "detay": "Priz ve anahtar montajı; ev, ofis ve işyeri iç mekanlarında tüm elektrik mekanizmalarının kurulum ve değişimini kapsar. Değişimde devre öncelikle kapatılır, eski mekanizma sökülür ve bağlantı uçları kontrol edilir; gevşek, yanık ve okside uçlar yeniden hazırlanır. Topraklı priz, anahtar, dimmer, USB şarjlı priz ve akıllı priz modellerinin montajı yapılır; kutu içi kablolama net ve gergin olacak şekilde düzenlenir. Nemli alanlar için kapaklı (IP44) prizler önerilir; çocuk korumalı modeller aileler için standarttır. Aynı odada birden fazla mekanizma yenileniyorsa görsel uyum için tek marka/seri seçimi önerilir. İş sonunda her mekanizmanın çalışması test edilir ve faz-nötr yönü doğrulanır.",
+          "faydalar": [
+            "Topraklı ve çocuk korumalı priz seçenekleri",
+            "USB şarj ve akıllı priz kurulumu",
+            "Gevşek ve yanık bağlantı uçlarının yenilenmesi",
+            "İş sonu faz-nötr kontrolü ve test"
+          ],
+          "sss": [
+            {
+              "s": "Priz değişimi ne kadar sürer?",
+              "c": "Tek priz/anahtar değişimi 15-30 dakika sürer; kutu tadilatı gerektiren durumlarda süre uzar."
+            },
+            {
+              "s": "Prizlerin topraklı model seçilmeli mi?",
+              "c": "Topraklı priz şarttır; özellikle mutfak, banyo ve yüksek güçlü cihazların bulunduğu alanlarda güvenlik gereğidir."
+            },
+            {
+              "s": "Eski mekanizmada kutu derin değil, ne yapılır?",
+              "c": "Duvar tipi ara kutu veya yükseltme elemanlarıyla kutu derinliği artırılır; gerekirse buat yenilenir."
+            },
+            {
+              "s": "USB'li priz güvenli mi, şarj hızı nasıl?",
+              "c": "Sertifikalı USB prizler güvenlidir ve 2.4A/3A hızlı şarj destekler. Bağlantı yaparken devre kapasitesi kontrol edilir."
+            },
+            {
+              "s": "Priz ısınıyor, ne yapmalıyım?",
+              "c": "Isınan priz, gevşek bağlantı veya aşırı yük işaretidir; yangın riski taşır. Devre kapatılarak bağlantı kontrolü ve gerekirse priz değişimi yapılır."
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "slug": "avize-ve-aplik-montaji",
+          "baslik": "Avize ve Aplik Montajı",
+          "kisaAciklama": "Avize, sarkıt, spot, aplik ve LED panel montajı; duvar ve tavan yükü hesabı, montaj aparatları ile.",
+          "detay": "Avize ve aplik montajı; aydınlatma armatürlerinin tavan ve duvarlara güvenli şekilde monte edilmesidir. Montaj öncesi armatürün ağırlığı ve tavan tipi (beton, asma/alçıpan) değerlendirilir; ağır avizeler için tavan içindeki ankraj kirişine veya yaylı dübellerle betona sabitleme yapılır. Alçıpan tavanlara aydınlatma; özel kancalı dübel veya kirişe bağlantı aparatı ile monte edilir. Sarkıtların yüksekliği oda kullanımına göre ayarlanır, elektrik bağlantısı buat içinde yapılır ve faz-nötr-toprak bağlantıları doğrulanır. Spot ve LED şerit montajında transformers yerleştirilir, dimmer eşleştirmesi yapılır. Aplikler için duvar yapısına uygun dübel seçilir; bağlantı noktaları çıkan kablo geçişleri gizlenir. Montaj sonrası tüm armatürlerin çalışması test edilir.",
+          "faydalar": [
+            "Tavan ve duvar tipine uygun güvenli sabitleme",
+            "Ağır avizelerde ankrajlı montaj tekniği",
+            "LED şerit, spot ve dimmer bağlantıları",
+            "Faz-nötr doğrulamalı test"
+          ],
+          "sss": [
+            {
+              "s": "Avize montajı ne kadar sürer?",
+              "c": "Tek avize montajı 30-60 dakika sürer; bağlantı noktası hazır değilse kablo çekimiyle süre uzayabilir."
+            },
+            {
+              "s": "Alçıpan tavana avize asılabilir mi?",
+              "c": "Evet, ancak ağır avizeler alçıpan tavanın içindeki kirişe veya yaylı (kelebek) dübel ile sabitlenmelidir; biz güvenli montajı sağlarız."
+            },
+            {
+              "s": "Mevcut avize kancası yoksa ne yapılır?",
+              "c": "Tavan içine ankraj veya kirişe bağlantı aparatı eklenir; bu sayede avize düşme riski olmadan monte edilir."
+            },
+            {
+              "s": "LED şerit montajında elektrik hattı gerekir mi?",
+              "c": "LED şerit için 12/24V adaptör ve bağlantı hattı gerekir; mevcut hattan besleme alınır ve adaptör gizli bir yere yerleştirilir."
+            },
+            {
+              "s": "Aplik duvara nasıl tutunur, düşer mi?",
+              "c": "Duvar yapısına uygun dübel (beton/alçıpan) ile sabitlenir; ağır apliklerde çift dübel kullanılır. Doğru montaj ile düşme riski olmaz."
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "slug": "elektrik-ariza-tespiti",
+          "baslik": "Elektrik Arıza Tespiti ve Onarımı",
+          "kisaAciklama": "Kontak atması, kaçak, kısa devre ve gerilim düşüklüğü arızalarının cihazla tespiti ve onarımı.",
+          "detay": "Elektrik arıza tespiti; kontak atması, priz çalışmaması, ışık sönüp yanması, kaçak ve kısa devre gibi sorunların cihazlarla kaynağının bulunmasıdır. Tespitte multimetre ile hat gerilimi, süreklilik ve kaçak ölçümleri yapılır; termal kamera ile ısınan bağlantı noktaları taranır. Devre bazlı izolasyon testi ile kaçağın hangi hatta olduğu belirlenir; buat, bağlantı ve kablo kopuklukları adım adım izlenir. Onarımda hasarlı kablo bölümü değiştirilir veya yeniden bağlanır, gevşek bağlantı sıkılır, okside uçlar yenilenir. Gerilim düşüklüğü ve dalgalanma sorunlarında hat kesiti ve nötr bağlantıları kontrol edilir; gerekirse ana dağıtım noktaları yenilenir. Onarım sonrası arızalı devre yeniden test edilir ve diğer devrelerle uyum doğrulanır.",
+          "faydalar": [
+            "Multimetre, izolasyon testi ve termal kamerayla hassas tespit",
+            "Kontak, kaçak ve kısa devrede kökten onarım",
+            "Gerilim düşüklüğü ve dalgalanma analizi",
+            "Onarım sonrası devre testi ve rapor"
+          ],
+          "sss": [
+            {
+              "s": "Elektrik arıza tespiti ne kadar sürer?",
+              "c": "Tek devredeki basit arızalar 1-2 saatte bulunur; karmaşık kaçak ve kopukluk tespitleri yarım gün sürebilir."
+            },
+            {
+              "s": "Kontak atıyor, sürekli sigorta da atıyor, sorun ne?",
+              "c": "Sık kontak atması genellikle aşırı yüklenmiş devre veya kaçak işaretidir. Devre bazlı ölçümle kaynak belirlenir ve devre güçlendirilir."
+            },
+            {
+              "s": "Prizler çalışmıyor, nereden başlıyorsunuz?",
+              "c": "Önce pano ve devre dağılımı kontrol edilir; ardından ilgili hattın buat ve bağlantıları ölçülür. Kopukluk noktası en hızlı şekilde bulunur."
+            },
+            {
+              "s": "Işıklar yanıp sönüyor, sebebi ne olabilir?",
+              "c": "Gevşek bağlantı, anahtar kontağı aşınması veya gerilim dalgalanması olabilir; termal kontrol ile ısınan nokta tespit edilir."
+            },
+            {
+              "s": "Arıza onarımı sonrası garanti var mı?",
+              "c": "Onarım yapılan devre ve bağlantılar işçilik garantisi kapsamındadır; aynı arızanın tekrarlamasında ücretsiz müdahale edilir."
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "slug": "tv-uydu-internet-kablolamasi",
+          "baslik": "TV / Uydu ve İnternet (Data) Kablolaması",
+          "kisaAciklama": "TV, uydu ve data (internet) kablolama; priz çıkışları, cat6 ethernet hattı ve sunucu/rooter yerleşimi.",
+          "detay": "TV, uydu ve internet kablolama; ev ve ofislerde görüntü ve veri altyapısının planlı kurulumudur. Uydu sisteminde anten/çanak kablosu (koaksiyel) ve LNB bağlantısı yapılır, sinyal ölçer ile doğru açı ayarlanır; daire içine TV prizi (buat) çıkışları planlanır. Data hattı için Cat6 kablo ile odalara ethernet prizi döşenir; modem/rooter konumu, kablo dağıtım noktası ve gerekirse duvar içi patch paneli birlikte planlanır. Duvar içi kablo çekimi, süpürgelik kanalı ve asma tavan geçişleri; görünümden bağımsız temiz çözümler sunar. Kablosuz sinyal zayıflığı yaşanan noktalarda access point (AP) kurulumu ve mesh sistem önerisi yapılır. İş sonunda tüm uydu, TV ve internet çıkışları cihazla test edilir ve güç seviyeleri raporlanır.",
+          "faydalar": [
+            "Sinyal ölçerle ayarlanmış uydu/çanak kurulumu",
+            "Cat6 data hattı ile yüksek hızlı internet altyapısı",
+            "Duvar içi veya süpürgelik kanalıyla temiz kablolama",
+            "Mesh/AP önerisi ile kapsama sorununun çözümü"
+          ],
+          "sss": [
+            {
+              "s": "Uydu kurulumu ne kadar sürer?",
+              "c": "Standart daire uydu kurulumu 1-3 saat sürer; çok katlı bina ve ortak kullanımda süre uzar."
+            },
+            {
+              "s": "Modem yeri önemli mi?",
+              "c": "Evet, modem merkezi konumda olursa kablosuz sinyal tüm eve eşit dağılır. Kablolama planında modem yeri buna göre seçilir."
+            },
+            {
+              "s": "Kablosuz internet zayıf, ne önerirsiniz?",
+              "c": "Önce data kablosu ile çekilen hatlara AP kurulumu; büyük alanlarda mesh sistem öneriyoruz. Kanal ve frekans optimizasyonu da yapılır."
+            },
+            {
+              "s": "TV kablosu mu, internet kablosu mu çekilmeli?",
+              "c": "Günümüzde TV'ler internetten yayın aldığı için her iki hattın da çekilmesi önerilir; TV prizi ve Cat6 priz birlikte planlanır."
+            },
+            {
+              "s": "Kablo duvar içinden mi geçer?",
+              "c": "Hem duvar içi hem süpürgelik kanalı seçenekleri vardır; mevcut tesisat durumuna göre en temiz ve ekonomik yol belirlenir."
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "slug": "klima-elektrik-baglantisi",
+          "baslik": "Klima Elektrik Bağlantısı ve Montajı",
+          "kisaAciklama": "Klima montajı ve elektrik bağlantısı; ayrı hat, otomat, sigorta ve topraklama ile güvenli kurulum.",
+          "detay": "Klima montajı ve elektrik bağlantısı; iç ünite, dış ünite ve ikisi arasındaki bakır tesisat ile elektrik hattının komple kurulumudur. Klima için ayrı hat çekilir; prizden besleme yerine pano içinden ayrı otomat ile beslenen hat önerilir, böylece klimanın yüksek ani akımı diğer cihazları etkilemez. Montajda iç ünite duvara uygun yükseklikte, dış ünite ise hava akışına uygun (montaj braketi veya balkon) konuma kurulur; bakır boru ekstrüzyonu, izolasyon ve tesisat çekimi yapılır. Rota ünitesi açılır, sistem vakumlanır ve gaz basıncı ayarlanır. Elektrik bağlantısında fabrika gri kablo uyumu, sigorta ve topraklama kontrol edilir. Montaj sonrası soğutma/ısıtma modunda çalışma testi yapılır; klima periyodik bakımı da üstlenilir.",
+          "faydalar": [
+            "Ayrı otomat ve hat ile güvenli elektrik bağlantısı",
+            "Vakumlu ve gaz basınçlı doğru kurulum",
+            "İç-dış ünite montajında ölçüm ve denge",
+            "Montaj sonrası soğutma/ısıtma testi"
+          ],
+          "sss": [
+            {
+              "s": "Klima kurulumu ne kadar sürer?",
+              "c": "Standart oda tipi klima kurulumu 2-4 saat sürer; boru hattı uzun ve erişim zorsa yarım gün."
+            },
+            {
+              "s": "Klima elektriği prizden mi alınmalı?",
+              "c": "Klima için önerilen, pano içinden ayrı otomatla beslenen özel hattır. Prizden besleme yalnızca düşük kapasiteli modellerde ve uygun kesitte mümkün olabilir."
+            },
+            {
+              "s": "Dış ünite nereye kurulmalı?",
+              "c": "Dış ünite; hava akışı engellenmeyen, servis erişimi olan ve komşu rahatsız edilmeyen bir konuma kurulur; braket veya zemine sabitlenir."
+            },
+            {
+              "s": "Klima bakımı da yapıyor musunuz?",
+              "c": "Evet, filtre temizliği, gaz basıncı kontrolü ve iç ünite dezenfeksiyonu dahil periyodik bakım hizmeti veriyoruz."
+            },
+            {
+              "s": "Mevcut klimayı taşıyor musunuz?",
+              "c": "Evet, mevcut klimanın sökülmesi, gazının alınması ve yeni adrese kurulumu (nakliye dahil) hizmet kapsamındadır."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ic-mekan-dekorasyon",
+      "baslik": "İç Mekan & Dekorasyon",
+      "ikon": "paint",
+      "aciklama": "İstanbul'da iç cephe boya, alçı sıva, alçıpan, asma tavan, parke, duvar kağıdı ve dekoratif panel uygulamaları.",
+      "hizmetler": [
+        {
+          "id": 15,
+          "slug": "ic-cephe-boya-ve-badana",
+          "baslik": "İç Cephe Boya ve Badana",
+          "kisaAciklama": "Ev ve ofis iç cephe boya, badana, dolgu ve macun işleri; silinebilir boyalarla sağlıklı ve dayanıklı duvar.",
+          "detay": "İç cephe boya işinde son kat boyanın kalitesi kadar alt yüzey hazırlığı da belirleyicidir. Mevcut duvarın durumu kontrol edilir; çatlak tamir dolgusu, sıva soyulması varsa kazıma ve macun çekme işlemleri yapılır. Macundan sonra zımpara ile yüzey düzleştirilir ve astar uygulanır; astar, boyanın yüzeye eşit tutunmasını ve kat sayısının azalmasını sağlar. Son kat olarak silinebilir ve yıkanabilir boya seçenekleri sunarız; böylece çocuklu evlerde ve geçiş alanlarında duvarlar uzun süre temiz kalır. Renk seçiminde örnek boyama yapılır, istenen tonda karar verilir. Tavan, duvar ve kapı-pencere kasa detayları maskelenerek boyanır; çalışma sonrası koruma bantları ve örtüler kaldırılıp alan temiz teslim edilir. Kiralık ve satılık konutların hızlı boya-badana işleri için 1 günlük ekiplerimiz vardır.",
+          "faydalar": [
+            "Macun, astar ve son kat dahil komple yüzey hazırlığı",
+            "Silinebilir boya seçenekleri ile uzun ömürlü temiz duvarlar",
+            "Renk danışmanlığı ve örnek boyama",
+            "İş sonu koruma bandı sökümü dahil komple temizlik"
+          ],
+          "sss": [
+            {
+              "s": "Boya işi ne kadar sürer?",
+              "c": "Ortalama 100 m² bir daire için macun ve boya dahil 3-5 gün sürer. Sadece badana (üst kat) yapılacaksa 2 gün yeterlidir."
+            },
+            {
+              "s": "Boya mı badana mı, farkı nedir?",
+              "c": "Badana, mevcut boyalı yüzeye tek kat boya geçişidir; macun ve tamirat gerektirmeyen, yüzeyi sağlam duvarlarda yeterlidir. Boya ise hazırlık, macun ve astar dahil komple yenilemeyi kapsar."
+            },
+            {
+              "s": "Hangi boyayı kullanıyorsunuz?",
+              "c": "Marshall, Filli Boya ve Dyo gibi markaların silinebilir iç cephe boyalarını kullanıyoruz; isteğe göre yarım mat, ipek mat ve mat seçenekleri sunuyoruz."
+            },
+            {
+              "s": "Mobilyaları taşımam gerekiyor mu?",
+              "c": "İsterseniz eşyalarınızı örtü ve brandalarla koruyup yerinde çalışırız; büyük tadilat işlerinde eşya toplama/yerleştirme desteği de verebiliriz."
+            },
+            {
+              "s": "Boya kokusu ne kadar sürede geçer?",
+              "c": "Silinebilir su bazlı boyalar birkaç saatte yüzey kurur, koku 1-3 gün içinde tamamen dağılır. Havalandırma önerimizle aynı hafta içinde kullanıma hazır olur."
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "slug": "alci-siva-ve-saten-alci",
+          "baslik": "Alçı Sıva ve Saten Alçı",
+          "kisaAciklama": "Kaba ve ince alçı sıva, saten alçı uygulaması; düzgün duvar ve tavan yüzeyleri için profesyonel hazırlık.",
+          "detay": "Alçı sıva ve saten alçı, duvarların boyaya hazır, kusursuz düz yüzeylere kavuşmasını sağlayan işlemdir. Kaba sıva sonrası ince alçı sıva ile yüzey tesviye edilir; saten alçı ise ince sıvanın üzerine çekilerek boyadan önceki son düzeltme katmanıdır. Ekibimiz mastar ve terazi kullanarak duvarların düzlüğünü kontrol eder, derin oyuklarda gerekirse çift kat uygulama yapar. Saten alçı sonrası zımpara ile yüzey pürüzsüz hale getirilir; böylece ışık vurduğunda dalgalanma görünmez. Şapel, salon ve koridor gibi geniş yüzeylerde alçı sıva ile tavan ve duvar geometrisi düzeltilir; duvar kağıdı ve dekoratif panel uygulaması öncesi saten alçı zorunlu hale gelir. İşlem sonrası alanın temizliği yapılır, boya aşamasına hazır teslim edilir.",
+          "faydalar": [
+            "Mastarlı düzgün yüzey: ışık vurduğunda dalgalanma olmaz",
+            "Kaba, ince ve saten alçı dahil komple sıva işleri",
+            "Duvar kağıdı ve panel uygulamalarına uygun yüzey",
+            "Tavan ve duvar düzlük kontrollü teslim"
+          ],
+          "sss": [
+            {
+              "s": "Saten alçı ne zaman gerekir?",
+              "c": "Yeni sıvalı duvarlarda boya öncesi saten alçı uygulanır; ayrıca eski duvarlarda düzeltme ve duvar kağıdı öncesi yüzey hazırlığında gereklidir."
+            },
+            {
+              "s": "Alçı sıva ne kadar sürede kurur?",
+              "c": "İnce alçı sıva 24-48 saatte, saten alçı 12-24 saatte kurur. Kuruma süresi nem ve havalandırmaya bağlıdır; boya öncesi nem kontrolü yaparız."
+            },
+            {
+              "s": "Nemli duvara alçı sıva yapılır mı?",
+              "c": "Önce nem kaynağı (rutubet, tesisat kaçağı) tespit edilip çözülmeden sıva yapılmaz. Rutubet giderme hizmetimizle birlikte planlanır."
+            },
+            {
+              "s": "Saten alçı mı, alçıpan mı tercih edilmeli?",
+              "c": "Düz mevcut duvarlarda saten alçı ekonomiktir; eğri duvar ve tavanlarda, tesisat saklama gerektiğinde alçıpan bölme sistemleri daha pratiktir. Keşifte karar verilir."
+            },
+            {
+              "s": "Alçı sıva fiyatı metrekare mi baz alınır?",
+              "c": "Evet, uygulama metrekare üzerinden ve yüzey durumuna göre (tek kat/çift kat, tamir kapsamı) fiyatlandırılır; keşif sonrası net teklif verilir."
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "slug": "alcipan-bolme-duvar-ve-kaplamalar",
+          "baslik": "Alçıpan Bölme Duvar ve Kaplamalar",
+          "kisaAciklama": "Oda bölme, giydirme duvar, ses yalıtımlı alçıpan sistemleri; elektrik ve tesisat geçişleri dahil komple imalat.",
+          "detay": "Alçıpan bölme duvar; ofislerde, evlerde ve ticari mekanlarda hızlı, temiz ve ekonomik bölümleme sağlar. Metal iskelet (profil) sistemine alçıpan plaka kaplanarak oluşturulan duvarlar; ısı ve ses yalıtımı için aralarına taş yünü yerleştirilir. Uygulamada duvar tavan ve zemine dübel ve vida ile sabitlenir; kapı kasası için ahşap yalancı kasa montajı yapılır. Elektrik buatları, priz kutuları ve tesisat geçişleri imalat sırasında plakalara açılır, böylece görünüm temiz kalır. Bölme duvar yüzeyi derz bandı ve alçı ile düzeltilerek boyaya hazır hale getirilir. Wasserdicht (nemli) alanlar için yeşil (nemli ortam) plaka kullanılır. Ortalama bir oda bölme işlemi 1-3 günde tamamlanır ve moloz üretmez.",
+          "faydalar": [
+            "1-3 günde, molozsuz ve temiz oda bölme",
+            "İçi taş yünü dolgulu ses ve ısı yalıtımı",
+            "Elektrik ve tesisat geçişleri imalatla birlikte planlanır",
+            "Boyaya hazır düz yüzey teslimi"
+          ],
+          "sss": [
+            {
+              "s": "Alçıpan duvar sağlam mı, asılı dolap taşır mı?",
+              "c": "Taşıyıcı profili güçlendirilmiş alçıpan duvarlara uygun dübel ile dolap, televizyon ve raf asılabilir. Ağır yükler için profillere takviye ve ahşap gömme yapılır."
+            },
+            {
+              "s": "Bölme duvar ses yalıtımı sağlar mı?",
+              "c": "İçine taş yünü yerleştirilen çift plakalı sistemler önemli ölçüde ses yalıtımı sağlar. Tam yalıtım için özel ses bantları ve çift iskelet sistemi kullanılabilir."
+            },
+            {
+              "s": "Nemli banyolarda alçıpan kullanılır mı?",
+              "c": "Banyo ve WC gibi nemli alanlarda yeşil (nemli ortam) plaka kullanılır ve karo döşemeye uygun hale getirilir."
+            },
+            {
+              "s": "Alçıpan bölme duvarın üzerine kiremit döşenir mi?",
+              "c": "Evet, nemli ortam plakası üzerine uygun yapıştırıcı ile karo döşenebilir; su yalıtımı öncesi yüzey hazırlığı yapılır."
+            },
+            {
+              "s": "Alçıpan işi izinsiz yapılabilir mi?",
+              "c": "Bölme duvarlar taşıyıcı olmayan duvarlar olduğundan çoğu durumda ruhsat gerektirmez; site ve apartman yönetiminin izni ile uygulama yapılır."
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "slug": "asma-tavan-ve-kartonpiyer",
+          "baslik": "Asma Tavan ve Kartonpiyer",
+          "kisaAciklama": "Alçıpan asma tavan, spotlu gizli tavan, kartonpiyer ve korniş uygulaması; LED aydınlatma detayları ile.",
+          "detay": "Alçıpan asma tavan; mevcut tavanı kapatan, ısı ve ses yalıtımını artıran ve spot LED aydınlatma ile modern bir görünüm sağlayan uygulamadır. Önce tavan ölçülür, istenen tavan yüksekliği ayarlanır; metal iskelet asılır, taş yünü serilir ve alçıpan plakalar vidalanır. Spot lamba delikleri, LED şerit gizli boşlukları ve avize bağlantı noktaları bu aşamada hazırlanır. Kartonpiyer ve korniş uygulaması; tavan-duvar birleşiminde klasik veya modern profil oluşturur, LED şerit için çift kademeli korniş modelleri yapılır. Yüzey derz ve alçı ile düzeltilerek boyaya hazır teslim edilir. Eski kartonpiyerlerin sökümü ve yerine yenilerinin uygulanması da yapılır. Salon, mutfak ve banyo tavanlarında ızgaralı-metal veya su bazlı plaka sistemlerine göre en uygun çözüm önerilir.",
+          "faydalar": [
+            "LED spot ve gizli ışık bandı ile modern aydınlatma",
+            "Taş yünü ile ısı ve ses yalıtımı kazanımı",
+            "Kartonpiyer ve korniş profillerinde geniş model seçeneği",
+            "Eski tavan kusurlarını tamamen kapatan düz yüzey"
+          ],
+          "sss": [
+            {
+              "s": "Asma tavan tavan yüksekliğini ne kadar düşürür?",
+              "c": "Standart uygulamada 8-12 cm kayıp olur; spot derinliğine göre bu değer 15 cm'ye çıkabilir. Yüksek tavanlarda ek kazanç sağlanır."
+            },
+            {
+              "s": "Asma tavana avize asılabilir mi?",
+              "c": "Evet, avizenin asılacağı noktaya mevcut tavana sabitleme yapılarak askı uzatılır; böylece ağırlık asma tavana değil betona biner."
+            },
+            {
+              "s": "Kartonpiyer mi asma tavan mı?",
+              "c": "Kartonpiyer sadece dekoratif profil; asma tavan ise komple yeni tavan sistemidir. Bütçenize ve ihtiyacınıza göre ikisi ayrı ayrı ya da birlikte uygulanabilir."
+            },
+            {
+              "s": "Asma tavan su sızıntısında nasıl davranır?",
+              "c": "Alçıpan nemden etkilenir; sızıntı durumunda hasarlı plaka değiştirilir. Nemli alanlarda yeşil plaka tercih ederek riski düşürüyoruz."
+            },
+            {
+              "s": "LED şerit montajı işin içinde mi?",
+              "c": "Evet, LED şerit boşluğu hazırlama ve şerit montajı dahildir; trafo yerleşimi ve erişim kapağı ile servis kolaylığı sağlanır."
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "slug": "parke-ve-laminat-doseme",
+          "baslik": "Parke ve Laminat Döşeme",
+          "kisaAciklama": "Laminat, lamine ve masif parke döşeme; şap tesviyesi, süpürgelik, geçiş profili ve kenet ayarları.",
+          "detay": "Parke ve laminat döşeme işinde kritik nokta zeminin düzlüğüdür. Şap yüzeyi lazer ile kontrol edilir, gerekiyorsa tesviye şapı atılır; böylece parkede kilit oynaması ve gıcırtı oluşmaz. Döşeme öncesi altına buhar kesici ve ses yalıtım föyü serilir; süpürgelik kenetleri duvara sabitlenir. Laminat parke kenet sistemiyle birleştirilir, lamine ve masif parkede ise yapıştırma veya çivi tekniği uygulanır. Kapı altı, geçiş eşiği ve mevcut zemine bağlantılarda ince kesim ve geçiş profili kullanılır; böylece eşiklerde takılma olmaz. Süpürgelik seçimi zemin rengine ve duvar boyasına uygun yapılır. İş sonunda parke yüzeyi silinir, alan temiz teslim edilir. Nemli zeminlerde (banyo yakını) suya dayanıklı laminat veya vinil ürünler önerilir.",
+          "faydalar": [
+            "Lazer kontrol ve tesviye şapı ile gıcırtısız zemin",
+            "Buhar kesici ve ses yalıtım föyü dahil altyapı",
+            "Geçiş profili ve süpürgelik ile kusursuz bitiş",
+            "Laminat, lamine, masif parke ve vinil seçenekleri"
+          ],
+          "sss": [
+            {
+              "s": "Parke mi laminat mı daha iyi?",
+              "c": "Gerçek ahşap parke sıcaklık ve değer katar; laminat bütçe dostu ve çizilmeye dayanıklıdır. Kullanım alanına ve bütçeye göre en uygununu öneririz."
+            },
+            {
+              "s": "Eski parkenin üzerine yenisi döşenir mi?",
+              "c": "Yüzey düz ve sağlamsa üzerine döşenebilir; kapı yüksekliği yeterli değilse önce söküm yapılır. Yerinde kontrol edip karar veriyoruz."
+            },
+            {
+              "s": "Parke döşeme ne kadar sürer?",
+              "c": "Ortalama 80-100 m² alan 2-3 günde komple parke, süpürgelik ve geçiş profilleriyle teslim edilir."
+            },
+            {
+              "s": "Yerden ısıtma üzerine parke döşenir mi?",
+              "c": "Evet, yerden ısıtmaya uygun (ısı iletkenliği yüksek) laminat ve lamine ürünler tercih edilir; seçimde bu bilgiyi göz önünde bulundururuz."
+            },
+            {
+              "s": "Parke gıcırdıyor, düzeltilebilir mi?",
+              "c": "Gıcırtı genellikle zemin tesviyesizliğinden kaynaklanır. Söküp tesviye şapı atarak yeniden döşer ya da sorunlu bölgeleri lokal onarırız."
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "slug": "duvar-kagidi-uygulama",
+          "baslik": "Duvar Kağıdı Uygulama",
+          "kisaAciklama": "Vinil, dokuma ve tekstil duvar kağıdı uygulaması; desen eşleştirme, köşe dönüşü ve saten alçı yüzey hazırlığı.",
+          "detay": "Duvar kağıdı uygulamasında başarı, yüzey hazırlığına bağlıdır. Duvar önce saten alçı ile düzeltilir, zımpara yapılır ve astarlanır; böylece kağıt kabarma yapmadan düz yapışır. Uygulamada duvar kağıdı türüne göre (vinil, dokuma, tekstil, nonwoven) uygun yapıştırıcı kullanılır; desenli kağıtlarda desen eşleştirmesi yapılarak paftalar birleştirilir. Köşe dönüşlerinde dar bir pay bırakılarak çift kesim tekniği uygulanır; böylece köşelerde boşluk ve yırtılma olmaz. Priz, anahtar ve kapı kenarlarında ince uçlu kesimle temiz bitiş sağlanır. Kağıt uygulaması sonrası 24 saat kuruma beklenir; bu sürede havalandırma önerilir. Eski duvar kağıdının sökümü de hizmet kapsamındadır; söküm sonrası duvar yüzeyi yeniden hazırlanır.",
+          "faydalar": [
+            "Saten alçı ve astarlı yüzeyde kabarık olmayan uygulama",
+            "Desen eşleştirme ve köşe çift kesim tekniği",
+            "Vinil, dokuma, tekstil ve nonwoven türlerinde uzmanlık",
+            "Eski kağıt sökümü ve yüzey yenileme dahil"
+          ],
+          "sss": [
+            {
+              "s": "Duvar kağıdı ne kadar dayanır?",
+              "c": "Kaliteli vinil ve dokuma kağıtlar, doğru yüzey hazırlığıyla 7-10 yıl dayanır. Güneş gören odalarda UV dayanımlı ürünler önerilir."
+            },
+            {
+              "s": "Boyalı duvarın üzerine kağıt yapıştırılır mı?",
+              "c": "Yüzey sağlam, düz ve astarlı ise evet; kabarma yapan boyalı yüzeylerde önce kazıma ve saten alçı yapılır."
+            },
+            {
+              "s": "Desenli kağıtta fazla kağıt çıkar mı?",
+              "c": "Desen eşleştirme nedeniyle %10-15 fire normaldir. Ölçü alımında desen raporuna göre net metraj çıkarıyoruz."
+            },
+            {
+              "s": "Mutfak ve banyoda duvar kağıdı kullanılır mı?",
+              "c": "Buhar ve nem kağıdı olumsuz etkiler; bu alanlarda yıkanabilir vinil kağıtlar kısa vadeli seçenek olsa da fayans ve cam paneli öneriyoruz."
+            },
+            {
+              "s": "Duvar kağıdı sökümü zor mu?",
+              "c": "Profesyonel sökümde buhar ve kazıyıcı ile kağıt zarar vermeden çıkarılır; ardından yüzey yeniden boyaya veya kağıda hazırlanır."
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "slug": "dekoratif-duvar-paneli",
+          "baslik": "Dekoratif Duvar Paneli (Taş / Ahşap / Lambri)",
+          "kisaAciklama": "3D taş panel, ahşap lambri ve dekoratif duvar kaplaması; ölçü, kesim ve montaj dahil anahtar teslim.",
+          "detay": "Dekoratif duvar paneli; salon, TV arkası, yatak başı ve koridor duvarlarında mekana karakter kazandıran bir uygulamadır. 3D taş panel, ahşap çıta/panel ve lambri seçenekleri ölçü alındıktan sonra duvara uygun yapıştırıcı ve dübel ile monte edilir. Uygulamada düz veya desenli (balıksırtı, şevron) dizilim planlanır; görsel açıdan en dengeli başlangıç noktası seçilir. Priz ve anahtar konumları için hassas kesim yapılır, köşe ve kenar bitişlerinde profilli detaylar kullanılır. Panel arkasında kalan elektrik tesisatı, TV kablo kanalları bu sayede gizlenir; ayrıca ses ve ısı yalıtımına küçük katkı sağlar. Ahşap panellerde yüzey vernik veya lake ile korunur, taş panellerde derz görünümlü bitiş seçilebilir. Uygulama 1-3 gün sürer ve iş sonu temizlikle teslim edilir.",
+          "faydalar": [
+            "3D taş, ahşap ve lambri modellerinde geniş ürün yelpazesi",
+            "TV arkası ve tesisat gizleme ile kusursuz görünüm",
+            "Şevron, balıksırtı gibi desenli dizilim seçenekleri",
+            "Ölçü, kesim, montaj ve bitiş dahil tek elden hizmet"
+          ],
+          "sss": [
+            {
+              "s": "Dekoratif panel duvara nasıl tutunur?",
+              "c": "Yüzey yapıştırıcısı ve mekanik sabitleme birlikte kullanılır; büyük panellerde dübel ile duvara sabitlenir. Uygulama öncesi duvar düzlüğü kontrol edilir."
+            },
+            {
+              "s": "TV'yi panel üzerine asabilir miyim?",
+              "c": "Evet, panel arkasındaki duvara özel ankrajla TV aparatı sabitlenir; böylece ağırlık panelle değil duvarla taşınır."
+            },
+            {
+              "s": "Taş panel mi ahşap panel mi?",
+              "c": "Taş panel endüstriyel ve şık, ahşap panel sıcak ve doğal görünüm verir. Dekorasyon tarzınıza göre keşifte birlikte karar veriyoruz."
+            },
+            {
+              "s": "Panel uygulaması odayı küçültür mü?",
+              "c": "Panel kalınlığı 1-3 cm arasındadır; çok az yer kaplar. Açık renk ve ince profilli paneller odayı küçültmeden derinlik hissi katar."
+            },
+            {
+              "s": "Panel temizliği nasıl olmalı?",
+              "c": "Ahşap paneller nemli bezle silinir, taş paneller hafif deterjanla temizlenebilir. Kullanım öncesi yüzey koruması (vernik/lak) uyguluyoruz."
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "slug": "ic-kapi-montaji-ve-degisimi",
+          "baslik": "İç Kapı Montajı ve Değişimi",
+          "kisaAciklama": "Amerikan, panel ve lake kapı montajı; kasa montajı, kilit ve kulp takılması, kapı ayarı tamiri.",
+          "detay": "İç kapı montajı ve değişimi; kapı kasasının duvar boşluğuna anahtar teslim kurulması, kanadın asılması, kilit ve kulp takılmasını kapsar. Amerikan panel, lake, camlı ve klasik panel kapı modellerinin montajında; kasa önce su terazisi ile dikey ve yatay ayarlanır, ardından köpük ve vidalarla duvara sabitlenir. Kapı kanadı menteşelerle kasaya asılır; kapı boşluğu (2-3 mm) ve çarpma ayarları yapılır. Kilit göbeği, kapı kolu ve stoplar standart olarak takılır; istenen kilit güvenlik seviyesine göre ek modeller önerilir. Mevcut kapının sökümünde kasa ile duvar arasındaki dolgular temizlenir, yeni kasa montajına duvar hazır hale getirilir. Kapı altı hava sızdırmazlık fırçası ve eşik uygulamaları da ek hizmet olarak yapılır. Sürme (raylı) kapı montajında ray sistemi tavan ve duvara sağlam monte edilir.",
+          "faydalar": [
+            "Amerikan, panel, lake ve sürme kapıda uzman montaj",
+            "Kasa köpük dolgusu ve menteşe ayarı ile ses geçirmez kapı",
+            "Kilit, kulp ve stoplar dahil komple kapı donanımı",
+            "Eski kapı sökümü ve duvar hazırlığı dahil"
+          ],
+          "sss": [
+            {
+              "s": "İç kapı değişimi ne kadar sürer?",
+              "c": "Tek kapı değişimi ortalama 1-2 saat sürer; duvar hazırlığı gerekiyorsa yarım gün. Çoklu kapı işlerinde günlük planlama yapılır."
+            },
+            {
+              "s": "Kapıyı kendim alabilir miyim?",
+              "c": "Evet, kendi aldığınız kapının montajı yapılır. Kasa ölçüleri ve duvar boşluğu uyumunu baştan kontrol eder, yanlış ölçüyü önleriz."
+            },
+            {
+              "s": "Kapı kasası da değişiyor mu?",
+              "c": "Çoğu durumda kasa ile birlikte değişim önerilir; tek kanat değişimi ancak kasa ölçüsü aynıysa mümkündür. Keşifte karar veriyoruz."
+            },
+            {
+              "s": "Kapım kapanmıyor, tamir edilebilir mi?",
+              "c": "Kapanma sorunları genellikle menteşe gevşemesi veya kasa çarpılmasındandır; menteşe ayarı ve gerekirse kasa pervazı düzeltmesiyle çözülür."
+            },
+            {
+              "s": "Sürme kapı montajı normal kapıdan pahalı mı?",
+              "c": "Sürme kapı ray ve mekanizma maliyeti nedeniyle biraz daha yüksektir; yer kazancı önemliyse avantajlıdır. Detaylı fiyat keşifte netleşir."
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "slug": "pencere-degisimi",
+          "baslik": "Pencere Değişimi (PVC / Alüminyum)",
+          "kisaAciklama": "PVC ve alüminyum pencere değişimi; söküm, kasa montajı, izolasyon dolgusu, fitil ve aksesuar ayarları.",
+          "detay": "Pencere değişimi, ısı yalıtımında ve gürültü kontrolünde en etkili yatırımlardan biridir. Eski pencerenin sökümünde kasa ve doğrama duvar boşluğundan çıkarılır; duvar yüzeyi temizlenir ve yeni kasa su terazisiyle yerleştirilir. Kasa-duvar arasındaki boşluklar poliüretan köpük ile doldurulur, ardından sıva ve boya bitişi yapılır. Isıcam (çift cam) üniteler ve isteğe göre üçlü cam kullanılır; Low-E kaplama ile kışın ısı kaybı, yazın güneş ısısı azaltılır. PVC profillerde çok odacıklı sistemler, alüminyumda ise ısı kırıcılı profiller önerilir. Menteşe, fitil, açılım mekanizması (kollu/kanatlı) ve sineklik aksesuarları montajla birlikte ayarlanır. İş sonunda pencere açılım-kapanış testi yapılır; cam ve doğrama temiz teslim edilir.",
+          "faydalar": [
+            "Kasa-duvar köpük izolasyonu ile hava ve ses sızdırmazlığı",
+            "Low-E ısıcam ile enerji tasarrufu",
+            "Çok odacıklı PVC ve ısı kırıcılı alüminyum profiller",
+            "Sineklik, panjur ve denizlik aksesuarları dahil"
+          ],
+          "sss": [
+            {
+              "s": "Pencere değişimi ne kadar sürer?",
+              "c": "Standart bir pencere değişimi 3-5 saat sürer; komple daire değişimi 1-2 günde tamamlanır."
+            },
+            {
+              "s": "PVC mi alüminyum mu?",
+              "c": "PVC ısı yalıtımında ve ekonomiklikte öne çıkar; alüminyum estetik ve ince profillerle geniş cam alanı sağlar. İhtiyaca göre yönlendiriyoruz."
+            },
+            {
+              "s": "Camı tek mi çift mi olmalı?",
+              "c": "İstanbul iklimi için çift cam (ısıcam) standarttır; ana yol ve gürültülü cephelerde üçlü cam veya akustik cam öneriyoruz."
+            },
+            {
+              "s": "Pencere değişiminde sıva-boya işi dahil mi?",
+              "c": "Evet, kasa çevresi köpük, sıva ve boya bitişleri pakette yer alır; böylece duvarınız tertemiz teslim edilir."
+            },
+            {
+              "s": "Pencere garantisi nasıl?",
+              "c": "Profil, cam ve aksesuarlar üretici garantisi kapsamındadır; montaj işçiliği ise yazılı garantimiz altındadır."
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "slug": "gomme-dolap-ve-giyinme-odasi",
+          "baslik": "Gömme Dolap ve Giyinme Odası Yapımı",
+          "kisaAciklama": "Ölçüye özel gömme dolap, sürme kapaklı dolap ve komple giyinme odası imalatı; iç düzen aksesuarlarıyla.",
+          "detay": "Gömme dolap ve giyinme odası yapımı; duvar boşluklarının ölçü alınması, atölyede imalat ve yerinde montaj sürecini kapsar. Menteşeli veya sürme kapaklı modellerde kapak sistemi alana göre seçilir; sürme kapaklar dar koridorlarda yer kazandırır. Dolap içi düzen; elbise askı borusu, raflar, çekmeceler, ayakkabılık ve pantolon askılığı gibi modüllerle kullanıcının ihtiyacına göre planlanır. İmalatta neme dayanıklı MDF/HPL malzeme ve sessiz kapanan (yumuşak kapanış) mekanizmalar kullanılır. Giyinme odasında ada, U ve L tipi yerleşim planları çizilir; ayna, led aydınlatma ve kravat/aksesuar çekmeceleri eklenebilir. Kapak yüzeylerinde lak, folyo, akrilik ve aynalı seçenekler sunulur. Montaj sonrası kapak ve çekmece ayarları yapılır, yerinde kusursuz teslim edilir.",
+          "faydalar": [
+            "Ölçüye özel imalat ile boşlukları verimli kullanan dolap",
+            "Yumuşak kapanış mekanizmalı kaliteli aksesuarlar",
+            "Sürme ve menteşeli kapak sistemlerinde her iki seçenek",
+            "Led aydınlatma ve ayna detaylı giyinme odası planlaması"
+          ],
+          "sss": [
+            {
+              "s": "Gömme dolap yapımı ne kadar sürer?",
+              "c": "Ölçü sonrası imalat 7-12 gün, montaj 1-3 gün sürer. Proje büyüklüğüne göre süre netleşir."
+            },
+            {
+              "s": "Sürme kapak mı menteşeli mi?",
+              "c": "Sürme kapak yer kazandırır, menteşeli kapak ise içeriye tam erişim sağlar. Koridor genişliği ve kullanım alışkanlığına göre öneriyoruz."
+            },
+            {
+              "s": "Mevcut gömme dolabımı yeniliyor musunuz?",
+              "c": "Evet, eski dolabın sökümü ve yerine yenisi imalat ve montaj dahil komple yenileme yapıyoruz; duvar yüzeyindeki hasarlar da giderilir."
+            },
+            {
+              "s": "Dolap içine led aydınlatma koyulabilir mi?",
+              "c": "Evet, hareket sensörlü ve kapı anahtarlı LED sistemler standart aksesuar olarak eklenebilir; elektrik bağlantıları bizim tarafımızdan yapılır."
+            },
+            {
+              "s": "Giyinme odası için alan nasıl olmalı?",
+              "c": "Minimum 2,5x2 m bir oda veya 3-4 m uzunlukta bir duvar yeterlidir. Keşifte alanı ölçüp U, L veya tek hat plan öneririz."
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "slug": "perde-kornis-ve-stor-montaji",
+          "baslik": "Perde Kornişi ve Stor Montajı",
+          "kisaAciklama": "Perde kornişi, stor perde, zebra ve jaluzi montajı; tavan-duvar montaj seçenekleri ve ölçü alımı.",
+          "detay": "Perde kornişi ve stor montajı, küçük ama ölçü ve yer seçimi hassasiyeti gerektiren bir iştir. Korniş montajında duvara veya tavana montaj seçeneği mekana göre değerlendirilir; alçıpan tavanlarda uygun dübel ile güvenli sabitleme yapılır. Stor, zebra, güneşlik ve jaluzi perdelerde ölçü, kasa içi (revele) veya kasa dışı (mastra) olarak alınır; perde tipine göre mekanizma duvara, tavana veya kasaya sabitlenir. Perde kordonları ve zincirleri çocuk güvenliği açısından ayarlanır; motorlu perde sistemlerinde elektrik bağlantısı ve uzaktan kumanda eşleştirmesi yapılır. Büyük cephelerde birden fazla perdenin hizalı montajı için lazer kullanılır. Montaj sonrası perde açılıp kapanarak mekanizma test edilir, temiz teslim edilir.",
+          "faydalar": [
+            "Tavan ve duvar montaj seçenekleri ile mekana uygun çözüm",
+            "Stor, zebra, jaluzi ve motorlu perde sistemleri",
+            "Lazer ile hizalı, güvenli ve dengeli montaj",
+            "Çocuk güvenlikli kordon ayarları"
+          ],
+          "sss": [
+            {
+              "s": "Perde ölçüsünü nasıl alıyorsunuz?",
+              "c": "Kasa içi perdede kasa ölçüleri, kasa dışında ise genişlik ve düşüş ölçüleri lazer metreyle alınır. Yanlış ölçü kaynaklı uyumsuzluk yaşanmaz."
+            },
+            {
+              "s": "Stor mu zebra mı daha kullanışlı?",
+              "c": "Zebra, gölgelendirme ve görüş açısını aynı anda kontrol eder; stor daha ekonomik ve sade görünüm sunar. İhtiyaca göre öneriyoruz."
+            },
+            {
+              "s": "Alçıpan tavana korniş asılır mı?",
+              "c": "Evet, alçıpan tavana uygun kanatlı dübeller ve kasa takviyesi ile güvenli montaj yapılır; ağır perdeliklerde profilli korniş önerilir."
+            },
+            {
+              "s": "Motorlu perde sonradan elektrik ister mi?",
+              "c": "Motorlu perdeler pil veya şarjlı motorla kablosuz çalışabilir; elektrik hattı çekilecekse montaj öncesi planlama yaparız."
+            },
+            {
+              "s": "Mevcut kornişin üzerine stor takılır mı?",
+              "c": "Korniş mevcut ve sağlamsa stor, kornişe adaptör ile asılabilir; ancak her iki sistem birlikte karmaşık görünebilir. Yerinde değerlendirip öneriyoruz."
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "slug": "ses-yalitimi",
+          "baslik": "Ses Yalıtımı (Oda / Duvar / Tavan)",
+          "kisaAciklama": "Duvar, tavan ve zemin ses yalıtımı; taş yünü, ses paneli, çift alçıpan sistem ve kapı fitil uygulamaları.",
+          "detay": "Ses yalıtımı; komşu gürültüsü, trafik sesi ve ev içi yankıya karşı uygulanan çok katmanlı bir iyileştirmedir. Duvar ses yalıtımında mevcut duvara metal iskelet kurulur, arası taş yünü ile doldurulur ve çift kat alçıpan kaplanır; bu sistem komşu sesini belirgin şekilde azaltır. Tavanda aynı sistem astar tavan olarak uygulanır; zeminde ise ses yalıtım şiltesi üzerine şap ve kaplama yapılır. Yankı problemi yaşanan salon ve stüdyolarda akustik paneller (pet akustik, ahşap yünü panel) dekoratif çözüm sunar. Kapılardan ve pencerelerden gelen ses için fitil ve eşik uygulamaları yapılır; priz ve anahtar buatlarından sızan ses kapatılır. Uygulama öncesi sesin hangi yoldan geldiği analiz edilir; çözüm buna göre planlanır.",
+          "faydalar": [
+            "Taş yünü + çift alçıpan sistem ile yüksek ses azaltımı",
+            "Komşu, trafik ve yankı kaynaklı gürültüde ölçümle planlama",
+            "Kapı, pencere ve priz kaçağı kapatma detayları",
+            "Dekoratif akustik paneller ile estetik çözüm"
+          ],
+          "sss": [
+            {
+              "s": "Hangi ses yalıtımı ne kadar etkili?",
+              "c": "Çift alçıpan + taş yünü sistem duvardan gelen seste %70-90 azalma sağlar; kapı ve pencere kaçakları kapatılmadan tam sonuç alınamaz, onları da işe dahil ederiz."
+            },
+            {
+              "s": "Ses yalıtımı oda küçültür mü?",
+              "c": "Duvar sistemleri 8-12 cm, tavan sistemleri 10-15 cm yer kaplar. Alandan taviz vermek istemeyenler için ses paneli alternatifleri sunuyoruz."
+            },
+            {
+              "s": "Üst kattan gelen ayak sesleri nasıl kesilir?",
+              "c": "Tavan izolasyonu ile üst kattan gelen darbe sesi azaltılır; tam çözüm için üst katta zemin şiltesi gerekebilir. Her iki seçeneği de değerlendiriyoruz."
+            },
+            {
+              "s": "Ses yalıtımı ne kadar sürer?",
+              "c": "Bir oda için duvar ve tavan uygulaması ortalama 2-4 gün sürer; keşifte alan büyüklüğüne göre netleştirilir."
+            },
+            {
+              "s": "Müzik stüdyosu için yeterli mi?",
+              "c": "Stüdyo için darbe ve hava sesinde üst seviye sistemler (çift iskelet, yaylı klips) gerekir. Bu kapsamdaki projelerde proje bazlı çözüm sunarız."
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "slug": "rutubet-ve-kuf-giderme",
+          "baslik": "Rutubet ve Küf Giderme, Duvar Onarımı",
+          "kisaAciklama": "Duvar rutubeti ve küf tespiti, kaynak giderme, küf önleyici işlem ve duvar yenileme; garanti destekli.",
+          "detay": "Rutubet ve küf sorunu; duvar yüzeyinde görünen lekelerin ötesinde tesisat kaçağı, dış cephe çatlağı, yoğuşma ve kılcal nem gibi kökenlere sahiptir. Önce kaynak tespiti yapılır: nem ölçer ile duvar nemi haritalandırılır, tesisat kaçağı varsa cihazla yeri bulunur. Kaynak giderildikten sonra duvar yüzeyi küf önleyici solüsyonla temizlenir, kazınır ve kurutulur; ardından nem bariyer özellikli sıva ve boya uygulanır. Yoğuşma kaynaklı sorunlarda ısı köprüsü bölgelerine izolasyon yapılır; kılcal nemde duvar alt kısmına su yalıtım enjeksiyonu veya membran uygulanır. İşlem sonrası duvar yeniden boyanır ve belirli bir süre duvarda nem gözlemlenmesine karşı bakım garantisi verilir. Böylece küf ve boya kabarması tekrarlamaz.",
+          "faydalar": [
+            "Nem ölçümü ile doğru kaynak tespiti, hızlı çözüm",
+            "Küf önleyici solüsyon ve nem bariyer malzemeler",
+            "Tesisat kaçağı, yoğuşma ve kılcal nem kaynaklarının giderilmesi",
+            "Bakım garantili işlem"
+          ],
+          "sss": [
+            {
+              "s": "Duvar rutubeti neden oluşur?",
+              "c": "En sık sebepler; tesisat kaçağı, dış cephe veya çatı suyu, yoğuşma ve zeminden gelen kılcal nemdir. Kalıcı çözüm ancak köken tespitiyle mümkündür."
+            },
+            {
+              "s": "Küfü boyayla kapatmak yeterli mi?",
+              "c": "Hayır, boya küfün üzerini kapatınca sorun kısa sürede geri döner. Önce yüzey küf önleyici ile işlenmeli, nem kaynağı giderilmelidir."
+            },
+            {
+              "s": "Rutubet tespiti ne kadar sürer?",
+              "c": "Nem ölçerle yapılan yüzey tespiti aynı gün sonuçlanır; tesisat kaçağı şüphesinde kamera/akustik cihazla tespit 1 gün içinde tamamlanır."
+            },
+            {
+              "s": "Dış cephe kaynaklı nemi siz mi çözüyorsunuz?",
+              "c": "Dış cephe yalıtımı ve çatı onarımı için de hizmet veriyoruz; dış cephe tadilatı ayrı bir iş kapsamı olsa da keşifte yönlendiriyoruz."
+            },
+            {
+              "s": "İşlem sonrası ne kadar garanti veriyorsunuz?",
+              "c": "Kaynak giderme ve uygulama sonrası duvar yüzeyinde yeniden nem/küf oluşmasına karşı işçilik garantisi veriyoruz; süre keşifte belirlenir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "isitma-sistemleri",
+      "baslik": "Isıtma Sistemleri",
+      "ikon": "flame",
+      "aciklama": "İstanbul'da kombi montajı ve bakımı, petek montajı, kalorifer tesisatı ve yerden ısıtma sistemleri.",
+      "hizmetler": [
+        {
+          "id": 42,
+          "slug": "kombi-montaji-ve-degisimi",
+          "baslik": "Kombi Montajı ve Değişimi",
+          "kisaAciklama": "Kombi sökme-takma, montaj, gaz bağlantısı ve baca sistemi; yetkili ekip, garanti belgeli kurulum.",
+          "detay": "Kombi montajı ve değişimi; eski kombinin sökülmesi, gaz hattı kontrolü, yeni kombinin montajı ve devreye alınması işlemlerini kapsar. Değişimde önce kombi kapasitesi hesaplanır: dairenin ısınma alanı, pencere yönü ve yalıtım durumuna göre kW seçimi yapılır; böylece kombi ne yetersiz ne de gereksiz büyük seçilir. Montajda gaz hattı kaçak testi (köpük ve manometre) yapılır, bacalı ve yoğuşmalı sistemlere uygun baca bağlantısı kurulur. Hered ve oda termostatı montajı, istenen sıcaklık konforunu ve enerji tasarrufunu artırır. Devreye alma işleminde kombi çalıştırılır, brülör ayarı kontrol edilir ve kullanıcıya kullanım eğitimi verilir. Kurulum sonrası garanti belgesi yetkili servis damgasıyla teslim edilir.",
+          "faydalar": [
+            "Alan ve yalıtım analiziyle doğru kapasite seçimi",
+            "Gaz kaçak testi ve manifold ayarlı güvenli montaj",
+            "Baca sistemi ve oda termostatı uyumluluğu",
+            "Yetkili servis belgeli, garanti geçerli kurulum"
+          ],
+          "sss": [
+            {
+              "s": "Kombi değişimi ne kadar sürer?",
+              "c": "Standart bir kombi değişimi 3-5 saat sürer; baca yenileme veya gaz hattı uzatma gerekirse 1 güne uzar."
+            },
+            {
+              "s": "Kombimi kendim mi almalıyım?",
+              "c": "İsterseniz kendi aldığınız kombi takılır; isterseniz kapasite analizine göre model önerip biz tedarik ederiz. Tedarikte üretici garantisi geçerlidir."
+            },
+            {
+              "s": "Yoğuşmalı kombi mi konvansiyonel mi?",
+              "c": "Doğalgaz faturalarını düşürmek ve yeni mevzuata uyum için yoğuşmalı kombi öneriyoruz; baca tipi ve tesisat durumuna göre keşifte netleştirilir."
+            },
+            {
+              "s": "Kombi montajı için ruhsat/vize gerekir mi?",
+              "c": "Gaz şirketinin (İGDAŞ gibi) vize işlemi gerekebilir; biz süreci yönetir, gerekli evrakları hazırlarız."
+            },
+            {
+              "s": "Eski kombiyi benden alır mısınız?",
+              "c": "Eski kombiyi söküp taşıyoruz; çalışır durumdaysa anlaşmalı firmalara değerlendirme yönlendirmesi yapıyoruz."
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "slug": "kombi-bakimi-ve-ariza-onarimi",
+          "baslik": "Kombi Bakımı ve Arıza Onarımı",
+          "kisaAciklama": "Kombi periyodik bakımı: baca kontrolü, brülör temizliği, basınç ayarı; arıza tespiti ve onarım.",
+          "detay": "Kombi bakımı; ısıtma sezonu öncesi yapılan periyodik kontrol ile kombinizin verimini ve ömrünü korur. Bakımda brülör temizlenir, elektrotlar değiştirilir, gaz basıncı ve ayar değerleri ölçülür; baca ve hava girişi kontrol edilerek atık gaz geri tepmesi önlenir. Tesisat basıncı kontrol edilir, genleşme tankı ve doldurma vanası test edilir. Arıza durumunda hata kodları okunur, arızanın kaynağı (ana kart, sensör, fan, üç yollu vana, hidrolik blok) tespit edilir ve orijinal yedek parça ile onarılır. Onarım sonrası kombi tekrar test edilir ve radyatörlerde dengeli ısınma kontrolü yapılır. Kombi durumuna göre bakım önerisi ve yakıt tüketim analizi raporda sunulur. Bakım, üretici garanti koşullarını da korur.",
+          "faydalar": [
+            "Sezon öncesi bakım ile kombi arızası riskini azaltma",
+            "Brülör ve baca temizliği ile verim ve tasarruf",
+            "Orijinal yedek parça ile garantili arıza onarımı",
+            "Bakım raporu ve tüketim analizi"
+          ],
+          "sss": [
+            {
+              "s": "Kombi bakımı ne sıklıkla yapılmalı?",
+              "c": "Yılda bir kez, ısıtma sezonu başlamadan önce yapılması önerilir; yoğun kullanılan ticari alanlarda yılda iki kez bakım yapılır."
+            },
+            {
+              "s": "Kombi bakımı ne kadar sürer?",
+              "c": "Standart kombi bakımı 45-90 dakika sürer; parça değişimi gereken durumlarda süre uzar ve onarım genellikle aynı gün tamamlanır."
+            },
+            {
+              "s": "Kombi f/p veriyor, ne yapmalıyım?",
+              "c": "F/ø hata kodları çoğunlukla sensör veya kart arızasındandır. Sertifikalı ekibimiz hata kodunu okuyup kaynağı tespit eder ve onarır."
+            },
+            {
+              "s": "Kombi çok yakıyor, bakım tasarruf sağlar mı?",
+              "c": "Kirli brülör ve tıkalı eşanjör yakıt tüketimini %10-20 artırır. Bakım sonrası verim testi yapılır ve iyileşme oranı raporda belirtilir."
+            },
+            {
+              "s": "Kombi garantisi devam ederken bakım gerekli mi?",
+              "c": "Çoğu üretici, garanti koşulu olarak yetkili servis bakımını şart koşar. Bizim düzenlediğimiz bakım fişi garanti dosyanızı korur."
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "slug": "petek-montaji-ve-degisimi",
+          "baslik": "Petek (Radyatör) Montajı ve Değişimi",
+          "kisaAciklama": "Panel radyatör montajı, eskisiyle değişimi; vana, termostatik radyatör vanası ve köşe bağlantıları.",
+          "detay": "Petek montajı ve değişimi; mevcut radyatörün sökülmesi, hattın kontrolü ve yeninin kurulmasını içerir. Değişim öncesi radyatör boyu ve kapasitesi odanın ısı ihtiyacına göre hesaplanır; yetersiz petek, kombinin sürekli çalışmasına ve yüksek faturaya yol açar. Montajda radyatörler duvara sağlam askılarla asılır, alt ve üst bağlantılar kombi tesisatına uygun yapılır; köşe bağlantılarında vana ve hava alma tertibatı kontrol edilir. Termostatik radyatör vanası (TRV) takılarak oda bazında ısı kontrolü sağlanır ve enerji tasarrufu elde edilir. Montaj sonrası sistem su ile doldurulur, hava alınır ve tüm peteklerin dengeli ısınması kontrol edilir. Döküm radyatörlerin panel radyatörle değişiminde gerekli bağlantı adaptörleri de kullanılır.",
+          "faydalar": [
+            "Oda bazında doğru kapasite hesaplı radyatör seçimi",
+            "Termostatik vana ile oda kontrolü ve tasarruf",
+            "Dengeli ısınma kontrolü ve hava alma dahil",
+            "Dökümden panale geçiş adaptörleri dahil"
+          ],
+          "sss": [
+            {
+              "s": "Petek değişimi ne kadar sürer?",
+              "c": "Tek petek değişimi 2-4 saat; komple daire petek yenileme 1-2 gün sürer. Sistem doldurma ve hava alma işlemi buna dahildir."
+            },
+            {
+              "s": "Hangi petek boyu odama uygun?",
+              "c": "Oda metrekare, tavan yüksekliği, yalıtım ve pencere durumuna göre ısı ihtiyacı hesabı yapılır; buna göre panel boyu belirlenir."
+            },
+            {
+              "s": "Termostatik vana taktırmak tasarruf sağlar mı?",
+              "c": "Evet, TRV ile kullanılmayan odaların ısısı düşürülür; %10-20 yakıt tasarrufu elde edilir. Vanalar montaj dahil temin edilir."
+            },
+            {
+              "s": "Döküm peteği panel petekle değiştirmeli miyim?",
+              "c": "Döküm petekler ısı depolama avantajına sahiptir ancak ağırdır ve dar alan kaplar. Panel petek estetik ve yer kazandırır; ısı kapasitesi hesabıyla değişim yapılır."
+            },
+            {
+              "s": "Petek üstü ısınmıyor, sorun ne?",
+              "c": "Kombi basıncı düşükse veya sistemde hava varsa petekler üstten ısınmaz. Hava alma ve basınç ayarıyla sorun genellikle aynı gün çözülür."
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "slug": "petek-temizligi",
+          "baslik": "Petek Temizliği (Makineli)",
+          "kisaAciklama": "Radyatör içi çamur ve tortu temizliği; makineli yıkama ile ısınma verimini artırma ve tıkanıklığı giderme.",
+          "detay": "Petek temizliği; kombi tesisatında biriken çamur, kireç ve tortunun makineli yıkama ile radyatörlerden dışarı atılmasıdır. Yıllarca doldurulan su ve tesisat aşınmaları peteklerin alt kısmında çamur birikmesine yol açar; petek altı soğuk kalır, kombi gereksiz çalışır ve fatura artar. İşlemde kombi bağlantısı sökülür, profesyonel yıkama makinesi radyatöre bağlanır ve su basıncı döngüleri ile çamur torsiyonel süpürme tekniğiyle atılır. Tüm petekler tek tek yıkanır, ardından sistem yeniden doldurulur ve denge ayarı yapılır. Yıkama öncesi ve sonrası petek ısınma kontrolü yapılarak iyileşme belgelenir. Kombi eşanjörünün çamurdan korunması için manyetik kir tutucu takılması da önerilir.",
+          "faydalar": [
+            "Petek altı soğukluğunu ve tıkanıklığı kökten giderir",
+            "Makineli yıkama ile kombi ömrünü koruyan temizlik",
+            "Isınma perfomansında ölçülebilir iyileşme",
+            "Manyetik kir tutucu önerisi ile önleyici bakım"
+          ],
+          "sss": [
+            {
+              "s": "Petek temizliği ne sıklıkla yapılmalı?",
+              "c": "Genellikle 3-5 yılda bir; eski tesisatlı ve çok tortu biriken binalarda daha sık yapılması önerilir. Isınma yavaşlığı durumunda hemen planlanır."
+            },
+            {
+              "s": "Petek temizliği ne kadar sürer?",
+              "c": "Ortalama 10 petekli bir daire 2-4 saatte yıkanır; sistem büyüklüğüne göre süre değişir."
+            },
+            {
+              "s": "Temizlik kombiye zarar verir mi?",
+              "c": "Hayır, aksine kombi eşanjörünü çamurdan korur. Yıkama sırasında kombi kapalı tutulur ve işlem sonrası sistem düzgün doldurulur."
+            },
+            {
+              "s": "Petekler çok ısınıp oda ısınmıyorsa ne olur?",
+              "c": "Bu tablo genellikle petek içi çamur birikimini gösterir; yıkama sonrası ısı transferi normale döner."
+            },
+            {
+              "s": "Manyetik kir tutucu nedir?",
+              "c": "Tesisata takılan ve metal tortuları toplayan filtre elemanıdır; kombi ve eşanjörü çamurdan korur, temizlik periyodunu uzatır."
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "slug": "kalorifer-tesisati-doseme",
+          "baslik": "Kalorifer Tesisatı Döşeme ve Yenileme",
+          "kisaAciklama": "Yeni kalorifer tesisatı döşeme, eski boru ve tesisat yenileme; boru ölçüsü hesabı ve dengeli ısıtma.",
+          "detay": "Kalorifer tesisatı döşeme; kombiden radyatörlere giden boru hattının proje esaslarına göre kurulmasıdır. Tesisatta boru çapı, oda ısı ihtiyacı ve kat yüksekliğine göre hesaplanır; yanlış çap, uzak odalara suyun ulaşmamasına ve dengesiz ısınmaya neden olur. Yenileme işlerinde eski, paslanmış borular sökülür; duvar ve döşeme içinden yeni hatlar çekilir. Galvaniz veya PPRC boru tercihi; tesisat tipine (açık kapalı devre) ve bütçeye göre belirlenir. Her radyatöre iklimlendirme vanası ve hava alma tertibatı konur; sistem dengeleme (balans) ayarı yapılarak tüm odalarda eşit ısınma sağlanır. Yerden ısıtma ile kombine edilen sistemlerde karışım kolu (termostatik) montajı da yapılır. Teslim öncesi sistem basınçla test edilir ve kaçak kontrolü yapılır.",
+          "faydalar": [
+            "Doğru çap hesabı ile tüm odalarda dengeli ısınma",
+            "Yeni boru hattı ile kaçak ve pas sorununa son",
+            "Balans vanası ile sistem dengeleme",
+            "Basınç testi ile sızdırmazlık garantisi"
+          ],
+          "sss": [
+            {
+              "s": "Kalorifer tesisatı yenileme ne kadar sürer?",
+              "c": "Daire genelinde tesisat yenileme 3-6 gün sürer; duvar kırma, boru döşeme ve sıva-restorasyon aşamaları dahildir."
+            },
+            {
+              "s": "Boru çapı neden önemli?",
+              "c": "Dar boru baştan sona yüksek direnç oluşturur; uzak radyatörler yetersiz ısınır. Hesap doğru yapılmazsa ısınma sorunu içten çözülemez."
+            },
+            {
+              "s": "Döşeme altından boru geçerken kırma mı yapılıyor?",
+              "c": "Mevcut şap içine kanal açılarak boru döşenir; taşıyıcı yapıya dokunulmaz. Yerden ısıtma sistemlerinde şap komple yenilenir."
+            },
+            {
+              "s": "Uzak odalar neden ısınmıyor?",
+              "c": "Dengesiz tesisat, dar boru veya hava birikimi buna yol açar. Tesisat kontrolü ve balans ayarı ile sorun giderilir."
+            },
+            {
+              "s": "Eski tesisatta antikor mu yoksa komple yenileme mi?",
+              "c": "Boru sağlamsa yıkama ve kir tutucu yeterli olur; paslanma ve sık kaçak varsa yenileme önerilir. Keşifte en ekonomik kalıcı çözüm belirlenir."
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "slug": "yerden-isitma-sistemi",
+          "baslik": "Yerden Isıtma Sistemi Kurulumu",
+          "kisaAciklama": "Su bazlı ve elektrikli yerden ısıtma kurulumu; boru serim, manifold, şap, termostat ve izolasyon dahil.",
+          "detay": "Yerden ısıtma sistemi; zeminden yayılan eşit ısıyla konforlu ve ekonomik bir ısınma sağlar. Kurulumda önce zemin iklimlendirme şapı ve izolasyon (XPS) hazırlanır; ardından su bazlı sistemde PE-Xa borular helezon deseninde serilir, elektrikli sistemde ısıtma kablosu döşenir. Boru aralıkları oda ısı ihtiyacına göre (10-30 cm) belirlenir; manifold bağlantıları her oda için ayrı devre olacak şekilde kurulur ve termostat odalar bazında kontrol sağlar. Sistemin üzerine şap dökülür; karo, parke veya laminant kaplama şapın kürlenmesinin ardından yapılır. Su bazlı sistemler kombiye karışım kolu ile bağlanır. Kurulum öncesi zemin ısı kaybı analizi yapılır; işletme ve bakım maliyeti raporu sunulur. Teslimde ısıtma devreye alınır ve tüm odalarda yüzey sıcaklığı ölçülür.",
+          "faydalar": [
+            "Eşit ısı dağılımı ile yüksek konfor",
+            "Düşük su sıcaklığı ile kombide %15-25 tasarruf",
+            "Oda bazlı termostat ve manifold kontrolü",
+            "Su bazlı ve elektrikli sistem seçenekleri"
+          ],
+          "sss": [
+            {
+              "s": "Yerden ısıtma her zemin tipine uygulanır mı?",
+              "c": "Karo, doğal taş, laminat ve parke üzerine uygulanabilir; halı altı yalıtımı düşürür. Kaplama seçimi sistem verimini etkiler, keşifte yönlendirilir."
+            },
+            {
+              "s": "Yerden ısıtma kurulumu ne kadar sürer?",
+              "c": "Ortalama bir dairede boru/serim ve şap 3-5 gün, şapın kürlenmesi ve kaplama 15-30 gün sürer; toplam süre projeye göre planlanır."
+            },
+            {
+              "s": "Yerden ısıtma kombiyle mi çalışır?",
+              "c": "Evet, mevcut kombiye karışım kolu ve manifold ile bağlanır; düşük sıcaklıkta çalıştığı için yoğuşmalı kombiler en idealdir."
+            },
+            {
+              "s": "Arıza durumunda zemin kırılır mı?",
+              "c": "Su bazlı sistemlerde boru kaçağı termal kamera ile nokta olarak bulunur ve küçük bir bölge açılarak onarılır; elektrikli sistemlerde hatlar zonlara ayrılır."
+            },
+            {
+              "s": "Eski binaya yerden ısıtma yapılır mı?",
+              "c": "Şap yenilemesi gerektiği için tadilat kapsamında uygundur; kapı yükseklikleri ve kat platformu kontrol edilir. Keşifte uygunluk belirlenir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mutfak-tadilati",
+      "baslik": "Mutfak Tadilatı",
+      "ikon": "kitchen",
+      "aciklama": "İstanbul'da komple mutfak tadilatı, mutfak dolabı yapımı, tezgah değişimi, ankastre montajı ve karo döşeme hizmetleri.",
+      "hizmetler": [
+        {
+          "id": 8,
+          "slug": "komple-mutfak-tadilati",
+          "baslik": "Komple Mutfak Tadilatı (Anahtar Teslim)",
+          "kisaAciklama": "Sökümden dolaba, tezgahtan tesisata anahtar teslim komple mutfak tadilatı. Sabit fiyat, yazılı garanti ve ücretsiz keşif.",
+          "detay": "Komple mutfak tadilatı; eski dolap ve tezgahın sökümü, mutfak tesisatının yeniden düzenlenmesi, karo döşemesi, yeni dolap ve tezgahın montajı ile ankastre cihazların bağlanmasını içeren anahtar teslim bir hizmettir. Süreç yerinde ölçü ve keşifle başlar; mutfağınızın kullanım alışkanlıklarına göre dolap yerleşimi planlanır, çalışma üçgeni (ocak-evye-buzdolabı) dikkate alınır. Dolap montajında üst ve alt dolaplar duvar ve zemine sağlam monte edilir, kapaklar ve çekmeceler ayarlanır. Tezgah seçiminde mermer, granit, çimstone veya laminant alternatifleri sunulur; kesimler CNC veya sulu kesim ile yapılır, birleşimler minimum görünür derzle tamamlanır. Su ve atık bağlantıları PPRC ve silikon mastik ile sızdırmaz kurulur; ankastre setin elektrik ve gaz bağlantısı yetkili ekip tarafından yapılır. İş sonunda komplet temizlik ve yazılı garanti belgesi teslim edilir.",
+          "faydalar": [
+            "Tek sözleşme: söküm, tesisat, karo, dolap, tezgah ve ankastre tek pakette",
+            "Kullanım alışkanlığınıza göre planlanan çalışma üçgeni",
+            "Mermer, granit, çimstone ve laminant seçenekleri",
+            "Yazılı işçilik garantisi ve iş sonu temizlik"
+          ],
+          "sss": [
+            {
+              "s": "Komple mutfak tadilatı ne kadar sürer?",
+              "c": "Ortalama 12-18 iş günü sürer; söküm, tesisat, karo, dolap ve tezgah aşamaları sırayla ilerler. Küçük mutfaklar 10 güne inebilir."
+            },
+            {
+              "s": "Mutfak tadilatında dolap malzemesi ne seçilmeli?",
+              "c": "MDF laklı kapaklar bütçe dostu, folyo kapaklar dayanıklı, akrilik kapaklar modern görünüm sunar. Nem dayanımına göre en uygun kombinasyonu keşifte öneriyoruz."
+            },
+            {
+              "s": "Tezgah olarak hangisini seçmeliyim: çimstone mu, granit mi?",
+              "c": "Çimstone darbeye ve lekeye dayanıklıdır, renk seçeneği fazladır; granit doğal taş dokusu isteyenler için idealdir. Bütçe ve kullanım beklentinize göre yönlendiriyoruz."
+            },
+            {
+              "s": "Mutfak tadilatı sırasında mutfağı kullanabilir miyim?",
+              "c": "Söküm ve tesisat aşamasında mutfak kullanıma kapatılır. Geçici olarak mini fırın ve kızılötesi ocak planıyla günlük ihtiyaçlarınızı karşılayabilirsiniz; keşifte planı birlikte kurarız."
+            },
+            {
+              "s": "Ankastre cihazlarım eski, değişecek mi?",
+              "c": "Mevcut ankastreleriniz uyumluysa koruyup yerinde tutarız; yenileyeceksek elektrik ve gaz bağlantıları dahil montajı biz yaparız."
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "slug": "mutfak-dolabi-yapimi-ve-montaji",
+          "baslik": "Mutfak Dolabı Yapımı ve Montajı",
+          "kisaAciklama": "Ölçüye özel mutfak dolabı imalatı, karkas montajı, kapak ve çekmece ayarı; tezgah ve cihaz uyumu garantili.",
+          "detay": "Mutfak dolabı yapımı ve montajı, ölçü alımından başlayarak dolabın atölyede üretimi ve yerinde kurulumunu kapsar. Standart ölçülere sıkışmayan, duvar ve kolon gibi çıkıntıları olan mutfaklarda özel imalat tek çözümdür. Üretimde neme dayanıklı MDF/HPL malzeme, menteşe ve şönellerde kaliteli markalar kullanılır. Montajda alt dolaplar önce hizalama ayaklarıyla tesviye edilir, tezgah üzerine yerleştirilir; üst dolaplar yatay ve düşey mastarla asılır. Kapak ayarları, çekmece ray ayarları ve dolap kapaklarının çarpma önleyici ayarları işin detaylarıdır. Dolap içi raf düzeni, ayakkabılık, çekmece iç düzeni ve adanız varsa ada dolabı montajı da eklenebilir. Tezgah ve ankastre cihaz ölçüleri dolap imalatına göre yapıldığından montaj sonrası uyumsuzluk yaşanmaz.",
+          "faydalar": [
+            "Ölçüye özel üretim ile her mutfakta kusursuz uyum",
+            "Neme dayanıklı malzeme ve sağlam menteşe-şönel kullanımı",
+            "Tesviye ayakları ile çarpık zeminde bile düz dolap kurulumu",
+            "Kapak, çekmece ve ray ayarları dahil kusursuz bitiş"
+          ],
+          "sss": [
+            {
+              "s": "Özel imalat dolap ne kadar sürer?",
+              "c": "Ölçü ve tasarım onayından sonra üretim 7-12 gün, montaj 2-4 gün sürer. Toplam süre mutfağınızın büyüklüğüne göre değişir."
+            },
+            {
+              "s": "Dolap yapımı mı yoksa hazır dolap mı daha ekonomik?",
+              "c": "Hazır modüler dolaplar başlangıçta ekonomik olabilir ama ölçü uyumsuzluklarında ek maliyet çıkar. Özel imalatta israf yoktur ve ömrü daha uzundur; uzun vadede dengeyi keşifte hesaplıyoruz."
+            },
+            {
+              "s": "Dolap kapaklarının renk seçeneği var mı?",
+              "c": "Yüzlerce renk ve kaplama seçeneğimiz var: lak, folyo, akrilik, ahşap desen ve mat-beyaz kombinasyonları. Numune kataloguyla seçiminizi yaparsınız."
+            },
+            {
+              "s": "Mevcut dolabın sadece kapaklarını değiştirebilir miyim?",
+              "c": "Karkas sağlamsa kapak ve tezgah yenilemesi ile mutfak tamamen yenilenmiş görünüme kavuşur. Bu, tam tadilattan daha ekonomik bir alternatiftir."
+            },
+            {
+              "s": "Ankastre cihazları dolaba uyduruyor musunuz?",
+              "c": "Evet, dolap imalatı sırasında ankastre ölçüleri birebir işlenir. Cihazlarınızı daha sonra alsanız bile standart ebatlara uygun yuva hazırlanır."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "slug": "mutfak-tezgahi-degisimi",
+          "baslik": "Mutfak Tezgahı Değişimi (Mermer / Granit / Çimstone)",
+          "kisaAciklama": "Mutfak tezgahı değişimi; mermer, granit ve çimstone kesim, şaşırtma birleşim, montaj ve silikon bitiş.",
+          "detay": "Mutfak tezgahı değişimi; eski tezgahın sökümü, yeninin ölçüye göre kesimi ve montajını kapsar. Mermer, granit ve çimstone (kuvars) tezgahlar için önce mutfak tezgah altı dolap ölçüleri alınır, evye ve ocak delikleri işlenmek üzere işaretlenir. Kesim işlemleri su ile soğutmalı makinalarda yapılır; böylece kenarlarda kırılma ve ısı çatlaması oluşmaz. Parça birleşimlerinde şaşırtma (miter) yöntemi ile birleşim hattı neredeyse görünmez kılınır. Montajda tezgah dolap üzerine oturtulur, duvar arkası silikon ile kapatılır; evye altı bağlantılar ve musluk delikleri kontrol edilir. Tezgah seçiminde bilmeniz gereken: mermer doğal ve ferah, granit sert ve dayanıklı, çimstone ise leke ve çizilmeye en dirençli yüzeydir. Standart ve island (ada) tezgahlar için aynı hizmet verilir.",
+          "faydalar": [
+            "Su soğutmalı kesim ile pürüzsüz ve kırıksız kenar",
+            "Şaşırtma birleşim ile görünmez tezgah derzi",
+            "Evye/ocak delikleri CNC hassasiyetinde işlenir",
+            "Mermer, granit, çimstone ve laminant seçenekleri"
+          ],
+          "sss": [
+            {
+              "s": "Tezgah değişimi ne kadar sürer?",
+              "c": "Ölçü alındıktan sonra üretim 3-7 gün, montaj 1-2 gün sürer. Eski tezgahın sökümü montaj günü yapılır."
+            },
+            {
+              "s": "Tezgah ölçüsü nasıl alınıyor?",
+              "c": "Uzman ekibimiz lazer metre ile tezgah altı dolap ölçülerini, duvar eğriliklerini ve evye/ocak konumlarını kaydeder; ardından atölyede birebir kesim planı çıkarılır."
+            },
+            {
+              "s": "Eski tezgahın sökülmesi dolaba zarar verir mi?",
+              "c": "Eski tezgahın dikkatli sökümü ile dolap karkası korunur. Gerekirse tezgah altı kontrplak takviye edilir."
+            },
+            {
+              "s": "Çimstone tezgah çizilir mi, sararır mı?",
+              "c": "Çimstone yüzeyi gözeneksizdir; çay, kahve ve yağ lekelerine dayanıklıdır. Sert cisimlerle kesme çizikleri oluşabilir; kesme tahtası kullanımı yeterli korumadır."
+            },
+            {
+              "s": "Tezgah değişirken eviye ve musluk da değişmek zorunda mı?",
+              "c": "Hayır, mevcut eviye ve musluk korunabilir; delikler yeniden işlenir ya da mevcut delikler büyütülür. İsterseniz yeni eviye montajını da yaparız."
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "slug": "tezgah-arasi-cam-ve-fayans-kaplama",
+          "baslik": "Tezgah Arası Cam / Fayans Kaplama",
+          "kisaAciklama": "Mutfak tezgah arası cam panel veya fayans kaplama; ocak arkası yağ koruması, ölçüye özel kesim ve montaj.",
+          "detay": "Tezgah arası (duvar) kaplama; ocağın arkasını yağ sıçramasından ve duvarı nemden koruyan hem fonksiyonel hem de görsel bir uygulamadır. Fayans uygulamasında duvar yüzeyi hazırlanır, karo yapıştırıcı ile döşenir ve derz dolgusu yapılır. Cam panel seçeneğinde ise mutfak ölçeriz, özel olarak temperlenmiş ve arkası boyanmış camı priz ve duş bağlantı noktaları delikleri açılmış şekilde üretiriz; montajda alüminyum klemens veya özel yapıştırma sistemi kullanılır. Cam panel, derzsiz olduğu için hijyen açısından avantajlıdır; lekeler nemli bezle silinir. Renk seçeneği uygulamanın mutfağınıza uyum sağlamasını kolaylaştırır. Kapalı bordür, led aydınlatmalı panel modelleri de isteğe bağlı sunulur. Hem yeni mutfak tadilatı hem de mevcut mutfak yenilemelerinde uygulanabilir.",
+          "faydalar": [
+            "Derzsiz cam panel ile hijyenik ve kolay temizlenen yüzey",
+            "Ölçüye özel üretim: priz ve aparat delikleri fabrikada açılır",
+            "Fayans seçeneği ile bütçe dostu klasik çözüm",
+            "Yağ ve buharla mücadelede yüzey koruması"
+          ],
+          "sss": [
+            {
+              "s": "Cam panel mi fayans mı daha iyi?",
+              "c": "Cam panel derzsiz ve hijyenik, fayans ise bütçe dostu ve desenli seçenek sunar. Mutfakta ocak arkası gibi yoğun kirlenen bölgelerde cam paneli öneriyoruz."
+            },
+            {
+              "s": "Cam panel ne kadar sürede gelir?",
+              "c": "Ölçü alındıktan sonra temperli panel üretimi 5-10 gün sürer; montaj kısadır ve yarım gün içinde tamamlanır."
+            },
+            {
+              "s": "Priz ve ocak delikleri camda açılıyor mu?",
+              "c": "Evet, ölçü kaydında priz, gaz vanası ve ankastre konumları alınır; delikler üretim aşamasında hassas kesilir."
+            },
+            {
+              "s": "Mevcut derz ve fayansın üzerine cam kaplama yapılır mı?",
+              "c": "Yüzey düz ve sağlamsa mevcut fayans üzerine cam panel uygulaması mümkündür; böylece söküm maliyeti ortadan kalkar."
+            },
+            {
+              "s": "Cam panel temizliği nasıl olmalı?",
+              "c": "Yüzey temperli cam olduğu için standart cam temizleyici ve yumuşak bez yeterlidir; yağ lekeleri için sıcak su ve yumuşak deterjan öneriyoruz."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "slug": "mutfak-evye-ve-batarya-montaji",
+          "baslik": "Mutfak Evyesi ve Bataryası Montajı",
+          "kisaAciklama": "Krom, granit ve gömme mutfak evyesi montajı; çekmeli batarya değişimi, sifon ve pisuar bağlantıları.",
+          "detay": "Mutfak evyesi ve batarya montajı, tezgah değişimlerinden bağımsız olarak da yapılan, kısa sürede tamamlanan bir iştir. Gömme (undermount) evyede tezgah altından delik açılır ve eviye özel bağlantı aparatlarıyla asılır; krom eviyeler tezgah üstüne oturtulup silikon mastik ile sızdırmaz hale getirilir. Granit ve kompozit eviyelerde aynı şekilde ölçü ve montaj yapılır. Batarya bağlantısında çekmeli (pull-out) modellerde hortum yönlendirmesi ve ağırlık ayarı yapılır; sifon ve pisuar bağlantıları sabit ve eğimli kurulur. Montaj sonrası sıcak-soğuk su bağlantıları, sızıntı testi ve eviye altı hortum kontrolü yapılır. Eski eviye ve bataryanın sökümü, gerekirse eski sifonun değişimi işin içindedir. Tezgah deliklerinde crossover/kelepçe kullanılarak sızdırmazlık artırılır.",
+          "faydalar": [
+            "Gömme ve krom eviye montajında uzman kadro",
+            "Çekmeli bataryalarda doğru hortum ve ağırlık ayarı",
+            "Eski sifon dahil tüm bağlantı elemanlarının yenilenmesi",
+            "İş sonu sızdırmazlık ve basınç testi"
+          ],
+          "sss": [
+            {
+              "s": "Eviye değişimi ne kadar sürer?",
+              "c": "Standart bir eviye ve batarya değişimi 1-2 saat sürer. Tezgah deliği işlemi gerekiyorsa yarım güne uzar."
+            },
+            {
+              "s": "Gömme eviye her tezgaha takılır mı?",
+              "c": "Gömme eviye; granit, çimstone ve kuvars tezgahlarda uygulanır, laminant tezgahlarda ise destekli bölgelere takılabilir. Yerinde kontrol edip öneriyoruz."
+            },
+            {
+              "s": "Evyenin altından su sızıyor, ne yapmalıyım?",
+              "c": "Birçok sızıntı, sifon birleşimlerindeki contaların eskimesinden kaynaklanır. Gider conta ve sifon komple değişimi ile sorunu aynı gün çözüyoruz."
+            },
+            {
+              "s": "Çekmeli batarya hortumu geri çekilmiyor, sebebi nedir?",
+              "c": "Hortum ağırlığının yanlış ayarlanması ya da hortumun kıvrılması buna yol açar. Düzeltme için hortum yönlendirmesi ve ağırlık ayarı yapıyoruz."
+            },
+            {
+              "s": "Eviye ve bataryayı beraber değiştirebilir misiniz?",
+              "c": "Evet, eviye ve batarya seti halinde değişimde işçilik avantajı sağlanır; keşifte birlikte planlanır."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "slug": "ankastre-cihaz-montaji",
+          "baslik": "Ankastre Cihaz Montajı (Ocak / Fırın / Davlumbaz)",
+          "kisaAciklama": "Ankastre ocak, fırın, davlumbaz ve bulaşık makinesi montajı; elektrik, gaz ve havalandırma bağlantıları.",
+          "detay": "Ankastre cihaz montajında ocak, fırın, davlumbaz, bulaşık makinesi ve kombi tipi ürünlerin yerleşimi ile bağlantıları yapılır. Gazlı ocaklar için gaz vanası ve hortumu kontrol edilir, sızıntı testi uygulanır; elektrikli cihazlarda uygun hat (en az 2.5mm²) ve topraklama kontrol edilir. Davlumbaz montajında havalandırma kanalı, duvar tipi veya ada tipi modellerin sabitlemesi ve motor bağlantısı yapılır; geri tepme (çekvalf) kontrolü ile hava geri akışı önlenir. Bulaşık makinesi montajında su giriş hortumu, atık bağlantısı ve ayak tesviyesi yapılır. Montaj sonrasında tüm cihazların çalışma testi yapılır, kullanıcıya kullanım bilgisi kısaca hatırlatılır. Gaz bağlantısı işlemlerinde yetkili sertifikamız bulunur; bu işlemler yasal prosedürlere uygun belgelenir.",
+          "faydalar": [
+            "Gaz ve elektrik bağlantılarında yetkili ve belgeli ekip",
+            "Davlumbaz çekvalf ayarı ile mutfağa geri hava akışı sonu",
+            "Bulaşık makinesi ve tüm ankastrelerin komple montajı",
+            "Montaj sonrası cihaz çalışma testi"
+          ],
+          "sss": [
+            {
+              "s": "Ankastre montajı için mutlaka usta mı gerekir?",
+              "c": "Özellikle gazlı ocaklarda ve elektrikli fırınlarda yetkili usta gereklidir; yanlış bağlantı yangın ve gaz kaçağı riski oluşturur. Montajımız belgeli ve garantilidir."
+            },
+            {
+              "s": "Davlumbaz havalandırması yoksa ne yapılır?",
+              "c": "Çıkış kanalı yoksa karbon filtreli (davlumbazsız) devridaim modu kullanılır ya da duvardan kanal açılır. Keşifte mutfağınızın durumuna göre doğru çözümü planlarız."
+            },
+            {
+              "s": "Eski ankastre cihazları söküyor musunuz?",
+              "c": "Evet, eski ocak, fırın ve davlumbazın sökümünde yeni cihazın montajına kadar tüm süreci yönetiriz."
+            },
+            {
+              "s": "Bulaşık makinesi montajında mevcut su bağlantısı yoksa?",
+              "c": "Mevcut eviye altı tesisattan pense ve T bağlantı ile su hattı çıkarılır; atık hattı da eviye sifonuna bağlanır. Ek tesisat işi içindedir."
+            },
+            {
+              "s": "Garanti için cihaz kurulumunu kim yapmalı?",
+              "c": "Cihaz garantisi bağlantıların yetkili/teknik servis tarafından yapılmasını şart koşar. Kurulum sonrası garanti belgesine montaj damgamızı işliyoruz."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "slug": "mutfak-fayans-ve-zemin-doseme",
+          "baslik": "Mutfak Fayans ve Zemin Döşeme",
+          "kisaAciklama": "Mutfak zemini ve tezgah arası fayans döşeme; kaymaz karo, epoksi derz ve lazer tesviyeli uygulama.",
+          "detay": "Mutfak zemin ve duvar fayansı döşemede mutfağın yoğun trafiği ve nemi göz önünde bulundurulur. Zemin için kayma direnci yüksek (R9-R11) karo önerilir; döşeme öncesi zemine şap tesviye edilir, lazer terazi ile kot alınır. Duvar bölgelerinde tezgah arası ve davlumbaz arkası fayans uygulaması yapılır. Yapıştırma işlemi tam yüzey tekniğiyle yapılır, böylece karo altında boşluk kalmaz ve kırılma riski sıfırlanır. Derz dolgusunda epoksi derz öneririz; mutfakta yağ ve nem epoksi derzin sararmamasını sağlar. Süpürgelik ve köşe detaylarında düzgün kesim yapılır, geçiş profilleri zemin-yüzey birleşimlerinde estetik ve koruma sağlar. İş sonunda derzler temizlenir ve mutfak kullanıma hazır teslim edilir. Fayans seçiminizde renk ve ebat danışmanlığı da veriyoruz.",
+          "faydalar": [
+            "Kaymaz karo önerisi ve lazer terazi ile düz zemin",
+            "Epoksi derz ile mutfakta sararma ve küf sorunu sonu",
+            "Tam yüzey yapıştırma ile uzun ömürlü döşeme",
+            "Süpürgelik, geçiş profili ve köşe detayları dahil"
+          ],
+          "sss": [
+            {
+              "s": "Mutfak zemini için hangi karo uygun?",
+              "c": "Mat yüzeyli, R9 ve üzeri kayma direncine sahip, 60x60 veya 60x120 ebatlı granit karo mutfak için idealdir; hem temizlik kolay hem kayma riski düşüktür."
+            },
+            {
+              "s": "Fayans döşeme mevcut zemine yapılır mı?",
+              "c": "Mevcut zemin üzerine döşeme, kapı yüksekliği ve kat platformu sorunları yaratır. Genellikle eski karolar sökülür, şap atılır ve yeni döşeme yapılır."
+            },
+            {
+              "s": "Derz neden koyu renk tercih edilmeli?",
+              "c": "Mutfakta açık renk derz çabuk kirlenir ve sararır. Koyu veya orta ton epoksi derz hem estetik hem uzun süre temiz görünüm sağlar."
+            },
+            {
+              "s": "Döşeme altı ısıtma yapılabilir mi?",
+              "c": "Evet, şap içine elektrikli ısıtma kablosu döşenebilir. Bu durumda karo yapıştırıcı ve derz ısıya uygun ürünler seçilir."
+            },
+            {
+              "s": "Mutfak fayans işiyle dolap kurulumu aynı anda mı yapılıyor?",
+              "c": "Kural olarak önce zemin ve tezgah arası fayans döşenir, ardından dolaplar kurulur. Komple mutfak tadilatı paketimizde bu sıralama profesyonelce yönetilir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sihhi-tesisat",
+      "baslik": "Sıhhi Tesisat",
+      "ikon": "wrench",
+      "aciklama": "İstanbul'da sıhhi tesisat kurulumu, su kaçağı tespiti (kırmadan), boru değişimi ve su arıtma montajı. 7/24 acil servis.",
+      "hizmetler": [
+        {
+          "id": 28,
+          "slug": "sihhi-tesisat-kurulumu-ve-yenileme",
+          "baslik": "Sıhhi Tesisat Kurulumu ve Yenileme",
+          "kisaAciklama": "Yeni bina ve tadilatlarda sıhhi tesisat döşeme; PPRC boru, pis su hattı, kolon ve vitrifiye bağlantıları.",
+          "detay": "Sıhhi tesisat kurulumu; temiz su hatlarının (PPRC), pis su ve atık hatlarının (pilsa, pimaş) döşenmesi ve tüm vitrifiye armatürlerin bağlanmasını kapsar. Yeni bina projelerinde kolon hatlarından daire içi dağılıma kadar tesisat, projeye uygun eğim ve ölçülerle döşenir; basınç testi yapılarak kaçak riski daha ilk günden elimine edilir. Eski binalarda yenileme; paslanmış demir boruların değişimi, daralmış hatların genişletilmesi ve kullanım ömrünü tamamlamış vanaların yenilenmesini içerir. Banyo, mutfak ve WC planlamasında armatür çıkışları hassas konumlandırılır; kiremit ve dolap montajına hazır şekilde teslim edilir. Sıcak su tesisatında yalıtımlı boru kullanılarak ısı kaybı azaltılır. Çalışma sonrası hatlar basınçla test edilir ve iş garantisi yazılı verilir.",
+          "faydalar": [
+            "PPRC boru ve orijinal fittings ile uzun ömürlü hatlar",
+            "Projeye uygun eğim ve ölçülerde pis su hattı",
+            "Basınç testi ile kaçak riski olmayan teslim",
+            "Eski boruların değişimi ve vana yenileme dahil"
+          ],
+          "sss": [
+            {
+              "s": "Sıhhi tesisat yenileme ne kadar sürer?",
+              "c": "Tek dairede sıhhi tesisat yenileme 2-4 gün sürer; banyo ve mutfak tadilatlarıyla eşzamanlı yürütüldüğünde program içinde planlanır."
+            },
+            {
+              "s": "Eski demir boruların değişmesi şart mı?",
+              "c": "20 yıl üzeri demir borularda iç çeper tıkanması, pas ve kaçak sık görülür. Yenileme; su basıncını artırır, kaçak ve tad bozukluğunu giderir."
+            },
+            {
+              "s": "Tesisat yenilenirken duvar kırılır mı?",
+              "c": "Mevcut kanallar kullanılabiliyorsa kırma azalır; yeni hatlar için kanal açılması gereken yerlerde kırma yapılır ve ardından duvar aynı gün tamir edilir."
+            },
+            {
+              "s": "Tesisat döşeme fiyatı nasıl hesaplanır?",
+              "c": "Daire metrekaresi, armatür sayısı, mevcut tesisat durumu ve kanal açma ihtiyacına göre hesaplanır; keşif sonrası sabit fiyat teklifi verilir."
+            },
+            {
+              "s": "Basınç testi garantisi veriyor musunuz?",
+              "c": "Evet, hatlar teslimden önce 1-2 saat basınç altında tutulur ve kaçak kontrolü yapılır. İşçilik yazılı garanti kapsamındadır."
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "slug": "su-kacagi-tespiti",
+          "baslik": "Su Kaçağı Tespiti (Cihazla, Kırmadan)",
+          "kisaAciklama": "Thermal kamera ve akustik cihazla su kaçağı tespiti; duvar, zemin ve tavan kaçaklarının kırmadan bulunması.",
+          "detay": "Su kaçağı tespiti; duvar, zemin ve tavan içindeki kaçağın yerini kırma yapmadan bulma işlemidir. Termal kamera ile yüzey ısı farklılıklarından nemli bölgeler haritalanır; akustik dinleme cihazı ile borudaki su sesi takip edilerek kaçak noktası daraltılır. Nem ölçer ile duvar ve zeminin nem dağılımı çıkarılır, böylece kaçağın yayılım alanı değil başlangıç noktası tespit edilir. Bu yöntemler sayesinde karo kırma ve duvar kazıma minimuma iner; tamir sonrası aynı alan küçük bir yüzeyle onarılır. Kaçak tespiti kombi bağlantıları, sıcak-soğuk su hatları, yerden ısıtma boruları ve çatı suyu sızıntılarında da uygulanır. Tespit sonrası onarım önerisi ve fiyatı rapor halinde sunulur; tespit ücreti, onarımın bizde yapılması durumunda ücretten düşülür.",
+          "faydalar": [
+            "Termal kamera + akustik cihaz ile %95 üzeri başarı oranı",
+            "Kırmadan, tahribatsız tespit; gereksiz kırım yok",
+            "Kaçağın kaynağı haritalanarak küçük alanda onarım",
+            "Tespit ücreti onarımda mahsup edilir"
+          ],
+          "sss": [
+            {
+              "s": "Su kaçağı tespiti ne kadar sürer?",
+              "c": "Standart bir dairede kaçak tespiti 1-3 saat sürer; boru hattı karmaşık veya erişim zorsa (yerden ısıtma) yarım güne uzayabilir."
+            },
+            {
+              "s": "Tespit ücreti ne kadar ve onarımda düşülür mü?",
+              "c": "Bölge ve cihaz kullanımına göre değişen bir tespit ücreti alınır. Onarımı bize yaptırırsanız tespit ücreti toplam tutardan düşülür."
+            },
+            {
+              "s": "Kesin nokta tespiti mümkün mü?",
+              "c": "Termal ve akustik yöntemlerle kaçak noktası 30-50 cm hassasiyetle bulunur; karo üzerinde tek nokta açılarak onarım yapılır."
+            },
+            {
+              "s": "Yerden ısıtma borusundaki kaçak nasıl bulunur?",
+              "c": "Yerden ısıtma sistemlerinde termal kamera ile boru hattı görüntülenir ve sıcaklık farkından kaçak bölgesi belirlenir; nadir durumlarda izolasyon testi yapılır."
+            },
+            {
+              "s": "Kaçak bulunamazsa ücret alır mısınız?",
+              "c": "Cihazlı tarama sonucu bulunamayan vakalar çok nadirdir; bu durumda tarama ücreti alınmaz, izleme planı önerilir."
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "slug": "su-kacagi-onarimi",
+          "baslik": "Su Kaçağı Onarımı",
+          "kisaAciklama": "Tespit edilen su kaçağının onarımı; boru değişimi, kaynak/kelepçe tamiri ve duvar-zemin restorasyonu.",
+          "detay": "Su kaçağı onarımı, tespit edilen kaçağın kaynağına göre şekillenir. Borudaki çatlak ve ek yerlerinde; hasarlı bölüm kesilir, PPRC boru ile kaynak yapılır veya sıkıştırmalı (spiralli) parça ile tamir edilir. Eski demir borudaki deliklerde kelepçe ve epoksi esaslı tamir bantları geçici çözüm sunar; kalıcı çözüm için boru bölümü yenilenir. Onarım sonrası hat basınç testi ile doğrulanır ve ancak sızdırmazlık kanıtlanınca kapatılır. Duvar ve zeminde açılan kanallar; sıva, karo ve boya restorasyonu ile eski görünümüne kavuşturulur. Kaçak nedeniyle oluşan küf ve nem, rutubet giderme işlemiyle temizlenir. Onarım süresi kaçağın derinliğine göre 1-3 gündür ve iş sonunda tekrar kaçak riskine karşı garanti verilir.",
+          "faydalar": [
+            "Kaynak veya sıkıştırmalı parça ile kalıcı boru onarımı",
+            "Basınç testi ile kanıtlanmış sızdırmazlık",
+            "Duvar, karo ve boya restorasyonu dahil",
+            "Onarım sonrası garanti"
+          ],
+          "sss": [
+            {
+              "s": "Kaçak onarımı için duvar ne kadar kırılacak?",
+              "c": "Modern tespit yöntemleriyle kırım alanı kaçağın bulunduğu noktayla sınırlı tutulur; ortalama 30x40 cm'lik bir alan açılır."
+            },
+            {
+              "s": "Onarım kaç gün sürer?",
+              "c": "Borunun kendisinin tamiri 1 gün, duvar ve karo restorasyonu dahil toplam süre 2-3 gündür. Restorasyon hızlı kuruyan malzemelerle kısaltılabilir."
+            },
+            {
+              "s": "Kaçak sürekli tekrarlıyor, sorun ne olabilir?",
+              "c": "Tekrarlayan kaçaklar genellikle aynı hattın birden fazla noktasında yıpranma olduğunu gösterir; tek nokta tamiri yerine hat yenilenmesini öneririz."
+            },
+            {
+              "s": "Radyatör/kombi kaçağı da onarıyor musunuz?",
+              "c": "Evet, kombi bağlantıları, radyatör vanaları ve tesisat borularındaki kaçakların tümü onarım kapsamındadır."
+            },
+            {
+              "s": "Onarılan bölümün garantisi var mı?",
+              "c": "Onarım yapılan hat ve restorasyon işçiliği yazılı garanti kapsamındadır; garanti süresi iş tesliminde belgelenir."
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "slug": "musluk-ve-batarya-tamiri",
+          "baslik": "Musluk ve Batarya Tamiri / Değişimi",
+          "kisaAciklama": "Akıtan ve tutukluk yapan musluk tamiri, kartuş değişimi, conta yenileme ve batarya değişimi.",
+          "detay": "Musluk ve batarya tamiri; akıtan, damlatan, dönmeyen ve basıncı düşük armatürlerin yerinde onarımıdır. Akıntının kaynağı genellikle kartuş, conta veya puldur; bu parçalar değiştirilerek batarya değişimi maliyeti olmadan sorun çözülür. Dönmeyen bataryalarda kireçlenmiş gövde sökülür, iç temizlik yapılır ve sızdırmazlık sağlanır. Perlatör (filtre) tıkanıklığından kaynaklanan basınç düşüklüğü, perlatör temizliği veya değişimiyle giderilir. Onarılamaz durumdaki armatürlerde marka/model önerisiyle değişim yapılır. Mutfak bataryalarındaki çekme hortumu, duş başlığı ve el duşu hortumu değişimleri de aynı kapsamdadır. Tüm işlemlerde orijinal yedek parça kullanılır; sıcak-soğuk bağlantılar ve sızıntı testi iş sonunda kontrol edilir.",
+          "faydalar": [
+            "Kartuş ve conta değişimi ile düşük maliyetli tamir",
+            "Kireç çözme ve iç temizlik ile orijinal performans",
+            "Basınç düşüklüğünde perlatör değişimi",
+            "Orijinal yedek parça ve sızıntı testi"
+          ],
+          "sss": [
+            {
+              "s": "Musluk tamiri mi değişimi mi daha mantıklı?",
+              "c": "Akıntı ve damlama çoğunlukla kartuş değişimiyle çözülür ve değişimden çok daha ekonomiktir. Gövde korozyonu veya kırık parça varsa değişim önerilir."
+            },
+            {
+              "s": "Batarya tamiri ne kadar sürer?",
+              "c": "Kartuş, conta ve perlatör işlemleri 30-60 dakikada tamamlanır; komple batarya değişimi 1-2 saat sürer."
+            },
+            {
+              "s": "Yedek parçayı siz mi buluyorsunuz?",
+              "c": "Evet, marka ve modele uygun orijinal kartuş ve contaları temin edip takıyoruz; parça temini genellikle aynı gün sonuçlanır."
+            },
+            {
+              "s": "Musluk neden vıcık vıcık ses çıkarıyor?",
+              "c": "Bu genellikle kartuş içindeki conta gevşekliğinden kaynaklanır; kartuş değişimi sesi ve damlamayı birlikte çözer."
+            },
+            {
+              "s": "Garanti kapsamına tamir dahil mi?",
+              "c": "Yaptığımız tamir ve kullandığımız parçalar işçilik garantisi kapsamındadır; aynı arızanın tekrarlaması halinde ücretsiz müdahale edilir."
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "slug": "su-aritma-cihazi-montaji",
+          "baslik": "Su Arıtma Cihazı Montajı",
+          "kisaAciklama": "Tezgah altı ve üstü su arıtma montajı; musluk deliği açma, tesisat bağlantısı, filtre değişimi ve periyodik bakım.",
+          "detay": "Su arıtma cihazı montajında; cihazın kurulacağı tezgah altı alan, su giriş hattı ve musluk deliği kontrol edilir. Tezgah üstü modelde musluk bağlantısı doğrudan yapılır; tezgah altı modellerde ise ana hattan T bağlantı ile soğuk su alınır, atık su hattı gidere verilir ve ayrı arıtma musluğu için tezgahta delik açılır (granit/mermer tezgahta özel matkap kullanılır). Cihaz kurulumu sonrasında filtre yıkama ve sistem testi yapılır; ilk suyun TDS (mineral) değeri ölçülerek çalışma doğrulanır. Filtre değişim periyodu (6 ay sediman, 12 ay karbon ve membran) için hatırlatma notu bırakılır; periyodik bakım anlaşması isteğe bağlıdır. Eski cihazın sökümü ve yenisiyle değişimi de aynı hizmet kapsamındadır.",
+          "faydalar": [
+            "Tezgah altı ve üstü tüm modellerde uyumlu kurulum",
+            "Mermer/granit tezgahta özel matkapla musluk deliği",
+            "Kurulum sonrası TDS ölçümü ile doğrulanmış su",
+            "Filtre değişim ve periyodik bakım desteği"
+          ],
+          "sss": [
+            {
+              "s": "Su arıtma montajı ne kadar sürer?",
+              "c": "Standart kurulum 1-2 saat sürer; musluk deliği açılması gereken tezgahlarda yarım güne uzayabilir."
+            },
+            {
+              "s": "Tezgah delmeden kurulum mümkün mü?",
+              "c": "Musluk için mevcut delik yoksa tezgah üstü arıtma modelleri veya lavabo bölgesindeki sabunluk deliği kullanılabilir. En uygun çözümü keşifte belirliyoruz."
+            },
+            {
+              "s": "Filtreler ne sıklıkla değişmeli?",
+              "c": "Sediman filtresi 6 ayda, karbon filtre 6-12 ayda, membran 2-3 yılda değişir. Kullanım suyu kalitesine göre öneriyle birlikte servis veriyoruz."
+            },
+            {
+              "s": "Atık su ne kadar, fatura etkisi olur mu?",
+              "c": "Membranlı sistemlerde arıtma başına %20-30 atık su oluşur; modern cihazlarda bu oran düşüktür. Ölçümle birlikte bilgilendiriyoruz."
+            },
+            {
+              "s": "Mevcut arıtma cihazımı kontrol eder misiniz?",
+              "c": "Evet, cihaz sağlık kontrolü, TDS ölçümü, filtre değişimi ve gerekli parça yenileme hizmeti veriyoruz."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "slug": "kirik-ve-patlak-boru-degisimi",
+          "baslik": "Kırık ve Patlak Boru Değişimi",
+          "kisaAciklama": "Donma, basınç ve korozyon kaynaklı patlak boru değişimi; acil müdahale, su kesme ve hat yenileme.",
+          "detay": "Kırık ve patlak boru değişimi, acil müdahale gerektiren durumlarda öncelikli hizmetimizdir. Ekip olay yerine ulaştığında önce su vanası kapatılır ve su baskını kontrol altına alınır; ardından hasarlı bölüm kesilerek yenisiyle değiştirilir. Donma sonucu çatlayan borularda, hasarlı hattın tamamı kontrol edilir; basınç dalgalanmasından kaynaklı patlaklarda hat yenilenirken basınç regülatörü önerilir. Eski demir borulardaki korozyon delikleri için kalıcı çözüm hat değişimidir. Onarım sonrası hat basınç testi yapılır, su tekrar açılır ve sızıntı kontrolü yapılır. Su baskını nedeniyle ıslanan zeminde kurutma ve gerekiyorsa rutubet giderme işlemi uygulanır. 7/24 acil hat ile gece dahil her saat müdahale edilir.",
+          "faydalar": [
+            "7/24 acil müdahale hattı ile hızlı su kesme",
+            "Donma, basınç ve korozyon kaynaklı tüm patlaklarda kalıcı çözüm",
+            "Basınç testi ile doğrulanmış hat teslimi",
+            "Su baskını sonrası kurutma ve nem giderme desteği"
+          ],
+          "sss": [
+            {
+              "s": "Patlak boru durumunda ne yapmalıyım?",
+              "c": "Önce ana su vanasını kapatın, elektriği su alan noktalarda kesin ve bizi arayın. Ekip ortalama 60-90 dakika içinde müdahale eder."
+            },
+            {
+              "s": "Gece ve hafta sonu servis var mı?",
+              "c": "Evet, 7/24 acil hattımız vardır; gece ve resmi tatil dahil tüm saatlerde patlak boru ve su baskını müdahalesi yapılır."
+            },
+            {
+              "s": "Boru neden patlar?",
+              "c": "Donma, yüksek basınç, eski boru korozyonu ve döşeme sırasındaki gerilimler en sık sebeplerdir. Değişimde neden analiz edilip önlem alınır."
+            },
+            {
+              "s": "Duvar içindeki boru patladı, duvar kırılacak mı?",
+              "c": "Patlak nokta önce cihazla tespit edilir; yalnızca o bölgede kontrollü kırım yapılır, onarım sonrası duvar restorasyonu işin içindedir."
+            },
+            {
+              "s": "Sigorta su baskınını karşılıyor, belge veriyor musunuz?",
+              "c": "Evet, sigorta işlemleri için hasar tespit raporu ve fatura düzenliyoruz; gerekli evrakı teslim ediyoruz."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tikaniklik-acma",
+      "baslik": "Tıkanıklık Açma",
+      "ikon": "plunger",
+      "aciklama": "İstanbul'da robotla, kırmadan tıkanıklık açma; tuvalet, lavabo, mutfak gideri, pimaş ve kanalizasyon hizmetleri.",
+      "hizmetler": [
+        {
+          "id": 34,
+          "slug": "tikali-gider-acma",
+          "baslik": "Tıkalı Gider Açma (Robotla, Kırmadan)",
+          "kisaAciklama": "Robot ve spiral makineyle kırmadan gider açma; bina kolonları ve apartman giderlerinde köklü çözüm.",
+          "detay": "Tıkalı gider açma; mutfak, banyo, WC ve bina kolon giderlerinde birikmiş atıkların robot, spiral ve hidrolik (jet) makinelerle kırmadan temizlenmesidir. İşleme önce tıkanıklığın derinlik ve türünün belirlenmesiyle başlanır: eviye, sifon veya rögar girişinden boru içine kamera veya ölçülen spiral gönderilir. Spiral ucu (uc biçimine göre kesici veya burgu) tıkanıklığı parçalar, yüksek basınçlı su jeti ise boru cidarını temizleyerek yağ ve birikintiyi süpürür. Bina giriş hatları ve apartman kolonlarında tıkanıklık derinse rögar ve temizlik kapağından müdahale edilir. İş sonunda gider suyu test edilir, boru içi kontrol için kamera kaydı isteğe bağlı sunulur. Kırmadan açma sayesinde karo, döşeme ve bina duvarına hiçbir zarar verilmez.",
+          "faydalar": [
+            "Robot, spiral ve jet makineyle %100'e yakın açma başarısı",
+            "Kırmadan, molozsuz ve hijyenik müdahale",
+            "Bina kolonu ve rögardan derin tıkanıklık müdahalesi",
+            "İş sonu su testi ve isteğe bağlı kamera kontrolü"
+          ],
+          "sss": [
+            {
+              "s": "Gider açma ne kadar sürer?",
+              "c": "Daire içi gider tıkanıklıkları genellikle 30-60 dakikada açılır; bina kolonu ve derin tıkanıklıklarda 1-3 saat gerekebilir."
+            },
+            {
+              "s": "Robotla açma duvara/karo zarar verir mi?",
+              "c": "Hayır. Spiral ve robot boru içinden çalışır; karo, duvar ve döşeme hiçbir şekilde kırılmaz. Bu yöntemin en büyük avantajı budur."
+            },
+            {
+              "s": "Kendi tıkanıklık açıcı kimyasallarımı kullandım ama olmadı?",
+              "c": "Kimyasallar bazen tıkanıklığı katılaştırıp boruyu daha çok doldurabilir. Mekanik makine ile kimyasal kalıntısı ve birikinti birlikte temizlenir."
+            },
+            {
+              "s": "Apartman kolonu kimin sorumluluğunda?",
+              "c": "Daire gideri daire, kolon hattı yönetime aittir. Bina içi kolon tıkanıklığında yönetimle koordineli çalışır, işlem sonrası faturalandırmada yardımcı oluruz."
+            },
+            {
+              "s": "Tıkanıklık sürekli tekrarlıyorsa?",
+              "c": "Tekrarlayan tıkanıklık genellikle eğim hatası, boru çapı yetersizliği veya kök girişinden kaynaklanır. Kamera ile kök neden analiz edilip kalıcı çözüm önerilir."
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "slug": "tuvalet-tikanikligi-acma",
+          "baslik": "Tuvalet (Klozet) Tıkanıklığı Açma",
+          "kisaAciklama": "Klozet tıkanıklığı açma; kağıt, ıslak mendil ve yabancı cisim çıkarma. Klozete zarar vermeyen yöntemler.",
+          "detay": "Tuvalet (klozet) tıkanıklığı; kağıt birikimi, ıslak mendil, hijyenik ped ve düşen yabancı cisimler gibi sebeplerle oluşur. Müdahalede önce tıkanıklığın türüne karar verilir: yumuşak atıklarda vakumlu aparat veya spiral yeterliyken, sert cisimlerde klozetin zarar görmemesini sağlayan özel uç kullanılır. Tek parça ve asılı (gömme rezervuar) klozetlerin yapısına uygun ekipman seçilir; klozetin sökülmesi yalnızca son çare olarak gerekirse yapılır ve yeniden montajı dahildir. İş sonunda klozet tamamen açılır, sifon çekilerek su akışı test edilir ve alan dezenfekte edilir. Islak mendillerin boruda çözünmediği ve eve maliyet çıkardığı konusunda kullanıcı bilgilendirilir. Aynı gün içinde müdahale edilen işler arasındadır.",
+          "faydalar": [
+            "Klozete zarar vermeyen özel uç ve vakum aparatları",
+            "Tek parça, asılı ve klasik klozetlerde uyumlu ekipman",
+            "Yabancı cisim çıkarma ve klozet sökme-takma dahil",
+            "İş sonu dezenfeksiyon ve sifon testi"
+          ],
+          "sss": [
+            {
+              "s": "Tuvalet tıkanıklığı ne kadar sürede açılır?",
+              "c": "Standart tıkanıklıklar 20-40 dakikada açılır; yabancı cisim ve gömme rezervuar sistemlerinde süre uzayabilir."
+            },
+            {
+              "s": "Klozetin içine düşen nesne çıkarılabilir mi?",
+              "c": "Evet, manyetik veya kavrayıcı özel cihazlarla yüzük, fırça, oyuncak gibi cisimler boruya itilmeden çıkarılmaya çalışılır; olmazsa güvenli şekilde parçalanır."
+            },
+            {
+              "s": "Islak mendil tuvalete atılırsa ne olur?",
+              "c": "Islak mendil sudan çözünmez, boru cidarına yapışır ve zamanla komple tıkanıklığa dönüşür. Kullanıcıları bu konuda bilgilendiriyoruz."
+            },
+            {
+              "s": "Klozet tıkanıklığı komşu daireyi etkiler mi?",
+              "c": "Daire giderinde tıkanıklık genellikle yalnızca o daireyi etkiler; ancak kolon hattında ise üst katlardan taşma yaşanabilir. Kolon kontrolü de yapılır."
+            },
+            {
+              "s": "Klozetin sökülmesi gereken durumda ne olur?",
+              "c": "Nadiren, cisim geçiş noktasında sıkışırsa klozet sökülür, cisim çıkarılır ve klozet yeniden montaj edilir; bu durumda flanş ve conta değişimi de yapılır."
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "slug": "lavabo-tikanikligi-acma",
+          "baslik": "Lavabo Tıkanıklığı Açma",
+          "kisaAciklama": "Lavabo ve banyo gideri tıkanıklığı açma; saç ve sabun kalıntısı temizliği, sifon ve pimaş müdahalesi.",
+          "detay": "Lavabo tıkanıklığı çoğunlukla saç, sabun kalıntısı ve kireç birikiminden kaynaklanır. İlk müdahalede sifon çözülerek biriken saç ve atıklar temizlenir; tıkanıklık sifonun ötesindeyse spiral ile lavabo giderine inilir ve boru içi temizlenir. Çift lavabo (banyo) sistemlerinde birbirine bağlı hatlar kontrol edilerek hangi kolun tıkalı olduğu belirlenir. Spiralin ulaşamadığı dar borularda yüksek basınçlı mini jet makinesi veya kireç çözücü mekanik yöntemler uygulanır. İş sonunda lavabo taşma ve ana giderden çekilerek su akışı test edilir; sifon ve bağlantılar yeniden kurulurken sızdırmazlık kontrolü yapılır. Dekoratif sifon sistemlerinde parça değişimi gerektiğinde orijinal yedek kullanılır.",
+          "faydalar": [
+            "Sifon temizliği ve spiralle derin lavabo açma",
+            "Çift lavabo hatlarında doğru kol tespiti",
+            "Saç, sabun ve kireç birikiminde köklü temizlik",
+            "Sızdırmazlık kontrolü ve su akışı testi"
+          ],
+          "sss": [
+            {
+              "s": "Lavabo neden yavaş akıyor?",
+              "c": "Yavaş akma, boru cidarında biriken saç ve sabun kalıntısının daralmasıdır; tam tıkanmadan önce spiralli temizlikle çözülmelidir."
+            },
+            {
+              "s": "Lavabo açma ne kadar sürer?",
+              "c": "Sifon tıkanıklığı 15-30 dakikada, hat içi tıkanıklık 30-60 dakikada açılır."
+            },
+            {
+              "s": "Kimyasal dökücüleri kullanmalı mıyım?",
+              "c": "Kimyasallar saç ve kireci tam çözemez, PVC borulara zamanla zarar verir. Mekanik temizlik her zaman daha güvenli ve kalıcıdır."
+            },
+            {
+              "s": "Çift lavabo birbirine bağlı mı?",
+              "c": "Evet, duplex lavabolar ortak bir pimaşa bağlanır; bir taraf tıkanınca diğeri de etkilenebilir. Her iki kol da kontrol edilir."
+            },
+            {
+              "s": "Banyo giderinden koku geliyorsa?",
+              "c": "Koku, sifon suyunun buharlaşması veya conta eskimesinden kaynaklanır. Sifon yenileme ve gider temizliğiyle koku giderilir."
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "slug": "mutfak-gideri-acma",
+          "baslik": "Mutfak Gideri Açma (Yağ Sökücü Makineyle)",
+          "kisaAciklama": "Mutfak eviye gideri tıkanıklığı açma; yağ birikintisi ve yemek atıklarını sıcak su jetiyle temizleme.",
+          "detay": "Mutfak gideri tıkanıklığı; yemek atıkları, yağ birikimi ve zamanla oluşan yağ taşlaşmasından kaynaklanır. Eviye tıkanıklığında önce kaynar su ve spatula ile gevşetme denenir; kalıcı çözüm için yağ sökücü jet makinesi ile 60-90°C sıcak su ve yüksek basınç boru içine enjekte edilerek yağ birikintisi eritilir ve süpürülür. Tıkanıklık eviye sifonunun ötesinde veya bina giderinde ise spiral ve kamera ile müdahale edilir; yağ tutucu önerisi yapılır. İş sonunda eviye doldurulup boşaltılarak akış hızı test edilir; gerekirse boru içi kamera ile kontrol edilir. Mutfak giderinin düzenli bakımı ile yağ taşlaşması önlenir; senede bir kez yağ sökücü bakım önerisi verilir.",
+          "faydalar": [
+            "Sıcak su jeti ile yağ birikintisinin kökten eritilmesi",
+            "Eviye sifonundan bina giderine kadar komple temizlik",
+            "Yağ tutucu ve düzenli bakım önerisi",
+            "Akış hızı testi ile doğrulanmış teslim"
+          ],
+          "sss": [
+            {
+              "s": "Mutfak gideri neden sık tıkanır?",
+              "c": "Kızartma yağları ve yemek artıkları boruya dökülünce soğuyup taşlaşır. En etkili önlem, yağların boruya dökülmemesi ve periyodik bakımdır."
+            },
+            {
+              "s": "Yağ sökücü makinede kimyasal mı kullanılıyor?",
+              "c": "Hayır, yüksek basınçlı sıcak su fiziksel olarak yağı eritir; kimyasal kullanılmaz, böylece boru ve doğa korunur."
+            },
+            {
+              "s": "Mutfak gideri açma ne kadar sürer?",
+              "c": "Eviye tıkanıklığı 30-60 dakikada açılır; bina gideri müdahalesi 1-2 saat sürebilir."
+            },
+            {
+              "s": "Gider açıldıktan sonra ne zaman kullanabilirim?",
+              "c": "İşlem sonrası hemen kullanılabilir; sıcak su jeti sonrası boru cidarı temiz ve kaygan olduğu için gıda akışı hızlanır."
+            },
+            {
+              "s": "Restoran mutfağı için yağ tutucu kuruyor musunuz?",
+              "c": "Evet, ticari mutfaklar için yağ tutucu (seperatör) tesisatı ve periyodik bakım hizmeti veriyoruz; yönetmelik uyumu konusunda yönlendiriyoruz."
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "slug": "pimas-borusu-acma-ve-degisimi",
+          "baslik": "Pimaş Borusu Açma ve Değişimi",
+          "kisaAciklama": "Pimaş borusu tıkanıklığı açma ve eski pimaş hattı değişimi; eğim kontrolü ve uygun çapta döşeme.",
+          "detay": "Pimaş borusu, lavabo ve eviyelerden gelen atık suları kolon hattına taşıyan borudur; çapının dar olması ve eğim hataları tıkanıklığın başlıca nedenidir. Tıkanan pimaş hattı; spiral, jet veya kamera ile açılır; tekrarlayan tıkanmalarda boru değişimi önerilir. Değişimde mevcut pimaş ölçülür, kolon hattına ulaşan en kısa ve eğimli hat planlanır; Ø40-Ø50 çapında boru kullanılır ve birleşimler silikonlu contalarla sızdırmaz yapılır. Boru gizlenmesi gereken yerlerde duvar içi veya kaide altı geçişler yapılır, kiremit ve döşeme restorasyonu işin içindedir. Eski PVC boruların daralmış iç yüzeyi nedeniyle açma sık tekrarlıyorsa, iç kaplama veya hat yenileme seçenekleri sunulur. İş sonunda tüm armatürlerden su akıtılarak hat test edilir.",
+          "faydalar": [
+            "Tıkanan pimaşın robot/kamera ile tespiti ve açılması",
+            "Eğimli ve uygun çapta yeniden döşenen pimaş hattı",
+            "Duvar içi ve kaide altı gizli geçiş seçenekleri",
+            "Restorasyon ve sızdırmazlık testi dahil"
+          ],
+          "sss": [
+            {
+              "s": "Pimaş borusu ne zaman değişmeli?",
+              "c": "Sık tıkanan, dar çapı nedeniyle yavaş akıtan ve kokan hatlar değiştirilmelidir. Kamera görüntüsü ile karar verilir."
+            },
+            {
+              "s": "Pimaş değişimi duvar kırma gerektirir mi?",
+              "c": "Pimaş genellikle döşeme kaidesi veya duvar içinden geçer; değişimde minimum kırım yapılır ve ardından yüzey eski haline getirilir."
+            },
+            {
+              "s": "Pimaş çapı neden önemli?",
+              "c": "Dar pimaş (Ø32) yağ ve atıkla çabuk dolar; Ø40-50 standart çaplarda akış sağlıklıdır. Değişimde uygun çap seçimi tıkanıklığı azaltır."
+            },
+            {
+              "s": "Pimaş hattında koku neden olur?",
+              "c": "Conta eskimesi veya sifonsuz bağlantı kokuya yol açar. Hat yenilenirken sifon ve contalar standart olarak yenilenir."
+            },
+            {
+              "s": "Pimaş değişimi ne kadar sürer?",
+              "c": "Tek armatür hattı 2-4 saatte, komple banyo/mutfak pimaş yenilemesi 1-2 günde tamamlanır."
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "slug": "kanalizasyon-tikanikligi-acma",
+          "baslik": "Kanalizasyon Tıkanıklığı Açma",
+          "kisaAciklama": "Apartman ve bina kanalizasyon hattı açma; rögar müdahalesi, jet makine ile temizlik ve kamera kontrolü.",
+          "detay": "Kanalizasyon tıkanıklığı; bina giriş hattı, bahçe hattı ve ana kolonlarda biriken atıklarla oluşur. Müdahale çoğunlukla rögar (muayene bacası) kapağından yapılır; yüksek basınçlı jet makinesi ile hat geriye doğru (kaçış yönünde) temizlenir ve atık parçacıklar ana hatta süpürülür. Tıkanıklığın kök nedenini belirlemek için hat içi kamera çekimi yapılır; görüntüde çökmüş boru, kök girişi, eğim hatası ve kırık bölge tespit edilir. Kırık ve çökmüş borularda açma öncesi onarım planı çıkarılır (gömülü hat değişimi veya relining). Apartman genel gideri, site şebekesi ve cadde bağlantısı arasındaki sorumluluk sınırları keşifte netleştirilir. İş sonunda hat suyu basınçla test edilir ve kamera kaydı teslim edilir.",
+          "faydalar": [
+            "Rögar ve muayene bacasından kırmadan müdahale",
+            "Jet makine ile hat boyu köklü temizlik",
+            "Kamera çekimi ile kök neden analizi ve kalıcı çözüm",
+            "Sorumluluk sınırlarının netleştirilmesiyle yönetim desteği"
+          ],
+          "sss": [
+            {
+              "s": "Kanalizasyon tıkanıklığında önce ne yapılmalı?",
+              "c": "Su basmasını önlemek için ilgili dairelerde suyu kesin ve bizi arayın. Ekip jet makine ve kamera ile müdahale için hazır gelir."
+            },
+            {
+              "s": "Site/bina hattı mı cadde hattı mı tıkalı nasıl anlaşılır?",
+              "c": "Rögar kontrolü ve kamera ile tıkanıklığın konumu belirlenir. Bina hattı malikin, cadde bağlantısı belediye sorumluluğundadır; biz yönlendiririz."
+            },
+            {
+              "s": "Kök girişi olan boruya ne yapılır?",
+              "c": "Kamera ile kök tespiti yapılır; kök kesilir ve hattın içi jet ile temizlenir. Kök tekrarlıyorsa hat değişimi veya kimyasal kök engelleyici önerilir."
+            },
+            {
+              "s": "Kanalizasyon açma fiyatı nasıl belirlenir?",
+              "c": "Hat uzunluğu, tıkanıklık derinliği, rögar erişimi ve jet/kamera kullanımına göre fiyatlandırılır; yerinde keşif sonrası net fiyat verilir."
+            },
+            {
+              "s": "Kamera kaydı istemem halinde ek ücret olur mu?",
+              "c": "Standart pakette hat açma bulunur; kamera çekimi ayrı bir hizmet kalemidir ancak tekrarlayan tıkanmalarda önerilir ve rapor halinde verilir."
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "slug": "kanal-goruntuleme",
+          "baslik": "Kanal Görüntüleme (Kamerayla Tespit)",
+          "kisaAciklama": "Boruların içini görüntüleyen kamera ile tıkanıklık, çatlak ve kök tespiti; raporlu ve kayıtlı inceleme.",
+          "detay": "Kanal görüntüleme; boru içine ilerletilen endüstriyel kamera ile hattın içinin canlı izlenmesi ve kayıt altına alınmasıdır. Kamera, rögar veya daire içi gider girişinden sürülerek boru boyunca ilerler; tıkanıklık, çatlak, kırık, eğim hatası, kök girişi ve kaçak noktaları ekranda net görüntülenir. Metre sayacı ile sorunun borudaki derinliği belirlenir; böylece onarımda gereksiz kırım yapılmaz. Çekim sırasında video kaydı alınır ve rapor hazırlanır; raporda hat durumu, tespit edilen sorunlar ve önerilen çözümler yer alır. Bu rapor; kiralık iade süreçlerinde, satın alma öncesi kontrol ve sigorta hasar dosyalarında resmi belge olarak kullanılabilir. Görüntüleme sonrası tıkanıklık varsa aynı randevuda açma yapılabilir.",
+          "faydalar": [
+            "Canlı ekran ve video kayıtlı boru içi inceleme",
+            "Metre sayaçlı konum tespiti ile kırımsız onarım",
+            "Kira iadesi, satın alma ve sigorta için resmi rapor",
+            "Tıkanıklık tespitinde aynı ziyarette açma imkânı"
+          ],
+          "sss": [
+            {
+              "s": "Kanal görüntüleme ne kadar sürer?",
+              "c": "Tipik bir apartman dairesi hattı 30-60 dakikada incelenir; site şebekesi ve uzun hatlarda süre uzar."
+            },
+            {
+              "s": "Kamera boruya zarar verir mi?",
+              "c": "Endüstriyel kanal kameraları borunun içinde ilerleyecek şekilde tasarlanmıştır; operatör deneyimi ile boruya temas bile ettirilmez."
+            },
+            {
+              "s": "Rapor ne amaçla kullanılabilir?",
+              "c": "Kira iadesinde giderin temiz devredildiğinin ispatı, gayrimenkul alımında hattın durum kontrolü ve sigorta hasar dosyalarında delil olarak kullanılabilir."
+            },
+            {
+              "s": "Kamera ile şu an tıkanıklık görürse ne yapılır?",
+              "c": "Aynı randevuda jet/spiral ile açma yapılır; öncesinde tıkanıklığın türüne göre uygun ekipman seçilir."
+            },
+            {
+              "s": "Kanal görüntüleme fiyatı hangi etkenlere bağlı?",
+              "c": "İncelenecek hat uzunluğu, rögar sayısı ve rapor talebine göre değişir; keşifte net fiyat verilir."
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "slug": "kotu-koku-tespiti-ve-giderme",
+          "baslik": "Kötü Koku Tespiti ve Giderme",
+          "kisaAciklama": "Banyo, mutfak ve WC kötü koku kaynağının tespiti; sifon, conta, gider ve havalandırma çözümleri.",
+          "detay": "Kötü koku tespiti; banyo, mutfak ve WC'lerde gider, sifon ve havalandırma hatlarından sızan kokunun kaynağının belirlenmesidir. En sık kaynaklar; suyu buharlaşmış sifonlar, eskimiş conta ve manşonlar, yanlış bağlanmış pimaş hattı ve tıkanmış havalandırma borularıdır. Tespitte duman testi veya sprey işaretleyici ile gider birleşimleri tek tek kontrol edilir; koku gelen nokta netleştirilir. Çözümde sifon yenilenir, conta/manşon değiştirilir, gider temizlenir veya havalandırma borusu açılır. Lavabo taşma delikleri ve paspas yeri ızgaraları da koku kaynağı olabileceğinden kontrol edilir. İşlem sonrası koku testi yapılarak temiz teslim edilir; önleyici olarak gider suyu tutucu (sifon suyu) korunması hatırlatılır.",
+          "faydalar": [
+            "Duman testi ile koku kaynağının nokta tespiti",
+            "Sifon, conta ve manşon yenileme dahil çözüm",
+            "Havalandırma hattı ve taşma deliği kontrolü",
+            "İş sonu koku testi ile doğrulama"
+          ],
+          "sss": [
+            {
+              "s": "Banyodan gelen koku neden kaynaklanır?",
+              "c": "En sık sebep, kullanılmayan giderdeki sifon suyunun buharlaşması veya eskimiş contadır. Tespit sonrası bu iki kaynak hızla çözülür."
+            },
+            {
+              "s": "Mutfaktan koku geliyor, kaynağı ne olabilir?",
+              "c": "Eviye sifonundaki yağ birikintisi, çamaşır makinesi gider bağlantısındaki açık nokta ve taşma deliği en olası kaynaklardır; duman testi ile netleştirilir."
+            },
+            {
+              "s": "Koku tespiti ne kadar sürer?",
+              "c": "Daire içi koku tespiti 1-2 saat sürer; kaynak bina havalandırma hattındaysa süre uzar ve yönetimle koordinasyon gerekebilir."
+            },
+            {
+              "s": "Kokan gideri kimyasalla temizleyeyim mi?",
+              "c": "Kimyasal geçici çözüm sunar ve boruya zarar verebilir. Kök neden tespiti ve mekanik temizlik kalıcı sonuç verir."
+            },
+            {
+              "s": "Koku bazen gelip bazen gidiyor, sebebi ne?",
+              "c": "Süreksiz kokular havalandırma basıncı, komşu kullanımı ve rüzgâr yönüne bağlı hava akışı değişikliklerinden kaynaklanır; sistemsel havalandırma kontrolü yapılır."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

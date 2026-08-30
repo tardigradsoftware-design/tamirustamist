@@ -1,0 +1,25 @@
+{
+  "slug": "gungoren",
+  "ad": "Güngören",
+  "bolge": "Merkezi yerleşim, küçük ve yoğun",
+  "accent": "slate",
+  "layout": "A",
+  "heroIndex": 17,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "ic-cephe-boya-ve-badana", "sihhi-tesisat-kurulumu-ve-yenileme", "su-kacagi-tespiti", "pencere-degisimi", "kombi-bakimi-ve-ariza-onarimi"],
+  "komsular": ["bahcelievler", "bagcilar", "bayrampasa", "bakirkoy"],
+  "giris": "Güngören, Türkiye'nin en yoğun nüfuslu yüzölçümü küçük ilçelerinden biri. Kompakt yapısı; binaların yaşlanmasını ve yenileme talebini hızlandırıyor. Merter, Emek ve Güneştepe mahallelerindeki 1980-90 apartmanlarında kombi değişimi, pencere yenileme, tesisat elden geçirme işleri en sık karşılaştığımız talepler arasında. İlçenin merkezindeki ticari sokaklar ve Marmara Forum tarafındaki hareketlilik, işyeri tadilatlarının da günlük akışına katkı sağlıyor. Küçük yüzölçümü bizim için büyük avantaj: ekiplerimiz çağrıya 30 dakika içinde ulaşıyor, birden fazla işi aynı gün ziyaret edebiliyoruz. Güngören'de komşu denetiminin yüksek olduğu bir mahalle kültürü var; gürültüsüz çalışma ve önlü arka temizliğini taahhüt ediyoruz.",
+  "uzmanlik": "Kompakt binalarda 'küçük ama doğru' müdahalelerde uzmanız: sızıntı tespiti, vana yenileme, kapı-pencere fitil ve doğrama tamiratı gibi işleri aynı gün bitiyoruz. Apartman genel gider hatlarının bakımı ve yönetim koordinasyonu için toplu paket sunuyoruz. Merter tarafındaki işyeri tadilatlarında ise ofis saatleri dışında çalışma imkanımız var.",
+  "musteriProfili": "Eski ama bakımlı evini yenileyen aileler, apartman yöneticileri ve merkezdeki işletme sahipleri.",
+  "sorunlar": [
+    "Küçük binalarda ortak kolon tıkanıklıkları ve kaçaklar",
+    "1980'ler yapılarında doğrama ve kasa eskimeleri",
+    "Yoğun yerleşimde gürültü ve moloz hassasiyeti",
+    "İşyeri tadilatlarında kısa süre sınırı"
+  ],
+  "sss": [
+    { "s": "Güngören'de aynı gün su kaçağı tespiti yapıyor musunuz?", "c": "Evet, ekiplerimiz ilçeye 30 dakika içinde ulaşıyor; termal kamera ve akustik cihazla tespiti aynı gün tamamlıyoruz." },
+    { "s": "Komşuya su sızdırıyorum, tazminat riske girmeden ne yapmalıyım?", "c": "Kaynağı hızlı tespit edip onarıyor, sigorta evrakını düzenliyoruz; alt katla koordinasyonu da üstleniyoruz." },
+    { "s": "İşyerimde tadilatı iş saatlerinde yaptırabilir miyim?", "c": "Merter ve çarşı hattında sabah erken/akşam geç saatlerde gürültüsüz işleri planlıyoruz; vitrin ve zemin işlerini kapalı günlerde topluyoruz." },
+    { "s": "1980'ler yapısında pencere ve kasalar toplu değişmeli mi?", "c": "Birden fazla odada doğrama değişecekse toplu yapıyor; ara kat oturma payını ve iskele planını önceden çıkarıyoruz." }
+  ]
+}

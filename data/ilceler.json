@@ -1,0 +1,1237 @@
+{
+  "ilceler": [
+    {
+      "slug": "arnavutkoy",
+      "ad": "Arnavutköy",
+      "bolge": "Kuzey İstanbul havalimanı aksı",
+      "accent": "amber",
+      "layout": "A",
+      "heroIndex": 0,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "ic-cephe-boya-ve-badana",
+        "kombi-bakimi-ve-ariza-onarimi",
+        "elektrik-tesisati-kurulumu",
+        "su-kacagi-tespiti"
+      ],
+      "komsular": [
+        "basaksehir",
+        "eyupsultan",
+        "sultangazi",
+        "catalca"
+      ],
+      "giris": "Arnavutköy, İstanbul'un en hızlı büyüyen ilçelerinden biri. İstanbul Havalimanı'nın açılmasıyla Bolluca, Tayakadın ve Hadımköy hattında yeni konut projeleri çoğaldı; TOKİ ve özel sektör konutlarıyla her yıl binlerce daire teslim ediliyor. Yeni teslim edilen dairelerde boya-badana, parke, banyo ve mutfak tadilatı talebi yoğun. Bunun yanında eski köy dokusundaki müstakil evlerde de çatı, tesisat ve ısıtma yenileme işleri sık yapılıyor. Ekibimiz Arnavutköy'ün hem yeni site içi dairelerine hem de orman kenarındaki müstakil evlerine hizmet götürüyor. Keşif ekibimiz aynı hafta içinde gelir, ölçü alır ve aynı gün sabit fiyat teklifi çıkarır. Şantiyesi, su kaçağı acili olan müşterilerimize ise 7/24 hattımızdan ulaşabilirsiniz.",
+      "uzmanlik": "Havalimanı kaynaklı istihdamla ilçeye taşınan aileler için anahtar teslim banyo ve mutfak tadilatı paketlerimiz ilk tercih oluyor. Site yönetimleriyle koordineli çalışıyor; asansör planlama, gürültü saati ve moloz çıkışı kurallarına tam uyum sağlıyoruz. Orman köylerindeki müstakil evlerde ise kombi tesisatı, su deposu bağlantısı ve müştemilat tadilatlarında deneyimliyiz. Kışın orman hattındaki evlerde donma kaynaklı boru patlakları için acil ekip gönderiyoruz.",
+      "musteriProfili": "Havalimanı çalışanı genç aileler, TOKİ ve site daire sahipleri, Bolluca bölgesinde yazlık evini kışlığa çeviren mülk sahipleri ağırlıktadır.",
+      "sorunlar": [
+        "Yeni binalarda ince işçilik kusurları ve boya kabarması",
+        "Orman köylerinde kışın donan su hatları ve patlak borular",
+        "Site içi dairelerde ses yalıtımı yetersizliği",
+        "Müstakil evlerde eski kombi ve kalorifer tesisatı verimsizliği"
+      ],
+      "sss": [
+        {
+          "s": "Arnavutköy'de yeni teslim daire tadilatı yapıyor musunuz?",
+          "c": "Evet, teslim öncesi ince işçilik tespiti, boya-badana, parke ve banyo düzenlemelerini site süreçleriyle uyumlu şekilde yürütüyoruz."
+        },
+        {
+          "s": "Köy evinde su borusu dondu, ne yapmalıyım?",
+          "c": "Vantiyi kapatıp bizi arayın; donan hattın yerini tespit edip eritiyor, patlarsa boruyu değiştiriyoruz. 7/24 acil hattımız mevcuttur."
+        },
+        {
+          "s": "Havalimanı çevresindeki evlerde izolasyon öneriyor musunuz?",
+          "c": "Uçuş gürültüsüne karşı pencere değişimi ve cephe yalıtımı öneriyoruz; ses yalıtımı hizmetimizle ölçüm yapıp çözüm sunuyoruz."
+        },
+        {
+          "s": "Arnavutköy'de site içi çalışmanın kuralları var mı?",
+          "c": "Site yönetimlerinin çalışma saatleri ve asansör kullanımı kurallarına uyuyoruz; moloz çıkışını yönetim onayına göre planlıyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "avcilar",
+      "ad": "Avcılar",
+      "bolge": "Batı sahil hattı",
+      "accent": "orange",
+      "layout": "B",
+      "heroIndex": 1,
+      "vurguluHizmetler": [
+        "sihhi-tesisat-kurulumu-ve-yenileme",
+        "su-kacagi-tespiti",
+        "komple-banyo-tadilati",
+        "pencere-degisimi",
+        "elektrik-tesisati-kurulumu"
+      ],
+      "komsular": [
+        "beylikduzu",
+        "kucukcekmece",
+        "buyukcekmece"
+      ],
+      "giris": "Avcılar'da yapı stokunun önemli kısmı 1980-1995 arası inşa edilen yüksek katlı apartmanlardan oluşuyor. Eski tesisat, ömrünü tamamlayan pvc doğramalar ve yetersiz elektrik hatları bu binalarda en çok karşılaştığımız konular. Marmara kıyısındaki yoğun nüfus ve öğrenci hareketliliği, hem kiraya verilen dairelerde hızlı boya-badana işlerini hem de aile konutlarında komple tadilatları beraberinde getiriyor. Üniversite bölgesindeki öğrenci evleri için ekonomik ama dayanıklı çözümler; sahil kesiminde ise su kaçağı tespiti ve tesisat yenileme talepleri öne çıkıyor. Fibabanka, kavşak ve metrobüs hatları sayesinde hızlı ulaşım; bizim için ise merkez konumumuz sayesinde 7/24 acil müdahale demek. Keşif, teklif ve tadilat sürecinin tamamında tek irtibat kişisiyle ilerleriz.",
+      "uzmanlik": "Avcılar'daki eski bina tesisatlarındaki çelik boru korozyonunu ve yetersiz elektrik kesitlerini iyi biliyoruz; yenileme işlerinde kırma-tamir döngüsünü planlıyoruz. Marmara sahilindeki dairelerde tuzlu hava etkisiyle bozulan balkon demiri ve pencere aksesuarlarını da yeniliyoruz. Depremle ilgili endişeleri ciddiye alıyor: müşterilerimize tesisat ve kaplama işlerinin yanında, yapısal olmayan güçlendirme önerileri de sunuyoruz.",
+      "musteriProfili": "Kiraya veren ev sahipleri, öğrenci evi yöneten aileler, sahil kesiminde yaşayan emekliler ve eski binada yenileme yapan genç aileler.",
+      "sorunlar": [
+        "1980'ler binalarında çelik boru ve kireçli tesisat tedariki",
+        "Sahil dairelerinde nem, rutubet ve küf tekrarı",
+        "Yetersiz elektrik hattıyla artan beyaz eşya yükü",
+        "Eski doğrama kaynaklı ısı kaybı ve rüzgar sesi"
+      ],
+      "sss": [
+        {
+          "s": "Avcılar'daki eski binamın tesisatını kırmadan yenileyebilir misiniz?",
+          "c": "Mevcut kanalları ve kaide geçişlerini kullanarak çoğu hattı kırmadan yeniliyoruz; gerekli kırım alanını da aynı gün tamir ediyoruz."
+        },
+        {
+          "s": "Deniz kenarı dairede paslanan pencere aksesuarlarını değiştiriyor musunuz?",
+          "c": "Evet, menteşe, kollu mekanizma ve fitilleri tuzlu hava dayanıklı malzemeyle değiştiriyor; gerekirse pencere komple yenileniyor."
+        },
+        {
+          "s": "Öğrenci evi için hızlı boya-badana yapıyor musunuz?",
+          "c": "Evet, okul sezonu öncesi evler için 1-2 günde komple badana ve küçük tamirat paketimiz var; kiracı taşınırken rezervasyon yapabilirsiniz."
+        },
+        {
+          "s": "Avcılar'da deprem için yapısal olmayan ne yapılabilir?",
+          "c": "Dökülme riski olan sıva, baca ve cephe kaplamalarının kontrolü, mobilya sabitleme ve tesisat bağlantı esnekliği en çok önerdiğimiz uygulamalardır."
+        }
+      ]
+    },
+    {
+      "slug": "bagcilar",
+      "ad": "Bağcılar",
+      "bolge": "Orta aks yoğun yerleşim",
+      "accent": "red",
+      "layout": "A",
+      "heroIndex": 2,
+      "vurguluHizmetler": [
+        "komple-mutfak-tadilati",
+        "banyo-fayans-ve-seramik-doseme",
+        "sihhi-tesisat-kurulumu-ve-yenileme",
+        "elektrik-ariza-tespiti",
+        "tikali-gider-acma"
+      ],
+      "komsular": [
+        "bahcelievler",
+        "bayrampasa",
+        "basaksehir",
+        "esenler",
+        "gungoren",
+        "kucukcekmece"
+      ],
+      "giris": "Bağcılar, İstanbul'un en yoğun nüfuslu ilçelerinden biri; 1990'lar ve 2000'lerde yükselen apartmanlar, tekstil atölyeleri ve ticaret alanlarıyla iç içe bir yerleşim. Yoğunluk, tadilat işlerine de yansıyor: apartmanların ortak gider tıkanıklıkları, dükkan ve atölye tadilatları, hamam banyo yenileme talepleri günlük akışımızın parçası. Ev sahipleri genellikle kiracı değişimlerinde hızlı boya ve küçük tadilat, kendi konutlarında ise pay ölçekli komple yenileme istiyor. E-5 ve TEM bağlantıları sayesinde ekiplerimiz Bağcılar'a 30 dakika içinde ulaşabiliyor; acil su kaçağı ve gider tıkanıklıklarında aynı gün müdahale ediyoruz. Çarşı esnafına özel gece çalışma programımız da mevcut.",
+      "uzmanlik": "Tekstil atölyeleri ve dükkan tadilatlarında; zemin kaplama, elektrik hattı güçlendirme ve tabela montajı gibi ticari işleri yürütüyoruz. Eski binalardaki ortak kolon tıkanıklıklarında yönetimlerle dirsek teması kurarak tüm daireleri mağdur etmeden çözüm üretiyoruz. Yoğun kullanılan binalarda banyo ve mutfak tadilatlarını hafta içi tamamlayıp hafta sonu teslim eden hızlı programlar uyguluyoruz.",
+      "musteriProfili": "Kiraya veren mülk sahipleri, atölye ve dükkan işletmecileri, apartman yöneticileri ve yenilemeye hazır genç aileler.",
+      "sorunlar": [
+        "Ortak kolon giderlerinde sık sık tekrarlayan tıkanmalar",
+        "Kiracı geçişlerinde hızlı boya ve tamirat ihtiyacı",
+        "Atölye elektrik hattında aşırı yüklenme ve kontak atması",
+        "Eski mutfak dolaplarında deformasyon ve koku"
+      ],
+      "sss": [
+        {
+          "s": "Bağcılar'da dükkan tadilatı yapıyor musunuz?",
+          "c": "Evet, mağaza, atölye ve ofis tadilatlarında zemin, tavan, elektrik ve vitrin düzenlemelerini işyeri açılışına yetişecek şekilde planlıyoruz."
+        },
+        {
+          "s": "Apartman kolonu sürekli tıkanıyor, kalıcı çözüm var mı?",
+          "c": "Kamera ile hattı inceleyip kök nedeni buluyoruz: eğim hatası, dar boru ya da çökme. Gerekirse hat yenileme projesi çıkarıyoruz."
+        },
+        {
+          "s": "Kiracım çıkıyor, daireyi kaç günde hazırlarsınız?",
+          "c": "Standart bir daireyi 2-3 günde boya, küçük tamirat ve derin temizlikle yeni kiracıya hazır hale getiriyoruz."
+        },
+        {
+          "s": "Atölyemin elektrik hattını güçlendirmek istiyorum.",
+          "c": "Mevcut yükü hesaplayıp pano ve hat yenileme yapıyoruz; makine eklemelerine uygun yedek devreler bırakıyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "bahcelievler",
+      "ad": "Bahçelievler",
+      "bolge": "Güney orta kuşak, yerleşik bölge",
+      "accent": "orange",
+      "layout": "B",
+      "heroIndex": 3,
+      "vurguluHizmetler": [
+        "ic-cephe-boya-ve-badana",
+        "parke-ve-laminat-doseme",
+        "komple-banyo-tadilati",
+        "mutfak-tezgahi-degisimi",
+        "gomme-dolap-ve-giyinme-odasi"
+      ],
+      "komsular": [
+        "bakirkoy",
+        "bagcilar",
+        "gungoren",
+        "bayrampasa",
+        "zeytinburnu"
+      ],
+      "giris": "Bahçelievler, planlı yapılaşması ve yerleşik komşuluk ilişkileriyle İstanbul'un orta gelir üstü konut bölgelerinden. İlçedeki apartmanların çoğu 1990'larda inşa edildiği için bugün banyo ve mutfak yenileme, kombi değişimi ve iç mekan modernizasyonu talebi olgunlaşmış durumda. Özellikle Hürriyet, Şirinevler ve Bahçelievler mahallelerinde; çocuklu aileler banyoda kaymaz zemin, güvenli priz ve çocuk dostu düzenlemeler; büyüyen aileler ise oda düzeni değişikliği ve gömme dolap istiyor. Dairelerin yeniden satış/kiralık değerini artırmak isteyen ev sahipleri için de keşif sonrası yatırım değeri analizi sunuyoruz. Metro ve metrobüs erişimi sayesinde ekibimiz acil çağrılara gün içinde yetişiyor.",
+      "uzmanlik": "Şirinevler bölgesindeki eski binalarda sıkça görülen dış cephe kaynaklı nemi içeriden çözüyor; balkon kapatma ve camekan düzenlemelerinde komşuluk hukukuna uygun uygulamalar yapıyoruz. Bahçelievler'deki site içi dairelerde ise ortak alan izin süreçlerini yönetiyor, gürültüsüz çalışma taahhüdü veriyoruz. Satılık dairelerin alıcı bulması için yapılan 'satışa hazırlık tadilatı' bizim en çok tercih edilen hizmetlerimizden.",
+      "musteriProfili": "Daire değerini artırmak isteyen ev sahipleri, banyosunu yenileyen çocuklu aileler ve büyüyen aileler için oda düzeni değiştiren kullanıcılar.",
+      "sorunlar": [
+        "1990'lar binalarında kombi ve tesisat ömrünün dolması",
+        "Balkon kapatmalarda izin ve yalıtım hataları",
+        "Banyo altı sızdırmazlık kaynaklı komşu dairesi nemi",
+        "Satış öncesi dairede eski görünüm"
+      ],
+      "sss": [
+        {
+          "s": "Dairemi satmadan önce hangi tadilatlar değer katar?",
+          "c": "Banyo zemin düzeni, mutfak tezgahı, boya ve parke en çok geri dönüşü olan kalemlerdir; keşifte bütçenize göre öncelik listesi çıkarıyoruz."
+        },
+        {
+          "s": "Balkon kapatmada komşuluk hakkında sorun yaşar mıyım?",
+          "c": "Balkon kapatma apartman yönetim kararına tabidir. Biz gereken izin sürecini ve ısı/ses yalıtımlı camekan uygulamasını birlikte yönetiyoruz."
+        },
+        {
+          "s": "Banyo altından alt kata nem sızıyor, ne yapmalıyım?",
+          "c": "Önce kaçağın tesisattan mı yalıtımdan mı geldiğini tespit ediyoruz; kaçak ise onarıp yalıtımı yeniliyor, alt kat sorununu kökten çözüyoruz."
+        },
+        {
+          "s": "Site dairemde çalışma saatleri kısıtlı, tadilat yapılabilir mi?",
+          "c": "Yönetim kurallarına uygun gürültüsüz saatlerde ve vardiya planıyla çalışıyor; moloz çıkışını yönetim onayına uygun yapıyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "bakirkoy",
+      "ad": "Bakırköy",
+      "bolge": "Güney sahil, merkez ve Ataköy hattı",
+      "accent": "orange",
+      "layout": "A",
+      "heroIndex": 4,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "mutfak-dolabi-yapimi-ve-montaji",
+        "ic-cephe-boya-ve-badana",
+        "kombi-montaji-ve-degisimi",
+        "gomme-dolap-ve-giyinme-odasi",
+        "parke-ve-laminat-doseme"
+      ],
+      "komsular": [
+        "bahcelievler",
+        "zeytinburnu",
+        "gungoren",
+        "kucukcekmece"
+      ],
+      "giris": "Bakırköy, sahil bandı, Ataköy toplu konutları ve merkezdeki eski apartmanlarıyla İstanbul'un en bilinen yaşam alanlarından biri. İlçede iki farklı müşteri profili öne çıkıyor: Ataköy, Atakent ve sahil kesimindeki geniş dairelerde üst segmente hizmet veren modern banyo, özel yapım mutfak dolabı ve giyinme odası projeleri; merkez ve İncirli taraflarındaki eski binalarda ise komple tadilat ve tesisat yenileme. Hekim ve iş insanı yoğunluklu bu bölgede; minimalist, kusursuz bitiş ve malzeme kalitesi beklentisi yüksek. Bu yüzden ekibimiz Bakırköy'de işi üstün kalite profiller, orijinal parça ve ölçüye sadakatle teslim eder. Sahil yürüyüş yolu ve meydanıyla ünlü ilçede akşam ve hafta sonu sessiz çalışma programları da uyguluyoruz.",
+      "uzmanlik": "Ataköy'deki büyük dairelerde salon düzeni, giyinme odası imalatı ve komple mutfak paketleri; merkezde ise tarihi apartmanların orijinal kartonpiyer ve ahşap doğramalarını koruyarak teknik yenileme yapıyoruz. Bakırköy'deki klinik ve ofis tadilatlarında da sessiz, hijyenik ve hızlı çalışma programı sunuyoruz. Sahil dairelerinde deniz havasına dayanıklı malzeme seçimi bizim uzmanlık alanımız.",
+      "musteriProfili": "Ataköy'de üst segment yenileme yapan profesyoneller, merkezde eski bina dairesini yenileyen aileler ve muayenehane-stüdyo açan girişimciler.",
+      "sorunlar": [
+        "Ataköy dairelerinde kapalı balkon düzenlemelerinin estetik uyumu",
+        "Merkez apartmanlarında orijinal detayların korunması",
+        "Deniz havasından etkilenen pencere ve balkon demirleri",
+        "Klinik/ofis açılışlarında kısa sürede bitirme baskısı"
+      ],
+      "sss": [
+        {
+          "s": "Bakırköy merkezdeki tarihi apartman dairesinde tadilat nasıl yapılır?",
+          "c": "Kartonpiyer, tavan rozeti ve ahşap detayları koruyarak çalışıyor; yalnızca teknik yenileme (tesisat, kablolama) gereken kısımları geri dönüşümlü yöntemlerle yapıyoruz."
+        },
+        {
+          "s": "Ataköy'de büyük dairem için özel mutfak projesi çizebiliyor musunuz?",
+          "c": "Evet, 3D tasarım ve malzeme örnekleriyle sunum yapıyor; ada, kiler ve gizli depolama çözümlerini birlikte planlıyoruz."
+        },
+        {
+          "s": "Sahil cepheli dairede malzeme seçiminde nelere dikkat edilmeli?",
+          "c": "Tuzlu havaya dayanıklı aksesuar, paslanmaz vida ve dış cephe boyaları kullanıyor; denizlik ve kasa detaylarında korozyon önleyici uygulama yapıyoruz."
+        },
+        {
+          "s": "Klinik/ofis açılışı için işi kaç günde bitirirsiniz?",
+          "c": "Ölçüye göre 5-10 günde komple açılış hazırlığı (bölme, zemin, boya, elektrik) yapıyor; mesai saatleri dışında sessiz çalışma seçeneği sunuyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "basaksehir",
+      "ad": "Başakşehir",
+      "bolge": "Kuzeybatı planlı kent",
+      "accent": "teal",
+      "layout": "B",
+      "heroIndex": 5,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "gomme-dolap-ve-giyinme-odasi",
+        "ic-cephe-boya-ve-badana",
+        "ses-yalitimi",
+        "klima-elektrik-baglantisi",
+        "parke-ve-laminat-doseme"
+      ],
+      "komsular": [
+        "arnavutkoy",
+        "sultangazi",
+        "bagcilar",
+        "esenler",
+        "kucukcekmece",
+        "esenyurt"
+      ],
+      "giris": "Başakşehir, 2000 sonrasının planlı konut kenti; millet bahçeleri, modern siteleri ve geniş caddeleriyle ailelerin tercihi. İlçedeki daireler nispeten yeni olduğu için talepler daha çok kişiselleştirme odaklı: teslim edilen dairede banyo düzen değişikliği, giyinme odası imalatı, çocuk odası ses yalıtımı ve modern aydınlatma. İkitelli OSB'nin komşuluğu nedeniyle çalışanların çoğu burada oturuyor; akşam saatlerinde iş teslimine uygun esnek programlarımız var. Yeni sitelerde ortak alan kullanımı ve yönetim kuralları bizim için tanıdık: asansör planlaması, moloz kaldırma ve gürültü saatlerine tam uyum sağlıyoruz. Bahçeşehir tarafına da aynı ekip servisiyle hizmet verdiğimiz için bölgedeki lojistiği kısa tutabiliyoruz.",
+      "uzmanlik": "Sitede yeni teslim daire düzenlemelerinde uzmanız: bembeyaz boya yerine renkli ve dokulu yüzeyler, akustik panelli TV duvarı ve gizli kablolama gibi uygulamaları sık yapıyoruz. Site yönetimlerinin iş takip uygulamalarına uyum sağlıyor, işçi kimlik ve giriş çıkış süreçlerini eksiksiz yönetiyoruz. Geniş dairelerde yerden ısıtma kurulumu ve akıllı ev altyapısı (data hattı) projelerinde deneyimimiz yüksek.",
+      "musteriProfili": "İkitelli-Atatürk Havalimanı hattında çalışan genç profesyoneller, yeni daire sahibi aileler ve site içi yatırımcılar.",
+      "sorunlar": [
+        "Yeni dairelerde ince işçilik ve boya kusurları",
+        "Site ortamında gürültü ve moloz yönetimi hassasiyeti",
+        "Oda bazlı ses yalıtımı ihtiyacı",
+        "Akıllı ev ve data altyapısının eksik planlanması"
+      ],
+      "sss": [
+        {
+          "s": "Başakşehir'de yeni teslim dairemde banyoyu büyütmek istiyorum, mümkün mü?",
+          "c": "Banyo ölçüleri ve komşu planı elveriyorsa duvar kaydırma yapabiliyoruz; izin gerektiren işlerde projelendirmeyi de biz üstleniyoruz."
+        },
+        {
+          "s": "Site yönetimi tadilat için izin istiyor, süreci biliyor musunuz?",
+          "c": "Evet, sitelerin tadilat yönergelerine göre evrak, asansör ve moloz planı hazırlıyor; yönetimle koordinasyonu biz yürütüyoruz."
+        },
+        {
+          "s": "Çocuk odası için ses yalıtımı ne kadar etkili?",
+          "c": "Taş yünlü çift alçıpan ve akustik panel kombinasyonuyla komşu sesini büyük oranda kesiyor; ölçümle öncesi-sonrası farkını raporluyoruz."
+        },
+        {
+          "s": "Yerden ısıtmayı mevcut daireme kurmak mümkün mü?",
+          "c": "Şap yenilemesi gerektirdiği için kapsamlı bir tadilattır; kapı ve kat yüksekliği kontrolü sonrası projelendirip uyguluyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "bayrampasa",
+      "ad": "Bayrampaşa",
+      "bolge": "Merkez aks, sanayi ve yerleşim iç içe",
+      "accent": "slate",
+      "layout": "A",
+      "heroIndex": 6,
+      "vurguluHizmetler": [
+        "komple-mutfak-tadilati",
+        "banyo-fayans-ve-seramik-doseme",
+        "elektrik-tesisati-kurulumu",
+        "tikali-gider-acma",
+        "kombi-bakimi-ve-ariza-onarimi"
+      ],
+      "komsular": [
+        "eyupsultan",
+        "gaziosmanpasa",
+        "esenler",
+        "bagcilar",
+        "bahcelievler"
+      ],
+      "giris": "Bayrampaşa, merkezi konumu nedeniyle ticaret ve sanayinin konutla iç içe olduğu bir ilçe. Eski yapı stoku ve yoğun kullanım, hem ev hem işyeri tadilatını bir arada talep eden müşteri profili yaratıyor. Terazidere, Yenidoğan ve Kocatepe mahallelerinde eski binaların tesisat ve banyo-mutfak yenileme işleri yoğun; İstanbul Forum ve otogar çevresindeki işletmeler ise kısa sürede biten ofis ve mağaza tadilatları istiyor. İlçe merkezi bizim için ulaşım açısından avantajlı; acil su kaçağı, gider tıkanıklığı ve elektrik arızalarında ekibimiz ortalama 40 dakika içinde yerinde oluyor. Gece çalışma yapılan işyeri tadilatlarında da vardiyalı program uyguluyoruz.",
+      "uzmanlik": "İşyeri açılış-periyot tadilatlarında dükkan kepenk, zemin, elektrik ve vitrin işlerini tek kalemde topluyoruz. Eski bina dairelerinde ise gaz ve su hatlarının projesiz geçmişini biliyor; güvenli yenileme için hattı komple elden geçiriyoruz. İlçedeki apartman yönetimleriyle ortak alan tadilatı (merdiven, hol, tavan) çalışmaları da yürütüyoruz.",
+      "musteriProfili": "Esnaf ve işyeri sahipleri, kiraya veren mülk sahipleri, apartman yöneticileri ve merkezi yaşamı tercih eden aileler.",
+      "sorunlar": [
+        "Eski binalarda projesiz ve yıpranmış gaz-su hatları",
+        "Yoğun işyeri trafiği kaynaklı ortak alan aşınması",
+        "Otogar çevresinde kısa sürede açılış tadilatı baskısı",
+        "Yoğun kullanılan banyo/mutfaklarda hızlı deformasyon"
+      ],
+      "sss": [
+        {
+          "s": "Dükkanımın açılışına 10 gün var, yetişir misiniz?",
+          "c": "Keşif ve malzeme temini hızlı tutulan standart işlerde (zemin, boya, elektrik, vitrin) 7-10 günde teslim ediyoruz; acil programla süre daha da kısalır."
+        },
+        {
+          "s": "Apartman merdiven ve hol tadilatı yapıyor musunuz?",
+          "c": "Evet, yönetici ve kat malikleriyle toplantı yapıp örnek iş sunuyor; ortak alan tadilatını mesai saatlerinde, daireleri rahatsız etmeden tamamlıyoruz."
+        },
+        {
+          "s": "Eski binada gaz hattı tadilatı güvenli mi?",
+          "c": "Gaz hattına müdahale yetkili ekip ve vize süreciyle yapılır; mevcut hattı test edip gerekli yenilemeyi belgeli şekilde tamamlıyoruz."
+        },
+        {
+          "s": "Bayrampaşa'da gece yapılan iş var mı?",
+          "c": "İşyeri tadilatlarında hafta içi gündüz, ticari yoğunluğu yüksek bölgelerde akşam-gece vardiyası uyguluyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "besiktas",
+      "ad": "Beşiktaş",
+      "bolge": "Boğaz hattı, yüksek yaşam standardı",
+      "accent": "navy",
+      "layout": "B",
+      "heroIndex": 7,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "dusakabin-montaji-ve-degisimi",
+        "gomme-dolap-ve-giyinme-odasi",
+        "ses-yalitimi",
+        "ic-cephe-boya-ve-badana",
+        "mutfak-dolabi-yapimi-ve-montaji"
+      ],
+      "komsular": [
+        "sisli",
+        "kagithane",
+        "beyoglu",
+        "sariyer"
+      ],
+      "giris": "Beşiktaş; boğaz manzarası, tarihi yalılar ve modern ofis kulelerinin yan yana durduğu, İstanbul'un en prestijli ilçelerinden. Levent ve Zincirlikuyu hattındaki rezidanslarda; çalışan profesyoneller evlerinde hafta sonu çalışma programına uygun tadilatlar istiyor. Ortaköy, Bebek ve Arnavutköy sahili (Bosphorus village) taraflarındaki dairelerde ise ince işçilik, seçkin malzeme ve Boğaz siluetini bozmayan dış müdahaleler aranıyor. Biz Beşiktaş'ta işe önce 'komşuya rahatsızlık vermeme' planıyla başlıyoruz: gürültüsüz saatler, sundurma taşıma izinleri ve site süreçleri bizim rutinimiz. Lüks banyo, özel ölçü giyinme odası ve akustik çözümler konusunda referans projelerimiz bu bölgede yoğunlaşıyor.",
+      "uzmanlik": "Levent rezidanslarında yüksek katlı bina prosedürleri, Bebek-Ortaköy'de çıkma ve cephe koruma kuralları, tarihi yapılarda izinli iç yenileme... Bu üç dünyanın gereksinimlerini ayrı ayrı yönetiyoruz. Yüksek katlı dairelerde asansör moloz planı, malzeme taşıma saatleri ve kat güvenliği prosedürlerine uygun çalışıyoruz. Müşterilerimize gizlilik ve dakiklik taahhüdü veriyoruz.",
+      "musteriProfili": "Rezidansta yaşayan üst düzey profesyoneller, sahildeki tarihi daire sahipleri ve butik ofis dönüşümü yapan girişimciler.",
+      "sorunlar": [
+        "Yüksek katta asansör ve taşıma prosedürlerinin yönetimi",
+        "Tarihi yapılarda izinli iç yenileme sınırları",
+        "Boğaz manzaralı cam balkon ve sundurma düzenlemeleri",
+        "Ses yalıtımı ile mahremiyet beklentisinin yüksekliği"
+      ],
+      "sss": [
+        {
+          "s": "Rezidansta çalışma saatleri kısıtlı, banyonu yenileyebilir misiniz?",
+          "c": "Evet, rezidansların çalışma saatlerine uygun program, onaylı malzeme yolu ve asansör planıyla anahtar teslim banyo yenileme yapıyoruz."
+        },
+        {
+          "s": "Tarihi binadaki dairemde tadilat izni nasıl alınır?",
+          "c": "Koruma kurulu gerektiren işlerde proje ve evrak hazırlığında danışmanlık veriyor; onaysız müdahale yapmıyoruz."
+        },
+        {
+          "s": "Boğaz manzarasını koruyarak pencere değişimi mümkün mü?",
+          "c": "Cephe silüetini koruyan kasa-kasaya (onarım-doğrama) yöntemi veya izinli profil değişimiyle pencere yenileme yapabiliyoruz."
+        },
+        {
+          "s": "Levent'te ofisimi butik toplantı alanına çevirmek istiyorum.",
+          "c": "Bölme, akustik panel, ses yalıtımı ve zemin işlerini mesai dışı saatlerde yaparak ofisin çalışmasını kesintisiz sürdürüyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "beylikduzu",
+      "ad": "Beylikdüzü",
+      "bolge": "Batı sahil, yeni konut kenti",
+      "accent": "orange",
+      "layout": "A",
+      "heroIndex": 8,
+      "vurguluHizmetler": [
+        "ic-cephe-boya-ve-badana",
+        "komple-banyo-tadilati",
+        "parke-ve-laminat-doseme",
+        "gomme-dolap-ve-giyinme-odasi",
+        "klima-elektrik-baglantisi",
+        "su-kacagi-tespiti"
+      ],
+      "komsular": [
+        "esenyurt",
+        "avcilar",
+        "buyukcekmece"
+      ],
+      "giris": "Beylikdüzü, 2000'lerden itibaren hızla büyüyen, geniş caddeleri ve site yaşamıyla tanınan bir ilçe. Büyükşehir belediyesinin merkez taşımasıyla birlikte nüfus ve hizmet kalitesi arttı; bugün Marmara sahilindeki yürüyüş yolu, pazar alanları ve yeni alışveriş merkezleriyle ailelerin gözdesi. Konut stoku çoğunlukla 2005-2015 arası yapılmış site daireleri; bu yüzden işlerimiz daha çok kişiselleştirme, enerji verimliliği ve mevcut alanın yeniden düzenlenmesi üzerine. Geniş mutfakların adaya çevrilmesi, misafir sayısına göre banyo düzenlemesi, çocuklu ailelerde zeminde kaymaz parke tercihi en sık yaptığımız uygulamalar. Site içi çalışma kurallarını biliyoruz; metrobüs ve sahil yoluna lojistiğimiz kısa.",
+      "uzmanlik": "Geniş site dairelerinde mutfak ada dönüşümü, giyinme odası imalatı ve yüksek tavan değerlendirme projelerinde uzmanız. Sahil cepheli binalarda rüzgar ve tuzlu hava etkisiyle yıpranan cephe, balkon ve doğrama işlerinde malzeme seçimini buna göre yapıyoruz. Metrobüs hatlarına yakın bölgelerde mesai saatleri dışında çalışma imkanı sunuyoruz.",
+      "musteriProfili": "Site daire sahibi genç aileler, sahil kesiminde yaşayan emekliler ve büyüyen aileler için alan genişleten kullanıcılar.",
+      "sorunlar": [
+        "Yeni site dairelerinde ince işçilik kusurlarının giderilmesi",
+        "Geniş mutfakların ada dönüşüm ihtiyacı",
+        "Sahil rüzgarından etkilenen balkon ve cephe yüzeyleri",
+        "Klima ve yüksek tüketim cihazları için yeni hat ihtiyacı"
+      ],
+      "sss": [
+        {
+          "s": "Beylikdüzü'nde mutfağı ada hale getirmek mümkün mü?",
+          "c": "Zemin ve tesisat kontrolü sonrası ada dolapları, tezgah ve ankastreyle komple dönüşüm yapıyoruz; 3D plan ile öncesinde gösteriyoruz."
+        },
+        {
+          "s": "Site dairesinde balkonu odaya katmak istiyorum, kuralları neler?",
+          "c": "Balkon kapatma yönetim kararı gerektirir; izin sürecini ve ısı yalıtımlı camekanı birlikte yönetiyoruz."
+        },
+        {
+          "s": "Klima için elektrik hattı yetmiyor, ne yapmalıyım?",
+          "c": "Pano içinden klimaya özel hat ve otomat çekiyoruz; böylece mevcut priz devresi aşırı yüklenmiyor."
+        },
+        {
+          "s": "Sahil dairesinde nem var, kışın küflenme oluyor.",
+          "c": "Nem kaynağını ölçüyor; havalandırma, yalıtım ve gerekirse mekanik nem alma çözümleriyle küflenmeyi kökten engelliyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "beyoglu",
+      "ad": "Beyoğlu",
+      "bolge": "Tarihi yarımada karşısı, kültür-sanat aksı",
+      "accent": "slate",
+      "layout": "B",
+      "heroIndex": 9,
+      "vurguluHizmetler": [
+        "ic-cephe-boya-ve-badana",
+        "alci-siva-ve-saten-alci",
+        "pencere-degisimi",
+        "sihhi-tesisat-kurulumu-ve-yenileme",
+        "elektrik-tesisati-kurulumu",
+        "rutubet-ve-kuf-giderme"
+      ],
+      "komsular": [
+        "besiktas",
+        "sisli",
+        "kagithane",
+        "eyupsultan",
+        "fatih"
+      ],
+      "giris": "Beyoğlu; Galata, Cihangir, Taksim ve Karaköy'ü içine alan, tarihi apartmanların ve kültür-sanat mekanlarının kalbi. Buradaki binaların çoğu 19. yüzyıl sonu ile 20. yüzyıl başı yapımı; taşıyıcı duvarlı, yüksek tavanlı, orijinal kartonpiyerli yapılar. Tadilat talepleri genellikle iki yönde ilerliyor: tarihi dokuyu koruyarak yaşanabilir kılma ve kiralık/turistik dairelerde hızlı dönüşüm. Cihangir'in taş binalarında kalorifer dönüşümü, tesisat yenileme ve rutubet giderme; Galata-Karaköy hattında ise ofis ve konsept cafe mekan dönüşümleri yapıyoruz. Koruma kurulu bölgelerinde izinli müdahale kurallarına tam uyum bizim için standarttır. Attık yönetimi, geçit dar sokakları ve asansörsüz binalar için lojistik planımız hazır.",
+      "uzmanlik": "Tarihi binalarda; izinli iç yenileme, orijinal tavan rozetlerinin kopyalanarak korunması, iskele gerektiren cephe müdahaleleri ve bina içi yeni tesisatın dekoratif dokuya zarar vermeden döşenmesi konularında deneyimliyiz. Turistik kiralık dairelerde ise dayanıklı, bakımı kolay ve fotojenik iç mekanlar üretiyoruz. Dar sokak ve merdiven lojistiğini önden planlıyoruz.",
+      "musteriProfili": "Tarihi binada yaşayan kültür severler, butik otel ve konsept mekan yatırımcıları, kısa dönem kiralama yapan ev sahipleri.",
+      "sorunlar": [
+        "Tarihi binalarda izinsiz ve yanlış müdahale riski",
+        "Yüksek tavanlı eski dairelerde ısı kaybı ve rutubet",
+        "Dar sokaklarda malzeme ve moloz lojistiği",
+        "Turistik amaçlı dairelerde hızlı dönüşüm ihtiyacı"
+      ],
+      "sss": [
+        {
+          "s": "Cihangir'deki tarihi dairemde kalorifer döşenebilir mi?",
+          "c": "Evet, kartonpiyer ve tavan rozetlerini koruyarak döşeme altı veya kaide hattından boru döşeyebiliyoruz; tarihi dokuya zarar vermeyen yöntemler kullanıyoruz."
+        },
+        {
+          "s": "Koruma kuruluna tabi binada tadilat nasıl yapılır?",
+          "c": "Müdahale türüne göre ön izin ve proje belgeleri hazırlıyoruz; onaysız hiçbir uygulama yapmıyoruz. Süreç yönetimini biz üstleniyoruz."
+        },
+        {
+          "s": "Kısa dönem kiralamaya açacağım daireyi hızlı hazırlamak istiyorum.",
+          "c": "Turistik kiralama standartlarına uygun dayanıklı malzemeli, fotojenik bir iç mekanı 1-2 haftada teslim ediyoruz; eksiksiz cihaz montajı dahildir."
+        },
+        {
+          "s": "Asansörsüz binada tadilat eşyası nasıl taşınıyor?",
+          "c": "Merdiven koruma brandaları ve vinç imkanını değerlendiriyoruz; mobilya ve malzeme taşıma planını iş sözleşmesine dahil ediyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "buyukcekmece",
+      "ad": "Büyükçekmece",
+      "bolge": "Batı sahil, marina ve site yaşamı",
+      "accent": "teal",
+      "layout": "A",
+      "heroIndex": 10,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "ic-cephe-boya-ve-badana",
+        "kombi-montaji-ve-degisimi",
+        "pencere-degisimi",
+        "gomme-dolap-ve-giyinme-odasi",
+        "parke-ve-laminat-doseme"
+      ],
+      "komsular": [
+        "beylikduzu",
+        "catalca",
+        "silivri",
+        "esenyurt"
+      ],
+      "giris": "Büyükçekmece; kumsalları, marinası ve tarihi köprüsüyle İstanbul'un batı kapısı görünümünde. İlçede iki farklı yapı kültürü var: sahil boyundaki yazlık siteler ve yıl boyu yaşayan ailelerin tercih ettiği geniş konutlar. Yazlık evlerin kışlığa çevrilmesi; kombi tesisatı, ısı yalıtımı, pencere yenileme ve mütemadiyen boya-badana isteklerini doğuruyor. Kıyı şeridindeki dairelerde ise deniz havasından kaynaklanan nem ve küf sorunlarını çözüyoruz. Eski köy dokusundaki müstakil evlerde çatı ve cephe tadilatı yapan ekibimiz; yeni site projelerinde ise ortak alan ve daire içi düzenlemeleri yürütüyor. Hafta sonu servisimiz sayesinde şehirde yaşayıp hafta sonları evine gelen mülk sahiplerine de randevu verebiliyoruz.",
+      "uzmanlik": "Yazlık-kışlık dönüşümlerde komple paket (kombi, ısı yalıtımı, doğrama, boya) uyguluyoruz. Marina ve kıyı sitelerinde tuzlu hava dayanımlı malzeme seçimi, yüzme havuzu teknik bağlantıları (arıtma odası tesisatı) ve bahçe duşu-arıtma hatları konusunda da destek veriyoruz. Mimar Sinan Köprüsü tarafındaki tarihi köy evlerinde ise geleneksel dokuya uygun onarım teknikleri kullanıyoruz.",
+      "musteriProfili": "Yazlığını kışlığa çeviren mülk sahipleri, marina çevresinde yıl boyu yaşayan aileler ve köy evi tadilatı yapan kültür meraklıları.",
+      "sorunlar": [
+        "Yazlık evlerde kış aylarında donma ve boru patlaması",
+        "Sahil bölgesinde nem ve tuz kaynaklı korozyon",
+        "Yıl boyu kullanımda ısı yalıtımı yetersizliği",
+        "Köy evlerinde modern tesisatın eski dokuyla uyumu"
+      ],
+      "sss": [
+        {
+          "s": "Yazlığımda kışın borular donuyor, kalıcı çözüm nedir?",
+          "c": "Suyu boşaltan vana sistemi, donma korumalı musluk ve izolasyonlu hat döşemesiyle sorunu kökten çözüyoruz; acil durumlar için 7/24 hattımıza başvurabilirsiniz."
+        },
+        {
+          "s": "Kışın gelmediğim yazlık evde kombi-patlak vidası riski olur mu?",
+          "c": "Evinizde kalıcı kombi kurulumu, antifrizli sistem doldurma veya suyu boşaltma prosedürünü birlikte planlıyoruz; eve girdiğinizde doğalgaz açma-bakım işini de yapıyoruz."
+        },
+        {
+          "s": "Sahil evinde demir aksamlardaki pası nasıl önlüyorsunuz?",
+          "c": "Galvanizli ve paslanmaz bağlantı elemanları, dış cephe ve balkonlarda deniz iklimine uygun boyalar kullanıyoruz; mevcut korozyonu zımpara ve astarlama ile temizliyoruz."
+        },
+        {
+          "s": "Hafta sonları sadece orada oluyorum, iş programı yapabilir misiniz?",
+          "c": "Evet, hafta sonu ekibi ve önceden onayladığınız malzeme listesiyle cuma akşamından pazara kadar program yapabiliyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "catalca",
+      "ad": "Çatalca",
+      "bolge": "Kuzeybatı kırsal ilçe, köy kültürü",
+      "accent": "green",
+      "layout": "A",
+      "heroIndex": 11,
+      "vurguluHizmetler": [
+        "kombi-bakimi-ve-ariza-onarimi",
+        "sihhi-tesisat-kurulumu-ve-yenileme",
+        "ic-cephe-boya-ve-badana",
+        "pencere-degisimi",
+        "su-kacagi-onarimi",
+        "elektrik-ariza-tespiti"
+      ],
+      "komsular": [
+        "arnavutkoy",
+        "buyukcekmece",
+        "silivri"
+      ],
+      "giris": "Çatalca, İstanbul'un en geniş ve en kırsal ilçesi; köyler, çiftlikler, ormanlar ve göletler arasında yayılan müstakil yapılar hakim. Burada apartman mantığı değil, tek katlı köy evi ve iki katlı müstakil konut kültürü var. Kaçak göçmen yapılaşmasının olduğu dönemlerden kalma eski evler ile yeni yapılan çiftlik evleri bir arada. Müşterilerimiz; kışın şehirde yaşayıp yazın köyünde zaman geçiren aileler, küçük çiftlik yatırımcıları ve yerleşik köylüler. Doğalgazın ilçe merkezine gelmesiyle kombi dönüşümü, köy evlerinde ise odun-soba sistemlerinden izolasyonlu modern ısıtmaya geçiş talepleri artıyor. Ekiplerimiz ilçenin dört bir yanındaki köylere gidiyor; yol ve ekipman planlamasını önceden yapıyoruz.",
+      "uzmanlik": "Müstakil yapılarda su deposu bağlantısı, kuyu/pompa tesisatı, septik ve fosseptik hat düzenlemeleri, çatı onarımı ve oluk değişimi konularında deneyimliyiz. Şebeke dışı yapılarda basınç pompası ve hidrofor ayarı işlerini de üstleniyoruz. Köy evlerinin ahşap tavan ve duvar dokusunu koruyarak elektrik ve tesisat yenileme yapıyoruz.",
+      "musteriProfili": "Köyünde yaşayan aileler, çiftlik ve gölet çevresi yatırımcıları, yazlık köy evi sahipleri.",
+      "sorunlar": [
+        "Şebeke dışı yapılarda su basıncı ve pompa sorunları",
+        "Eski köy evlerinde elektrik tesisatının yetersizliği",
+        "Doğalgazı olmayan bölgelerde ısınma dönüşümü",
+        "Çatı ve oluk kaynaklı su hasarları"
+      ],
+      "sss": [
+        {
+          "s": "Köy evimde şebeke yok, hidrofor sistemi kuruyor musunuz?",
+          "c": "Evet, kuyu/depodan beslenen hidrofor, basınç tankı ve otomatik kontrol ünitesi kurulumu yapıyoruz; mevcut sistemlerin bakımını da üstleniyoruz."
+        },
+        {
+          "s": "Doğalgaz gelmeyen evde hangi ısıtma daha avantajlı?",
+          "c": "Pelet/kömür kazanlı kalorifer, elektrikli yerden ısıtma veya LPG dönüşümü gibi seçenekleri yapı ve bütçenize göre değerlendirip tek elden kuruyoruz."
+        },
+        {
+          "s": "Çiftlik evimde fosseptik taşıyor, ne yapmalıyım?",
+          "c": "Hat eğimini ve depoları kontrol edip gerekirse yeni hat döşüyoruz; izin gerektiren sistemler için belediye sürecinde yönlendirme yapıyoruz."
+        },
+        {
+          "s": "Ahşap tavanlı eve elektrik tesisatı döşenir mi?",
+          "c": "Evet, yangın güvenliği için alevgeciktirici kablolarla kanal içinde döşüyor; ahşap dokuyu koruyoruz. İş sonunda tesisat raporu veriyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "esenler",
+      "ad": "Esenler",
+      "bolge": "Orta aks, yoğun göç ve dönüşüm bölgesi",
+      "accent": "red",
+      "layout": "B",
+      "heroIndex": 12,
+      "vurguluHizmetler": [
+        "sihhi-tesisat-kurulumu-ve-yenileme",
+        "banyo-fayans-ve-seramik-doseme",
+        "elektrik-tesisati-kurulumu",
+        "tikali-gider-acma",
+        "komple-banyo-tadilati",
+        "rutubet-ve-kuf-giderme"
+      ],
+      "komsular": [
+        "bagcilar",
+        "bayrampasa",
+        "gaziosmanpasa",
+        "basaksehir",
+        "kucukcekmece"
+      ],
+      "giris": "Esenler; otogar bağlantısı, sanayi bölgeleri ve yoğun göç altyapısıyla İstanbul'un merkezinde dinamik bir ilçe. Yapı stoku içinde 1980-90 dönemi apartmanlarının yanı sıra kentsel dönüşüm kapsamına girmiş binalar da var. Bu ortamda tadilat talepleri; kiracı geçişlerinde hız, dönüşüm öncesi değer artırma ve eski binalarda güvenli yaşam başlıklarında yoğunlaşıyor. Ekibimiz Esenler'de; eski tesisatın yenilenmesi, banyo-mutfak tadilatları ve apartman genel gider tıkanıklıklarına müdahalede günlük deneyime sahip. Otogar ve E-5'e yakınlığı sayesinde her tür acil çağrıya hızlı ulaşıyoruz. Kentsel dönüşüm süreci başlayan binalarda, taşınmadan önce yapılacak küçük tadilatlarda da mütevazı ve dürüst öneri veriyoruz.",
+      "uzmanlik": "Kentsel dönüşüm bekleyen binalarda yatırımı gereksiz büyütmeyen, değer katan sadede dönük tadilatlar öneriyoruz. Otogar civarındaki işletmelerin 24 saatlik ticaret döngüsüne uygun vardiya çalışması yapıyoruz. Apartman yönetimlerine bina genel gider ve kolon hatları için toplu bakım paketi sunuyoruz.",
+      "musteriProfili": "Kiraya veren mülk sahipleri, otogar çevresi esnafı, apartman yöneticileri ve dönüşüm sürecindeki bina sakinleri.",
+      "sorunlar": [
+        "Eski binalarda projesiz, yıpranmış tesisat",
+        "Yoğun kullanımda apartman kolonlarının sık tıkanması",
+        "Kentsel dönüşüm öncesi gereksiz harcama riski",
+        "Kiracı geçişlerinde hızlı küçük tadilat ihtiyacı"
+      ],
+      "sss": [
+        {
+          "s": "Dönüşüm bekleyen binamda tadilat yaptırmalı mıyım?",
+          "c": "Küçük, geri dönüşü olan ve güvenlik sağlayan işleri öneriyoruz; büyük yatırım yapmadan önce süreci değerlendirmenizi istiyoruz. Dürüst danışmanlık bizim tarzımız."
+        },
+        {
+          "s": "Esenler'de apartman ortak kolon temizliği yapıyor musunuz?",
+          "c": "Evet, jet makineyle kolon yıkama ve kamera kontrolü paketi sunuyoruz; yönetimler için toplu fiyat avantajımız var."
+        },
+        {
+          "s": "Kiracım çıktı, daireyi 1 haftada hazırlamak istiyorum.",
+          "c": "Boya, zemin, banyo-mutfak rötuş ve temizlikten oluşan hızlı hazırlık paketimiz ile 5-7 günde teslim ediyoruz."
+        },
+        {
+          "s": "Otogar civarında dükkan tadilatında gece çalışıyor musunuz?",
+          "c": "Evet, güvenlik ve gürültü kurallarına uygun şekilde gece vardiyası planlıyoruz; iş bitiminde alan günlük kullanıma uygun teslim edilir."
+        }
+      ]
+    },
+    {
+      "slug": "esenyurt",
+      "ad": "Esenyurt",
+      "bolge": "En batı uç, genç nüfusun kenti",
+      "accent": "orange",
+      "layout": "A",
+      "heroIndex": 13,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "ic-cephe-boya-ve-badana",
+        "komple-mutfak-tadilati",
+        "su-kacagi-tespiti",
+        "elektrik-tesisati-kurulumu",
+        "pencere-degisimi"
+      ],
+      "komsular": [
+        "beylikduzu",
+        "avcilar",
+        "kucukcekmece",
+        "basaksehir",
+        "buyukcekmece"
+      ],
+      "giris": "Esenyurt, Türkiye'nin en genç ve en kalabalık nüfuslu ilçelerinden biri. Yoğun apartman dokusu ve hızlı kentleşme; devamlı yeni taşınan aileleri, dolayısıyla boya, tadilat ve döşeme talebinin sürekliliğini getiriyor. İlçede hem 2000'li yılların toplu konut siteleri hem de son dönem büyük ölçekli projeler var. Biz Esenyurt'ta; yeni taşınan ailelerin evini kişiselleştirmesinden, ince işçilik kusurlarının giderilmesine, site dairelerinde banyo-mutfak yenilemesine kadar çok yönlü hizmet veriyoruz. Geniş caddeler ve site içi ulaşım sayesinde ekiplerimiz bölgeyi çok iyi tanıyor; randevular dakik. Acil su kaçağı ve tıkanıklık çağrılarına 7/24 cevap veriyoruz.",
+      "uzmanlik": "Site dairelerinde banyo-mutfak paket tadilatları ve ince işçilik kusur düzeltmelerinde uzmanız. Yoğun genç aile nüfusu nedeniyle çocuk odası düzenlemeleri, kaymaz zemin ve güvenli elektrik uygulamalarına talebi iyi biliyoruz. İkitelli ve Beylikdüzü hattındaki lojistiğimiz ile malzeme ve ekip teminini hızlı yapıyoruz.",
+      "musteriProfili": "Siteye yeni taşınan genç aileler, kiraya veren yatırımcılar ve ilçeye yeni açılan işletmeler.",
+      "sorunlar": [
+        "Yeni dairelerde ince işçilik ve teslim kusurları",
+        "Site yaşamında gürültü ve moloz yönetimi hassasiyeti",
+        "Yoğun aile kullanımında banyo-mutfak alanlarının aşınması",
+        "Acelesi olan taşınma dönemi tadilatları"
+      ],
+      "sss": [
+        {
+          "s": "Yeni taşındım, ince işçilik kusurlarını kontrol ettirebilir miyim?",
+          "c": "Evet, teslim/oturum kusur tespiti hizmetimizle daireyi oda oda inceliyor, eksik listesini çıkarıp tek kalemde gideriyoruz."
+        },
+        {
+          "s": "Sitede çalışma saati kısıtı var, tadilat mümkün mü?",
+          "c": "Yönetim kurallarına uygun saatlerde vardiyalı çalışıyor, gürültüsüz işleri (boya, döşeme hazırlığı) bu saate planlıyoruz."
+        },
+        {
+          "s": "Esenyurt'ta banyo-mutfak ikilisini birlikte yenilemek avantajlı mı?",
+          "c": "Evet, iki alan aynı anda yenilenince keşif, malzeme taşıma ve işçilik paylaşımı açısından %10-15 avantaj sağlıyor; paket teklif veriyoruz."
+        },
+        {
+          "s": "Taşınmadan önce tadilat yaptırmak istiyorum.",
+          "c": "Anahtar teslim paketlerimizle taşınmadan önce eviniz hazır olur; keşif, koltuk ve mobilya koruması dahil planlıyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "eyupsultan",
+      "ad": "Eyüpsultan",
+      "bolge": "Altın Boynuz, tarih ve yeni yerleşim",
+      "accent": "green",
+      "layout": "B",
+      "heroIndex": 14,
+      "vurguluHizmetler": [
+        "ic-cephe-boya-ve-badana",
+        "alcipan-bolme-duvar-ve-kaplamalar",
+        "komple-banyo-tadilati",
+        "kombi-montaji-ve-degisimi",
+        "pencere-degisimi",
+        "elektrik-tesisati-kurulumu"
+      ],
+      "komsular": [
+        "gaziosmanpasa",
+        "bayrampasa",
+        "sultangazi",
+        "arnavutkoy",
+        "basaksehir",
+        "kagithane"
+      ],
+      "giris": "Eyüpsultan, Altın Boynuz kıyısındaki tarihi merkeziyle ve kuzeydeki yeni yerleşimleriyle iki yüzü olan bir ilçe. Merkez Eyüp'te tarihi eserlerin gölgesinde eski apartmanlar; Göktürk, Kemerburgaz ve Pirinççi hattında ise yeni villalar ve siteler yükseliyor. İlçe nüfusu büyüdükçe tadilat talepleri de çeşitleniyor: tarihi semtlerde izinli yenileme, yeni sitelerde kişiselleştirme, Göktürk tarafında havuzlu villalarda komple tadilat. Ekibimiz Eyüpsultan'ın hem merkezindeki dar sokak lojistiğini hem de kuzeydeki yeni yol ağını iyi biliyor. Metro ve tünel hatlarının uzamasıyla birlikte ilçeye taşınan ailelerin ev yenileme süreçlerini uçtan uca yönetiyoruz. Ramazan ayında tarihi merkezdeki işlerde trafiğe kapalı saatlere uyum sağlıyoruz.",
+      "uzmanlik": "Haliç kıyısındaki eski yapılarda izinli müdahale ve tesisat yenileme; Göktürk-Kemerburgaz hattında villa iç düzenleme, bahçe duvarı ve havuz mekan tesisatları konularında deneyimliyiz. Aksaçlı mescidi ve türbe çevresindeki turistik yapılarda çevre düzeni işlerini mahalle kültürüne saygıyla yürütüyoruz.",
+      "musteriProfili": "Tarihi merkezdeki apartman sahipleri, Göktürk hattında yeni villa alanlar ve ilçeye taşınan genç aileler.",
+      "sorunlar": [
+        "Tarihi bölgede izin ve koruma süreçlerinin yönetimi",
+        "Göktürk villalarında bahçe ve iç mekan tadilatının eşgüdümü",
+        "Kıyı bölgesinde tarihi binalarda tesisat yenileme",
+        "Yeni sitelerde ortak alan izin prosedürleri"
+      ],
+      "sss": [
+        {
+          "s": "Göktürk'te villa tadilatı yapıyor musunuz?",
+          "c": "Evet, villa iç mekan düzenlemesi, havuz mekan tesisatı, bahçe duvarı ve müştemilat tadilatlarını tek proje olarak yönetiyoruz."
+        },
+        {
+          "s": "Tarihi Eyüp binasında tadilat izni gerekir mi?",
+          "c": "Yapının konumuna göre değişir; koruma kurulu sınırındaki işlerde evrak ve proje hazırlığında danışmanlık veriyor, izinli süreçte uyguluyoruz."
+        },
+        {
+          "s": "Kemerburgaz'da doğalgazlı şömine ve teras tadilatı yapıyor musunuz?",
+          "c": "Evet, doğalgaz bağlantılı şömine montajı, teras kaplama ve kış bahçesi (veranda) dönüşümlerini yalıtım dahil uyguluyoruz."
+        },
+        {
+          "s": "Eyüpsultan kıyısındaki binamda kalorifer tesisatını yeniletmek istiyorum.",
+          "c": "Eski binalarda boru hattını koruyucu yöntemlerle değiştiriyor; radyatör elemanlarını ve vanaları yeniliyoruz. Teslim öncesi basınç testi yapıyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "fatih",
+      "ad": "Fatih",
+      "bolge": "Tarihi yarımada, suriçi dokusu",
+      "accent": "slate",
+      "layout": "A",
+      "heroIndex": 15,
+      "vurguluHizmetler": [
+        "rutubet-ve-kuf-giderme",
+        "pencere-degisimi",
+        "sihhi-tesisat-kurulumu-ve-yenileme",
+        "elektrik-tesisati-kurulumu",
+        "alci-siva-ve-saten-alci",
+        "komple-banyo-tadilati"
+      ],
+      "komsular": [
+        "zeytinburnu",
+        "eyupsultan",
+        "bayrampasa",
+        "beyoglu"
+      ],
+      "giris": "Fatih, suriçi İstanbul'un kalbi; Bizans ve Osmanlı dokusu, ticaret meydanları ve yüzyıllık apartmanlarıyla eşsiz bir yapı stokuna sahip. Burada tadilat demek, tarihi dokuyla modern yaşamı buluşturmak demek. Eminönü ve taş han bölgesindeki ticari yapılar, Ayvansaray-Sulukule hattındaki eski evler, Kumkapı'daki restoran çarşısı ve son dönemde dönüşen konut projeleri bir arada duruyor. Ekibimiz Fatih'te; koruma altındaki yapılarda izinli müdahale, eski binalarda rutubet-küf giderme, tesisat ve elektrik yenileme, ticari mekanlarda ise hızlı tadilat işlerini yürütüyor. Turizm hareketliliği nedeniyle otel ve pansiyon dönüşümlerinde deneyimimiz yüksek. Dar sokaklar ve yoğun trafik için malzeme lojistiği planımız hazır.",
+      "uzmanlik": "Suriçi'nde; koruma kurulu mevzuatına uygun müdahaleler, tarihi han ve dükkanların ticari kullanıma dönüşümü, kubbeli ve tonozlu yapılarda tesisat uygulamaları konularında deneyimliyiz. Kumkapı ve Eminönü'ndeki restauranları mesai dışı saatlerde tadil ediyoruz. Tarihi yapılarda orijinal malzeme benzeri onarım (horosan sıva, kireç esaslı boyalar) için anlaşmalı iş ortaklarımız var.",
+      "musteriProfili": "Tarihi yapı sahipleri, turizm yatırımcıları, eski apartman dairesini yenileyen aileler ve ticari işletmeler.",
+      "sorunlar": [
+        "Koruma kurulu ve izin süreçlerinin karmaşıklığı",
+        "Tarihi yapılarda rutubet ve tuzlanma (nem tuz) sorunları",
+        "Dar sokak ve trafikte lojistik yönetimi",
+        "Turistik ticari alanlarda hızlı yenileme ihtiyacı"
+      ],
+      "sss": [
+        {
+          "s": "Fatih'teki tarihi binamda tadilat için hangi izinler gerekir?",
+          "c": "Yapının koruma statüsüne göre ön izin, proje ve kurul onayı gerekebilir; biz evrak hazırlığından uygulamaya kadar süreci yönetiyoruz."
+        },
+        {
+          "s": "Tarihi binada rutubet sorunu nasıl çözülür?",
+          "c": "Önce kılcal nem mi, tesisat kaçağı mı, çatıdan mı geldiğini tespit ediyoruz; sıvasız kireç esaslı, nefes alan sistemlerle onarım yapıyoruz."
+        },
+        {
+          "s": "Kumkapı'daki restoranımın tadilatı için kaç gün gerekir?",
+          "c": "Konsept değişikliğine göre 7-15 gün; mesai dışı çalışmayı planlayarak işletmenin kapanmasını engelliyoruz."
+        },
+        {
+          "s": "Pansiyon/butik otele dönüşüm yapıyor musunuz?",
+          "c": "Evet, oda düzeni, banyo sayısı artırma, yangın kapısı ve elektrik güvenliği gibi turizm işletmesi gereksinimlerine uygun dönüşüm yapıyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "gaziosmanpasa",
+      "ad": "Gaziosmanpaşa",
+      "bolge": "Kuzey merkez, yoğun yerleşim",
+      "accent": "amber",
+      "layout": "B",
+      "heroIndex": 16,
+      "vurguluHizmetler": [
+        "ic-cephe-boya-ve-badana",
+        "parke-ve-laminat-doseme",
+        "komple-mutfak-tadilati",
+        "kombi-montaji-ve-degisimi",
+        "elektrik-ariza-tespiti",
+        "tikali-gider-acma"
+      ],
+      "komsular": [
+        "eyupsultan",
+        "sultangazi",
+        "bayrampasa",
+        "kagithane",
+        "sisli"
+      ],
+      "giris": "Gaziosmanpaşa, İstanbul'un kuzey-merkez hattında yoğun ve hareketli bir ilçe. Yıldırım, Karayolları ve Pazariçi mahallelerindeki apartmanlar 1990'ların büyüme döneminden kalma; bugün banyo, mutfak ve tesisat yenileme talebi bu yapı stokunda doğal olarak yoğun. Emekli nüfusun ağırlıkta olduğu mahallelerde evlerini son kez yenilemek isteyen yaşlı çiftler; genç kiracıların yoğun olduğu bölgelerde ise hızlı boya ve döşeme işleri öne çıkıyor. Eskiköy tarafındaki işyerleri ve Pazar günü tezgah kurulan meydanlar hayatı döngüsel; biz de ticaret yoğunluğuna göre vardiya planı yapıyoruz. Metro ve tramvay bağlantılarına yakın konumumuz ile ekiplerimiz ilçede gün içinde birden çok randevuyu dakik şekilde tamamlıyor.",
+      "uzmanlik": "GOP'ta üç kuşaklı aileler için yapılan 'tek elden ev yenileme' paketlerinde uzmanız: boya, zemin, banyo, mutfak ve tesisatı koordineli bitirip teslim ediyoruz. Emekli müşterilerimiz için taksitli ödeme ve günlük plan bilgilendirmesi uyguluyoruz. Apartman yöneticilerine bina genel bakım paketi (çatı, oluk, merdiven) sunuyoruz.",
+      "musteriProfili": "Evini son kez yenileyen emekliler, kiracı geçişleri yöneten ev sahipleri ve işyeri sahipleri.",
+      "sorunlar": [
+        "1990'lar yapılarında ömrünü dolduran kombi ve tesisat",
+        "Yoğun aile kullanımında banyo-mutfak aşınması",
+        "Emekli kesimde erişilebilirlik ve güvenlik düzenlemeleri",
+        "Kiracı geçişlerinde hızlı boya-döşeme ihtiyacı"
+      ],
+      "sss": [
+        {
+          "s": "Evimi komple yenilemek istiyorum, tek firma yeterli mi?",
+          "c": "Evet, boya-zemin-banyo-mutfak-tesisat işlerini tek sözleşmeyle alıyor; tek irtibat kişisiyle süreci yönetiyoruz. Teslim tarihi yazılıdır."
+        },
+        {
+          "s": "Emekliyim, tadilat ödemesini bölerek yapabilir miyim?",
+          "c": "Evet, işin %40'ı ile başlayıp aşama aşama ödeme planı uyguluyoruz; her aşamanın kontrolünü sizinle birlikte yapıyoruz."
+        },
+        {
+          "s": "Yaşlı annem için banyoda tutamak ve düzenleme yapıyor musunuz?",
+          "c": "Evet, tutamak montajı, kaymaz zemin, yükseltilmiş klozet ve duş oturma sistemi gibi erişilebilirlik düzenlemelerini uygun fiyatla yapıyoruz."
+        },
+        {
+          "s": "Pazar günü işyeri tadilatı yapabilir misiniz?",
+          "c": "Ticari meydanların kapalı olduğu saatlerde sessiz işleri planlıyor; kepenk ve vitrin işlerini işletme kapalıyken tamamlıyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "gungoren",
+      "ad": "Güngören",
+      "bolge": "Merkezi yerleşim, küçük ve yoğun",
+      "accent": "slate",
+      "layout": "A",
+      "heroIndex": 17,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "ic-cephe-boya-ve-badana",
+        "sihhi-tesisat-kurulumu-ve-yenileme",
+        "su-kacagi-tespiti",
+        "pencere-degisimi",
+        "kombi-bakimi-ve-ariza-onarimi"
+      ],
+      "komsular": [
+        "bahcelievler",
+        "bagcilar",
+        "bayrampasa",
+        "bakirkoy"
+      ],
+      "giris": "Güngören, Türkiye'nin en yoğun nüfuslu yüzölçümü küçük ilçelerinden biri. Kompakt yapısı; binaların yaşlanmasını ve yenileme talebini hızlandırıyor. Merter, Emek ve Güneştepe mahallelerindeki 1980-90 apartmanlarında kombi değişimi, pencere yenileme, tesisat elden geçirme işleri en sık karşılaştığımız talepler arasında. İlçenin merkezindeki ticari sokaklar ve Marmara Forum tarafındaki hareketlilik, işyeri tadilatlarının da günlük akışına katkı sağlıyor. Küçük yüzölçümü bizim için büyük avantaj: ekiplerimiz çağrıya 30 dakika içinde ulaşıyor, birden fazla işi aynı gün ziyaret edebiliyoruz. Güngören'de komşu denetiminin yüksek olduğu bir mahalle kültürü var; gürültüsüz çalışma ve önlü arka temizliğini taahhüt ediyoruz.",
+      "uzmanlik": "Kompakt binalarda 'küçük ama doğru' müdahalelerde uzmanız: sızıntı tespiti, vana yenileme, kapı-pencere fitil ve doğrama tamiratı gibi işleri aynı gün bitiyoruz. Apartman genel gider hatlarının bakımı ve yönetim koordinasyonu için toplu paket sunuyoruz. Merter tarafındaki işyeri tadilatlarında ise ofis saatleri dışında çalışma imkanımız var.",
+      "musteriProfili": "Eski ama bakımlı evini yenileyen aileler, apartman yöneticileri ve merkezdeki işletme sahipleri.",
+      "sorunlar": [
+        "Küçük binalarda ortak kolon tıkanıklıkları ve kaçaklar",
+        "1980'ler yapılarında doğrama ve kasa eskimeleri",
+        "Yoğun yerleşimde gürültü ve moloz hassasiyeti",
+        "İşyeri tadilatlarında kısa süre sınırı"
+      ],
+      "sss": [
+        {
+          "s": "Güngören'de aynı gün su kaçağı tespiti yapıyor musunuz?",
+          "c": "Evet, ekiplerimiz ilçeye 30 dakika içinde ulaşıyor; termal kamera ve akustik cihazla tespiti aynı gün tamamlıyoruz."
+        },
+        {
+          "s": "Komşuya su sızdırıyorum, tazminat riske girmeden ne yapmalıyım?",
+          "c": "Kaynağı hızlı tespit edip onarıyor, sigorta evrakını düzenliyoruz; alt katla koordinasyonu da üstleniyoruz."
+        },
+        {
+          "s": "İşyerimde tadilatı iş saatlerinde yaptırabilir miyim?",
+          "c": "Merter ve çarşı hattında sabah erken/akşam geç saatlerde gürültüsüz işleri planlıyoruz; vitrin ve zemin işlerini kapalı günlerde topluyoruz."
+        },
+        {
+          "s": "1980'ler yapısında pencere ve kasalar toplu değişmeli mi?",
+          "c": "Birden fazla odada doğrama değişecekse toplu yapıyor; ara kat oturma payını ve iskele planını önceden çıkarıyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "kagithane",
+      "ad": "Kâğıthane",
+      "bolge": "Vadi hattı, yoğun dönüşüm bölgesi",
+      "accent": "orange",
+      "layout": "B",
+      "heroIndex": 18,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "mutfak-dolabi-yapimi-ve-montaji",
+        "alcipan-bolme-duvar-ve-kaplamalar",
+        "ic-cephe-boya-ve-badana",
+        "elektrik-tesisati-kurulumu",
+        "su-kacagi-tespiti"
+      ],
+      "komsular": [
+        "sisli",
+        "besiktas",
+        "beyoglu",
+        "eyupsultan",
+        "gaziosmanpasa"
+      ],
+      "giris": "Kâğıthane, İstanbul'un dönüşen yüzlerinden biri. Vadideki sanayi atölyeleri yavaş yavaş yerini konut projelerine bırakırken, Çağlayan ve Merkez mahallelerinde eski apartman dokusu devam ediyor. Bu ikilik; tadilat taleplerini de ikiye bölüyor: yeni konutlarda ince işçilik düzeltme ve kişiselleştirme, eski binalarda ise komple yenileme ve dönüşüm öncesi düzenleme. İlçedeki genç nüfus ve çalışan profesyoneller sayesinde akşam teslimli, hafta sonu programlı çalışma talebi yüksek. Metro hatlarının uzamasıyla birlikte bölgeye taşınan aileler için 'taşınmadan önce hazır ev' konsepti popüler. Ekiplerimiz Kâğıthane'nin vadi sokaklarını iyi tanıyor; malzeme taşıma ve asansör planını önden kuruyoruz.",
+      "uzmanlik": "Cendere Vadisi'ndeki yeni konutlarda akıllı ev altyapısı, data hattı ve ses yalıtımı projelerinde deneyimliyiz. Eski apartmanlarda ise kentsel dönüşüm beklentisini gözeterek değer katan, gereksiz yatırım yaptırmayan çözümler sunuyoruz. Sanayi atölyelerinin ofis-rezidans dönüşümlerinde zemin, cephe içi ve kat düzeni işlerini üstleniyoruz.",
+      "musteriProfili": "Yeni konut sahibi genç profesyoneller, dönüşüm bekleyen bina sakinleri ve atölye dönüşümü yapan yatırımcılar.",
+      "sorunlar": [
+        "Yeni konutlarda ince işçilik ve ses geçiş sorunları",
+        "Eski binalarda dönüşüm öncesi dengeli yatırım kararı",
+        "Yoğun trafikte malzeme ve ekibin planlı sevki",
+        "Atölye dönüşümlerinde süre baskısı"
+      ],
+      "sss": [
+        {
+          "s": "Cendere tarafındaki dairemde ses geçiriyor, çözüm var mı?",
+          "c": "Kompşu duvarı ve tavan arası için taş yünlü alçıpan ve akustik panel uyguluyoruz; pencere-kapı kaçaklarını da kapatıyoruz."
+        },
+        {
+          "s": "Dönüşüm bekleyen binamda tadilat yaptırmalı mıyım?",
+          "c": "Güvenlik ve yaşam konforuna dönük küçük işleri öneriyoruz; büyük yatırımı ertelemenizi tavsiye ediyoruz. Karar sürecinde dürüst analiz sunuyoruz."
+        },
+        {
+          "s": "İşyerim taşınmadan önce atölyeyi ofise çevirebilir misiniz?",
+          "c": "Evet, zemin, bölme, elektrik ve aydınlatma dönüşümünü kiracı giriş tarihine göre programlıyoruz; belediyeye ibraz için iş bitirme evrakı veriyoruz."
+        },
+        {
+          "s": "Hafta sonu tadilat yapıyor musunuz?",
+          "c": "Evet, hafta sonu programı talebin yüzde 30'unu oluşturuyor; gürültü saatleri dışında boya, döşeme ve montaj işlerini yürütüyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "kucukcekmece",
+      "ad": "Küçükçekmece",
+      "bolge": "Göl hattı, yoğun ve çeşitli",
+      "accent": "teal",
+      "layout": "A",
+      "heroIndex": 19,
+      "vurguluHizmetler": [
+        "sihhi-tesisat-kurulumu-ve-yenileme",
+        "komple-banyo-tadilati",
+        "su-kacagi-tespiti",
+        "ic-cephe-boya-ve-badana",
+        "elektrik-tesisati-kurulumu",
+        "pencere-degisimi"
+      ],
+      "komsular": [
+        "avcilar",
+        "bakirkoy",
+        "bahcelievler",
+        "bagcilar",
+        "basaksehir",
+        "esenyurt"
+      ],
+      "giris": "Küçükçekmece, göl kıyısından İkitelli sanayi hattına uzanan geniş bir ilçe. Metrokent, Sefaköy, Halkalı ve Atakent gibi mahallelerde yapı yaşı ve tipi çok çeşitli: eski toplu konutlarından, yeni rezidanslarına kadar geniş bir yelpaze. Göl ve kanal çevresinde kentsel dönüşüm hareketliliği, ilçeyi hem yatırımcı hem yaşayan için cazip kılıyor. Tadilat taleplerinde; eski toplu konutlarda tesisat ve doğrama yenileme, İkitelli tarafında işyeri ve atölye düzenlemeleri, yeni rezidanslarda ise kişiselleştirme öne çıkıyor. Ekibimiz ilçenin her köşesine aynı gün ulaşabiliyor; göl kıyısındaki binalarda nem sorunları, sanayi tarafında ise elektrik yükü hesapları bizim günlük işlerimiz. Metro hattı ile merkez lojistiğimiz kolay.",
+      "uzmanlik": "Eski toplu konutlarda komple yenileme; İkitelli OSB tarafında işyeri tadilatı ve elektrik güçlendirme; yeni rezidanslarda banyo-mutfak kişiselleştirme konusunda üç ayrı uzmanlığı tek çatıda topluyoruz. Göl çevresindeki binalarda yüksek nem ve yoğuşma kaynaklı küflenmeyi ölçümlü tespit edip çözüyoruz. Site yönetimleri için ortak alan tadilatı ve genel gider bakım paketleri sunuyoruz.",
+      "musteriProfili": "Toplu konut sakinleri, İkitelli işletmecileri, rezidans sahipleri ve apartman yöneticileri.",
+      "sorunlar": [
+        "Eski toplu konutlarda tesisat ve doğrama eskimesi",
+        "Göl çevresinde yüksek nem ve küf",
+        "Sanayi ve atölyelerde yetersiz elektrik altyapısı",
+        "Yoğun nüfuslu binalarda ortak gider tıkanıklıkları"
+      ],
+      "sss": [
+        {
+          "s": "Metrokent'teki eski dairemin tesisatını yenilemek ne kadar sürer?",
+          "c": "Kanal kullanımına bağlı olarak 2-4 gün; işlem boyunca su kesintisi programını size önceden bildiriyor ve aşamalı tamamlıyoruz."
+        },
+        {
+          "s": "Göl tarafında nem var, çözümünüz ne?",
+          "c": "Nem ölçümü ile kaynağı buluyoruz; yalıtım, havalandırma ve nefes alan boyalarla küf tekrarını önlüyoruz. Garanti kapsamında izleme yapıyoruz."
+        },
+        {
+          "s": "İkitelli'de atölyemin elektrik hattı yetersiz, destek olur musunuz?",
+          "c": "Evet, makine gücü analizi yapıp pano ve hat yenileme projesi çıkarıyoruz; iş durmadan etap etap devreye alıyoruz."
+        },
+        {
+          "s": "Apartman kolonu sık tıkanıyor, yönetimle nasıl çalışıyorsunuz?",
+          "c": "Yönetim onayıyla kamera çekip hat durum raporu hazırlıyor, jet temizlik ve gerekirse hat yenileme önerisini sunuyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "sariyer",
+      "ad": "Sarıyer",
+      "bolge": "Boğaz'ın kuzeyi, orman ve sahil",
+      "accent": "navy",
+      "layout": "B",
+      "heroIndex": 20,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "gomme-dolap-ve-giyinme-odasi",
+        "pencere-degisimi",
+        "ses-yalitimi",
+        "rutubet-ve-kuf-giderme",
+        "mutfak-dolabi-yapimi-ve-montaji"
+      ],
+      "komsular": [
+        "besiktas",
+        "sisli",
+        "eyupsultan",
+        "arnavutkoy"
+      ],
+      "giris": "Sarıyer; boğaz köyleri, ormanın içinde yükselen konutları ve yalı kültürüyle İstanbul'un en yeşil ilçelerinden. Yeniköy, Tarabya, Emirgan ve İstinye hattındaki prestijli yapılarda; tarihi yalılarda izinli restorasyon, yeni villalarda ise yüksek standartlı iç mekan projeleri talep ediliyor. Orman köylerindeki (Zekeriyaköy, Uskumruköy, Bahçeköy) müstakil evlerde ise ısıtma, şömine ve tesisat dönüşümleri öne çıkıyor. İlçenin kuzey enleminde nemli ve yağışlı mikro iklim; rutubet, küf ve doğrama eskimesi sorunlarını tetikliyor. Ekibimiz Sarıyer'de; tarihi dokuyu koruyan restorasyon yöntemleri, villa iç düzenleme ve orman evlerinin enerji verimli hale getirilmesi konularında uzmanlaşmış durumda. Vadi trafiğini bilen lojistik planımızla randevulara dakik geliyoruz.",
+      "uzmanlik": "Yalı ve tarihi köşklerde koruma kurulu onaylı iç yenileme; Zekeriyaköy-Uskumru bölgesinde şömine, teras ve kış bahçesi dönüşümleri; orman evlerinde dizel/LPG dönüşüm ve ısı yalıtımı konularında deneyimliyiz. Nemli mikro iklim için özel ölçüm ve izolasyon çözümleri sunuyoruz.",
+      "musteriProfili": "Boğaz köylerinde prestij konut sahipleri, orman bölgesinde villa alan profesyoneller ve tarihi yapı yatırımcıları.",
+      "sorunlar": [
+        "Tarihi yapılarda izinli restorasyon süreçleri",
+        "Nemli mikro iklim kaynaklı küf ve doğrama eskimesi",
+        "Villa projelerinde yüksek standart beklentisi",
+        "Orman köylerinde ısıtma dönüşümü ihtiyacı"
+      ],
+      "sss": [
+        {
+          "s": "Yalı ve köşklerde hangi işleri izinli yapıyorsunuz?",
+          "c": "Koruma kurulu onaylı iç yenileme, tesisat ve restorasyon işlerini projelendirme dosyasıyla birlikte yürütüyoruz; kurul uyumsuzluğu yaşatmıyoruz."
+        },
+        {
+          "s": "Zekeriyaköy'de villam için şömine ve kış bahçesi yapılabilir mi?",
+          "c": "Evet, doğalgazlı şömine montajı, cam kış bahçesi ve teras kaplama işlerini ısı yalıtımı ve izin süreçleriyle birlikte üstleniyoruz."
+        },
+        {
+          "s": "Orman evimde rutubet ve küf var, nasıl çözülür?",
+          "c": "Mikro iklimi ölçüyor, havalandırma-yalıtım dengesini kuruyoruz; kök neden (yağış, yoğuşma) giderilmeden boya yapmıyoruz."
+        },
+        {
+          "s": "Sarıyer'de trafik yoğun, ekipler nasıl yetişiyor?",
+          "c": "Vadi hatlarını bilen lojistik planı, sabah erken randevu ve vadi dışı depo-köprü stratejisi ile teslimatlarda gecikme yaşatmıyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "silivri",
+      "ad": "Silivri",
+      "bolge": "Batı uç sahil, yerleşim ve tarım",
+      "accent": "green",
+      "layout": "A",
+      "heroIndex": 21,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "ic-cephe-boya-ve-badana",
+        "kombi-montaji-ve-degisimi",
+        "sihhi-tesisat-kurulumu-ve-yenileme",
+        "pencere-degisimi",
+        "komple-banyo-tadilati"
+      ],
+      "komsular": [
+        "catalca",
+        "buyukcekmece",
+        "esenyurt"
+      ],
+      "giris": "Silivri, İstanbul'un batı sınırındaki sahil ilçesi; deniz, tarım arazileri ve yeni konut projeleri bir arada. Uzun sahil bandı ve merkezdeki eski sokak dokusu, doğuda ise site tarzı yeni yerleşimler yer alıyor. Yaz aylarında nüfusu artan ilçede; yazlık evlerin bakım-tadilatı, sezon öncesi boya ve tesisat işleri yoğunlaşıyor. Kışın ise şehirde yaşayıp hafta sonu gelen mülk sahipleri için hızlı dönüşlü hizmet önemli. Sahil kesimindeki bungalov ve müstakil evlerde; su deposu, bahçe tesisatı, güneş enerjisi bağlantıları gibi kendine özgü ihtiyaçlar öne çıkıyor. Biz Silivri'ye şehir merkezinden çıkan ekiple, hafta sonu dahil servis veriyoruz. Deniz havasına dayanıklı malzeme seçiminde uzmanız.",
+      "uzmanlik": "Yazlık ev bakım-tadilat paketleri (sezon öncesi boya, tesisat kontrolü, doğrama); müstakil evlerde su deposu-hidrofor bağlantıları ve güneş enerjisi tesisat desteği; bungalov/dağ evlerinde padok ve müştemilat düzenlemeleri konularında deneyimliyiz. E-5 ve TEM üzerinden ekip sevkiyatı hızlı.",
+      "musteriProfili": "Yazlık ev sahipleri, hafta sonu evine gelen şehirde yaşayan mülk sahipleri ve müstakil konut yatırımcıları.",
+      "sorunlar": [
+        "Kışın kullanılmayan yazlıklarda donma ve boru patlaması",
+        "Sahil bölgesinde tuzlu hava ve nem etkisi",
+        "Sezon öncesi toplu bakım ihtiyacı",
+        "Müstakil evlerde şebeke dışı su bağlantıları"
+      ],
+      "sss": [
+        {
+          "s": "Yazlığımda kış koruması yapıyor musunuz?",
+          "c": "Evet, suyu boşaltma, vana yerleşimi, antifriz uygulaması ve kombinizin kış moduna alınmasından oluşan kışa hazırlık paketimiz var."
+        },
+        {
+          "s": "Silivri'de hafta sonu servisi var mı?",
+          "c": "Evet, cumartesi ve pazar günleri de ekibimiz çıkıyor; özellikle yazlık sahiplerinin ziyaret günlerine göre randevu planlıyoruz."
+        },
+        {
+          "s": "Bungalov evimde ikinci bir banyo yaptırabilir miyim?",
+          "c": "Tesisat hattı ve yerleşime uygunsa ek banyo imalatı yapıyoruz; septik ve gider bağlantısını keşifte değerlendiriyoruz."
+        },
+        {
+          "s": "Deniz havası doğramaları bozuyor, ne önerirsiniz?",
+          "c": "Tuzlu havaya dayanıklı PVC armatürler ve paslanmaz menteşe/kollu sistemler öneriyoruz; cephe boyalarında tuz dirençli ürünleri kullanıyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "sultangazi",
+      "ad": "Sultangazi",
+      "bolge": "Kuzey hat, dönüşen yerleşim",
+      "accent": "amber",
+      "layout": "B",
+      "heroIndex": 22,
+      "vurguluHizmetler": [
+        "ic-cephe-boya-ve-badana",
+        "parke-ve-laminat-doseme",
+        "komple-mutfak-tadilati",
+        "su-kacagi-onarimi",
+        "elektrik-tesisati-kurulumu",
+        "tikali-gider-acma"
+      ],
+      "komsular": [
+        "arnavutkoy",
+        "basaksehir",
+        "eyupsultan",
+        "gaziosmanpasa"
+      ],
+      "giris": "Sultangazi, İstanbul'un kuzey hattında hızla gelişen bir ilçe; Cebeci, Uğur Mumcu ve Esentepe mahallelerinde apartmanlaşma sürüyor. Bölgeye yeni taşınan aile sayısı fazla; bu yüzden boya-badana, zemin döşeme ve banyo-mutfak tadilatı talepleri sürekli. İlçenin kuzeyindeki sanayi ve depolama bölgelerinde ise atölye ve depo tadilatları, zemin kaplama ve elektrik hattı işleri yürütüyoruz. Toplu ulaşımın gelişmesi (Cebeci-Cemre hattı) ile birlikte konut değerleri artıyor; ev sahipleri kiracı geçişlerinde hızlı yenilemeye önem veriyor. Ekip depomuz E-80 hattına yakın olduğu için Sultangazi'ye ulaşımımız hızlı; acil su basması ve tıkanıklık olaylarına aynı gün müdahale ediyoruz. Mahalle kültürünün güçlü olduğu bölgede komşu memnuniyetine özen gösteriyoruz.",
+      "uzmanlik": "Yeni taşınan aileler için hazır ev paketleri ve kiracı geçiş düzenlemelerinde uzmanız. Kuzeydeki depo ve atölyelerde zemin, raf alanı aydınlatması ve güvenlikli elektrik uygulamaları yapıyoruz. Eğitim kurumları civarındaki öğrenci evlerinde ekonomik ve dayanıklı düzenlemeler planlıyoruz.",
+      "musteriProfili": "Yeni taşınan genç aileler, kiraya veren ev sahipleri, depo-atölye işletmecileri.",
+      "sorunlar": [
+        "Yeni taşınmalarda evin tadilat ihtiyacını karşılama",
+        "Kiracı geçişlerinde zaman baskısı",
+        "Depo ve atölyelerde aydınlatma ve elektrik yetersizliği",
+        "Yoğun apartmanlarda ortak gider sorunları"
+      ],
+      "sss": [
+        {
+          "s": "Taşınmadan önce daireyi komple hazırlamak istiyorum.",
+          "c": "Boya, zemin, banyo rötuş ve mutfak düzenlemesini içeren hazır ev paketimizi taşınma tarihinize göre programlıyor ve teslim ediyoruz."
+        },
+        {
+          "s": "Depomda aydınlatma yetersiz, çözüm öneriniz?",
+          "c": "Alanın boyuna göre led armatür yerleşimi ve ayrı devre planı çıkarıyor; elektrik beslemesini depo güvenliğine uygun kuruyoruz."
+        },
+        {
+          "s": "Öğrenci evi için ekonomik tadilat yapıyor musunuz?",
+          "c": "Evet, dayanıklı ve ekonomik malzemeyle boya, zemin ve banyo düzenlemesi yapıyoruz; kira dönemi başlamadan teslim ediyoruz."
+        },
+        {
+          "s": "Apartman gideri sık tıkanıyor, ne yapılmalı?",
+          "c": "Kamera ile hat analizi yapıyor, gerekirse jet temizlik ve hat yenileme öneriyoruz; yönetim kuruluyla toplantıya katılıp rapor sunuyoruz."
+        }
+      ]
+    },
+    {
+      "slug": "sisli",
+      "ad": "Şişli",
+      "bolge": "Merkez iş aksı, karışık doku",
+      "accent": "slate",
+      "layout": "A",
+      "heroIndex": 23,
+      "vurguluHizmetler": [
+        "komple-banyo-tadilati",
+        "ic-cephe-boya-ve-badana",
+        "alcipan-bolme-duvar-ve-kaplamalar",
+        "elektrik-tesisati-kurulumu",
+        "gomme-dolap-ve-giyinme-odasi",
+        "ses-yalitimi"
+      ],
+      "komsular": [
+        "besiktas",
+        "kagithane",
+        "beyoglu",
+        "gaziosmanpasa",
+        "sariyer"
+      ],
+      "giris": "Şişli; Nişantaşı'nın vitrini, Mecidiyeköy'ün ofis kuleleri ve eski mahallelerin iç içe geçtiği bir merkez ilçe. Harbiye ve Nişantaşı hattında tarihi apartmanlar ve yüksek standartlı konutlar; Mecidiyeköy-Gülbağ tarafında ise ofis ve karma binalar yer alıyor. Tadilat talepleri de bu çeşitliliği yansıtıyor: prestij konutlarında ince işçilik ve özel projeler, ofislerde kat düzeni ve toplantı mekanı dönüşümleri, eski mahallelerde ise komple yenileme. Yoğun iş hayatı nedeniyle müşterilerimizin çoğu çalışma saatleri dışında randevu istiyor; akşam teslimli ve hafta sonu programlı işleri standart olarak planlıyoruz. Metrobüs ve metro bağlantıları sayesinde acil çağrılara dakik ulaşım sağlıyoruz. Şişli'de iş ahlakı, gizlilik ve temizlik bizim için olmazsa olmaz.",
+      "uzmanlik": "Nişantaşı prestij konutlarında özel ölçü mobilya ve aydınlatma projeleri; Mecidiyeköy ofislerinde akustik bölme ve kat planı dönüşümleri; eski mahallelerde tesisat-elektrik komple yenileme konusunda deneyimliyiz. İş merkezlerindeki çalışmaları mesai dışı saatlere taşıyoruz.",
+      "musteriProfili": "Nişantaşı konut sahipleri, ofis ve klinik yatırımcıları, merkezdeki profesyoneller ve eski bina daire sahipleri.",
+      "sorunlar": [
+        "Prestij konutlarında kusursuz işçilik beklentisi",
+        "Ofis tadilatlarının iş akışını kesmemesi",
+        "Eski mahalle binalarında altyapı yenileme",
+        "Merkezde park ve taşımacılık lojistiği"
+      ],
+      "sss": [
+        {
+          "s": "Nişantaşı'nda dairemde özel tasarım iç mekan yaptırmak istiyorum.",
+          "c": "Tasarım aşamasından üretime kadar özel ölçü mobilya, aydınlatma ve banyo projelerini tek elden yönetiyoruz; önce 3D sunum yapıyoruz."
+        },
+        {
+          "s": "Ofisimi mesai saatlerinde tadilat edebilir misiniz?",
+          "c": "Çalışanların mesaisini kesmeyen şekilde akşam ve hafta sonu programı uyguluyoruz; bölme ve zemin işlerini kademeli tamamlıyoruz."
+        },
+        {
+          "s": "Eski binadaki dairemde tesisat yenileme yaptırmak istiyorum.",
+          "c": "Mevcut bina kanallarını kullanarak kırma payını düşürüyoruz; apartman yönetimiyle ortak alan izinlerini de koordine ediyoruz."
+        },
+        {
+          "s": "Şişli'de malzeme taşıması zor değil mi?",
+          "c": "Park ve yükleme saatlerini deneyimimizle biliyoruz; küçük ekipler, kat taşıma aparatları ve mesai dışı saati lojistik planıyla aşılır."
+        }
+      ]
+    },
+    {
+      "slug": "zeytinburnu",
+      "ad": "Zeytinburnu",
+      "bolge": "Sahil-merkez kuşak, çeşitli doku",
+      "accent": "orange",
+      "layout": "B",
+      "heroIndex": 24,
+      "vurguluHizmetler": [
+        "ic-cephe-boya-ve-badana",
+        "komple-mutfak-tadilati",
+        "sihhi-tesisat-kurulumu-ve-yenileme",
+        "su-kacagi-tespiti",
+        "elektrik-ariza-tespiti",
+        "tikali-gider-acma"
+      ],
+      "komsular": [
+        "fatih",
+        "bakirkoy",
+        "bayrampasa",
+        "bahcelievler",
+        "gungoren"
+      ],
+      "giris": "Zeytinburnu; surlarla Fatih'e, sahil şeridiyle Bakırköy'e komşu, merkezi ve yoğun bir ilçe. Maltepe ve Sümer mahallelerinde eski yapı stoku, Kazlıçeşme ile sahil kesiminde dönüşüm projeleri bir arada. İlçenin çarşı kültürü güçlü; çelebi çarşısı ve sanayi bölgelerindeki işletmeler, ticari tadilat taleplerini besliyor. Yeni konut projeleri (Cevizlibağ hattı) ise modern daire sahiplerini getiriyor. Biz Zeytinburnu'nda; eski binalarda komple yenileme, çarşı ve sanayide işyeri tadilatları, sahil tarafında ise yalıtım ve nem çözümleri üzerinde yoğunlaşıyoruz. Kazlıçeşme kültür merkezi ve sahil yolu sayesinde ilçeye ulaşım kolay; acil çağrılarda 30-40 dakika içinde sahadayız. Mahalle dokusuna saygılı, gürültüsüz çalışmayı standart kabul ediyoruz.",
+      "uzmanlik": "Eski apartmanlarda tesisat-elektrik yenileme ve komple tadilat; çarşı ve sanayi işletmelerinde dükkan tadilatı; dönüşüm projelerindeki yeni dairelerde ince işçilik düzeltmeleri konusunda deneyimliyiz. Sahil tarafındaki binalarda deniz kaynaklı nemi ölçüm esaslı çözüyoruz.",
+      "musteriProfili": "Eski bina daire sahipleri, çarşı esnafı, dönüşüm projesinden daire alanlar ve apartman yöneticileri.",
+      "sorunlar": [
+        "Eski yapılarda altyapı ve tesisat yenileme",
+        "Çarşı ve sanayi işyerlerinde hızlı dönüşüm",
+        "Sahil kesiminde nem ve deniz etkisi",
+        "Dönüşüm dairelerinde ince işçilik kusurları"
+      ],
+      "sss": [
+        {
+          "s": "Çelebi çarşısında dükkan tadilatı yapıyor musunuz?",
+          "c": "Evet, çarşının trafiğini aksatmadan gece ve bayram dönemlerinde çalışıyor; kepenk, zemin ve vitrin işlerini planlı tamamlıyoruz."
+        },
+        {
+          "s": "Yeni aldığım dairede ince işçilik kusurları var, kontrol eder misiniz?",
+          "c": "Daireyi oda oda inceliyor, teslim-eksik listesi çıkarıp tek kalemde gideriyoruz; tutanaklı teslim yapıyoruz."
+        },
+        {
+          "s": "Sahil tarafındaki evimde nem ve kum etkisiyle küf var.",
+          "c": "Deniz etkisini ölçüyor, dış cephe temas noktalarını ve havalandırmayı düzeltip küf önleyici uygulama yapıyoruz."
+        },
+        {
+          "s": "Apartman genel giderleri eski, ortak yenileme yapıyor musunuz?",
+          "c": "Evet, yönetimle birlikte kolon temizliği, çatı kontrolü ve merdiven yenileme paketleri hazırlıyoruz; maliyet paylaşım raporu sunuyoruz."
+        }
+      ]
+    }
+  ]
+}

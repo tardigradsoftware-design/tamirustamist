@@ -1,0 +1,25 @@
+{
+  "slug": "esenler",
+  "ad": "Esenler",
+  "bolge": "Orta aks, yoğun göç ve dönüşüm bölgesi",
+  "accent": "red",
+  "layout": "B",
+  "heroIndex": 12,
+  "vurguluHizmetler": ["sihhi-tesisat-kurulumu-ve-yenileme", "banyo-fayans-ve-seramik-doseme", "elektrik-tesisati-kurulumu", "tikali-gider-acma", "komple-banyo-tadilati", "rutubet-ve-kuf-giderme"],
+  "komsular": ["bagcilar", "bayrampasa", "gaziosmanpasa", "basaksehir", "kucukcekmece"],
+  "giris": "Esenler; otogar bağlantısı, sanayi bölgeleri ve yoğun göç altyapısıyla İstanbul'un merkezinde dinamik bir ilçe. Yapı stoku içinde 1980-90 dönemi apartmanlarının yanı sıra kentsel dönüşüm kapsamına girmiş binalar da var. Bu ortamda tadilat talepleri; kiracı geçişlerinde hız, dönüşüm öncesi değer artırma ve eski binalarda güvenli yaşam başlıklarında yoğunlaşıyor. Ekibimiz Esenler'de; eski tesisatın yenilenmesi, banyo-mutfak tadilatları ve apartman genel gider tıkanıklıklarına müdahalede günlük deneyime sahip. Otogar ve E-5'e yakınlığı sayesinde her tür acil çağrıya hızlı ulaşıyoruz. Kentsel dönüşüm süreci başlayan binalarda, taşınmadan önce yapılacak küçük tadilatlarda da mütevazı ve dürüst öneri veriyoruz.",
+  "uzmanlik": "Kentsel dönüşüm bekleyen binalarda yatırımı gereksiz büyütmeyen, değer katan sadede dönük tadilatlar öneriyoruz. Otogar civarındaki işletmelerin 24 saatlik ticaret döngüsüne uygun vardiya çalışması yapıyoruz. Apartman yönetimlerine bina genel gider ve kolon hatları için toplu bakım paketi sunuyoruz.",
+  "musteriProfili": "Kiraya veren mülk sahipleri, otogar çevresi esnafı, apartman yöneticileri ve dönüşüm sürecindeki bina sakinleri.",
+  "sorunlar": [
+    "Eski binalarda projesiz, yıpranmış tesisat",
+    "Yoğun kullanımda apartman kolonlarının sık tıkanması",
+    "Kentsel dönüşüm öncesi gereksiz harcama riski",
+    "Kiracı geçişlerinde hızlı küçük tadilat ihtiyacı"
+  ],
+  "sss": [
+    { "s": "Dönüşüm bekleyen binamda tadilat yaptırmalı mıyım?", "c": "Küçük, geri dönüşü olan ve güvenlik sağlayan işleri öneriyoruz; büyük yatırım yapmadan önce süreci değerlendirmenizi istiyoruz. Dürüst danışmanlık bizim tarzımız." },
+    { "s": "Esenler'de apartman ortak kolon temizliği yapıyor musunuz?", "c": "Evet, jet makineyle kolon yıkama ve kamera kontrolü paketi sunuyoruz; yönetimler için toplu fiyat avantajımız var." },
+    { "s": "Kiracım çıktı, daireyi 1 haftada hazırlamak istiyorum.", "c": "Boya, zemin, banyo-mutfak rötuş ve temizlikten oluşan hızlı hazırlık paketimiz ile 5-7 günde teslim ediyoruz." },
+    { "s": "Otogar civarında dükkan tadilatında gece çalışıyor musunuz?", "c": "Evet, güvenlik ve gürültü kurallarına uygun şekilde gece vardiyası planlıyoruz; iş bitiminde alan günlük kullanıma uygun teslim edilir." }
+  ]
+}

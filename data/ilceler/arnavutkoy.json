@@ -1,0 +1,25 @@
+{
+  "slug": "arnavutkoy",
+  "ad": "Arnavutköy",
+  "bolge": "Kuzey İstanbul havalimanı aksı",
+  "accent": "amber",
+  "layout": "A",
+  "heroIndex": 0,
+  "vurguluHizmetler": ["komple-banyo-tadilati", "ic-cephe-boya-ve-badana", "kombi-bakimi-ve-ariza-onarimi", "elektrik-tesisati-kurulumu", "su-kacagi-tespiti"],
+  "komsular": ["basaksehir", "eyupsultan", "sultangazi", "catalca"],
+  "giris": "Arnavutköy, İstanbul'un en hızlı büyüyen ilçelerinden biri. İstanbul Havalimanı'nın açılmasıyla Bolluca, Tayakadın ve Hadımköy hattında yeni konut projeleri çoğaldı; TOKİ ve özel sektör konutlarıyla her yıl binlerce daire teslim ediliyor. Yeni teslim edilen dairelerde boya-badana, parke, banyo ve mutfak tadilatı talebi yoğun. Bunun yanında eski köy dokusundaki müstakil evlerde de çatı, tesisat ve ısıtma yenileme işleri sık yapılıyor. Ekibimiz Arnavutköy'ün hem yeni site içi dairelerine hem de orman kenarındaki müstakil evlerine hizmet götürüyor. Keşif ekibimiz aynı hafta içinde gelir, ölçü alır ve aynı gün sabit fiyat teklifi çıkarır. Şantiyesi, su kaçağı acili olan müşterilerimize ise 7/24 hattımızdan ulaşabilirsiniz.",
+  "uzmanlik": "Havalimanı kaynaklı istihdamla ilçeye taşınan aileler için anahtar teslim banyo ve mutfak tadilatı paketlerimiz ilk tercih oluyor. Site yönetimleriyle koordineli çalışıyor; asansör planlama, gürültü saati ve moloz çıkışı kurallarına tam uyum sağlıyoruz. Orman köylerindeki müstakil evlerde ise kombi tesisatı, su deposu bağlantısı ve müştemilat tadilatlarında deneyimliyiz. Kışın orman hattındaki evlerde donma kaynaklı boru patlakları için acil ekip gönderiyoruz.",
+  "musteriProfili": "Havalimanı çalışanı genç aileler, TOKİ ve site daire sahipleri, Bolluca bölgesinde yazlık evini kışlığa çeviren mülk sahipleri ağırlıktadır.",
+  "sorunlar": [
+    "Yeni binalarda ince işçilik kusurları ve boya kabarması",
+    "Orman köylerinde kışın donan su hatları ve patlak borular",
+    "Site içi dairelerde ses yalıtımı yetersizliği",
+    "Müstakil evlerde eski kombi ve kalorifer tesisatı verimsizliği"
+  ],
+  "sss": [
+    { "s": "Arnavutköy'de yeni teslim daire tadilatı yapıyor musunuz?", "c": "Evet, teslim öncesi ince işçilik tespiti, boya-badana, parke ve banyo düzenlemelerini site süreçleriyle uyumlu şekilde yürütüyoruz." },
+    { "s": "Köy evinde su borusu dondu, ne yapmalıyım?", "c": "Vantiyi kapatıp bizi arayın; donan hattın yerini tespit edip eritiyor, patlarsa boruyu değiştiriyoruz. 7/24 acil hattımız mevcuttur." },
+    { "s": "Havalimanı çevresindeki evlerde izolasyon öneriyor musunuz?", "c": "Uçuş gürültüsüne karşı pencere değişimi ve cephe yalıtımı öneriyoruz; ses yalıtımı hizmetimizle ölçüm yapıp çözüm sunuyoruz." },
+    { "s": "Arnavutköy'de site içi çalışmanın kuralları var mı?", "c": "Site yönetimlerinin çalışma saatleri ve asansör kullanımı kurallarına uyuyoruz; moloz çıkışını yönetim onayına göre planlıyoruz." }
+  ]
+}
