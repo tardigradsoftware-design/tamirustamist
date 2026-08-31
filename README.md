@@ -120,10 +120,12 @@ npm run preview  # Statik export'u sunar
 
 ## 🗺️ İlçe Haritası
 
-SVG tabanlı şemaatik İstanbul Avrupa Yakası haritası:
-- 25 ilçe altıgen (hex) yerleşimi
-- Tıklanabilir: her ilçe ilgili sayfaya yönlendirir
-- `data-ilce` CSS hover efektleri
+Gerçek ilçe sınırlarından üretilmiş, SVG tabanlı İstanbul Avrupa Yakası hizmet rehberi:
+- 25 gerçek ilçe sınırı, coğrafi konumlara uygun görünüm
+- Haritadan seçim + aranabilir liste + seçili ilçe detay kartı
+- Renk grupları, hover/focus durumu ve mobil uyumlu iki kolonlu düzen
+- Veri üretimi: `node scripts/build-ilce-map.mjs <ilce_geojson.json>`
+- Kaynak: OpenStreetMap / Nominatim üzerinden alınan ilçe sınırları
 
 ## 🎯 İyileştirme Paketi (A / B / C)
 

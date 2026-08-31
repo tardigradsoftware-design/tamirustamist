@@ -253,30 +253,52 @@
   .ilce-layout-B .flip-bolge { flex-direction: column; }
 }
 
-/* --- İlçe haritası --- */
-.ilce-harita path.ilce {
-  fill: #e2e8f0;
-  stroke: #fff;
-  stroke-width: 1.8;
-  transition: fill 0.3s ease, transform 0.3s ease, filter 0.3s ease;
+/* --- Gerçek ilçe haritası --- */
+.ilce-harita .map-district-link {
   cursor: pointer;
-  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.08));
-}
-.ilce-harita path.ilce:hover,
-.ilce-harita path.ilce:focus {
-  fill: var(--accent);
-  filter: drop-shadow(0 4px 12px rgba(var(--accent-ring), 0.4));
   outline: none;
 }
-.ilce-harita text.ilce-label {
-  font-size: 9px;
-  font-weight: 700;
-  fill: #334155;
-  pointer-events: none;
-  text-anchor: middle;
-  font-family: var(--font-jakarta), sans-serif;
+.ilce-harita .map-district {
+  stroke: rgba(255, 255, 255, 0.96);
+  stroke-width: 1.35;
+  vector-effect: non-scaling-stroke;
+  transition: fill 0.22s ease, filter 0.22s ease, stroke 0.22s ease;
 }
-.ilce-harita a:hover text.ilce-label { fill: #fff; }
+.ilce-harita .map-district-link:hover .map-district,
+.ilce-harita .map-district-link:focus .map-district {
+  fill: var(--accent);
+  stroke: #fff;
+  filter: drop-shadow(0 2px 5px rgba(15, 23, 42, 0.25));
+}
+.ilce-harita .map-district.is-selected {
+  stroke: var(--accent-strong);
+  stroke-width: 2.2;
+  filter: drop-shadow(0 3px 7px rgba(var(--accent-ring), 0.35));
+}
+.ilce-harita .map-selected-dot {
+  fill: var(--accent-strong);
+  stroke: #fff;
+  stroke-width: 2;
+  pointer-events: none;
+}
+.ilce-harita .map-selected-label text {
+  fill: #fff;
+  font-weight: 800;
+  paint-order: stroke;
+  stroke: var(--accent-strong);
+  stroke-width: 4px;
+  stroke-linejoin: round;
+}
+.ilce-harita .map-sea-label {
+  fill: #0284c7;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  pointer-events: none;
+}
+@media (max-width: 639px) {
+  .ilce-harita .map-sea-label { font-size: 8px; }
+}
 
 /* --- FAQ accordion --- */
 .faq-item[open] .faq-chevron { transform: rotate(180deg); }
