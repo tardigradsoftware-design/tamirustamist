@@ -121,6 +121,88 @@ export default function HakkimizdaPage() {
         </div>
       </section>
 
+      {/* C3 — Ekibimiz, usta kadro ve sertifikalar */}
+      <section className="section bg-ink-50/50">
+        <div className="container-x">
+          <Reveal>
+            <SectionHeading
+              eyebrow="Ekibimiz ve Sertifikalar"
+              title="Ustalık Belgesi, Sigortası ve Sertifikasıyla Kadromuz"
+              sub="Kendi kadromuzdaki ustalar; ustalık belgeli, sigortalı ve üretici sertifikalı eğitimlerden geçer. Sahanızda çalışacak ekibi önceden tanıyın."
+            />
+          </Reveal>
+          <div className="mt-12 grid gap-6 md:grid-cols-3">
+            <Reveal delay={0}>
+              <figure className="card overflow-hidden">
+                <div className="aspect-[4/3] overflow-hidden">
+                  <img
+                    src="/images/ekip-2.webp"
+                    alt="Tamir Ustam İstanbul tadilat ekibi sahada"
+                    loading="lazy"
+                    width={640}
+                    height={480}
+                    className="h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+                  />
+                </div>
+                <figcaption className="p-5">
+                  <h3 className="text-lg">Saha Ekibimiz</h3>
+                  <p className="mt-2 text-sm leading-relaxed text-ink-500">
+                    Her şantiyede en az bir ustabaşı; tesviye, karo, tesisat ve elektrik işlerinde branş ustaları görev yapar.
+                  </p>
+                </figcaption>
+              </figure>
+            </Reveal>
+            <Reveal delay={80}>
+              <figure className="card mt-6 overflow-hidden md:mt-0">
+                <div className="aspect-[4/3] overflow-hidden">
+                  <img
+                    src="/images/insaat-1.webp"
+                    alt="Usta kadro: tesisat ustası iş başında"
+                    loading="lazy"
+                    width={640}
+                    height={480}
+                    className="h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+                  />
+                </div>
+                <figcaption className="p-5">
+                  <h3 className="text-lg">Branş Ustaları</h3>
+                  <p className="mt-2 text-sm leading-relaxed text-ink-500">
+                    MEB onaylı ustalık belgesine sahip, düzenli saha eğitimi alan sigortalı kadro; taşeron zinciri yoktur.
+                  </p>
+                </figcaption>
+              </figure>
+            </Reveal>
+            <Reveal delay={160}>
+              <figure className="card mt-6 overflow-hidden md:mt-0">
+                <div className="aspect-[4/3] overflow-hidden">
+                  <img
+                    src="/images/sertifika-1.webp"
+                    alt="Firma sertifika ve üretici yetki belgeleri"
+                    loading="lazy"
+                    width={640}
+                    height={480}
+                    className="h-full w-full object-cover transition-transform duration-500 hover:scale-105"
+                  />
+                </div>
+                <figcaption className="p-5">
+                  <h3 className="text-lg">Sertifikalar ve Yetkiler</h3>
+                  <p className="mt-2 text-sm leading-relaxed text-ink-500">
+                    Kombi ve vitrifiye üreticilerinin yetkili servis sertifikaları; sigorta, iş güvenliği ve KVKK uyum belgeleri dosyamızda hazırdır.
+                  </p>
+                </figcaption>
+              </figure>
+            </Reveal>
+          </div>
+          <Reveal delay={200}>
+            <p className="mx-auto mt-10 max-w-2xl rounded-2xl border border-ink-100 bg-white p-5 text-center text-sm leading-relaxed text-ink-600">
+              <Icon name="shield" size={16} className="mr-1 inline-block text-brand-600" />
+              Talebiniz halinde ekibin usta belgeleri, sigorta poliçesi ve üretici yetki sertifikaları keşifte veya
+              sözleşme öncesinde gösterilir; kopyaları sözleşme dosyanıza eklenir.
+            </p>
+          </Reveal>
+        </div>
+      </section>
+
       <CTABanner />
       <SchemaMarkup
         data={{

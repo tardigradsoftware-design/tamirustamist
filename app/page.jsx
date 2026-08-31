@@ -80,6 +80,7 @@ export default function HomePage() {
 
       {/* 1 — HERO */}
       <HeroSection
+        layout="split"
         image="/images/hero.webp"
         h1={`${firma.deneyimYil} Yıllık Deneyim, 25 İlçe, 54 Hizmet — İstanbul Tadilat ve Tesisat Ustası`}
         sub={`${firma.ad} olarak İstanbul Avrupa Yakası\'nda banyo tadilatı, mutfak yenileme, su kaçağı tespiti, kombi bakımı, elektrik tesisatı, boya badana, parke döşeme ve tıkanıklık açma hizmetlerini tek çatı altında sunuyoruz. Ücretsiz keşif ve sabit fiyat sözleşmesi için hemen arayın.`}

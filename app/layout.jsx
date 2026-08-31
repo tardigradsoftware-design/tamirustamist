@@ -13,7 +13,7 @@ import WhatsAppFloat from '../components/WhatsAppFloat';
 import StickyCallBar from '../components/StickyCallBar';
 import CookieBanner from '../components/CookieBanner';
 import SchemaMarkup from '../components/SchemaMarkup';
-import { firma, siteUrl, ga4Id } from '../lib/site-data';
+import { firma, siteUrl, ga4Id, gmbUrl } from '../lib/site-data';
 
 // Fontlar self-hosted (@fontsource) — Google Fonts'a dış bağımlılık yok
 
@@ -30,6 +30,7 @@ const localBusiness = {
   image: `${siteUrl}/images/og.jpg`,
   priceRange: '₺₺',
   foundingDate: firma.kurulusYili,
+  ...(gmbUrl ? { sameAs: [gmbUrl] } : {}),
   areaServed: [
     { '@type': 'City', name: 'İstanbul' },
     { '@type': 'AdministrativeArea', name: 'Avrupa Yakası' },

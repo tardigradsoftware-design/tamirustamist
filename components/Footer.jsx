@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Icon from './Icons';
 import Logo from './Logo';
-import { firma, sosyalMedya, kategoriler, ilceler, siteUrl } from '../lib/site-data';
+import { firma, sosyalMedya, kategoriler, ilceler, siteUrl, degerlendirme, gmbUrl } from '../lib/site-data';
 
 export default function Footer() {
   const yil = new Date().getFullYear();
@@ -132,6 +132,54 @@ export default function Footer() {
           </div>
         </div>
 
+        {/* 7/24 iletişim bandı (A3: tıklanabilir telefon/e-posta/WhatsApp) */}
+        <div className="grid gap-5 rounded-2xl border border-white/10 bg-white/5 p-6 sm:grid-cols-3">
+          <a
+            href={`tel:${firma.telefonTel}`}
+            className="group flex items-center gap-3 rounded-xl bg-white/5 p-4 transition-colors hover:bg-brand-600"
+          >
+            <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-brand-600 text-white">
+              <Icon name="phone" size={20} />
+            </span>
+            <span>
+              <span className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 group-hover:text-white">
+                Hemen Arayın
+              </span>
+              <span className="block text-base font-bold text-white">{firma.telefon}</span>
+            </span>
+          </a>
+          <a
+            href={`mailto:${firma.email}`}
+            className="group flex items-center gap-3 rounded-xl bg-white/5 p-4 transition-colors hover:bg-brand-600"
+          >
+            <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-brand-600 text-white">
+              <Icon name="mail" size={20} />
+            </span>
+            <span>
+              <span className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 group-hover:text-white">
+                E-posta Gönderin
+              </span>
+              <span className="block truncate text-base font-bold text-white">{firma.email}</span>
+            </span>
+          </a>
+          <a
+            href={`https://wa.me/${firma.whatsapp}?text=${encodeURIComponent('Merhaba, hizmetleriniz hakkında bilgi almak istiyorum.')}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group flex items-center gap-3 rounded-xl bg-white/5 p-4 transition-colors hover:bg-whatsapp"
+          >
+            <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-lg bg-whatsapp text-white">
+              <Icon name="whatsapp" size={20} />
+            </span>
+            <span>
+              <span className="block text-[11px] font-bold uppercase tracking-wider text-slate-400 group-hover:text-white">
+                WhatsApp Destek
+              </span>
+              <span className="block text-base font-bold text-white">7/24 Online</span>
+            </span>
+          </a>
+        </div>
+
         <div className="border-t border-white/10 py-6 text-xs text-slate-400">
           <div className="flex flex-col items-center justify-between gap-3 sm:flex-row">
             <p>
@@ -140,6 +188,17 @@ export default function Footer() {
             <p className="flex items-center gap-1.5">
               <Icon name="shield" size={13} className="text-brand-500" />
               KVKK kapsamında kişisel verileriniz güvende ·{' '}
+              <Icon name="star" size={13} className="text-amber-400" />
+              {String(degerlendirme.puan).replace('.', ',')} ({degerlendirme.yorumSayisi} yorum)
+              {gmbUrl && (
+                <>
+                  {' '}·{' '}
+                  <a href={gmbUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-brand-400">
+                    Google'da Bizi Değerlendirin
+                  </a>
+                </>
+              )}
+              {' '}·{' '}
               <a href={`${siteUrl}/sitemap.xml`} className="underline hover:text-brand-400">
                 Sitemap
               </a>{' '}

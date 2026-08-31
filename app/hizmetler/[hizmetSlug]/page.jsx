@@ -15,13 +15,16 @@ import {
   firma,
   siteUrl,
   metaDescription,
+  degerlendirme,
+  getHizmetReferanslari,
+  getKategoriGorselleri,
 } from '../../../lib/site-data';
 
 export function generateStaticParams() {
   return tümHizmetSlugs.map((hizmetSlug) => ({ hizmetSlug }));
 }
 
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }) {
   const h = getHizmet(params.hizmetSlug);
@@ -40,7 +43,7 @@ export async function generateMetadata({ params }) {
       title: `${h.baslik} | ${firma.ad}`,
       description: h.kisaAciklama,
       url: `${siteUrl}/hizmetler/${h.slug}/`,
-      images: [{ url: `${siteUrl}/images/hizmet-${h.kategori.slug}.jpg`, width: 1200, height: 630 }],
+      images: [{ url: `${siteUrl}/images/hizmet-${h.kategori.slug}-1.webp`, width: 1024, height: 559 }],
     },
   };
 }
@@ -50,6 +53,8 @@ export default function HizmetDetayPage({ params }) {
   if (!h) notFound();
 
   const kategori = h.kategori;
+  const gorseller = getKategoriGorselleri(h.slug);
+  const yorumlar = getHizmetReferanslari(h.slug);
   const digerHizmetler = kategoridenHizmetler(kategori.slug).filter((x) => x.slug !== h.slug);
   const breadcrumb = [
     { label: 'Hizmetler', href: '/hizmetler' },
@@ -60,6 +65,7 @@ export default function HizmetDetayPage({ params }) {
   const serviceSchema = {
     '@context': 'https://schema.org',
     '@type': 'Service',
+    '@id': `${siteUrl}/hizmetler/${h.slug}/#hizmet`,
     serviceType: h.baslik,
     name: h.baslik,
     description: h.kisaAciklama,
@@ -67,15 +73,31 @@ export default function HizmetDetayPage({ params }) {
     areaServed: [{ '@type': 'City', name: 'İstanbul' }, { '@type': 'AdministrativeArea', name: 'İstanbul Avrupa Yakası' }],
     url: `${siteUrl}/hizmetler/${h.slug}/`,
     offers: { '@type': 'Offer', priceCurrency: 'TRY', availability: 'https://schema.org/InStock' },
+    /* B2 — hizmet bazlı puan zenginleştirmesi (Google'da zengin sonuç için) */
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: String(degerlendirme.puan),
+      reviewCount: String(degerlendirme.yorumSayisi),
+      bestRating: '5',
+    },
   };
 
+  /* B1 — FAQPage schema zenginleştirmesi: @id, inLanguage, about bağlantısı */
   const faqSchema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
+    '@id': `${siteUrl}/hizmetler/${h.slug}/#sss`,
+    inLanguage: 'tr-TR',
+    about: { '@id': `${siteUrl}/hizmetler/${h.slug}/#hizmet` },
     mainEntity: h.sss.map((f) => ({
       '@type': 'Question',
       name: f.s,
-      acceptedAnswer: { '@type': 'Answer', text: f.c },
+      inLanguage: 'tr-TR',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: f.c,
+        inLanguage: 'tr-TR',
+      },
     })),
   };
 
@@ -130,6 +152,63 @@ export default function HizmetDetayPage({ params }) {
                   <p className="mt-4 leading-relaxed text-ink-600">{h.detay}</p>
                 </article>
               </Reveal>
+
+              {/* C1 — hizmet galerisi (kategori bazlı yüksek kaliteli görseller) */}
+              {gorseller.length > 0 && (
+                <Reveal delay={60}>
+                  <div className="mt-10">
+                    <h2 className="text-2xl">{h.baslik.split(' (')[0]} Uygulama Görselleri</h2>
+                    <div className="mt-5 grid gap-4 sm:grid-cols-2">
+                      {gorseller.map((g, i) => (
+                        <img
+                          key={g}
+                          src={g}
+                          alt={
+                            i === 0
+                              ? `${h.baslik.split(' (')[0]} uygulama görseli — ${firma.kisaAd}`
+                              : `${h.baslik.split(' (')[0]} uygulama örneği — ${firma.kisaAd}`
+                          }
+                          loading="lazy"
+                          width={640}
+                          height={480}
+                          className={`aspect-[4/3] w-full rounded-2xl object-cover shadow-card ${
+                            i % 2 === 1 ? 'sm:translate-y-6' : ''
+                          }`}
+                        />
+                      ))}
+                    </div>
+                  </div>
+                </Reveal>
+              )}
+
+              {/* B4 — hizmete özel müşteri yorumları */}
+              {yorumlar.length > 0 && (
+                <Reveal delay={80}>
+                  <div className="mt-10 rounded-2xl border border-ink-100 bg-brand-50/50 p-7">
+                    <h2 className="text-xl">
+                      <Icon name="quoteFill" size={18} className="mr-2 inline-block text-brand-600" />
+                      Bu Hizmetle İlgili Müşteri Yorumları
+                    </h2>
+                    <div className="mt-5 grid gap-4 sm:grid-cols-2">
+                      {yorumlar.map((r) => (
+                        <figure key={r.ad + r.ilce} className="card flex h-full flex-col justify-between bg-white p-5">
+                          <blockquote className="text-sm leading-relaxed text-ink-700">“{r.yorum}”</blockquote>
+                          <figcaption className="mt-4 flex items-center justify-between gap-2 border-t border-ink-100 pt-3 text-xs text-ink-500">
+                            <span className="font-bold text-ink-800">
+                              {r.ad} <span className="font-normal">· {r.ilce}</span>
+                            </span>
+                            <span className="flex gap-0.5 text-amber-400" aria-label={`${r.puan} yıldız`}>
+                              {[1, 2, 3, 4, 5].map((s) => (
+                                <Icon key={s} name="star" size={12} className={s <= r.puan ? '' : 'opacity-25'} />
+                              ))}
+                            </span>
+                          </figcaption>
+                        </figure>
+                      ))}
+                    </div>
+                  </div>
+                </Reveal>
+              )}
 
               <Reveal delay={80}>
                 <div className="mt-10 rounded-2xl border border-ink-100 bg-ink-50/60 p-7">

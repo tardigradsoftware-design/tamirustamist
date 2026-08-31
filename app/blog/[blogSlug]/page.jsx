@@ -10,7 +10,7 @@ export function generateStaticParams() {
   return bloglar.map((b) => ({ blogSlug: b.slug }));
 }
 
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }) {
   const b = blogMap.get(params.blogSlug);

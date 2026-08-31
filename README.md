@@ -20,10 +20,11 @@ npm run preview  # Statik export'u sunar
 │   ├── hizmetler.json           ← 54 hizmet (7 kategori, benzersiz SSS)
 │   ├── ilceler.json             ← 25 ilçe (benzersiz içerik, harita)
 │   ├── faq.json                 ← Genel & süreç SSS havuzu
-│   ├── referanslar.json         ← 10 müşteri yorumu
-│   └── blog.json                ← 6 SEO blog yazısı
+│   ├── referanslar.json         ← 18 müşteri yorumu
+│   └── blog.json                ← 10 SEO blog yazısı
 ├── scripts/
 │   ├── build-data.mjs           ← Veri doğrulama & birleştirme
+│   ├── enrich-services.mjs      ← Hizmetlere görsel + referans enjeksiyonu
 │   └── generate-sitemap.mjs     ← sitemap.xml + robots.txt üretimi
 ├── components/
 │   ├── Header.jsx               ← Sticky mega menü (hizmetler + bölgeler)
@@ -55,9 +56,9 @@ npm run preview  # Statik export'u sunar
 │   ├── [ilce]/page.jsx          ← 25 ilçe sayfası (benzersiz içerik)
 │   ├── [ilce]/[hizmetSlug]/     ← 1350 lokasyon+hizmet sayfası
 │   ├── blog/page.jsx            ← Blog listesi
-│   └── blog/[blogSlug]/         ← 6 blog yazısı
+│   └── blog/[blogSlug]/         ← 10 blog yazısı
 ├── public/
-│   ├── sitemap.xml              ← 1441 URL (otomatik üretilen)
+│   ├── sitemap.xml              ← 1445 URL (otomatik üretilen)
 │   ├── robots.txt
 │   └── images/                  ← WebP görseller
 └── styles/
@@ -75,16 +76,16 @@ npm run preview  # Statik export'u sunar
 | Hizmet detay | 54 | Her biri özgün (detay + 5 SSS) |
 | İlçe sayfası | 25 | Benzersiz içerik (%20 benzersizlik) |
 | İlçe + hizmet | 1.350 | Lokasyon bazlı servis sayfası |
-| Blog | 7 | Liste + 6 detay yazısı |
+| Blog | 11 | Liste + 10 detay yazısı |
 | 404 | 1 | Özel hata sayfası |
-| **Toplam** | **1.443** | **Tümü statik HTML** |
+| **Toplam** | **1.447** | **Tümü statik HTML** |
 
 ## 🔍 SEO Özellikleri
 
 - ✅ Benzersiz `<title>` ve `<meta description>` her sayfada (max 60/160 karakter)
 - ✅ Canonical URL + `hreflang` (tr-TR, x-default)
 - ✅ Open Graph + Twitter Card meta etiketleri
-- ✅ `robots.txt` ve `sitemap.xml` (1441 URL)
+- ✅ `robots.txt` ve `sitemap.xml` (1445 URL)
 - ✅ JSON-LD Structured Data:
   - `LocalBusiness` / `HomeAndConstructionBusiness` (ana sayfa + ilçe)
   - `Service` (hizmet sayfaları)
@@ -124,6 +125,12 @@ SVG tabanlı şemaatik İstanbul Avrupa Yakası haritası:
 - Tıklanabilir: her ilçe ilgili sayfaya yönlendirir
 - `data-ilce` CSS hover efektleri
 
+## 🎯 İyileştirme Paketi (A / B / C)
+
+- **A — Tasarım:** Split-screen hero + Google puan rozeti, interaktif ilçe haritası (zoom/pan/sürükle), footer'da tıklanabilir tel/e-posta/WhatsApp bandı, markalı skeleton loader, Framer Motion sayfa geçişleri
+- **B — SEO:** `FAQPage` schema zenginleştirme (`inLanguage` + `about`), `Service` + `AggregateRating` schema, hero'da görünür yıldız puanı, blog 10 yazıya çıkarıldı, her hizmet + ilçe sayfasında müşteri yorumu, Google My Business config slotu + footer bağlantısı
+- **C — İçerik/Görsel:** Her hizmete uygulama galerisi (AI görseller, WebP), müşteri referansları 18'e çıkarıldı, Hakkımızda'da ekip ve sertifika bölümü
+
 ## ⚙️ Teknik
 
 | Özellik | Değer |
@@ -131,11 +138,11 @@ SVG tabanlı şemaatik İstanbul Avrupa Yakası haritası:
 | Framework | Next.js 14.2 (App Router, SSG) |
 | CSS | Tailwind CSS 3.4 |
 | Fontlar | Plus Jakarta Sans + Barlow Condensed (self-hosted) |
-| SSG Sayfa | 1443 |
+| SSG Sayfa | 1447 |
 | Bundle Boyutu | ~88-100 kB İlk Yükleme JS |
-| Sitemap URL | 1441 |
+| Sitemap URL | 1445 |
 | JSON-LD | Tüm sayfalarda |
-| Image Format | WebP (19 görsel) |
+| Image Format | WebP (30+ görsel) |
 
 ## 🔧 Firma Bilgilerini Güncelleme
 

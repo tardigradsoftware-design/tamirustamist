@@ -16,6 +16,9 @@ import {
   firma,
   siteUrl,
   metaDescription,
+  degerlendirme,
+  getHizmetReferanslari,
+  getKategoriGorselleri,
 } from '../../../lib/site-data';
 
 export function generateStaticParams() {
@@ -28,7 +31,7 @@ export function generateStaticParams() {
   return out;
 }
 
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }) {
   const i = getIlce(params.ilce);
@@ -60,16 +63,26 @@ export default function IlceHizmetPage({ params }) {
 
   const kisa = h.baslik.split(' (')[0];
   const kategori = h.kategori;
+  const gorseller = getKategoriGorselleri(h.slug);
+  const yorumlar = getHizmetReferanslari(h.slug, ilce.slug);
 
   const schemaService = {
     '@context': 'https://schema.org',
     '@type': 'Service',
+    '@id': `${siteUrl}/${ilce.slug}/${h.slug}/#hizmet`,
     serviceType: `${ilce.ad} ${kisa}`,
     name: `${ilce.ad} ${kisa}`,
     description: h.kisaAciklama,
     provider: { '@id': `${siteUrl}/${ilce.slug}/#isletme` },
     areaServed: { '@type': 'City', name: ilce.ad },
     url: `${siteUrl}/${ilce.slug}/${h.slug}/`,
+    /* B2 — hizmet + ilçe sayfası puan zenginleştirmesi */
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: String(degerlendirme.puan),
+      reviewCount: String(degerlendirme.yorumSayisi),
+      bestRating: '5',
+    },
   };
 
   const schemaBreadcrumb = {
@@ -85,10 +98,18 @@ export default function IlceHizmetPage({ params }) {
   const schemaFaq = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
+    '@id': `${siteUrl}/${ilce.slug}/${h.slug}/#sss`,
+    inLanguage: 'tr-TR',
+    about: { '@id': `${siteUrl}/${ilce.slug}/${h.slug}/#hizmet` },
     mainEntity: h.sss.slice(0, 5).map((f) => ({
       '@type': 'Question',
       name: f.s,
-      acceptedAnswer: { '@type': 'Answer', text: f.c },
+      inLanguage: 'tr-TR',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: f.c,
+        inLanguage: 'tr-TR',
+      },
     })),
   };
 
@@ -155,6 +176,59 @@ export default function IlceHizmetPage({ params }) {
                 </li>
               ))}
             </ul>
+
+            {/* C1 — hizmet görsel galerisi */}
+            {gorseller.length > 0 && (
+              <div className="mt-10">
+                <h2 className="text-2xl">{ilce.ad} {kisa} Uygulama Görselleri</h2>
+                <div className="mt-5 grid gap-4 sm:grid-cols-2">
+                  {gorseller.map((g, i) => (
+                    <img
+                      key={g}
+                      src={g}
+                      alt={
+                        i === 0
+                          ? `${ilce.ad} ${kisa} uygulama görseli — ${firma.kisaAd}`
+                          : `${ilce.ad} ${kisa} uygulama örneği — ${firma.kisaAd}`
+                      }
+                      loading="lazy"
+                      width={640}
+                      height={480}
+                      className={`aspect-[4/3] w-full rounded-2xl object-cover shadow-card ${
+                        i % 2 === 1 ? 'sm:translate-y-6' : ''
+                      }`}
+                    />
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* B4 — ilçe bazlı müşteri yorumları */}
+            {yorumlar.length > 0 && (
+              <div className="mt-10 rounded-2xl border border-ink-100 bg-brand-50/50 p-7">
+                <h2 className="text-xl">
+                  <Icon name="quoteFill" size={18} className="mr-2 inline-block text-brand-600" />
+                  {ilce.ad}'da Bu Hizmeti Alan Müşterilerimiz Ne Diyor?
+                </h2>
+                <div className="mt-5 grid gap-4 sm:grid-cols-2">
+                  {yorumlar.map((r) => (
+                    <figure key={r.ad + r.ilce} className="card flex h-full flex-col justify-between bg-white p-5">
+                      <blockquote className="text-sm leading-relaxed text-ink-700">“{r.yorum}”</blockquote>
+                      <figcaption className="mt-4 flex items-center justify-between gap-2 border-t border-ink-100 pt-3 text-xs text-ink-500">
+                        <span className="font-bold text-ink-800">
+                          {r.ad} <span className="font-normal">· {r.ilce}</span>
+                        </span>
+                        <span className="flex gap-0.5 text-amber-400" aria-label={`${r.puan} yıldız`}>
+                          {[1, 2, 3, 4, 5].map((s) => (
+                            <Icon key={s} name="star" size={12} className={s <= r.puan ? '' : 'opacity-25'} />
+                          ))}
+                        </span>
+                      </figcaption>
+                    </figure>
+                  ))}
+                </div>
+              </div>
+            )}
 
             <h2 className="mt-10 text-2xl">{ilce.ad} {kisa} — Sık Sorulan Sorular</h2>
             <div className="mt-5">
