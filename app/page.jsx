@@ -114,20 +114,20 @@ export default function HomePage() {
               sub="Komple banyo tadilatından kombi montajına, su kaçağı tespitinden elektrik arızasına kadar 54 farklı hizmeti tek firmadan alabilirsiniz."
             />
           </Reveal>
-          <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          <div className="mt-8 grid items-start gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {kategoriler.map((k, i) => (
               <Reveal key={k.slug} delay={i * 70}>
                 <Link
                   href={`/hizmetler/${k.hizmetler[0].slug}`}
-                  className="card group block p-7"
+                  className="card group block p-5 sm:p-6"
                 >
                   <span
-                    className="flex h-14 w-14 items-center justify-center rounded-2xl transition-all duration-300 group-hover:scale-110 group-hover:shadow-lg"
+                    className="flex h-10 w-10 items-center justify-center rounded-xl transition-all duration-300 group-hover:scale-105 group-hover:shadow-md"
                     style={{ background: 'var(--accent-soft)', color: 'var(--accent)' }}
                   >
-                    <Icon name={k.ikon} size={28} />
+                    <Icon name={k.ikon} size={21} />
                   </span>
-                  <h3 className="mt-5 text-xl">{k.baslik}</h3>
+                  <h3 className="mt-3 text-lg">{k.baslik}</h3>
                   <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-ink-500">{k.aciklama}</p>
                   <div className="mt-3 flex flex-wrap gap-1.5">
                     {k.hizmetler.slice(0, 4).map((h) => (
@@ -141,7 +141,7 @@ export default function HomePage() {
                       </span>
                     )}
                   </div>
-                  <span className="mt-5 inline-flex items-center gap-1.5 text-sm font-bold uppercase tracking-wide" style={{ color: 'var(--accent)' }}>
+                  <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-bold" style={{ color: 'var(--accent)' }}>
                     {k.hizmetler.length} Hizmeti İncele <Icon name="arrowRight" size={15} />
                   </span>
                 </Link>
@@ -168,10 +168,10 @@ export default function HomePage() {
                   ve tesisat hizmeti veriyoruz. {firma.tamamlananProje.toLocaleString('tr-TR')}+ projeyi
                   zamanında ve bütçede tamamladık. Müşterilerimizin %96'sı bizi öneriyor.
                 </p>
-                <ul className="mt-7 space-y-5">
+                <ul className="mt-6 space-y-4">
                   {nedenBiz.map((x) => (
                     <li key={x.t} className="flex gap-4">
-                      <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-brand-600 text-white shadow-lg shadow-brand-600/30">
+                      <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-brand-600 text-white shadow-md shadow-brand-600/20">
                         <Icon name={x.icon} size={20} />
                       </span>
                       <div>
@@ -221,7 +221,7 @@ export default function HomePage() {
               sub="Banyo tadilatı, su kaçağı tespiti, kombi bakımı, boya badana ve parke döşeme İstanbul Avrupa Yakası'nda en çok talep edilen işler."
             />
           </Reveal>
-          <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+          <div className="mt-8 grid items-start gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {onekler.map((h, i) => (
               <Reveal key={h.slug} delay={(i % 4) * 60}>
                 <ServiceCard hizmet={h} />

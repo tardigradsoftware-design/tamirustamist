@@ -216,7 +216,7 @@ export default function IlcePage({ params }) {
                 sub={`${ilce.ad} müşterilerimizin yoğun talebi üzerine seçtiğimiz hizmetler.`}
               />
             </Reveal>
-            <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="mt-8 grid items-start gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {vurgulu.slice(0, 6).map((h, i) => (
                 <Reveal key={h.slug} delay={(i % 3) * 60}>
                   <ServiceCard hizmet={h} compact />
@@ -237,7 +237,7 @@ export default function IlcePage({ params }) {
               sub="Her kart, ilçeye özel anahtar teslim hizmet sayfasına bağlanır. Dilerseniz doğrudan telefonla konuşarak ihtiyacınızı anlatın."
             />
           </Reveal>
-          <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-8 grid items-start gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {tümHizmetler.map((h, i) => (
               <Reveal key={h.slug} delay={(i % 3) * 50}>
                 <ServiceCard hizmet={h} compact ilceSlug={ilce.slug} />

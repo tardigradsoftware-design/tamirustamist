@@ -14,7 +14,7 @@
   --card-shadow: 0 8px 30px rgba(15,23,42,0.08), 0 1px 3px rgba(15,23,42,0.04);
   --card-shadow-hover: 0 20px 44px rgba(15,23,42,0.14), 0 4px 12px rgba(15,23,42,0.06);
   --text-ratio: 0.92;
-  --section-gap: clamp(3.5rem, 6vw, 5.5rem);
+  --section-gap: clamp(2.75rem, 4.5vw, 4.5rem);
 }
 
 /* İlçe bazlı accent varyantları (data-ilce varyantları) */
@@ -78,7 +78,7 @@
     text-rendering: optimizeLegibility;
   }
   h1, h2, h3, h4 {
-    @apply font-display font-bold uppercase tracking-tight text-ink-900;
+    @apply font-display font-bold tracking-tight text-ink-900;
   }
   ::selection {
     background: rgb(var(--accent-ring) / 0.2);

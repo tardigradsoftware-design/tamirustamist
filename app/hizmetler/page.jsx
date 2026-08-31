@@ -65,7 +65,7 @@ export default function HizmetlerPage() {
                 </Link>
               </div>
             </Reveal>
-            <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="mt-8 grid items-start gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {kat.hizmetler.map((h, i) => (
                 <Reveal key={h.slug} delay={(i % 3) * 60}>
                   <ServiceCard hizmet={h} />
