@@ -3,6 +3,7 @@ import Icon from '../components/Icons';
 import HeroSection from '../components/HeroSection';
 import SectionHeading from '../components/SectionHeading';
 import ServiceCard from '../components/ServiceCard';
+import CategoryCard from '../components/CategoryCard';
 import CTABanner from '../components/CTABanner';
 import CounterStats from '../components/CounterStats';
 import FAQAccordion from '../components/FAQAccordion';
@@ -116,35 +117,8 @@ export default function HomePage() {
           </Reveal>
           <div className="mt-8 grid items-start gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {kategoriler.map((k, i) => (
-              <Reveal key={k.slug} delay={i * 70}>
-                <Link
-                  href={`/hizmetler/${k.hizmetler[0].slug}`}
-                  className="card group block p-5 sm:p-6"
-                >
-                  <span
-                    className="flex h-10 w-10 items-center justify-center rounded-xl transition-all duration-300 group-hover:scale-105 group-hover:shadow-md"
-                    style={{ background: 'var(--accent-soft)', color: 'var(--accent)' }}
-                  >
-                    <Icon name={k.ikon} size={21} />
-                  </span>
-                  <h3 className="mt-3 text-lg">{k.baslik}</h3>
-                  <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-ink-500">{k.aciklama}</p>
-                  <div className="mt-3 flex flex-wrap gap-1.5">
-                    {k.hizmetler.slice(0, 4).map((h) => (
-                      <span key={h.slug} className="rounded-full bg-ink-100/80 px-2.5 py-0.5 text-[11px] font-semibold text-ink-600">
-                        {h.baslik.split(' (')[0]}
-                      </span>
-                    ))}
-                    {k.hizmetler.length > 4 && (
-                      <span className="rounded-full bg-ink-100/80 px-2.5 py-0.5 text-[11px] font-semibold text-ink-400">
-                        +{k.hizmetler.length - 4} daha
-                      </span>
-                    )}
-                  </div>
-                  <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-bold" style={{ color: 'var(--accent)' }}>
-                    {k.hizmetler.length} Hizmeti İncele <Icon name="arrowRight" size={15} />
-                  </span>
-                </Link>
+              <Reveal key={k.slug} delay={i * 50}>
+                <CategoryCard kategori={k} />
               </Reveal>
             ))}
           </div>
