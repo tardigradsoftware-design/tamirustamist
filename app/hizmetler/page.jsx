@@ -1,11 +1,9 @@
-import Link from 'next/link';
-import Icon from '../../components/Icons';
 import SectionHeading from '../../components/SectionHeading';
-import ServiceCard from '../../components/ServiceCard';
 import CTABanner from '../../components/CTABanner';
 import Reveal from '../../components/Reveal';
 import SchemaMarkup from '../../components/SchemaMarkup';
-import { kategoriler, siteUrl } from '../../lib/site-data';
+import HizmetListeClient from '../../components/HizmetListeClient';
+import { kategoriler, tümHizmetlerForList, firma, siteUrl } from '../../lib/site-data';
 
 export const metadata = {
   title: 'Tadilat, Yapı ve Tesisat Hizmetleri — 54 Uzman Hizmet',
@@ -25,56 +23,48 @@ export const metadata = {
 export default function HizmetlerPage() {
   return (
     <>
-      <section className="section bg-ink-900 pt-32 !pb-14">
+      <section className="section bg-ink-900 pt-32 !pb-12">
         <div className="container-x">
           <Reveal>
             <SectionHeading
               light
               eyebrow="54 Uzman Hizmet"
               title="Yapı, Tadilat ve Tesisat — Tek Çatı Altında"
-              sub="Banyo, mutfak, iç mekan, sıhhi tesisat, tıkanıklık açma, ısıtma ve elektrik. Her kategoriyi kendi ustalarımızla, garanti belgeli olarak yapıyoruz."
+              sub="Banyo, mutfak, iç mekan, sıhhi tesisat, tıkanıklık açma, ısıtma ve elektrik. Her kategoriyi kendi ustalarımızla, garanti belgeli olarak yapıyoruz. Aşağıdan filtreleyebilir, sıralayabilir ve karşılaştırabilirsiniz."
             />
           </Reveal>
         </div>
       </section>
 
-      {kategoriler.map((kat, idx) => (
-        <section
-          key={kat.slug}
-          id={kat.slug}
-          className={`section ${idx % 2 ? '' : 'bg-ink-50/50'}`}
-          aria-labelledby={`${kat.slug}-baslik`}
-        >
-          <div className="container-x">
-            <Reveal>
-              <div className="flex flex-wrap items-end justify-between gap-4">
-                <div className="max-w-2xl">
-                  <span className="eyebrow">
-                    <Icon name={kat.ikon} size={15} /> {kat.hizmetler.length} hizmet
-                  </span>
-                  <h2 id={`${kat.slug}-baslik`} className="mt-3 text-3xl">
-                    {kat.baslik}
-                  </h2>
-                  <p className="mt-3 text-ink-500">{kat.aciklama}</p>
-                </div>
-                <Link
-                  href={`/hizmetler/${kat.hizmetler[0].slug}`}
-                  className="btn-outline !px-4 !py-2.5 !text-xs"
-                >
-                  Kategoriye Git <Icon name="arrowRight" size={14} />
-                </Link>
-              </div>
-            </Reveal>
-            <div className="mt-8 grid items-start gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {kat.hizmetler.map((h, i) => (
-                <Reveal key={h.slug} delay={(i % 3) * 60}>
-                  <ServiceCard hizmet={h} />
-                </Reveal>
-              ))}
-            </div>
+      <section className="section !pt-8">
+        <div className="container-x">
+          <HizmetListeClient hizmetler={tümHizmetlerForList} whatsapp={firma.whatsapp} />
+        </div>
+      </section>
+
+      <section className="section bg-ink-50/50">
+        <div className="container-x">
+          <Reveal>
+            <SectionHeading
+              eyebrow="7 kategori altında"
+              title="Hangi Alanda Çalışıyoruz?"
+              sub="Tadilat, tesisat, iç mekan ve acil servis kategorilerinin her birinde kendi usta kadromuz ve sabit fiyat anlayışımızla hizmet veriyoruz."
+            />
+          </Reveal>
+          <div className="mt-8 flex flex-wrap items-center justify-center gap-2">
+            {kategoriler.map((k) => (
+              <a
+                key={k.slug}
+                href={`#${k.slug}`}
+                className="card flex items-center gap-2 px-4 py-2.5 text-sm font-bold text-ink-700 hover:text-brand-700"
+              >
+                <span>{k.baslik}</span>
+                <span className="rounded-full bg-ink-100 px-2 py-0.5 text-xs font-bold text-ink-500">{k.hizmetler.length}</span>
+              </a>
+            ))}
           </div>
-        </section>
-      ))}
+        </div>
+      </section>
 
       <CTABanner />
       <SchemaMarkup

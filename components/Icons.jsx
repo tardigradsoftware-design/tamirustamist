@@ -215,6 +215,12 @@ const paths = {
       <circle cx="12" cy="14" r="1.5" />
     </g>
   ),
+  trendingUp: (
+    <g>
+      <path d="m22 7-8.5 8.5-5-5L2 17" />
+      <path d="M16 7h6v6" />
+    </g>
+  ),
   send: <path d="m22 2-7 20-4-9-9-4 20-7zM22 2 11 13" />,
 };
 
