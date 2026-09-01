@@ -3,11 +3,10 @@
 /**
  * /hizmetler sayfası için aranabilir + filtrelenebilir + sıralanabilir
  * bilgi zengini hizmet listesi. Her satır:
- *  · Kategori rozeti (renkli)
- *  · Başlık + açıklama
- *  · 3 meta kutucuk: Süre, Fiyat Segmenti, Bölge
- *  · "Sık Talep" + "Bu ay X talep" rozeti (popülerlerde)
- *  · WhatsApp hızlı bağlantısı + Detay butonu
+ *  · Thumbnail görsel (kategori bazlı)
+ *  · Kategori rozeti + başlık + meta sinyalleri (süre / bütçe / ilçe / talep)
+ *  · WhatsApp + Detay CTA
+ * Açıklama ve uzun detay yalnızca hizmet detay sayfasında gösterilir.
  */
 import Link from 'next/link';
 import { useMemo, useState } from 'react';
@@ -75,7 +74,7 @@ export default function HizmetListeClient({ hizmetler, whatsapp }) {
       list = list.filter(
         (h) =>
           h.baslik.toLocaleLowerCase('tr-TR').includes(q) ||
-          h.kisaAciklama.toLocaleLowerCase('tr-TR').includes(q) ||
+          (h.kisaAciklama || '').toLocaleLowerCase('tr-TR').includes(q) ||
           h._kategoriBaslik.toLocaleLowerCase('tr-TR').includes(q)
       );
     }
@@ -144,7 +143,7 @@ export default function HizmetListeClient({ hizmetler, whatsapp }) {
               type="search"
               value={arama}
               onChange={(e) => setArama(e.target.value)}
-              placeholder={`${hizmetler.length} hizmet içinden ara — ör. Banyo, Kombi, Laminat`}
+              placeholder={`${hizmetler.length} hizmet içinden ara örn. Banyo, Kombi, Laminat`}
               className="w-full rounded-xl border border-ink-200 bg-ink-50 py-2.5 pl-10 pr-3 text-sm font-medium text-ink-800 outline-none transition focus:border-brand-500 focus:bg-white focus:ring-2 focus:ring-brand-100"
             />
           </label>
@@ -249,54 +248,76 @@ export default function HizmetListeClient({ hizmetler, whatsapp }) {
               encodeURIComponent('Merhaba, ' + h.baslik + ' hakkında bilgi almak istiyorum.');
             const fiyatPuan = (h.fiyat || '').split('|')[0].trim();
             const fiyatEtiket = (h.fiyat || '').split('|')[1] ? (h.fiyat || '').split('|')[1].trim() : '';
+            const thumb = (h.gorseller && h.gorseller[0]) || '';
             return (
               <li key={h.slug}>
-                <article className="card list-card group grid grid-cols-1 gap-4 p-4 sm:p-5 lg:grid-cols-[minmax(220px,1.8fr)_minmax(280px,none)_auto] lg:items-center">
-                  {/* Sol kolon: ikon + başlık + açıklama */}
-                  <div className="flex items-start gap-3">
+                <article className="card list-card group grid grid-cols-[120px_minmax(0,1fr)_auto] items-center gap-4 p-3 sm:grid-cols-[160px_minmax(0,1fr)_auto] sm:gap-5 sm:p-4 lg:grid-cols-[180px_minmax(0,1.6fr)_minmax(280px,1fr)_auto]">
+                  {/* Sol kolon: thumbnail */}
+                  <Link
+                    href={detay}
+                    className="relative block aspect-[4/3] overflow-hidden rounded-xl bg-ink-100 sm:aspect-[16/11]"
+                    aria-label={h.baslik + ' detay sayfasını aç'}
+                  >
+                    {thumb ? (
+                      <img
+                        src={thumb}
+                        alt={h.baslik + ' uygulama görseli'}
+                        loading="lazy"
+                        width={480}
+                        height={330}
+                        className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.04]"
+                      />
+                    ) : (
+                      <span className="flex h-full w-full items-center justify-center bg-brand-50 text-brand-500">
+                        <Icon name={h._kategoriIkon} size={28} />
+                      </span>
+                    )}
                     <span
                       className={
-                        'flex h-10 w-10 shrink-0 items-center justify-center rounded-lg ring-1 ' +
-                        (renkSplit[2] || '')
+                        'absolute left-2 top-2 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider ring-1 ' +
+                        renk
                       }
-                      style={{ background: '#fff7ed', color: '#ea580c' }}
                     >
-                      <Icon name={h._kategoriIkon} size={18} />
+                      {h._kategoriBaslik}
                     </span>
-                    <div className="min-w-0">
-                      <div className="mb-1 flex flex-wrap items-center gap-1.5">
-                        <span
-                          className={
-                            'inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider ring-1 ' +
-                            renk
-                          }
-                        >
-                          {h._kategoriBaslik}
+                  </Link>
+
+                  {/* Orta kolon: başlık + meta */}
+                  <div className="min-w-0">
+                    <div className="mb-1 hidden flex-wrap items-center gap-1.5 sm:flex">
+                      {h.populer ? (
+                        <span className="inline-flex items-center gap-1 rounded-full bg-amber-50 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-amber-700 ring-1 ring-amber-200">
+                          <Icon name="star" size={9} /> Sık Talep
                         </span>
-                        {h.populer ? (
-                          <span className="inline-flex items-center gap-1 rounded-full bg-amber-50 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-amber-700 ring-1 ring-amber-200">
-                            <Icon name="star" size={9} /> Sık Talep
-                          </span>
-                        ) : null}
-                        {h.talepAy ? (
-                          <span className="hidden items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-[10px] font-bold text-emerald-700 ring-1 ring-emerald-200 sm:inline-flex">
-                            <Icon name="trendingUp" size={9} /> Bu ay {sayiFormat(h.talepAy)} talep
-                          </span>
-                        ) : null}
-                      </div>
-                      <h3 className="text-base font-bold leading-snug text-ink-900 sm:text-lg">
-                        <Link href={detay} className="hover:text-brand-700">
-                          {h.baslik}
-                        </Link>
-                      </h3>
-                      <p className="mt-1.5 line-clamp-2 text-sm leading-relaxed text-ink-500">
-                        {h.kisaAciklama}
-                      </p>
+                      ) : null}
+                      {h.populer && h.talepAy ? (
+                        <span className="inline-flex items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-[10px] font-bold text-emerald-700 ring-1 ring-emerald-200">
+                          <Icon name="trendingUp" size={9} /> Bu ay {sayiFormat(h.talepAy)} talep
+                        </span>
+                      ) : null}
+                    </div>
+                    <h3 className="text-base font-bold leading-snug text-ink-900 sm:text-lg">
+                      <Link href={detay} className="hover:text-brand-700">
+                        {h.baslik}
+                      </Link>
+                    </h3>
+                    {/* mobil rozet satırı */}
+                    <div className="mt-1.5 flex flex-wrap items-center gap-1.5 sm:hidden">
+                      {h.populer ? (
+                        <span className="inline-flex items-center gap-1 rounded-full bg-amber-50 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-amber-700 ring-1 ring-amber-200">
+                          <Icon name="star" size={9} /> Sık Talep
+                        </span>
+                      ) : null}
+                      {h.talepAy ? (
+                        <span className="inline-flex items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-[10px] font-bold text-emerald-700 ring-1 ring-emerald-200">
+                          <Icon name="trendingUp" size={9} /> {sayiFormat(h.talepAy)} talep
+                        </span>
+                      ) : null}
                     </div>
                   </div>
 
-                  {/* Orta kolon: 3 meta kutucuk */}
-                  <div className="grid grid-cols-3 gap-2 lg:grid-cols-none lg:flex lg:items-center lg:gap-3">
+                  {/* Meta kutucukları */}
+                  <div className="col-span-2 grid grid-cols-3 gap-2 lg:col-span-1 lg:flex lg:items-center lg:gap-3">
                     <div className="rounded-lg bg-ink-50 p-2.5">
                       <div className="flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-wider text-ink-400">
                         <Icon name="clock" size={11} /> Süre
@@ -323,7 +344,7 @@ export default function HizmetListeClient({ hizmetler, whatsapp }) {
                   </div>
 
                   {/* Sağ kolon: CTA */}
-                  <div className="flex items-center gap-2 lg:flex-col lg:items-stretch">
+                  <div className="col-span-3 flex items-center gap-2 lg:col-span-1 lg:flex-col lg:items-stretch">
                     <Link
                       href={detay}
                       className="btn-outline flex-1 justify-center !text-xs !tracking-normal lg:!px-3 lg:!py-2 lg:!text-[13px]"
@@ -334,7 +355,7 @@ export default function HizmetListeClient({ hizmetler, whatsapp }) {
                       href={wa}
                       target="_blank"
                       rel="noopener noreferrer"
-                      aria-label="WhatsApp'tan yaz"
+                      aria-label={'WhatsApp ile ' + h.baslik + ' hakkında yaz'}
                       className="inline-flex shrink-0 items-center justify-center gap-1 rounded-md border-2 border-whatsapp bg-white px-3 py-2 !text-xs font-bold text-whatsapp transition-colors hover:bg-whatsapp hover:text-white lg:w-full lg:!text-[13px]"
                     >
                       <Icon name="whatsapp" size={14} /> <span>WhatsApp</span>
