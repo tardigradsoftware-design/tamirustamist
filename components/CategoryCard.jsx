@@ -1,7 +1,9 @@
 import Link from 'next/link';
 import Icon from './Icons';
 
-/** Kategori kartı: tüm hizmet özetini korur, yalnızca ikon alanını kompakt tutar. */
+/** Kategori kartı.
+ *  - İkon ve başlık aynı satırdadır (üstte ayrı blok yok).
+ *  - Açıklama, hizmet etiketleri, +N daha ve CTA olduğu gibi korunur. */
 export default function CategoryCard({ kategori }) {
   const hizmetler = kategori.hizmetler;
   const href = `/hizmetler/${hizmetler[0].slug}`;
@@ -12,25 +14,25 @@ export default function CategoryCard({ kategori }) {
       className="category-card card group block p-4 sm:p-5"
       aria-label={`${kategori.baslik} kategorisindeki ${hizmetler.length} hizmeti incele`}
     >
-      {/* Yalnızca bu üst ikon alanı kompakt tutuldu */}
-      <div className="flex items-center justify-between gap-3">
-        <span
-          className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl transition-transform duration-300 group-hover:scale-105"
-          style={{ background: 'var(--accent-soft)', color: 'var(--accent)' }}
-        >
-          <Icon name={kategori.ikon} size={20} />
-        </span>
+      <div className="flex items-center justify-between gap-2.5">
+        <div className="flex min-w-0 items-center gap-2.5">
+          <span
+            className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg transition-transform duration-300 group-hover:scale-105"
+            style={{ background: 'var(--accent-soft)', color: 'var(--accent)' }}
+          >
+            <Icon name={kategori.ikon} size={18} />
+          </span>
+          <h3 className="truncate text-base sm:text-lg">{kategori.baslik}</h3>
+        </div>
         <Icon
           name="arrowUpRight"
-          size={17}
+          size={16}
           className="shrink-0 text-ink-300 transition-all group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-brand-500"
         />
       </div>
 
-      <h3 className="mt-3 text-base sm:text-lg">{kategori.baslik}</h3>
-      <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-ink-500">{kategori.aciklama}</p>
+      <p className="mt-3 line-clamp-2 text-sm leading-relaxed text-ink-500">{kategori.aciklama}</p>
 
-      {/* Hizmet özeti korunuyor */}
       <div className="mt-3 flex flex-wrap gap-1.5">
         {hizmetler.slice(0, 4).map((h) => (
           <span
