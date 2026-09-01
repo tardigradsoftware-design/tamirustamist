@@ -105,15 +105,20 @@ export default function HakkimizdaPage() {
               sub="Her işte aynı standartta davranmamızı sağlayan kurallarımız."
             />
           </Reveal>
-          <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-10 grid items-start gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {degerler.map((d, i) => (
-              <Reveal key={d.t} delay={(i % 3) * 70}>
-                <div className="card h-full p-6">
-                  <span className="flex h-12 w-12 items-center justify-center rounded-xl" style={{ background: 'var(--accent-soft)', color: 'var(--accent)' }}>
-                    <Icon name={d.icon} size={22} />
-                  </span>
-                  <h3 className="mt-4 text-lg">{d.t}</h3>
-                  <p className="mt-2 text-sm leading-relaxed text-ink-500">{d.d}</p>
+              <Reveal key={d.t} delay={(i % 3) * 60}>
+                <div className="card h-full p-4 sm:p-5">
+                  <div className="flex items-center gap-2.5">
+                    <span
+                      className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg transition-transform duration-300 hover:scale-105"
+                      style={{ background: 'var(--accent-soft)', color: 'var(--accent)' }}
+                    >
+                      <Icon name={d.icon} size={18} />
+                    </span>
+                    <h3 className="text-base sm:text-lg">{d.t}</h3>
+                  </div>
+                  <p className="mt-3 text-sm leading-relaxed text-ink-500">{d.d}</p>
                 </div>
               </Reveal>
             ))}
