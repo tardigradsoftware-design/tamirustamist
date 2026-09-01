@@ -31,7 +31,9 @@ export const dynamicParams = true;
 export async function generateMetadata({ params }) {
   const h = getHizmet(params.hizmetSlug);
   if (!h) return {};
-  const title = pageTitle(h.baslik);
+  /* "İstanbul" yerel SEO için değerli: konum olarak geçilir.
+   * pageTitle() sığmazsa önce markayı, sonra konumu düşürür — kırpmaz. */
+  const title = pageTitle(h.baslik, { konum: 'İstanbul' });
   return {
     title,
     description: metaDescription(
