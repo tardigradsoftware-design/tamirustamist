@@ -82,9 +82,14 @@ npm run preview  # Statik export'u sunar
 
 ## 🔍 SEO Özellikleri
 
-- ✅ Benzersiz `<title>` ve `<meta description>` her sayfada (**doğrulanmış** max 60/160 karakter)
-  - Başlıklar `lib/site-data.js → pageTitle()` ile üretilir. Kök layout'ta `title.template`
-    **kullanılmaz** — aksi hâlde marka adı iki kez eklenir ve karakter kırpması işlevsiz kalır.
+- ✅ Benzersiz `<title>` (**≤600px**, ölçülmüş) ve `<meta description>` (≤160 krk) her sayfada
+  - Google başlıkları karakterle değil **piksel genişliğiyle** keser (masaüstü ~600px).
+    `pageTitle()` gerçek piksel genişliğini hesaplar; yaygın "60 karakter" kuralı Türkçe'de
+    yanıltıcıdır (`ı, i, l, t` dar harfleri sayesinde 65 karakter rahatça sığar).
+  - Bilgi önem sırasına göre korunur: `gövde+konum+marka` → `gövde+konum` → `gövde+marka`
+    → `gövde` → kırpma. Kırpma yalnızca son çare.
+  - Kök layout'ta `title.template` **kullanılmaz** — aksi hâlde marka adı iki kez eklenir
+    (Google'ın "boilerplate tekrarı" yeniden yazma tetikleyicisi) ve kırpma işlevsiz kalır.
 - ✅ Canonical URL + `hreflang` (tr-TR, x-default)
 - ✅ Open Graph + Twitter Card meta etiketleri
 - ✅ `robots.txt` ve `sitemap.xml` (1446 URL, `/404/` bilerek hariç)
