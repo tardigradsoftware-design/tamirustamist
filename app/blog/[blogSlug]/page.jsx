@@ -16,7 +16,9 @@ export async function generateMetadata({ params }) {
   const b = blogMap.get(params.blogSlug);
   if (!b) return {};
   return {
-    title: pageTitle(b.baslik),
+    /* seoBaslik: sayfadaki H1 uzun kalırken SERP başlığını kısaltmak için
+     * data/blog.json'a eklenebilen opsiyonel alan. Yoksa baslik kullanılır. */
+    title: pageTitle(b.seoBaslik || b.baslik),
     description: b.ozet.slice(0, 158) + (b.ozet.length > 158 ? '…' : ''),
     alternates: {
       canonical: `${siteUrl}/blog/${b.slug}/`,
