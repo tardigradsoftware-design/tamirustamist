@@ -5,12 +5,13 @@ import SectionHeading from '../../components/SectionHeading';
 import Reveal from '../../components/Reveal';
 import CTABanner from '../../components/CTABanner';
 import SchemaMarkup from '../../components/SchemaMarkup';
-import { bloglar, siteUrl } from '../../lib/site-data';
+import { bloglar, siteUrl, pageTitle, metaDescription } from '../../lib/site-data';
 
 export const metadata = {
-  title: 'Blog — Tadilat, Tesisat ve Yapı Rehberleri',
-  description:
-    'Banyo tadilatı fiyatları, su kaçağı tespiti, daire tadilatı rehberi, kombi bakımı ve daha fazlası. Tamir Ustam İstanbul blog yazıları ile tadilat kararlarınızı kolaylaştırın.',
+  title: pageTitle('Blog — Tadilat, Tesisat ve Yapı Rehberleri'),
+  description: metaDescription(
+    'Banyo tadilatı fiyatları, su kaçağı tespiti, daire tadilatı ve kombi bakımı rehberleri. Tadilat kararlarınızı kolaylaştıran uzman yazılar.'
+  ),
   alternates: {
     canonical: `${siteUrl}/blog/`,
     languages: { 'tr-TR': `${siteUrl}/blog/`, 'x-default': `${siteUrl}/blog/` },
@@ -38,6 +39,7 @@ export default function BlogPage() {
         <div className="container-x">
           <Reveal>
             <SectionHeading
+              as="h1"
               light
               eyebrow="İçerik Merkezi"
               title="Tadilat ve Tesisat Rehberleri"

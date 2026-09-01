@@ -82,22 +82,26 @@ npm run preview  # Statik export'u sunar
 
 ## 🔍 SEO Özellikleri
 
-- ✅ Benzersiz `<title>` ve `<meta description>` her sayfada (max 60/160 karakter)
+- ✅ Benzersiz `<title>` ve `<meta description>` her sayfada (**doğrulanmış** max 60/160 karakter)
+  - Başlıklar `lib/site-data.js → pageTitle()` ile üretilir. Kök layout'ta `title.template`
+    **kullanılmaz** — aksi hâlde marka adı iki kez eklenir ve karakter kırpması işlevsiz kalır.
 - ✅ Canonical URL + `hreflang` (tr-TR, x-default)
 - ✅ Open Graph + Twitter Card meta etiketleri
-- ✅ `robots.txt` ve `sitemap.xml` (1445 URL)
+- ✅ `robots.txt` ve `sitemap.xml` (1446 URL, `/404/` bilerek hariç)
 - ✅ JSON-LD Structured Data:
   - `LocalBusiness` / `HomeAndConstructionBusiness` (ana sayfa + ilçe)
   - `Service` (hizmet sayfaları)
   - `BreadcrumbList` (tüm iç sayfalar)
   - `FAQPage` (tüm hizmet + ilçe sayfaları)
   - `BlogPosting` (blog yazıları)
-  - `AggregateRating` (referans puanı)
+  - `AggregateRating` — yalnızca `config.json → firma.degerlendirme.yayinla: true` ise
 - ✅ Semantic HTML5 (`article`, `section`, `aside`, `nav`, `main`)
 - ✅ Heading hiyerarşisi: tek `<h1>`, alt `<h2>`, `<h3>`
 - ✅ Internal linking: ilçe ↔ hizmet çapraz bağlantı
 - ✅ `alt` etiketli görseller, `loading="lazy"`
-- ✅ KVKK uyumlu çerez bannerı
+- ✅ KVKK uyumlu çerez bannerı + `/gizlilik-politikasi` ve `/kvkk-aydinlatma-metni` sayfaları
+- ✅ Favicon seti (`favicon.ico`, `apple-touch-icon.png`, 192/512 PNG) + `site.webmanifest`
+- ✅ OG görseli her sayfada mevcut ve doğrulanmış (`/images/og.jpg` 1200×630)
 - ✅ Google Analytics 4 slot (GA4_ids config'de tanımlı)
 
 ## 🎨 Tasarım
@@ -159,3 +163,29 @@ npm run build
 ---
 
 **Geliştirici:** Tamir Ustam İstanbul · Next.js 14 + Tailwind CSS · Tam statik SSG output
+## ⚠️ Yayına Almadan Önce (Launch Checklist)
+
+`config.json` içindeki aşağıdaki alanlar **placeholder**'dır; canlıya çıkmadan gerçek
+değerlerle değiştirilmelidir:
+
+| Alan | Mevcut (placeholder) | Yapılacak |
+|------|----------------------|-----------|
+| `kargo_site` | `https://www.tamirustam.com` | Alınan gerçek alan adı |
+| `firma.vergiNo` | `1234567890` | Gerçek vergi numarası |
+| `firma.adres` | `Merkez Mah. Örnek Cad. No:42/A` | Gerçek adres (veya hizmet alanı ifadesi) |
+| `firma.email` | `info@tamirustam.com` | Domain alındıktan sonra çalışan e-posta |
+| `sosyalMedya.*` | Platform ana sayfaları | Gerçek profil URL'leri |
+| `firma.degerlendirme.yayinla` | `false` | Google İşletme Profili doğrulanıp **gerçek** yorum birikince `true` |
+| `firma.googleMyBusiness.url` | `""` | İşletme Profili bağlantısı |
+| `form.endpoint` | `""` | Form servisi URL'i (boşsa WhatsApp'a düşer) |
+| `analitik.ga4` | `""` | GA4 ölçüm kimliği (`G-XXXXXXX`) |
+
+> **Not:** `degerlendirme.yayinla: false` iken puan/yorum rozeti hem görsel arayüzden
+> hem de `AggregateRating` JSON-LD'sinden tamamen çıkarılır. Doğrulanamayan puan
+> yayınlamak Google'ın yapılandırılmış veri spam politikasına aykırıdır.
+
+### Google servisleri sırası
+1. **Google İşletme Profili** — domain gerekmez; hizmet alanı işletmesi olarak açıp video ile doğrulayın
+2. **Domain alındıktan sonra** — `config.json → kargo_site` güncelleyin, DNS TXT ile Search Console Domain property doğrulayın
+3. **Site yayına girince** — GA4 property açıp `analitik.ga4` doldurun, GSC'yi GA4'e bağlayın
+4. **Son olarak** — GSC'ye `sitemap.xml` gönderin

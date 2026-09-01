@@ -18,6 +18,8 @@ import {
   firma,
   siteUrl,
   metaDescription,
+  pageTitle,
+  aggregateRatingSchema,
 } from '../../lib/site-data';
 
 const heroImages = [
@@ -36,9 +38,9 @@ export const dynamicParams = true;
 export async function generateMetadata({ params }) {
   const i = getIlce(params.ilce);
   if (!i) return {};
-  const title = `${i.ad} Tadilat ve Yapı Hizmetleri — ${firma.kisaAd}`;
+  const title = pageTitle(`${i.ad} Tadilat, Yapı ve Tesisat Hizmetleri`);
   return {
-    title: title.length > 60 ? title.slice(0, 57) + '…' : title,
+    title,
     description: metaDescription(
       `${i.ad} tadilat firması: banyo, mutfak, boya, tesisat, su kaçağı tespiti ve kombi hizmetleri. ${i.ad}'da ücretsiz keşif, sabit fiyat, garantili işçilik. ${firma.telefon}`
     ),
@@ -112,7 +114,7 @@ export default function IlcePage({ params }) {
     },
     areaServed: { '@type': 'City', name: ilce.ad },
     parentOrganization: { '@id': `${siteUrl}/#isletme` },
-    aggregateRating: { '@type': 'AggregateRating', ratingValue: '4.9', reviewCount: '32' },
+    ...aggregateRatingSchema,
   };
 
   const faqSchema = {

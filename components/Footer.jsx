@@ -114,6 +114,8 @@ export default function Footer() {
               <li><Link href="/blog" className="hover:text-brand-400">Blog</Link></li>
               <li><Link href="/iletisim" className="hover:text-brand-400">İletişim</Link></li>
               <li><Link href="/iletisim" className="hover:text-brand-400">Ücretsiz Keşif</Link></li>
+              <li><Link href="/gizlilik-politikasi" className="hover:text-brand-400">Gizlilik Politikası</Link></li>
+              <li><Link href="/kvkk-aydinlatma-metni" className="hover:text-brand-400">KVKK Aydınlatma Metni</Link></li>
             </ul>
             <h3 className="mt-8 font-display text-sm font-bold uppercase tracking-widest text-white">
               Güvence
@@ -187,9 +189,14 @@ export default function Footer() {
             </p>
             <p className="flex items-center gap-1.5">
               <Icon name="shield" size={13} className="text-brand-500" />
-              KVKK kapsamında kişisel verileriniz güvende ·{' '}
-              <Icon name="star" size={13} className="text-amber-400" />
-              {String(degerlendirme.puan).replace('.', ',')} ({degerlendirme.yorumSayisi} yorum)
+              KVKK kapsamında kişisel verileriniz güvende
+              {degerlendirme.yayinla && degerlendirme.yorumSayisi > 0 && (
+                <>
+                  {' '}·{' '}
+                  <Icon name="star" size={13} className="text-amber-400" />
+                  {String(degerlendirme.puan).replace('.', ',')} ({degerlendirme.yorumSayisi} yorum)
+                </>
+              )}
               {gmbUrl && (
                 <>
                   {' '}·{' '}

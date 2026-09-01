@@ -4,7 +4,7 @@ import { notFound } from 'next/navigation';
 import Icon from '../../../components/Icons';
 import CTABanner from '../../../components/CTABanner';
 import SchemaMarkup from '../../../components/SchemaMarkup';
-import { bloglar, blogMap, firma, siteUrl } from '../../../lib/site-data';
+import { bloglar, blogMap, firma, siteUrl, pageTitle, ogGorsel } from '../../../lib/site-data';
 
 export function generateStaticParams() {
   return bloglar.map((b) => ({ blogSlug: b.slug }));
@@ -16,7 +16,7 @@ export async function generateMetadata({ params }) {
   const b = blogMap.get(params.blogSlug);
   if (!b) return {};
   return {
-    title: b.baslik.slice(0, 58),
+    title: pageTitle(b.baslik),
     description: b.ozet.slice(0, 158) + (b.ozet.length > 158 ? '…' : ''),
     alternates: {
       canonical: `${siteUrl}/blog/${b.slug}/`,
@@ -28,6 +28,7 @@ export async function generateMetadata({ params }) {
       description: b.ozet,
       publishedTime: b.tarih,
       url: `${siteUrl}/blog/${b.slug}/`,
+      images: ogGorsel(`/images/blog-${b.slug}.webp`, b.baslik),
     },
   };
 }

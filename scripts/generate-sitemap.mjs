@@ -22,7 +22,9 @@ const blog = JSON.parse(readFileSync(join(root, 'data', 'blog.json'), 'utf8'));
 const urls = new Map();
 
 function add(path, priority, changefreq = 'monthly', lastmod = '2026-08-25') {
-  const p = path === '/' ? '/' : `/${path.replace(/^\/+/, '')}/`;
+  // Boş/'/' girdi ana sayfadır: tek slash üret (önceden `//` oluşuyordu)
+  const temiz = String(path).replace(/^\/+|\/+$/g, '');
+  const p = temiz ? `/${temiz}/` : '/';
   urls.set(p, { p, priority, changefreq, lastmod });
 }
 
@@ -31,7 +33,9 @@ add('hakkimizda', 0.7);
 add('iletisim', 0.8);
 add('hizmetler', 0.9);
 add('blog', 0.6, 'weekly');
-add('404', 0.1, 'yearly');
+add('gizlilik-politikasi', 0.2, 'yearly');
+add('kvkk-aydinlatma-metni', 0.2, 'yearly');
+// Not: /404/ bilerek eklenmez — robots.txt onu Disallow ediyor.
 
 for (const kat of hizmetler.kategoriler) {
   for (const h of kat.hizmetler) {

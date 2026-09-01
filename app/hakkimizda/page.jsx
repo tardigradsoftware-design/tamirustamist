@@ -6,12 +6,13 @@ import CounterStats from '../../components/CounterStats';
 import CTABanner from '../../components/CTABanner';
 import Reveal from '../../components/Reveal';
 import SchemaMarkup from '../../components/SchemaMarkup';
-import { firma, siteUrl } from '../../lib/site-data';
+import { firma, siteUrl, pageTitle, metaDescription } from '../../lib/site-data';
 
 export const metadata = {
-  title: 'Hakkımızda — 14 Yıllık Deneyim, 25 İlçede Güven',
-  description:
-    `${firma.ad} hakkımızda: 2011'den bu yana İstanbul Avrupa Yakası'nda tadilat, yapı ve tesisat hizmetleri. Kendi ustalarımız, yazılı garanti ve sabit fiyat anlayışıyla 1840'tan fazla proje.`,
+  title: pageTitle('Hakkımızda — 14 Yıllık Deneyim, 25 İlçede Güven'),
+  description: metaDescription(
+    `2011'den bu yana İstanbul Avrupa Yakası'nda tadilat, yapı ve tesisat. Kendi ustalarımız, yazılı garanti ve sabit fiyatla ${firma.tamamlananProje}+ tamamlanmış proje.`
+  ),
   alternates: {
     canonical: `${siteUrl}/hakkimizda/`,
     languages: { 'tr-TR': `${siteUrl}/hakkimizda/`, 'x-default': `${siteUrl}/hakkimizda/` },

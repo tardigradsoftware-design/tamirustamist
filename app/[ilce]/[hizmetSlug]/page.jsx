@@ -16,9 +16,11 @@ import {
   firma,
   siteUrl,
   metaDescription,
-  degerlendirme,
+  aggregateRatingSchema,
   getHizmetReferanslari,
   getKategoriGorselleri,
+  pageTitle,
+  ogGorsel,
 } from '../../../lib/site-data';
 
 export function generateStaticParams() {
@@ -38,9 +40,9 @@ export async function generateMetadata({ params }) {
   const h = getHizmet(params.hizmetSlug);
   if (!i || !h) return {};
   const kisa = h.baslik.split(' (')[0];
-  const title = `${i.ad} ${kisa} | ${firma.kisaAd} İstanbul`;
+  const title = pageTitle(`${i.ad} ${kisa}`);
   return {
-    title: title.length > 60 ? title.slice(0, 57) + '…' : title,
+    title,
     description: metaDescription(
       `${i.ad} ${kisa} hizmeti: ${h.kisaAciklama} ${i.ad}'da ücretsiz keşif, sabit fiyat ve garantili işçilik. Hemen arayın: ${firma.telefon}`
     ),
@@ -52,6 +54,7 @@ export async function generateMetadata({ params }) {
       title,
       description: `${i.ad} ${kisa} hizmeti — garantili işçilik ve ücretsiz keşif.`,
       url: `${siteUrl}/${i.slug}/${h.slug}/`,
+      images: ogGorsel(`/images/hizmet-${h.kategori.slug}-1.webp`, `${i.ad} ${kisa}`),
     },
   };
 }
@@ -76,13 +79,8 @@ export default function IlceHizmetPage({ params }) {
     provider: { '@id': `${siteUrl}/${ilce.slug}/#isletme` },
     areaServed: { '@type': 'City', name: ilce.ad },
     url: `${siteUrl}/${ilce.slug}/${h.slug}/`,
-    /* B2 — hizmet + ilçe sayfası puan zenginleştirmesi */
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: String(degerlendirme.puan),
-      reviewCount: String(degerlendirme.yorumSayisi),
-      bestRating: '5',
-    },
+    /* B2 — puan yalnızca config'te doğrulanmış gerçek veri varsa yayınlanır */
+    ...aggregateRatingSchema,
   };
 
   const schemaBreadcrumb = {

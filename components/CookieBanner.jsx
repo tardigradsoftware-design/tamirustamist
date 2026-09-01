@@ -54,7 +54,14 @@ export default function CookieBanner() {
         <strong className="text-ink-800">KVKK ve Çerez Aydınlatması:</strong>{' '}
         Web sitemizde yalnızca siteyi doğru çalıştırmak ve istatistik için
         çerezler kullanılır. Kabul etmediğiniz takdirde sitemiz kesintisiz
-        çalışmaya devam eder.
+        çalışmaya devam eder. Ayrıntılar:{' '}
+        <a href="/gizlilik-politikasi/" className="font-semibold text-brand-600 underline">
+          Gizlilik Politikası
+        </a>{' '}
+        ·{' '}
+        <a href="/kvkk-aydinlatma-metni/" className="font-semibold text-brand-600 underline">
+          KVKK Aydınlatma Metni
+        </a>
       </p>
       <div className="mt-3 flex gap-2">
         <button type="button" onClick={() => karar(true)} className="btn-cta flex-1 !px-4 !py-2 !text-xs">

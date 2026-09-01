@@ -1,8 +1,25 @@
 import Icon from './Icons';
-import { firma, degerlendirme } from '../lib/site-data';
+import { firma, degerlendirme, puanYayinda } from '../lib/site-data';
 
 function PuanRozeti({ dark = false }) {
   const dolu = Math.round(degerlendirme.puan);
+  const kutuStil = `inline-flex items-center gap-2 rounded-full px-4 py-2 text-xs font-bold ${
+    dark ? 'bg-brand-600 text-white' : 'border border-ink-100 bg-white text-ink-800 shadow-card'
+  }`;
+
+  /* Google İşletme Profili doğrulanıp gerçek yorumlar birikene kadar
+   * puan yerine doğrulanabilir bir güven rozeti gösterilir. */
+  if (!puanYayinda) {
+    return (
+      <span className={kutuStil}>
+        <Icon name="shield" size={14} className="text-brand-500" aria-hidden="true" />
+        <span>
+          {firma.deneyimYil} yıllık deneyim · Yazılı işçilik garantisi
+        </span>
+      </span>
+    );
+  }
+
   return (
     <a
       href="#degerlendirme"
@@ -127,19 +144,28 @@ export default function HeroSection({
                   className="aspect-[4/3] h-full w-full object-cover"
                 />
               </div>
-              {/* Yüzen puan kartı */}
+              {/* Yüzen güven kartı — puan yayında değilse tamamlanan proje sayısı gösterilir */}
               <div className="absolute -bottom-5 -left-4 rounded-2xl border border-white/20 bg-white p-4 shadow-card sm:-left-8">
                 <div className="flex items-center gap-3">
                   <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-brand-600 text-white">
-                    <Icon name="star" size={20} className="text-amber-300" />
+                    <Icon name={puanYayinda ? 'star' : 'checkCircle'} size={20} className={puanYayinda ? 'text-amber-300' : ''} />
                   </span>
                   <div>
                     <div className="font-display text-2xl font-bold leading-none text-ink-900">
-                      {String(degerlendirme.puan).replace('.', ',')}
-                      <span className="text-sm text-ink-400">/5</span>
+                      {puanYayinda ? (
+                        <>
+                          {String(degerlendirme.puan).replace('.', ',')}
+                          <span className="text-sm text-ink-400">/5</span>
+                        </>
+                      ) : (
+                        <>
+                          {firma.tamamlananProje.toLocaleString('tr-TR')}
+                          <span className="text-sm text-ink-400">+</span>
+                        </>
+                      )}
                     </div>
                     <div className="mt-1 text-[11px] font-semibold text-ink-500">
-                      {degerlendirme.yorumSayisi} Google yorumu
+                      {puanYayinda ? `${degerlendirme.yorumSayisi} Google yorumu` : 'Tamamlanan proje'}
                     </div>
                   </div>
                 </div>

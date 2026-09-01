@@ -4,12 +4,13 @@ import ContactForm from '../../components/ContactForm';
 import SectionHeading from '../../components/SectionHeading';
 import Reveal from '../../components/Reveal';
 import SchemaMarkup from '../../components/SchemaMarkup';
-import { firma, siteUrl } from '../../lib/site-data';
+import { firma, siteUrl, pageTitle, metaDescription } from '../../lib/site-data';
 
 export const metadata = {
-  title: 'İletişim — Ücretsiz Keşif İçin Hemen Arayın',
-  description:
-    `Tamir Ustam İstanbul ile iletişim: ${firma.telefon}, WhatsApp ve e-posta. İstanbul Avrupa Yakası 25 ilçede ücretsiz keşif. Formu doldurun, 30 dakika içinde dönüş yapalım.`,
+  title: pageTitle('İletişim — Ücretsiz Keşif İçin Hemen Arayın'),
+  description: metaDescription(
+    `Ücretsiz keşif için hemen arayın: ${firma.telefon}. WhatsApp ve form ile de ulaşabilirsiniz. İstanbul Avrupa Yakası 25 ilçede 30 dakikada dönüş.`
+  ),
   alternates: {
     canonical: `${siteUrl}/iletisim/`,
     languages: { 'tr-TR': `${siteUrl}/iletisim/`, 'x-default': `${siteUrl}/iletisim/` },
@@ -27,6 +28,7 @@ export default function IletisimPage() {
         <div className="container-x">
           <Reveal>
             <SectionHeading
+              as="h1"
               light
               eyebrow="İletişim"
               title="Ücretsiz Keşif İçin Bize Ulaşın"

@@ -152,7 +152,11 @@ export default function ContactForm() {
       </button>
       <p className="mt-3 text-center text-xs text-ink-400">
         {formEndpoint ? 'Form sunucusuna gönderilir · ' : ''}
-        KVKK kapsamında yalnızca iletişim amacıyla kullanılır.
+        Verileriniz yalnızca iletişim amacıyla kullanılır. Ayrıntılar için{' '}
+        <a href="/kvkk-aydinlatma-metni/" className="underline hover:text-brand-600">
+          KVKK Aydınlatma Metni
+        </a>
+        .
       </p>
     </form>
   );

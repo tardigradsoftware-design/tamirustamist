@@ -15,9 +15,11 @@ import {
   firma,
   siteUrl,
   metaDescription,
-  degerlendirme,
+  aggregateRatingSchema,
   getHizmetReferanslari,
   getKategoriGorselleri,
+  pageTitle,
+  ogGorsel,
 } from '../../../lib/site-data';
 
 export function generateStaticParams() {
@@ -29,7 +31,7 @@ export const dynamicParams = true;
 export async function generateMetadata({ params }) {
   const h = getHizmet(params.hizmetSlug);
   if (!h) return {};
-  const title = h.baslik.length > 52 ? h.baslik : `${h.baslik} — İstanbul`;
+  const title = pageTitle(h.baslik);
   return {
     title,
     description: metaDescription(
@@ -40,10 +42,10 @@ export async function generateMetadata({ params }) {
       languages: { 'tr-TR': `${siteUrl}/hizmetler/${h.slug}/`, 'x-default': `${siteUrl}/hizmetler/${h.slug}/` },
     },
     openGraph: {
-      title: `${h.baslik} | ${firma.ad}`,
+      title,
       description: h.kisaAciklama,
       url: `${siteUrl}/hizmetler/${h.slug}/`,
-      images: [{ url: `${siteUrl}/images/hizmet-${h.kategori.slug}-1.webp`, width: 1024, height: 559 }],
+      images: ogGorsel(`/images/hizmet-${h.kategori.slug}-1.webp`, h.baslik),
     },
   };
 }
@@ -73,13 +75,8 @@ export default function HizmetDetayPage({ params }) {
     areaServed: [{ '@type': 'City', name: 'İstanbul' }, { '@type': 'AdministrativeArea', name: 'İstanbul Avrupa Yakası' }],
     url: `${siteUrl}/hizmetler/${h.slug}/`,
     offers: { '@type': 'Offer', priceCurrency: 'TRY', availability: 'https://schema.org/InStock' },
-    /* B2 — hizmet bazlı puan zenginleştirmesi (Google'da zengin sonuç için) */
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue: String(degerlendirme.puan),
-      reviewCount: String(degerlendirme.yorumSayisi),
-      bestRating: '5',
-    },
+    /* B2 — puan yalnızca config'te doğrulanmış gerçek veri varsa yayınlanır */
+    ...aggregateRatingSchema,
   };
 
   /* B1 — FAQPage schema zenginleştirmesi: @id, inLanguage, about bağlantısı */

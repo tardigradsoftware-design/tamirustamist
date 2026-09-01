@@ -3,12 +3,13 @@ import CTABanner from '../../components/CTABanner';
 import Reveal from '../../components/Reveal';
 import SchemaMarkup from '../../components/SchemaMarkup';
 import HizmetListeClient from '../../components/HizmetListeClient';
-import { kategoriler, tümHizmetlerForList, firma, siteUrl } from '../../lib/site-data';
+import { kategoriler, tümHizmetlerForList, firma, siteUrl, pageTitle, metaDescription, ogGorsel } from '../../lib/site-data';
 
 export const metadata = {
-  title: 'Tadilat, Yapı ve Tesisat Hizmetleri — 54 Uzman Hizmet',
-  description:
-    'Banyo ve mutfak tadilatından su kaçağı tespitine, kombi bakımından elektrik tesisatına 54 hizmet. İstanbul Avrupa Yakası 25 ilçede ücretsiz keşif, garantili işçilik.',
+  title: pageTitle('Tadilat, Yapı ve Tesisat Hizmetleri — 54 Hizmet'),
+  description: metaDescription(
+    'Banyo, mutfak, su kaçağı, kombi ve elektrik dahil 54 hizmet. İstanbul Avrupa Yakası 25 ilçede ücretsiz keşif ve garantili işçilik.'
+  ),
   alternates: {
     canonical: `${siteUrl}/hizmetler/`,
     languages: { 'tr-TR': `${siteUrl}/hizmetler/`, 'x-default': `${siteUrl}/hizmetler/` },
@@ -17,6 +18,7 @@ export const metadata = {
     title: 'Tüm Hizmetler — Tadilat, Yapı ve Tesisat',
     description: '54 uzman hizmet · İstanbul Avrupa Yakası 25 ilçe · Ücretsiz keşif ve garanti.',
     url: `${siteUrl}/hizmetler/`,
+    images: ogGorsel(),
   },
 };
 
@@ -27,6 +29,7 @@ export default function HizmetlerPage() {
         <div className="container-x">
           <Reveal>
             <SectionHeading
+              as="h1"
               light
               eyebrow="54 Uzman Hizmet"
               title="Yapı, Tadilat ve Tesisat — Tek Çatı Altında"

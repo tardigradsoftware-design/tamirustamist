@@ -13,7 +13,17 @@ import WhatsAppFloat from '../components/WhatsAppFloat';
 import StickyCallBar from '../components/StickyCallBar';
 import CookieBanner from '../components/CookieBanner';
 import SchemaMarkup from '../components/SchemaMarkup';
-import { firma, siteUrl, ga4Id, gmbUrl } from '../lib/site-data';
+import {
+  firma,
+  siteUrl,
+  ga4Id,
+  gmbUrl,
+  degerlendirme,
+  pageTitle,
+  metaDescription,
+  ogGorsel,
+  ogGorselVarsayilan,
+} from '../lib/site-data';
 
 // Fontlar self-hosted (@fontsource) — Google Fonts'a dış bağımlılık yok
 
@@ -27,7 +37,7 @@ const localBusiness = {
   url: siteUrl,
   telephone: firma.telefonTel,
   email: firma.email,
-  image: `${siteUrl}/images/og.jpg`,
+  image: ogGorselVarsayilan,
   priceRange: '₺₺',
   foundingDate: firma.kurulusYili,
   ...(gmbUrl ? { sameAs: [gmbUrl] } : {}),
@@ -53,11 +63,19 @@ const localBusiness = {
     opens: '00:00',
     closes: '23:59',
   },
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: '4.9',
-    reviewCount: '236',
-  },
+  /* AggregateRating yalnızca config.json'da doğrulanabilir gerçek veri
+   * varsa yayınlanır. Google'ın yapılandırılmış veri spam politikası
+   * uydurma puan/yorum sayısını manuel işlemle cezalandırabilir.
+   * config.firma.degerlendirme.yayinla = false ise schema'dan tamamen çıkar. */
+  ...(degerlendirme.yayinla && degerlendirme.yorumSayisi > 0
+    ? {
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: String(degerlendirme.puan),
+          reviewCount: String(degerlendirme.yorumSayisi),
+        },
+      }
+    : {}),
   hasOfferCatalog: {
     '@type': 'OfferCatalog',
     name: 'Yapı, Tadilat ve Tesisat Hizmetleri',
@@ -74,12 +92,15 @@ const localBusiness = {
 
 export const metadata = {
   metadataBase: new URL(siteUrl),
+  /* Not: `template` bilerek KULLANILMIYOR. Her sayfa kendi tam başlığını
+   * lib/site-data.js → pageTitle() ile üretir; böylece marka adı iki kez
+   * eklenmez ve 60 karakter sınırı gerçekten uygulanır. */
   title: {
-    default: `${firma.ad} | İstanbul Tadilat, Yapı ve Tesisat Firması`,
-    template: `%s | ${firma.ad}`,
+    default: pageTitle('İstanbul Tadilat, Yapı ve Tesisat Firması'),
   },
-  description:
-    `${firma.ad} — İstanbul Avrupa Yakası'nda 25 ilçede tadilat, yapı ve tesisat hizmetleri. Banyo, mutfak, boya, parke, su kaçağı tespiti, kombi ve elektrik. Ücretsiz keşif, garantili işçilik, 7/24 acil servis.`,
+  description: metaDescription(
+    `İstanbul Avrupa Yakası 25 ilçede tadilat, yapı ve tesisat: banyo, mutfak, boya, parke, su kaçağı, kombi ve elektrik. Ücretsiz keşif, garantili işçilik, 7/24 acil servis.`
+  ),
   keywords: [
     'İstanbul tadilat firması', 'İstanbul tadilat ustası', 'İstanbul yapı firması',
     'İstanbul tesisat ustası', 'su kaçağı tespiti İstanbul', 'banyo tadilatı fiyatları',
@@ -89,8 +110,18 @@ export const metadata = {
     'uzman tadilat firması', 'garantili işçilik', 'ücretsiz keşif tadilat',
   ],
   alternates: {
-    canonical: siteUrl,
+    canonical: `${siteUrl}/`,
     languages: { 'tr-TR': `${siteUrl}/`, 'x-default': `${siteUrl}/` },
+  },
+  manifest: '/site.webmanifest',
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: '48x48' },
+      { url: '/icon-192.png', type: 'image/png', sizes: '192x192' },
+      { url: '/icon-512.png', type: 'image/png', sizes: '512x512' },
+    ],
+    apple: [{ url: '/apple-touch-icon.png', sizes: '180x180' }],
+    shortcut: ['/favicon.ico'],
   },
   openGraph: {
     type: 'website',
@@ -99,13 +130,13 @@ export const metadata = {
     siteName: firma.ad,
     title: `${firma.ad} | İstanbul Tadilat, Yapı ve Tesisat`,
     description: `${firma.slogan} Ücretsiz keşif ve yazılı işçilik garantisi.`,
-    images: [{ url: `${siteUrl}/images/og.jpg`, width: 1200, height: 630, alt: firma.ad }],
+    images: ogGorsel(),
   },
   twitter: {
     card: 'summary_large_image',
     title: `${firma.ad} | İstanbul Tadilat, Yapı ve Tesisat`,
     description: `${firma.slogan}`,
-    images: [`${siteUrl}/images/og.jpg`],
+    images: [ogGorselVarsayilan],
   },
   robots: { index: true, follow: true },
 };
@@ -116,11 +147,8 @@ export default function RootLayout({ children }) {
       <head>
         <meta name="theme-color" content="#ea580c" />
         <meta name="format-detection" content="telephone=yes" />
-        <link
-          rel="icon"
-          type="image/svg+xml"
-          href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='4' y='4' width='56' height='56' rx='12' fill='%23ea580c'/%3E%3Cpath d='M32 14c-8.5 0-15.4 6.4-15.4 14v7h3.4v-7c0-5.4 5.2-10 12-10s12 4.6 12 10v7h3.4v-7c0-7.6-6.9-14-15.4-14z' fill='white'/%3E%3Cpath d='M19 37h26a3 3 0 0 1 3 3v5a3 3 0 0 1-3 3H19a3 3 0 0 1-3-3v-5a3 3 0 0 1 3-3z' fill='white'/%3E%3C/svg%3E"
-        />
+        {/* Favicon/ikonlar metadata.icons üzerinden yönetiliyor (public/favicon.ico,
+            icon-192.png, icon-512.png, apple-touch-icon.png) */}
         {ga4Id ? (
           <script id="ga-config" type="application/json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ga4Id) }} />
         ) : null}

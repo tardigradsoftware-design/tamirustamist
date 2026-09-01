@@ -1,4 +1,4 @@
-export default function SectionHeading({ eyebrow, title, sub, center = true, light = false }) {
+export default function SectionHeading({ eyebrow, title, sub, center = true, light = false, as: Tag = 'h2' }) {
   return (
     <div className={`max-w-3xl ${center ? 'mx-auto text-center' : ''}`}>
       {eyebrow && (
@@ -6,9 +6,9 @@ export default function SectionHeading({ eyebrow, title, sub, center = true, lig
           {eyebrow}
         </span>
       )}
-      <h2 className={`mt-3 text-3xl sm:text-4xl ${light ? 'text-white' : ''}`}>
+      <Tag className={`mt-3 text-3xl sm:text-4xl ${light ? 'text-white' : ''}`}>
         {title}
-      </h2>
+      </Tag>
       {sub && (
         <p className={`mt-4 text-base leading-relaxed sm:text-lg ${light ? 'text-slate-300' : 'text-ink-500'}`}>
           {sub}

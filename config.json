@@ -15,7 +15,7 @@
     "tamamlananProje": 1840,
     "mutluMusteri": 1520,
     "calismaSaatleri": "7/24",
-    "degerlendirme": { "puan": 4.9, "yorumSayisi": 236 },
+    "degerlendirme": { "puan": 4.9, "yorumSayisi": 236, "yayinla": false },
     "googleMyBusiness": { "url": "", "kisaAd": "Google" }
   },
   "sosyalMedya": {
