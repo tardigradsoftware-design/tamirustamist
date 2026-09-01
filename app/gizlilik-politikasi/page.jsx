@@ -114,7 +114,7 @@ export default function GizlilikPolitikasiPage() {
       <LegalPage
         baslik="Gizlilik Politikası ve Çerez Aydınlatması"
         ozet={`${firma.ad} olarak kişisel verilerinizi yalnızca talebinizi karşılamak için işliyoruz. Bu sayfada hangi verileri topladığımızı, neden topladığımızı ve nasıl koruduğumuzu açıkça anlatıyoruz.`}
-        guncelleme="1 Eylül 2025"
+        guncelleme="1 Eylül 2026"
         breadcrumb={[{ label: 'Gizlilik Politikası', href: '/gizlilik-politikasi/' }]}
         bolumler={bolumler}
       />

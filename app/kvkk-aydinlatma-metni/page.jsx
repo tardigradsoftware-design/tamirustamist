@@ -121,7 +121,7 @@ export default function KvkkAydinlatmaPage() {
       <LegalPage
         baslik="KVKK Aydınlatma Metni"
         ozet="6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında, kişisel verilerinizi hangi amaçla işlediğimize ve haklarınızı nasıl kullanabileceğinize dair bilgilendirme."
-        guncelleme="1 Eylül 2025"
+        guncelleme="1 Eylül 2026"
         breadcrumb={[{ label: 'KVKK Aydınlatma Metni', href: '/kvkk-aydinlatma-metni/' }]}
         bolumler={bolumler}
       />
