@@ -22,6 +22,14 @@ import {
   pageTitle,
   ogGorsel,
 } from '../../../lib/site-data';
+import {
+  lokalGiris,
+  ilceSorunlari,
+  ilceFaq,
+  ilceIhtiyacCumlesi,
+  surecAdimlari,
+  ilceEki,
+} from '../../../lib/lokal-icerik';
 
 export function generateStaticParams() {
   const out = [];
@@ -69,6 +77,18 @@ export default function IlceHizmetPage({ params }) {
   const gorseller = getKategoriGorselleri(h.slug);
   const yorumlar = getHizmetReferanslari(h.slug, ilce.slug);
 
+  /* --- İlçe + hizmet bağlamlı özgün içerik (lib/lokal-icerik.js) --- */
+  const girisCumleleri = lokalGiris(ilce, h);
+  const ilgiliSorunlar = ilceSorunlari(ilce, h);
+  const ihtiyacCumlesi = ilceIhtiyacCumlesi(ilce, h);
+  const ilceFaqSorulari = ilceFaq(ilce, h, 2);
+  /* Görünen FAQ: hizmetin kendi soruları + ilçenin gerçek SSS'inden ilgili sorular.
+   * Schema FAQPage de aynı listeyi kullanır (schema ↔ görünen içerik uyumu). */
+  const faqSorulari = [...h.sss.slice(0, 4), ...ilceFaqSorulari].slice(0, 6);
+  const surec = surecAdimlari(kategori.slug);
+  const oneCikanSlugs = (ilce.vurguluHizmetler || []).filter((s) => s !== h.slug);
+  const ilceEk = ilceEki(ilce.ad);
+
   const schemaService = {
     '@context': 'https://schema.org',
     '@type': 'Service',
@@ -99,7 +119,7 @@ export default function IlceHizmetPage({ params }) {
     '@id': `${siteUrl}/${ilce.slug}/${h.slug}/#sss`,
     inLanguage: 'tr-TR',
     about: { '@id': `${siteUrl}/${ilce.slug}/${h.slug}/#hizmet` },
-    mainEntity: h.sss.slice(0, 5).map((f) => ({
+    mainEntity: faqSorulari.map((f) => ({
       '@type': 'Question',
       name: f.s,
       inLanguage: 'tr-TR',
@@ -154,14 +174,63 @@ export default function IlceHizmetPage({ params }) {
       <section className="section">
         <div className="container-x">
           <div className="prose-nouvelle mx-auto max-w-4xl">
-            <h2 className="text-2xl">{ilce.ad} {kisa} Hizmeti</h2>
+            {girisCumleleri.length > 0 && (
+              <p className="mt-2 text-lg leading-relaxed text-ink-600">
+                {girisCumleleri.join(' ')}
+              </p>
+            )}
+
+            <h2 className="mt-8 text-2xl">{ilce.ad} {kisa} Hizmeti</h2>
             <p className="mt-4 leading-relaxed text-ink-600">{h.detay}</p>
 
-            <h2 className="mt-10 text-2xl">Neden {ilce.ad}'da Bizden Talepte Bulunmalısınız?</h2>
+            {(ilgiliSorunlar.length > 0 || ihtiyacCumlesi) && (
+              <div className="mt-10">
+                <h2 className="text-2xl">Bu Hizmet {ilce.ad}{ilceEk} Hangi Durumlarda Gerekli Olur?</h2>
+                {ihtiyacCumlesi && (
+                  <p className="mt-4 leading-relaxed text-ink-600">{ihtiyacCumlesi}</p>
+                )}
+                {ilgiliSorunlar.length > 0 && (
+                  <ul className="mt-4 space-y-3">
+                    {ilgiliSorunlar.map((s, idx) => (
+                      <li key={idx} className="flex items-start gap-3 text-[15px] text-ink-700">
+                        <Icon name="alert" size={18} className="mt-0.5 shrink-0 text-brand-600" strokeWidth={2.2} />
+                        {s}
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            )}
+
+            {surec.length > 0 && (
+              <div className="mt-10">
+                <h2 className="text-2xl">{ilce.ad}{ilceEk} {kisa} Süreci Nasıl İşler?</h2>
+                <p className="mt-4 text-[15px] text-ink-600">
+                  {kisa} işlerinde süreç, keşiften teslime kadar aynı sorumlu ekiple
+                  ve yazılı adımlarla ilerler. {ilce.ad} ve çevresi için keşif,
+                  hafta içi aynı gün planlanabilir.
+                </p>
+                <ol className="mt-4 space-y-4">
+                  {surec.map((adim, idx) => (
+                    <li key={adim.t} className="flex items-start gap-4">
+                      <span className="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-brand-600 text-sm font-bold text-white">
+                        {idx + 1}
+                      </span>
+                      <div>
+                        <p className="font-semibold text-ink-800">{adim.t}</p>
+                        <p className="text-[15px] leading-relaxed text-ink-600">{adim.m}</p>
+                      </div>
+                    </li>
+                  ))}
+                </ol>
+              </div>
+            )}
+
+            <h2 className="mt-10 text-2xl">Neden {ilce.ad}{ilceEk} Bizden Talepte Bulunmalısınız?</h2>
             <p className="mt-4 leading-relaxed text-ink-600">
               {ilce.uzmanlik} Keşif ekibimiz hafta içi her gün {ilce.ad} ve çevresine
               aynı gün gidebilmektedir; keşif ücretsizdir ve keşif sonrası {kisa} için
-              sabit fiyat teklifi sunarız. {firma.ad} olarak {ilce.ad}'da çalışırken site
+              sabit fiyat teklifi sunarız. {firma.ad} olarak {ilce.ad}{ilceEk} çalışırken site
               yönetimleri, belediye süreçleri ve komşuluk kurallarına tam uyum gösteririz.
             </p>
 
@@ -206,7 +275,7 @@ export default function IlceHizmetPage({ params }) {
               <div className="mt-10 rounded-2xl border border-ink-100 bg-brand-50/50 p-7">
                 <h2 className="text-xl">
                   <Icon name="quoteFill" size={18} className="mr-2 inline-block text-brand-600" />
-                  {ilce.ad}'da Bu Hizmeti Alan Müşterilerimiz Ne Diyor?
+                  {ilce.ad}{ilceEk} Bu Hizmeti Alan Müşterilerimiz Ne Diyor?
                 </h2>
                 <div className="mt-5 grid gap-4 sm:grid-cols-2">
                   {yorumlar.map((r) => (
@@ -230,11 +299,32 @@ export default function IlceHizmetPage({ params }) {
 
             <h2 className="mt-10 text-2xl">{ilce.ad} {kisa} — Sık Sorulan Sorular</h2>
             <div className="mt-5">
-              <FAQAccordion items={h.sss.slice(0, 5)} />
+              <FAQAccordion items={faqSorulari} />
             </div>
           </div>
 
-          <aside className="mt-14 border-t border-ink-100 pt-10" aria-label="İlgili hizmetler">
+          {oneCikanSlugs.length > 0 && (
+            <aside className="mt-14 border-t border-ink-100 pt-10" aria-label={`${ilce.ad} öne çıkan hizmetler`}>
+              <h2 className="text-xl">{ilce.ad}{ilceEk} Öne Çıkan Diğer Hizmetler</h2>
+              <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+                {oneCikanSlugs.slice(0, 4).map((s) => {
+                  const dh = getHizmet(s);
+                  return dh ? <ServiceCard key={s} hizmet={dh} compact ilceSlug={ilce.slug} /> : null;
+                })}
+              </div>
+              <p className="mt-6 text-sm">
+                <Link
+                  href={`/${ilce.slug}`}
+                  className="inline-flex items-center gap-1.5 font-semibold text-brand-600 hover:text-brand-700"
+                >
+                  {ilce.ad} tadilat ve tesisat hizmetlerinin tamamı
+                  <Icon name="arrowRight" size={15} />
+                </Link>
+              </p>
+            </aside>
+          )}
+
+          <aside className="mt-10 border-t border-ink-100 pt-10" aria-label="İlgili hizmetler">
             <h2 className="text-xl">Aynı Kategoride Diğer {kategori.baslik} Hizmetleri ({ilce.ad})</h2>
             <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {digerSlugs.slice(0, 6).map((s) => {

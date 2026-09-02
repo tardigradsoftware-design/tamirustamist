@@ -187,6 +187,79 @@ for (const b of blog) {
 }
 rapor.push(`Blog başlığı (seoBaslik/baslik) TAM: ${okBlog}/${blog.length}`);
 
+/* ----------------------------------------------------------------
+ * 9) İlçe+hizmet sayfası içerik güçlendirme kontrolleri
+ *    (1.350 sayfa: süreç bölümü, FAQ zenginliği, yorum-ilçe eşleşmesi,
+ *    içerik uzunluğu, FAQ farklılaşması özeti)
+ * ---------------------------------------------------------------- */
+const ilceHizmetler = [];
+for (const i of ilceler.ilceler) {
+  for (const [slug] of Object.entries(hizAd)) {
+    ilceHizmetler.push(`${i.slug}/${slug}/index.html`);
+  }
+}
+rapor.push(`İlçe+hizmet sayfası: ${ilceHizmetler.length}`);
+
+let surecYok = 0, faqAz = 0, yorumYanlis = 0, h2Az = 0, kisaGovde = 0;
+const faqSetPerHizmet = new Map(); // hizmet slug -> Set(JSON soru listesi)
+for (const rel of ilceHizmetler) {
+  const f = join(out, rel);
+  if (!existsSync(f)) {
+    sorunlar.push(`${rel}: dosya yok`);
+    continue;
+  }
+  const html = readFileSync(f, 'utf8');
+  const govde = html.slice(html.indexOf('<main'), html.indexOf('</main>') + 7);
+
+  // Süreç bölümü (her sayfada bulunmalı)
+  if (!govde.includes('Süreci Nasıl İşler?')) surecYok++;
+
+  // En az 5 H2 (içerik zenginliği)
+  const h2Sayisi = (govde.match(/<h2[^>]*>/g) || []).length;
+  if (h2Sayisi < 5) h2Az++;
+
+  // Ana içerik uzunluğu (thin content ön kontrolü)
+  const govdeMetin = govde.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+  if (govdeMetin.length < 4000) kisaGovde++;
+
+  // FAQ soruları (JSON-LD FAQPage)
+  const faqBlok = html.slice(html.indexOf('"@type":"FAQPage"'), html.indexOf('"@type":"FAQPage"') + 25000);
+  const sorular = faqBlok
+    ? [...faqBlok.matchAll(/"@type":"Question","name":"(.*?)","inLanguage"/g)].map((m) => m[1])
+    : [];
+  if (sorular.length < 4) faqAz++;
+  const slug = rel.split('/')[1];
+  if (!faqSetPerHizmet.has(slug)) faqSetPerHizmet.set(slug, new Set());
+  faqSetPerHizmet.get(slug).add(JSON.stringify(sorular));
+
+  // Yorum-ilçe eşleşmesi: görünen yorumdaki müşteri ilçesi sayfa ilçesiyle aynı olmalı
+  const sayfaIlceAdi = ilceler.ilceler.find((i) => rel.startsWith(`${i.slug}/`))?.ad || '';
+  for (const cap of govde.matchAll(/<figcaption[^>]*>([\s\S]*?)<\/figcaption>/g)) {
+    const capText = decodeEntities(cap[1].replace(/<[^>]+>/g, ' '));
+    const musteriIlce = capText.split('·').pop()?.replace(/\d|yıldız|star/g, '').trim() || '';
+    if (musteriIlce && sayfaIlceAdi && trLower(musteriIlce) !== trLower(sayfaIlceAdi)) {
+      yorumYanlis++;
+      if (yorumYanlis <= 3) sorunlar.push(`${rel}: yorum ilçesi uyuşmuyor → "${capText.slice(0, 80)}"`);
+    }
+  }
+}
+if (surecYok) sorunlar.push(`Süreç bölümü eksik sayfa: ${surecYok}`);
+if (h2Az) sorunlar.push(`5'ten az H2 içeren sayfa: ${h2Az}`);
+if (kisaGovde) sorunlar.push(`Ana içerik < 4000 karakter sayfa: ${kisaGovde}`);
+if (faqAz) sorunlar.push(`FAQ'ı 4'ten az soru olan sayfa: ${faqAz}`);
+if (yorumYanlis) sorunlar.push(`Yorum-ilçe uyuşmazlığı olan figcaption: ${yorumYanlis}`);
+rapor.push(`Süreç bölümü: ${ilceHizmetler.length - surecYok}/${ilceHizmetler.length} · H2≥5: ${ilceHizmetler.length - h2Az}/${ilceHizmetler.length} · FAQ≥4: ${ilceHizmetler.length - faqAz}/${ilceHizmetler.length}`);
+rapor.push(`Yorum-ilçe eşleşmesi: ${yorumYanlis === 0 ? 'tümü doğru' : `${yorumYanlis} uyuşmazlık`}`);
+
+let farkliFaqHizmet = 0;
+const faqFarkOzeti = [];
+for (const [hs, set] of faqSetPerHizmet) {
+  if (set.size > 1) farkliFaqHizmet++;
+  faqFarkOzeti.push(`${hs}:${set.size}`);
+}
+rapor.push(`İlçeler arası FARKLI FAQ seti olan hizmet: ${farkliFaqHizmet}/${hizAd ? Object.keys(hizAd).length : 54}`);
+rapor.push(`FAQ seti çeşidi (hizmet:setSayısı): ${faqFarkOzeti.join(' ')}`);
+
 // özet
 console.log('===== SEO DOĞRULAMA =====');
 for (const r of rapor) console.log(`✔ ${r}`);
